@@ -451,47 +451,8 @@
 		</div><!-- navgroup -->
 	</div> <!-- topnavinner -->
 </div> <!-- topnav -->
-<span><a name="skipleft"></a></span>
-<!-- start menu -->
-<div>
-	<div>
-		<p><a href="layer068f.html?topicId=1073858805" title="From first thoughts to a firm footing" >Starting up</a></p>
-		<hr />
-		<p><a href="layere2de.html?topicId=1073858790" title="Find and manage money for your business" >Finance and grants</a></p>
-		<hr />
-		<p><a href="layer5802.html?topicId=1073858808" title="VAT, PAYE, returns and reporting" >Tax, payroll and company information</a></p>
-		<hr />
-		<p><a href="layer6871.html?topicId=1073858787" title="Recruit, train and manage your staff" >Employment &amp; skills</a></p>
-		<hr />
-		<p><a href="layer7807.html?topicId=1073858799" title="Protect yourself and others" >Workplace health &amp; safety</a></p>
-		<hr />
-		<p><a href="layer0e02.html?topicId=1079068363" title="Support and advice on sustainability in business" >Environment &amp; efficiency</a></p>
-		<hr />
-		<p><a href="layer25e3.html?topicId=1086951342" title="" >Premises and property</a></p>
-		<hr />
-		<p><a href="layerb888.html?topicId=1073858796" title="Develop, exploit and protect your ideas" >Create, innovate and protect</a></p>
-		<hr />
-		<p><a href="layer8216.html?topicId=1073861197" title="Choose the right systems and suppliers" >IT &amp; e-commerce</a></p>
-		<hr />
-		<p><a href="layerfb07.html?topicId=1073861169" title="Win customers and sell more" >Sales and marketing</a></p>
-		<hr />
-		<p><a href="layerbdd5.html?topicId=1079717544" title="Ins and outs of imports and exports" >International trade</a></p>
-		<hr />
-		<p><a href="layere82b.html?topicId=1074404796" title="Grow your business to maturity" >Grow your business</a></p>
-		<hr />
-		<p><a href="layer57ed.html?topicId=1073861225" title="Plan an orderly purchase or exit" >Buy or sell a business</a></p>
-		<hr />
-		<p><a href="layerf7c5.html?topicId=1081986989" title="Advice for those acting as professional advisers" >For professional advisers</a></p>
-		<hr />
-		<p><a href="layerc8a3.html?topicId=1081597476" title="Support and guidance for different business sectors" >Your business sector</a></p>
-	</div>
-	<div>
-		<p><a href="http://www.cabinetoffice.gov.uk/" onclick="p=window.open('http://www.cabinetoffice.gov.uk/', 'bgExternalonlinebusinesslinkgovuk');p.focus();" title="Get the latest news from the Cabinet Office" >In partnership with</a></p>
-		<div>
-			<a href="http://www.cabinetoffice.gov.uk/" onclick="p=window.open('http://www.cabinetoffice.gov.uk/', 'bgExternalonlinebusinesslinkgovuk');p.focus();" title="Get the latest news from the Cabinet Office" ><img src="img/hm-government-logo.jpg" width="167" height="31" border="0" alt="HM Government" /></a>
-		</div><!-- imgwrap -->
-	</div><!-- serviceprovider 2 -->
-</div><!-- end menu -->
+
+<?php include("inc/category-links.php"); ?>
 
 <?php include("inc/scripts.php"); ?>
 
