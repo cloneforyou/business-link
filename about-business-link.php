@@ -206,17 +206,7 @@ new TWTR.Widget({
 </div>
 <div> <a href="http://www.businesslink.gov.uk/bdotg/action/feedback?refPage=%2Fbdotg%2Faction%2Fdetail%3FitemId%3D1087351667%26type%3DCAMPAIGN" title="Help &amp; support" >Help &amp; support</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Copyright" title="&copy; Crown copyright 2011" >Copyright</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Disclaimer" title="View terms &amp; conditions information" >Terms &amp; conditions</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Privacy" title="View your rights as a user" >Privacy &amp; cookies</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Accessibility"  title="" >Accessibility</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=HelpWithPDFFiles"  title="" >PDF help</a> </div>
 
-<script type="text/javascript">
-	var s_account = "sbsblukgov,sbsglobal"
-	var s_linkInternalFilters = "javascript:,businesslink.gov.uk"
-	var s_pageName = "About Us"
-	var s_eVar22 = "-1"
-	var s_hier1 = "bl.gov Home|About Us"
-	var s_prop7 = "About Us"
-	var s_prop5 = "0.BC353344"
-	var s_prop6 = "bl.gov Home"
-</script> 
-<script type="text/javascript" src="../../syntegra/js/s_code_remote.js"></script>
+<?php include("inc/scripts.php"); ?>
 
 </body>
 </html>

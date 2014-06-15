@@ -168,24 +168,8 @@
 		<p><img src="../../syntegra/images/leftnav_hr.gif" alt="" /></p>
 	</div>
 </div>
-<script type="text/javascript">
-<!--
-/* You may give each page an identifying name, server, and channel on the next lines. */
-var s_account = "sbsblukgov,sbsglobal"
-var s_linkInternalFilters = "javascript:,businesslink.gov.uk"
-var s_pageName = "Use PAYE Online for employers"
-var s_eVar22 = "-1"
-var s_hier1 = "bl.gov Home|Do it online|Use PAYE Online for employers"
-var s_prop8 = "Use PAYE Online for employers"
-var s_prop7 = "Do it online"
-var s_prop5 = "0.PP000082"
-var s_prop6 = "bl.gov Home"
 
-/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
-//-->
-</script>
-<script type="text/javascript" src="../../syntegra/js/s_code_remote.js"></script>
-<script type="text/javascript" src="../../Horizontal_Services_files/SurveyScript_v2.js"></script>
+<?php include("inc/scripts.php"); ?>
 
 </body>
 </html>

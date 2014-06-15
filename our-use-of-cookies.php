@@ -262,19 +262,7 @@
 	</div>
 </div>
 
-<script type="text/javascript">
-var s_account = "sbsblukgov,sbsglobal"
-var s_linkInternalFilters = "javascript:,businesslink.gov.uk"
-var s_pageName = "How cookies are used on this site"
-var s_eVar22 = "-1"
-var s_hier1 = "bl.gov Home|How cookies are used on this site"
-var s_eVar23 = "0.PR378944"
-var s_prop7 = "How cookies are used on this site"
-var s_prop5 = "0.OO365742"
-var s_prop6 = "bl.gov Home"
-</script>
-<script type="text/javascript" src="../../syntegra/js/s_code_remote.js"></script>
-<script type="text/javascript" src="../../Horizontal_Services_files/SurveyScript_v2.js"></script>
+<?php include("inc/scripts.php"); ?>
 
 </body>
 </html>
