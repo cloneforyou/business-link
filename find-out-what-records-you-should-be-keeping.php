@@ -10,6 +10,8 @@
 
 <body>
 
+<!-- Tax, payroll and company information > Find out what records you should be keeping > Introduction -->
+
 <?php include("inc/skip-links.php"); ?>
 
 <div> <a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" border="0" /></a> </div>
@@ -141,38 +143,6 @@
 			</div>
 	</div>
 	</div>
-
-
-		<table border="0" cellpadding="0" cellspacing="0" width="100%" >
-				<tr>
-				<td rowspan="8"><img src="../../syntegra/images/px_white.gif" alt="" width="5" height="6" /></td>
-				<td colspan="2"><p> <a href="layer5802.html?topicId=1073858808"  title="VAT, PAYE, returns and reporting" >Tax, payroll and company information</a> </p>
-						<p><img src="../../syntegra/images/leftnav_sub_hr.gif" alt="" /></p></td>
-			</tr>
-				<tr>
-				<td></td>
-				<td><p><strong>Find out what records you should be keeping</strong></p></td>
-			</tr>
-				<tr>
-				<td width="10"></td>
-				<td><p><img src="../../syntegra/images/leftnav_sub_sub_hr.gif" alt="" /></p></td>
-			</tr>
-				<tr>
-				<td width="10"><img src="../../syntegra/images/px_taxandreporting.gif" alt="Current section" width="5" height="5" /></td>
-				<td><p><strong>Introduction</strong></p></td>
-			</tr>
-				<tr>
-				<td></td>
-				<td><p><a href="http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1085697565&amp;type=BLTTOOL"  >Find out what records you should be keeping</a> </p></td>
-			</tr>
-				<tr>
-				<td></td>
-				<td><p><a href="detailbb7f.html?itemId=1082224946&amp;type=CASE STUDIES"  >Here's how a business adviser helped me with my tax bill (Flash video)</a> </p></td>
-			</tr>
-				<tr>
-				<td colspan="2"></td>
-			</tr>
-			</table>
 
 <?php include("inc/category-links.php"); ?>
 

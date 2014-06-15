@@ -10,6 +10,8 @@
 
 <body>
 
+<!-- Starting Up > Business Structures -->
+
 <?php include("inc/skip-links.php"); ?>
 
 <div> <a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" border="0" /></a> </div>
@@ -124,90 +126,6 @@
 				</div>
 	</div>
 		</div>
-
-		<table border="0" cellpadding="0" cellspacing="0" width="100%" >
-					<tr>
-				<td rowspan="25"><img src="../../syntegra/images/px_white.gif" alt="" width="5" height="6" /></td>
-				<td colspan="2"><p> <a href="layer068f.html?topicId=1073858805"  title="From first thoughts to a firm footing" >Starting up</a> </p>
-							<p><img src="../../syntegra/images/leftnav_sub_hr.gif" alt="" /></p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layer8448.html?topicId=1073859137"  >Considering starting up?</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layer7fa1.html?topicId=1097138362"  >Business planning</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layer5c13.html?topicId=1073859146"  >Find and manage the money</a> </p></td>
-			</tr>
-					<tr>
-				<td width="10"><img src="../../syntegra/images/px_startingabusiness.gif" alt="Current section" width="5" height="5" /></td>
-				<td><p><strong>Business structures</strong> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layerec25.html?topicId=1085151439"  >Name your business</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layer03ad.html?topicId=1073859122"  >Buy a business</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layer2500.html?topicId=1073859128"  >Choose and set up your workplace</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101977&amp;type=HUBCHASSIS"  >Get to grips with business taxes</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layer3bbd.html?topicId=1074454203"  >Tax and National Insurance for self-employed or partners</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layerdcc4.html?topicId=1085541869"  >Corporation Tax</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layerc637.html?topicId=1073859188"  >VAT</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layer0901.html?topicId=1073859167"  >Tax and payroll for employers</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layerdb45.html?topicId=1073859176"  >Become an employer for the first time</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layer37df.html?topicId=1073859164"  >Sales and marketing</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layerd5eb.html?topicId=1073859155"  >IT and e-commerce for start ups</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layer2a25.html?topicId=1073859152"  >Trade with other countries</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layerb9bc.html?topicId=1073859173"  >Protect your business ideas</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layer56bb.html?topicId=1073859125"  >Further support for your business</a> </p></td>
-			</tr>
-					<tr>
-				<td></td>
-				<td><p><a href="layera4cc.html?topicId=1097138353"  >Take the next steps</a> </p></td>
-			</tr>
-				</table>
 
 <?php include("inc/category-links.php"); ?>
 
