@@ -13,10 +13,15 @@
 <?php include("inc/skip-links.php"); ?>
 
 <div>
-	<a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" border="0" /></a>
+	<a href="home.html" title="Small Business Service home">
+		<img src="img/global-business-link-logo.png" alt="Business Link" border="0" />
+	</a>
 </div>
+
 <div>Information. Support. Compliance.</div>
+
 <span><a name="skiplogin" id="skiplogin"></a></span>
+
 <div>
 	<p>Your account</p>
 	<ul>
@@ -24,33 +29,32 @@
 		<li><a href="https://online.businesslink.gov.uk/bdotg/action/BGAuthenticate">Log in</a></li>
 	</ul>
 </div>
-<div><img src="../../syntegra/images/px_trans.gif" alt="" width="745" height="1" /></div>
+
 <div>
 	<div>
 		<p><a href="home.html">Home</a> &gt; Directories</p>
 	</div>
+	
 	<span><a name="skipcont" id="skipcont"></a></span>
+	
 	<div>
 		<h1>Directories</h1>
 		<table border="0" cellpadding="0" cellspacing="0" width="534">
 			<tr>
 				<td>
 					<a href="http://www.events.businesslink.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" title="Find events from a variety of organisations - Opens in a new window">
-						<img src="../../Horizontal_Services_images/TL0011.jpg" width="76" height="76" border="0" alt="Find events from a variety of organisations" />
+						<img src="img/TL0011.jpg" width="76" height="76" border="0" alt="Find events from a variety of organisations" />
 						<span> - Opens in a new window</span>
 					</a>
-					<img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+					<img src="img/tablanding_top.gif" alt="" width="185" height="10" />
 					<h2><a href="http://www.events.businesslink.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" title="Find events from a variety of organisations - Opens in a new window">Find events<span> - Opens in a new window</span></a></h2>
 					<p>Search or browse for business events throughout the UK</p>
 				</td>
 				<td>
-					<img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" />
-				</td>
-				<td>
 					<a href="http://online.businesslink.gov.uk/bdotg/action/findcontact" title="Find contact details from our database of over 4,000 organisations">
-						<img src="../../Horizontal_Services_images/TL0012.jpg" width="76" height="76" border="0" alt="Find contact details from our database of over 4,000 organisations" />
+						<img src="img/TL0012.jpg" width="76" height="76" border="0" alt="Find contact details from our database of over 4,000 organisations" />
 					</a>
-					<img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+					<img src="img/tablanding_top.gif" alt="" width="185" height="10" />
 					<h2><a href="http://online.businesslink.gov.uk/bdotg/action/findcontact" title="Find contact details from our database of over 4,000 organisations">Find a contact</a></h2>
 					<p>Search our database of more than 4,000 business and government contacts</p>
 				</td>
@@ -58,21 +62,18 @@
 			<tr>
 				<td>
 					<a href="https://online.businesslink.gov.uk/hub/action/render?pageId=learningdirectory" title="Start-up learning directory">
-						<img src="../../Horizontal_Services_images/tutorial_02.jpg" width="76" height="76" border="0" alt="Start-up learning directory" />
+						<img src="img/tutorial_02.jpg" width="76" height="76" border="0" alt="Start-up learning directory" />
 					</a>
-					<img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+					<img src="img/tablanding_top.gif" alt="" width="185" height="10" />
 					<h2><a href="https://online.businesslink.gov.uk/hub/action/render?pageId=learningdirectory" title="Start-up learning directory">Start-up learning directory</a></h2>
 					<p>Find over 200 videos and e-learning courses on a wide range of start-up topics</p>
 				</td>
 				<td>
-					<img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" />
-				</td>
-				<td>
 					<a href="http://improve.businesslink.gov.uk/resources/business-support-finder" target="bgExternalwwwbusinesslinkgovuk" title="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible - Opens in a new window">
-						<img src="../../Promotions_images/support_finder_1.jpg" width="76" height="76" border="0" alt="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible" />
+						<img src="img/support_finder_1.jpg" width="76" height="76" border="0" alt="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible" />
 						<span> - Opens in a new window</span>
 					</a>
-					<img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+					<img src="img/tablanding_top.gif" alt="" width="185" height="10" />
 					<h2><a href="http://improve.businesslink.gov.uk/resources/business-support-finder" target="bgExternalwwwbusinesslinkgovuk" title="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible - Opens in a new window">Business support finder<span> - Opens in a new window</span></a></h2>
 					<p>Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</p>
 				</td>
@@ -80,20 +81,17 @@
 			<tr>
 				<td>
 					<a href="http://online.businesslink.gov.uk/bdotg/action/glossaryLanding" title="Search our online dictionary of business terms">
-						<img src="../../Horizontal_Services_images/glossary.jpg" width="76" height="76" border="0" alt="Search our online dictionary of business terms" />
+						<img src="img/glossary.jpg" width="76" height="76" border="0" alt="Search our online dictionary of business terms" />
 					</a>
-					<img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+					<img src="img/tablanding_top.gif" alt="" width="185" height="10" />
 					<h2><a href="http://online.businesslink.gov.uk/bdotg/action/glossaryLanding" title="Search our online dictionary of business terms">Glossary</a></h2>
 					<p>Find definitions of useful business terms in our glossary</p>
 				</td>
 				<td>
-					<img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" />
-				</td>
-				<td>
 					<a href="layer105b.html?topicId=1074400185" title="Search our Training Directory for details of courses currently available">
-						<img src="../../Horizontal_Services_images/TL0010.jpg" width="76" height="76" border="0" alt="Search our Training Directory for details of courses currently available" />
+						<img src="img/TL0010.jpg" width="76" height="76" border="0" alt="Search our Training Directory for details of courses currently available" />
 					</a>
-					<img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+					<img src="img/tablanding_top.gif" alt="" width="185" height="10" />
 					<h2><a href="layer105b.html?topicId=1074400185" title="Search our Training Directory for details of courses currently available">Training Directory</a></h2>
 					<p>Find online training courses or search for workshops and seminars</p>
 				</td>
@@ -101,21 +99,18 @@
 			<tr>
 				<td>
 					<a href="findContentBankf4d5.html?bank=CASE_STUDIES" title="Browse our library of case studies to find out how business owners and managers have tackled real-life challenges and opportunities">
-						<img src="../../Promotions_images/find_case_study.jpg" width="76" height="76" border="0" alt="Browse our library of case studies to find out how business owners and managers have tackled real-life challenges and opportunities" />
+						<img src="img/find_case_study.jpg" width="76" height="76" border="0" alt="Browse our library of case studies to find out how business owners and managers have tackled real-life challenges and opportunities" />
 					</a>
-					<img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+					<img src="img/tablanding_top.gif" alt="" width="185" height="10" />
 					<h2><a href="findContentBankf4d5.html?bank=CASE_STUDIES" title="Browse our library of case studies to find out how business owners and managers have tackled real-life challenges and opportunities">Find a case study</a></h2>
 					<p>Explore the many case studies on our website through an easy browse interface</p>
 				</td>
 				<td>
-					<img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" />
-				</td>
-				<td>
 					<a href="http://improve.businesslink.gov.uk/resources/business-awards-finder" target="bgExternalwwwbusinesslinkgovuk" title="Search our Business Awards Finder to find business recognition awards you may be eligible to apply forbafSearch - Opens in a new window">
-						<img src="../../Promotions_images/award_finder.jpg" width="76" height="76" border="0" alt="Search our Business Awards Finder to find business recognition awards you may be eligible to apply forbafSearch" />
+						<img src="img/award_finder.jpg" width="76" height="76" border="0" alt="Search our Business Awards Finder to find business recognition awards you may be eligible to apply forbafSearch" />
 						<span> - Opens in a new window</span>
 					</a>
-					<img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+					<img src="img/tablanding_top.gif" alt="" width="185" height="10" />
 					<h2><a href="http://improve.businesslink.gov.uk/resources/business-awards-finder" target="bgExternalwwwbusinesslinkgovuk" title="Search our Business Awards Finder to find business recognition awards you may be eligible to apply forbafSearch - Opens in a new window">Business awards finder<span> - Opens in a new window</span></a></h2>
 					<p>Search our database to find awards that your business may be eligible to enter</p>
 				</td>
@@ -123,29 +118,28 @@
 			<tr>
 				<td>
 					<a href="detail29fc.html?itemId=1084515656&amp;type=ONEOFFPAGE" title="Links to interactive tools">
-						<img src="../../Horizontal_Services_images/tools_wn.jpg" width="76" height="76" border="0" alt="Links to interactive tools" />
+						<img src="img/tools_wn.jpg" width="76" height="76" border="0" alt="Links to interactive tools" />
 					</a>
-					<img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+					<img src="img/tablanding_top.gif" alt="" width="185" height="10" />
 					<h2><a href="detail29fc.html?itemId=1084515656&amp;type=ONEOFFPAGE" title="Links to interactive tools">Tools directory</a></h2>
 					<p>Interactive tools to help you run your business</p>
 				</td>
 				<td>
-					<img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" />
-				</td>
-				<td>
 					<a href="layer21a5.html?topicId=1075193162" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">
-						<img src="../../Horizontal_Services_images/TL0014.jpg" width="76" height="76" border="0" alt="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies" />
+						<img src="img/TL0014.jpg" width="76" height="76" border="0" alt="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies" />
 					</a>
-					<img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+					<img src="img/tablanding_top.gif" alt="" width="185" height="10" />
 					<h2><a href="layer21a5.html?topicId=1075193162" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">Do it online</a></h2>
 					<p>Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies</p>
 				</td>
 			</tr>
 		</table>
 	</div>
+
 	<span><a name="skipfooter" id="skipfooter"></a></span>
+
 	<div>
-		<div><img src="../../syntegra/images/footer_top3.gif" alt="" />
+		<div><img src="img/footer_top3.gif" alt="" />
 			<div>
 				<span>
 					<a href="https://online.businesslink.gov.uk/bdotg/action/userSupport?refPage=%2Fbdotg%2Faction%2Flayer%3FtopicId%3D1075193173" title="Help &amp; support">Help &amp; support</a> | 
@@ -159,6 +153,7 @@
 		</div>
 	</div>
 </div>
+
 <div>
 	<div>
 		<span><a name="skiphelp" id="skiphelp"></a></span>
