@@ -1,29 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html class="no-js">
 <head>
+	<meta charset="utf-8">
+	
 	<title>Regulation, licences and compliance | Business Link</title>
-	
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-	<meta http-equiv="X-UA-Compatible" content="IE=7" />
-	
-	<link rel="shortcut icon" href="../../syntegra/images/sbs_bdotg_favicon.ico" type="image/x-icon" />
-	<link rel="icon" href="../../syntegra/images/sbs_bdotg_favicon.ico" type="image/x-icon" />
-	<link rel="canonical" href="blukLicenceLandinge960.html?atom_id=0.PR392146&amp;pageId=mynewbusiness" />
-	
-	<style type="text/css">@import url("../../syntegra/css/core.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/browselicences.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/menu.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/scheme_global.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/sbs_bdotg.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/skiplinks.css");</style>
-	
-	<script type="text/javascript" src="../../syntegra/js/jquery-1.3.2.min.js"></script>
-	<script type="text/javascript" src="../../syntegra/js/functions.js"></script>
-	<script type="text/javascript" src="../../syntegra/js/DOMAssistantComplete-2.7.1.1.js"></script>
-	<script type="text/javascript" src="../../syntegra/js/skiplinks.js"></script>
-	<script type="text/javascript" src="../../syntegra/js/equalHeights.js"></script>
-	<script type="text/javascript" src="../../syntegra/js/ExitSurvey.js"></script>
+	<meta name="author" content="Caroline Murphy">
+	<meta name="viewport" content="width=device-width">
 </head>
 
 <body>

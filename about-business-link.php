@@ -1,18 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html class="no-js">
 <head>
+	<meta charset="utf-8">
+	
 	<title>About Us | Business Link</title>
-	
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-	<meta http-equiv="X-UA-Compatible" content="IE=7" />
-	<meta name="title" content="About Us" lang="en" xml:lang="en" />
-	
-	<link rel="canonical" href="detail3534.html?itemId=1087351667&amp;type=CAMPAIGN" />
-	
-	<style type="text/css">@import url("../../presentation/portal-businesslink/css/campaigns.css");</style>
-	<style type="text/css">@import url("../../Horizontal_Services_files/about_us3.css");</style>
-	<style type="text/css" media="print">@import url("../../presentation/css/print.css");</style>
+	<meta name="author" content="Caroline Murphy">
+	<meta name="viewport" content="width=device-width">
 </head>
 
 <body>

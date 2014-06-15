@@ -1,42 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html class="no-js">
 <head>
-	<title>Get &pound;1,500 for recruiting an apprentice aged 16 to 24   | Business Link</title>
-
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
-	<meta http-equiv="X-UA-Compatible" content="IE=7" />
-	<meta name="SBS_ATOMID" content="0.OO391948" lang="en" xml:lang="en" />
-	<meta name="DC.date.valid" content="2012-05-04 12:09 / 2022-05-04" scheme="W3CDTF" lang="en" xml:lang="en" />
-	<meta name="DC.date.created" content="2012-05-17 13:50" scheme="W3CDTF" lang="en" xml:lang="en" />
-	<meta name="DC.date.next version due" content="2022-05-04" scheme="W3CDTF" lang="en" xml:lang="en" />
-	<meta name="DC.date.available" content="2012-05-04 12:09" scheme="W3CDTF" lang="en" xml:lang="en" />
-	<meta name="DC.creator" content="Small Business Service, Kingsgate House, 66-74 Victoria Street, London SW1E 6SW, UK"  lang="en" xml:lang="en" />
-	<meta name="DC.coverage.temporal" content="2012-05-04 12:09 / 2022-05-04" scheme="W3CDTF" lang="en" xml:lang="en" />
-	<meta name="DC.date.modified" content="2012-05-17 13:50" scheme="W3CDTF" lang="en" xml:lang="en" />
-	<meta name="DC.rights.copyright" content="Crown copyright http://www.businesslink.gov.uk/Copyright"  lang="en" xml:lang="en" />
-	<meta name="DC.publisher" content="Small Business Service, Kingsgate House, 66-74 Victoria Street, London SW1E 6SW, UK"  lang="en" xml:lang="en" />
+	<meta charset="utf-8">
 	
-	<link rel="shortcut icon" href="../../syntegra/images/sbs_bdotg_favicon.ico" type="image/x-icon" />
-	<link rel="icon" href="../../syntegra/images/sbs_bdotg_favicon.ico" type="image/x-icon" />
-	<link rel="canonical" href="detail2a79.html?itemId=1097543702&amp;type=ONEOFFPAGE" />
-	
-	<style type="text/css">@import url("../../syntegra/css/core.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/content2.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/layer2.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/rr_styles.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/menu.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/scheme_global.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/sbs_bdotg.css");</style>
-	<style type="text/css">@import url("../../syntegra/css/skiplinks.css");</style>
-	
-	<script type="text/javascript" src="../../syntegra/js/jquery-1.3.2.min.js"></script>
-	<script type="text/javascript" src="../../syntegra/js/functions.js"></script>
-	<script type="text/javascript" src="../../syntegra/js/DOMAssistantComplete-2.7.1.1.js"></script>
-	<script type="text/javascript" src="../../syntegra/js/skiplinks.js"></script>
-	<script type="text/javascript" src="../../syntegra/js/equalHeights.js"></script>
-	<script type="text/javascript" src="../../syntegra/js/ExitSurvey.js"></script>
+	<title>Get &pound;1,500 for recruiting an apprentice aged 16 to 24 | Business Link</title>
+	<meta name="author" content="Caroline Murphy">
+	<meta name="viewport" content="width=device-width">
 </head>
 
 <body>
