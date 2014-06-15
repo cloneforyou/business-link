@@ -17,6 +17,8 @@
 
 <body>
 
+<?php include("inc/skip-links.php"); ?>
+
 <div>
 	<div> <a href="#content"> <img width="1" height="1" alt="Skip to Content" src="../../syntegra/images/px_trans.gif"/> </a> </div>
 	<div><a href="home.html" title="Small Business Service home"><img border="0" title="Business Link" alt="Business Link" src="../../presentation/portal-businesslink/images/logo-sml.gif"/></a></div>
