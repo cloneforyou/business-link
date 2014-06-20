@@ -18,7 +18,7 @@
 
 <div>Information. Support. Compliance.</div>
 
-<span ><a name="skiplogin"></a></span>
+<span><a name="skiplogin"></a></span>
 
 <div>
 	<p>Your account</p>
@@ -41,10 +41,10 @@
 			<div>
 				<div>
 					<div>
-						<p><a href="gov-uk-will-launch-in-october.html" title="GOV.UK will launch in October">Businesslink.gov.uk is changing</a></p>
+						<p><a href="gov-uk-will-launch-in-october.php" title="GOV.UK will launch in October">Businesslink.gov.uk is changing</a></p>
 					</div>
 					<div>
-						<a href="gov-uk-will-launch-in-october.html" title="GOV.UK will launch in October"><img src="img/gov-uk-will-launch-in-october.jpg" alt="" /></a><p>GOV.UK October launch</p>
+						<a href="gov-uk-will-launch-in-october.php" title="GOV.UK will launch in October"><img src="img/gov-uk-will-launch-in-october.jpg" alt="" /></a><p>GOV.UK October launch</p>
 					</div>
 				</div>
 				<div>
@@ -105,10 +105,10 @@
 				</div>
 				<div>
 					<div>
-						<p><a href="our-use-of-cookies.html" title="How cookies are used on this site">Our use of cookies</a></p>
+						<p><a href="our-use-of-cookies.php" title="How cookies are used on this site">Our use of cookies</a></p>
 					</div>
 					<div>
-						<a href="our-use-of-cookies.html" title="How cookies are used on this site" title="How cookies are used on this site">
+						<a href="our-use-of-cookies.php" title="How cookies are used on this site" title="How cookies are used on this site">
 							<img src="img/handonkeyboard_large.jpg" alt="Cookies" />
 						</a>
 						<p>How cookies are used on Business Link</p>
@@ -116,10 +116,10 @@
 				</div>
 				<div>
 					<div>
-						<p><a href="apprenticeship-grants-now-available.html" title="Get £1,500 for recruiting an apprentice aged 16 to 24">Apprenticeship grants now available </a></p>
+						<p><a href="apprenticeship-grants-now-available.php" title="Get £1,500 for recruiting an apprentice aged 16 to 24">Apprenticeship grants now available </a></p>
 					</div>
 					<div>
-						<a href="apprenticeship-grants-now-available.html" title="Get £1,500 for recruiting an apprentice aged 16 to 24">
+						<a href="apprenticeship-grants-now-available.php" title="Get £1,500 for recruiting an apprentice aged 16 to 24">
 							<img src="img/apprenticeships_302x239.JPG" alt="Apprenticeships" />
 						</a>
 						<p>Get &pound;1,500 when you recruit an apprentice aged 16 to 24</p>
@@ -127,10 +127,10 @@
 				</div>
 				<div>
 					<div>
-						<p><a href="regulation-licences-and-compliance.html" title="Find and apply for licences and permits for your business">Apply for licences and permits online</a></p>
+						<p><a href="regulation-licences-and-compliance.php" title="Find and apply for licences and permits for your business">Apply for licences and permits online</a></p>
 					</div>
 					<div>
-						<a href="regulation-licences-and-compliance.html" title="Find and apply for licences and permits for your business">
+						<a href="regulation-licences-and-compliance.php" title="Find and apply for licences and permits for your business">
 							<img src="img/online_licences_2.jpg" alt="" />
 						</a>
 						<p>You can now apply online for business licences and permits from around 90 per cent of authorities in the UK</p>
@@ -138,10 +138,10 @@
 				</div>
 				<div>
 					<div>
-						<p><a href="incorporate-your-company-online.html" title="Incorporate your company online as a private company, limited by shares, with model articles of association">Incorporate your limited company online with Companies House</a></p>
+						<p><a href="incorporate-your-company-online.php" title="Incorporate your company online as a private company, limited by shares, with model articles of association">Incorporate your limited company online with Companies House</a></p>
 					</div>
 					<div>
-						<a href="incorporate-your-company-online.html" title="Incorporate your company online as a private company, limited by shares, with model articles of association">
+						<a href="incorporate-your-company-online.php" title="Incorporate your company online as a private company, limited by shares, with model articles of association">
 							<img src="img/hp_promo_302x239_comp2.jpg" alt="" />
 						</a>
 						<p>Use the web incorporation service tool to incorporate your limited company online with Companies House</p>
@@ -149,10 +149,10 @@
 				</div>
 				<div>
 					<div>
-						<p><a href="taking-on-a-new-member-of-staff.html" title="We have launched three new tools to help you through the process of taking on a new member of staff">Taking on a new member of staff?</a></p>
+						<p><a href="taking-on-a-new-member-of-staff.php" title="We have launched three new tools to help you through the process of taking on a new member of staff">Taking on a new member of staff?</a></p>
 					</div>
 					<div>
-						<a href="taking-on-a-new-member-of-staff.html" title="We have launched three new tools to help you through the process of taking on a new member of staff">
+						<a href="taking-on-a-new-member-of-staff.php" title="We have launched three new tools to help you through the process of taking on a new member of staff">
 							<img src="img/hp_promo_302x239_comp1.jpg" alt="" />
 						</a>
 						<p>Use our new and improved interactive tools</p>
@@ -192,13 +192,13 @@
 					</div>
 				</div>
 				<div>
-					<p><a href="whats-new.html">View all what's new items</a></p>
+					<p><a href="whats-new.php">View all what's new items</a></p>
 				</div>
 			</div>
 			<div>
 				<h1>Welcome to Business Link</h1>
 				<p>Business Link is government's online resource for businesses. It is now enhanced with new, easy-to-use tools to help you start up, improve and grow your business.</p>
-				<p>For more information visit <a href="about-business-link.html">about us</a>.</p>
+				<p>For more information visit <a href="about-business-link.php">about us</a>.</p>
 				<p>You can also find information and support specific to businesses in <a href="http://www.business.scotland.gov.uk/" title="Government-funded support services for businesses in Scotland" rel="external">Scotland</a>, <a href="http://business.wales.gov.uk/" title="Government-funded support services for businesses in Wales" rel="external">Wales</a> and <a href="http://www.nibusinessinfo.co.uk/" title="Government-funded support services for businesses in Northern Ireland" rel="external">Northern Ireland</a>.</p>
 			</div>
 			<div>
@@ -230,10 +230,10 @@
 					<div></div>
 					<div>
 						<div>
-							<a href="find-out-what-records-you-should-be-keeping.html" title="Use our interactive tool to find out the records you must keep as a business and assess how well you are keeping them">
+							<a href="find-out-what-records-you-should-be-keeping.php" title="Use our interactive tool to find out the records you must keep as a business and assess how well you are keeping them">
 								<img src="img/web_chk_home.jpg" width="166" height="56" border="0" alt="Use our interactive tool to find out the records you must keep as a business and assess how well you are keeping them" />
 							</a>
-							<a href="find-out-what-records-you-should-be-keeping.html" title="Use our interactive tool to find out the records you must keep as a business and assess how well you are keeping them">Find out what records you should be keeping</a>
+							<a href="find-out-what-records-you-should-be-keeping.php" title="Use our interactive tool to find out the records you must keep as a business and assess how well you are keeping them">Find out what records you should be keeping</a>
 							<p>Use our interactive tool to find out the records you must keep as a business</p>
 						</div>
 					</div>
@@ -242,10 +242,10 @@
 					<div></div>
 					<div>
 						<div>
-							<a href="intrastat-returns-important-changes.html" title="Submitting Intrastat declarations from 1 April 2012: a reminder">
+							<a href="intrastat-returns-important-changes.php" title="Submitting Intrastat declarations from 1 April 2012: a reminder">
 								<img src="img/HP_hands_on_keyboard.jpg" width="166" height="56" border="0" alt="Submitting Intrastat declarations from 1 April 2012: a reminder" />
 							</a>
-							<a href="intrastat-returns-important-changes.html" title="Submitting Intrastat declarations from 1 April 2012: a reminder">Intrastat returns: important changes</a>
+							<a href="intrastat-returns-important-changes.php" title="Submitting Intrastat declarations from 1 April 2012: a reminder">Intrastat returns: important changes</a>
 							<p>Businesses providing Intrastat returns to HMRC need to act on this information</p>
 						</div>
 					</div>
@@ -254,10 +254,10 @@
 					<div></div>
 					<div>
 						<div>
-							<a href="employers-charter.html" title="Find out what you can and can't do when managing your staff">
+							<a href="employers-charter.php" title="Find out what you can and can't do when managing your staff">
 								<img src="img/support.jpg" width="166" height="56" border="0" alt="Find out what you can and can't do when managing your staff" />
 							</a>
-							<a href="employers-charter.html" title="Find out what you can and can't do when managing your staff">Updated Employer's Charter</a>
+							<a href="employers-charter.php" title="Find out what you can and can't do when managing your staff">Updated Employer's Charter</a>
 							<p>Find out what you can and can't do when managing your staff</p>
 						</div>
 					</div>
@@ -278,10 +278,10 @@
 					<div></div>
 					<div>
 						<div>
-							<a href="find-the-business-in-you.html" title="The 'Business in You' is a major new campaign to help people to start a new business or grow their existing one">
+							<a href="find-the-business-in-you.php" title="The 'Business in You' is a major new campaign to help people to start a new business or grow their existing one">
 								<img src="img/Business_in_you_smaller_homepage_promo.jpg" width="166" height="56" border="0" alt="The "Business in You" is a major new campaign to help people to start a new business or grow their existing one" />
 							</a>
-							<a href="find-the-business-in-you.html" title="The 'Business in You' is a major new campaign to help people to start a new business or grow their existing one">The business in you</a>
+							<a href="find-the-business-in-you.php" title="The 'Business in You' is a major new campaign to help people to start a new business or grow their existing one">The business in you</a>
 							<p>Starting and growing a business - tips and tools from real-life success stories</p>
 						</div>
 					</div>
@@ -291,31 +291,31 @@
 		<div>
 			<div>
 				<div>
-					<h2><a href="do-it-online.html" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">Do it online</a></h2>
+					<h2><a href="do-it-online.php" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">Do it online</a></h2>
 				</div>
 				<div>
 					<ul>
 						<li>
-							<a href="search-company-information-using-companies-house-webcheck.html" title="Search company details and view filing histories for all limited companies in the UK">Find company details with WebCHeck</a>
+							<a href="search-company-information-using-companies-house-webcheck.php" title="Search company details and view filing histories for all limited companies in the UK">Find company details with WebCHeck</a>
 						</li>
 						<li>
-							<a href="file-company-information-online-using-companies-house-webfiling.html" title="File most company information online (some services require payment)">File company details with WebFiling</a>
+							<a href="file-company-information-online-using-companies-house-webfiling.php" title="File most company information online (some services require payment)">File company details with WebFiling</a>
 						</li>
 						<li>
-							<a href="using-vat-online.html" title="Access to HMRC VAT online and links to information on service availability and support">Submit your VAT Return online</a>
+							<a href="using-vat-online.php" title="Access to HMRC VAT online and links to information on service availability and support">Submit your VAT Return online</a>
 						</li>
 						<li>
-							<a href="incorporate-your-company-online.html" title="Incorporate your company online as a private company, limited by shares, with model articles of association">Incorporate your limited company online with Companies House</a>
+							<a href="incorporate-your-company-online.php" title="Incorporate your company online as a private company, limited by shares, with model articles of association">Incorporate your limited company online with Companies House</a>
 						</li>
 						<li>
-							<a href="use-paye-online-for-employers.html" title="Access HMRC's PAYE Online for employers services">Log in or register for PAYE Online</a>
+							<a href="use-paye-online-for-employers.php" title="Access HMRC's PAYE Online for employers services">Log in or register for PAYE Online</a>
 						</li>
 						<li>
-							<a href="regulation-licences-and-compliance.html" title="Find and apply for licences and permits for your business">Apply for licences</a>
+							<a href="regulation-licences-and-compliance.php" title="Find and apply for licences and permits for your business">Apply for licences</a>
 						</li>
 					</ul>
 					<div>
-						<p><a href="do-it-online.html" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">View all services</a></p>
+						<p><a href="do-it-online.php" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">View all services</a></p>
 					</div>
 				</div>
 			</div>
@@ -423,7 +423,7 @@
 					<ul>
 						<li><a href="#" title="Site map">Site map</a></li>
 						<li><a href="#" title="Help">Help</a></li>
-						<li><a href="about-business-link.html" title="About us">About us</a></li>
+						<li><a href="about-business-link.php" title="About us">About us</a></li>
 						<li><a href="https://www.gov.uk/help" rel="external">Accessibility</a></li>
 					</ul>
 				</div><!-- quicklinks -->
@@ -442,9 +442,9 @@
 				<div>
 					<ul>
 						<li><a href="#" title="">My Business</a></li>
-						<li><a href="whats-new.html">What's new?</a></li>
-						<li><a href="do-it-online.html" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">Do it online</a></li>
-						<li><a href="directories.html">Directories</a></li>
+						<li><a href="whats-new.php">What's new?</a></li>
+						<li><a href="do-it-online.php" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">Do it online</a></li>
+						<li><a href="directories.php">Directories</a></li>
 					</ul>
 				</div> <!-- tabs -->
 			</div><!-- bottomgroup -->
