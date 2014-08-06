@@ -12,10 +12,12 @@
 <div>
 
 <!-- Page breadcrumb -->
-<div>
-	<p><a href="home.html"  title="" >Home</a>&nbsp;&gt;&nbsp;<a href="findContentBankf4d5.html?bank=CASE_STUDIES"  title="" >Find a case study</a>&nbsp;&gt;&nbsp;Browse by theme</p>
+<div id="breadcrumb">
+	<p><a href="home.html">Home</a> &gt; <a href="find-a-case-study.php">Find a case study</a> &gt; Browse by theme</p>
 </div>
-<span ><a name="skipcont" id="skipcont" >&nbsp;</a></span>
+
+<span><a name="skipcont" id="skipcont"></a></span>
+
 <div>
 	<div>
 		<h1>Find a case study</h1>

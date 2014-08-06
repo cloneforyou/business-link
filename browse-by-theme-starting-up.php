@@ -9,11 +9,16 @@
 
 <body>
 <?php include("inc/header.php"); ?>
+
 <div>
 
 <!-- Page breadcrumb -->
-<?php include("inc/breadcrumbs.php"); ?>
-<span><a name="skipcont"></a></span>
+<div id="breadcrumb">
+	<p><a href="home.html">Home</a> &gt; <a href="find-a-case-study.php">Find a case study</a> &gt; Browse by theme</p>
+</div>
+
+<span><a name="skipcont" id="skipcont"></a></span>
+
 <div>
 	<div>
 		<h1>Find a case study</h1>
