@@ -28,49 +28,49 @@
 				<div>
 					<ul>
 						<li>
-							<a href="browse-by-theme-starting-up.html">Starting up</a>
+							<a href="browse-by-theme-starting-up.php">Starting up</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-finance-and-grants.html">Finance and grants</a>
+							<a href="browse-by-theme-finance-and-grants.php">Finance and grants</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-tax-payroll-and-company-information.html">Tax, payroll and company information</a>
+							<a href="browse-by-theme-tax-payroll-and-company-information.php">Tax, payroll and company information</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-employment-and-skills.html">Employment &amp; skills</a>
+							<a href="browse-by-theme-employment-and-skills.php">Employment &amp; skills</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-workplace-health-and-safety.html">Workplace health &amp; safety</a>
+							<a href="browse-by-theme-workplace-health-and-safety.php">Workplace health &amp; safety</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-environment-and-efficiency.html">Environment &amp; efficiency</a>
+							<a href="browse-by-theme-environment-and-efficiency.php">Environment &amp; efficiency</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-premises-and-property.html">Premises and property</a>
+							<a href="browse-by-theme-premises-and-property.php">Premises and property</a>
 						</li>
 						<li>
-							<a href="browser-by-theme-create-innovate-and-protect.html">Create, innovate and protect</a>
+							<a href="browser-by-theme-create-innovate-and-protect.php">Create, innovate and protect</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-it-and-ecommerce.html">IT &amp; e-commerce</a>
+							<a href="browse-by-theme-it-and-ecommerce.php">IT &amp; e-commerce</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-sales-and-marketing.html">Sales and marketing</a>
+							<a href="browse-by-theme-sales-and-marketing.php">Sales and marketing</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-international-trade.html">International trade</a>
+							<a href="browse-by-theme-international-trade.php">International trade</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-grow-your-business.html">Grow your business</a>
+							<a href="browse-by-theme-grow-your-business.php">Grow your business</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-buy-or-sell-a-business.html">Buy or sell a business</a>
+							<a href="browse-by-theme-buy-or-sell-a-business.php">Buy or sell a business</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-for-professional-advisers.html">For professional advisers</a>
+							<a href="browse-by-theme-for-professional-advisers.php">For professional advisers</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-your-business-sector.html">Your business sector</a>
+							<a href="browse-by-theme-your-business-sector.php">Your business sector</a>
 						</li>
 					</ul>
 				</div>
