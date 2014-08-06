@@ -104,12 +104,11 @@
 	</div>
 	<div id="serviceprovider">
 		<p>
-			<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" rel="external">In partnership with<span> - Opens in a new window</span></a>
+			<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" rel="external">In partnership with Cabinet Office</a>
 		</p>
 		<div>
 			<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" rel="external">
 				<img src="img/logo_hm_gov2.jpg" width="167" height="31" border="0" alt="HM Government" />
-				<span> - Opens in a new window</span>
 			</a>
 		</div>
 		<!-- imgwrap --> 
