@@ -52,7 +52,7 @@
 			</ul>
 			<h2>Your workplace</h2>
 			<ul>
-				<li><a href="starting-up-choose-and-set-up-your-workplace.php">Choose and set up your workplace</a></li>
+				<li><a href="/starting-up/choose-and-set-up-your-workplace.php">Choose and set up your workplace</a></li>
 			</ul>
 			<h2>Tax, payroll &amp; company information</h2>
 			<ul>
