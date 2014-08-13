@@ -41,8 +41,8 @@
 			<h2>Before you start</h2>
 			<ul>
 				<li><a href="/starting-up/considering-starting-up.php">Considering starting up?</a></li>
-				<li><a href="starting-up-business-planning.php">Business planning</a></li>
-				<li><a href="starting-up-find-and-manage-the-money.php">Find and manage the money</a></li>
+				<li><a href="/starting-up/business-planning.php">Business planning</a></li>
+				<li><a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a></li>
 			</ul>
 			<h2>Forming and naming your business</h2>
 			<ul>

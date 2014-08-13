@@ -11,7 +11,7 @@
 					<li><img src="/_img/leftnav_sub_hr.gif" alt="" /></li>
 					<li><a href="/starting-up/considering-starting-up.php">Considering starting up?</a></li>
 					<li><a href="layer7fa1.html?topicId=1097138362">Business planning</a></li>
-					<li><a href="layer5c13.html?topicId=1073859146">Find and manage the money</a></li>
+					<li><a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a></li>
 					<li><img src="/_img/px_startingabusiness.gif" alt="Current section" width="5" height="5" /><strong>Business structures</strong></li>
 					<li><a href="layerec25.html?topicId=1085151439">Name your business</a></li>
 					<li><a href="layer03ad.html?topicId=1073859122">Buy a business</a></li>
