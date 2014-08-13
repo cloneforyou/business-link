@@ -59,7 +59,7 @@
 				<li><a href="https://www.gov.uk/browse/tax" title="Money and tax" rel="external">Get to grips with business taxes</a></li>
 				<li><a href="/starting-up/tax-and-national-insurance-for-self-employed-and-partners.php">Tax and National Insurance for self-employed or partners</a></li>
 				<li><a href="/starting-up/corporation-tax.php">Corporation Tax</a></li>
-				<li><a href="starting-up-vat.php">VAT</a></li>
+				<li><a href="/starting-up/vat.php">VAT</a></li>
 				<li><a href="starting-up-tax-and-payroll-for-employers.php">Tax and payroll for employers</a></li>
 			</ul>
 			<h2>Employing people</h2>
