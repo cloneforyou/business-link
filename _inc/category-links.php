@@ -9,7 +9,7 @@
 				<a href="/starting-up.php" title="From first thoughts to a firm footing">Starting up</a>
 				<ul>
 					<li><img src="/_img/leftnav_sub_hr.gif" alt="" /></li>
-					<li><a href="layer8448.html?topicId=1073859137">Considering starting up?</a></li>
+					<li><a href="/starting-up/considering-starting-up.php">Considering starting up?</a></li>
 					<li><a href="layer7fa1.html?topicId=1097138362">Business planning</a></li>
 					<li><a href="layer5c13.html?topicId=1073859146">Find and manage the money</a></li>
 					<li><img src="/_img/px_startingabusiness.gif" alt="Current section" width="5" height="5" /><strong>Business structures</strong></li>

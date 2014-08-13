@@ -28,7 +28,7 @@
 				<p>Find information on how to take on staff in your business</p>
 			</div>
 			<div>
-				<h2><a href="employment-and-skills_employment-checks_ensuring-your-workers-are-eligible-to-work-in-the-uk.php.html">Ensuring your workers are eligible to work in the UK</a></h2>
+				<h2><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk.php.html">Ensuring your workers are eligible to work in the UK</a></h2>
 				<p>Checking a worker's right to work in the UK and how to employ workers from outside the EEA and Switzerland</p>
 			</div>
 			<div>

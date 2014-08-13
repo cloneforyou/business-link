@@ -40,7 +40,7 @@
 			
 			<h2>Before you start</h2>
 			<ul>
-				<li><a href="starting-up-cosidering-starting-up.php">Considering starting up?</a></li>
+				<li><a href="/starting-up/considering-starting-up.php">Considering starting up?</a></li>
 				<li><a href="starting-up-business-planning.php">Business planning</a></li>
 				<li><a href="starting-up-find-and-manage-the-money.php">Find and manage the money</a></li>
 			</ul>
@@ -64,7 +64,7 @@
 			</ul>
 			<h2>Employing people</h2>
 			<ul>
-				<li><a href="starting-up-become-an-employer-for-the-first-time.php">Become an employer for the first time</a></li>
+				<li><a href="starting-up/become-an-employer-for-the-first-time.php">Become an employer for the first time</a></li>
 			</ul>
 			<h2>Managing your business</h2>
 			<ul>
