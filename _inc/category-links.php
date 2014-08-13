@@ -19,7 +19,7 @@
 					<li><a href="/starting-up/choose-and-set-up-your-workplace.php">Choose and set up your workplace</a></li>
 					<li><a href="http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101977&amp;type=HUBCHASSIS">Get to grips with business taxes</a></li>
 					<li><a href="/starting-up/tax-and-national-insurance-for-self-employed-and-partners.php">Tax and National Insurance for self-employed or partners</a></li>
-					<li><a href="layerdcc4.html?topicId=1085541869">Corporation Tax</a></li>
+					<li><a href="/starting-up/corporation-tax.php">Corporation Tax</a></li>
 					<li><a href="layerc637.html?topicId=1073859188">VAT</a></li>
 					<li><a href="layer0901.html?topicId=1073859167">Tax and payroll for employers</a></li>
 					<li><a href="/starting-up/become-an-employer-for-the-first-time.php">Become an employer for the first time</a></li>
