@@ -10,10 +10,10 @@
 
 <body>
 
-<?php include("inc/header.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 	
 <div>
-	<?php include("inc/breadcrumbs.php"); ?>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 
 	<div>
 		<div>
@@ -95,10 +95,10 @@
 				</div>
 				<div>
 					<div>
-						<p><a href="apprenticeship-grants-now-available.php" title="Get £1,500 for recruiting an apprentice aged 16 to 24">Apprenticeship grants now available </a></p>
+						<p><a href="apprenticeship-grants-now-available.php" title="Get ï¿½1,500 for recruiting an apprentice aged 16 to 24">Apprenticeship grants now available </a></p>
 					</div>
 					<div>
-						<a href="apprenticeship-grants-now-available.php" title="Get £1,500 for recruiting an apprentice aged 16 to 24">
+						<a href="apprenticeship-grants-now-available.php" title="Get ï¿½1,500 for recruiting an apprentice aged 16 to 24">
 							<img src="img/apprenticeships_302x239.JPG" alt="Apprenticeships" />
 						</a>
 						<p>Get &pound;1,500 when you recruit an apprentice aged 16 to 24</p>
@@ -150,10 +150,10 @@
 				</div>
 				<div>
 					<div>
-						<p><a href="http://improve.businesslink.gov.uk/resources/business-support-finder" onclick="p=window.open('http://improve.businesslink.gov.uk/resources/business-support-finder', 'bgExternalonlinebusinesslinkgovuk');p.focus();" title="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible" >Business Support Finder</a></p>
+						<p><a href="http://improve.businesslink.gov.uk/resources/business-support-finder" onClick="p=window.open('http://improve.businesslink.gov.uk/resources/business-support-finder', 'bgExternalonlinebusinesslinkgovuk');p.focus();" title="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible" >Business Support Finder</a></p>
 					</div>
 					<div>
-						<a href="http://improve.businesslink.gov.uk/resources/business-support-finder" onclick="p=window.open('http://improve.businesslink.gov.uk/resources/business-support-finder', 'bgExternalonlinebusinesslinkgovuk');p.focus();" title="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible">
+						<a href="http://improve.businesslink.gov.uk/resources/business-support-finder" onClick="p=window.open('http://improve.businesslink.gov.uk/resources/business-support-finder', 'bgExternalonlinebusinesslinkgovuk');p.focus();" title="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible">
 							<img src="img/bsf_promo.jpg"  alt="" />
 						</a>
 						<p>Find sources of help to start, run or grow your business</p>
@@ -258,7 +258,7 @@
 					<div>
 						<div>
 							<a href="find-the-business-in-you.php" title="The 'Business in You' is a major new campaign to help people to start a new business or grow their existing one">
-								<img src="img/Business_in_you_smaller_homepage_promo.jpg" width="166" height="56" border="0" alt="The "Business in You" is a major new campaign to help people to start a new business or grow their existing one" />
+								<img src="img/Business_in_you_smaller_homepage_promo.jpg" width="166" height="56" border="0" alt="The "business in you" is a major new campaign to help people to start a new business or grow their existing one" />
 							</a>
 							<a href="find-the-business-in-you.php" title="The 'Business in You' is a major new campaign to help people to start a new business or grow their existing one">The business in you</a>
 							<p>Starting and growing a business - tips and tools from real-life success stories</p>
@@ -354,4 +354,4 @@
 		</div>
 	</div>
 	
-<?php include("inc/footer.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

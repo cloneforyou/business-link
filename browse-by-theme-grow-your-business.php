@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<?php include("inc/header.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 <div>
 
 <!-- Page breadcrumb -->
@@ -149,4 +149,4 @@
 	</div>
 </div>
 
-<?php include("inc/footer.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

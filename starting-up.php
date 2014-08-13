@@ -9,11 +9,11 @@
 
 <body>
 
-<?php include("inc/header.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <div id="content" > 
 	
-	<?php include("inc/breadcrumbs.php"); ?>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 
 	<div id="layer11">
 		<div id="maincontent">
@@ -23,7 +23,7 @@
 					<h2>My New Business</h2>
 				</div>
 				<div id="theme_left">
-					<p><img src="img/startingupabusiness.jpg" alt="" /> </p>
+					<p><img src="/_img/startingupabusiness.jpg" alt="" /> </p>
 				</div>
 				<div id="theme_right">
 					<h3>Start your business here</h3>
@@ -94,7 +94,7 @@
 					</div>
 					<div>
 						<a href="find-the-business-in-you.php" title="The 'Business in You' is a major new campaign to help people to start a new business or grow their existing one" >
-							<img src="img/Businessinyou_whatsnewpromo.jpg" width="76" height="76" border="0" alt="The "Business in You" is a major new campaign to help people to start a new business or grow their existing one" />
+							<img src="/_img/Businessinyou_whatsnewpromo.jpg" width="76" height="76" border="0" alt="The "business in you" is a major new campaign to help people to start a new business or grow their existing one" />
 						</a>
 					</div>
 				</div>
@@ -105,7 +105,7 @@
 					</div>
 					<div>
 						<a href="do-it-online-register-online-for-business-taxes.php" title="Register online for business taxes">
-							<img src="img/Businessman.jpg" width="76" height="76" border="0" alt="Register online for business taxes" />
+							<img src="/_img/Businessman.jpg" width="76" height="76" border="0" alt="Register online for business taxes" />
 						</a>
 					</div>
 				</div>
@@ -116,7 +116,7 @@
 					</div>
 					<div>
 						<a href="https://www.gov.uk/business-selling-customers" title="Researching your market and competition">
-							<img src="img/Understand_your_market.jpg" width="76" height="76" border="0" alt="Researching your market and competition" />
+							<img src="/_img/Understand_your_market.jpg" width="76" height="76" border="0" alt="Researching your market and competition" />
 						</a>
 					</div>
 				</div>
@@ -127,7 +127,7 @@
 					</div>
 					<div>
 						<a href="https://www.gov.uk/business-finance-explained" title="Identify your start-up costs and manage your money. Find out how to forecast your cashflow and record your profit and loss">
-							<img src="img/How_much_money_do_you_need.jpg" width="76" height="76" border="0" alt="Identify your start-up costs and manage your money. Find out how to forecast your cashflow and record your profit and loss" />
+							<img src="/_img/How_much_money_do_you_need.jpg" width="76" height="76" border="0" alt="Identify your start-up costs and manage your money. Find out how to forecast your cashflow and record your profit and loss" />
 						</a>
 					</div>
 				</div>
@@ -138,7 +138,7 @@
 					</div>
 					<div>
 						<a href="https://www.gov.uk/starting-up-a-business" title="Learn about the qualities you need to be your own boss and how you can use your skills and experience to get your business up and running">
-							<img src="img/Be_your_own_boss.jpg" width="76" height="76" border="0" alt="Learn about the qualities you need to be your own boss and how you can use your skills and experience to get your business up and running" />
+							<img src="/_img/Be_your_own_boss.jpg" width="76" height="76" border="0" alt="Learn about the qualities you need to be your own boss and how you can use your skills and experience to get your business up and running" />
 						</a>
 					</div>
 				</div>
@@ -149,7 +149,7 @@
 					</div>
 					<div>
 						<a href="https://www.gov.uk/business-legal-structures" title="Learn about the different types of business and legal structures to help you choose the right one for your new business">
-							<img src="img/Your_business_options.jpg" width="76" height="76" border="0" alt="Learn about the different types of business and legal structures to help you choose the right one for your new business" />
+							<img src="/_img/Your_business_options.jpg" width="76" height="76" border="0" alt="Learn about the different types of business and legal structures to help you choose the right one for your new business" />
 						</a>
 					</div>
 				</div>
@@ -160,7 +160,7 @@
 					</div>
 					<div>
 						<a href="do-it-online-register-online-for-business-taxes.php" title="Tutorials, videos and tools to help you decide how to become self-employed - from sole trader to limited company, franchisee to social enterprise and more" >
-							<img src="img/Your_business_type.jpg" width="76" height="76" border="0" alt="Tutorials, videos and tools to help you decide how to become self-employed - from sole trader to limited company, franchisee to social enterprise and more" />
+							<img src="/_img/Your_business_type.jpg" width="76" height="76" border="0" alt="Tutorials, videos and tools to help you decide how to become self-employed - from sole trader to limited company, franchisee to social enterprise and more" />
 						</a>
 					</div>
 				</div>
@@ -171,7 +171,7 @@
 					</div>
 					<div>
 						<a href="https://www.gov.uk/write-business-plan" title="What you need to include in your business plan and how to create one step-by-step" rel="external">
-							<img src="img/Create_your_business_plan.jpg" width="76" height="76" border="0" alt="What you need to include in your business plan and how to create one step-by-step" />
+							<img src="/_img/Create_your_business_plan.jpg" width="76" height="76" border="0" alt="What you need to include in your business plan and how to create one step-by-step" />
 						</a>
 					</div>
 				</div>
@@ -196,4 +196,4 @@
 		</div>
 	</div>
 
-<?php include("inc/footer.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

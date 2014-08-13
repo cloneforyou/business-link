@@ -9,10 +9,10 @@
 
 <body>
 
-<?php include("inc/header.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <div>
-	<?php include("inc/breadcrumbs.php"); ?>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 	
 	<span><a name="skipcont"></a></span>
 	
@@ -41,4 +41,4 @@
 		</div>
 	</div>
 	
-<?php include("inc/footer.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

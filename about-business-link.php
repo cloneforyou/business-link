@@ -9,14 +9,14 @@
 
 <body>
 
-<?php include("inc/header.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <div>
 	<div>
 		<table>
 			<tr>
 				<td>
-					<?php include("inc/breadcrumbs.php"); ?>
+					<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 					<div>
 						<div>
 							<div>
@@ -152,4 +152,4 @@
 	</div>
 </div>
 
-<?php include("inc/footer.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>
