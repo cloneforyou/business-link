@@ -70,7 +70,7 @@
 			<ul>
 				<li><a href="/starting-up/sales-and-marketing.php">Sales and marketing</a></li>
 				<li><a href="/starting-up/it-and-ecommerce-for-startups.php">IT and e-commerce for start ups</a></li>
-				<li><a href="starting-up-trade-with-other-countries.php">Trade with other countries</a></li>
+				<li><a href="/starting-up/trade-with-other-countries.php">Trade with other countries</a></li>
 				<li><a href="starting-up-protect-your-business-ideas.php">Protect your business ideas</a></li>
 			</ul>
 			<h2>Help and support</h2>

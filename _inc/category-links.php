@@ -25,7 +25,7 @@
 					<li><a href="/starting-up/become-an-employer-for-the-first-time.php">Become an employer for the first time</a></li>
 					<li><a href="/starting-up/sales-and-marketing.php">Sales and marketing</a></li>
 					<li><a href="/starting-up/it-and-ecommerce-for-startups.php">IT and e-commerce for start ups</a></li>
-					<li><a href="layer2a25.html?topicId=1073859152">Trade with other countries</a></li>
+					<li><a href="/starting-up/trade-with-other-countries.php">Trade with other countries</a></li>
 					<li><a href="layerb9bc.html?topicId=1073859173">Protect your business ideas</a></li>
 					<li><a href="layer56bb.html?topicId=1073859125">Further support for your business</a></li>
 					<li><a href="layera4cc.html?topicId=1097138353">Take the next steps</a></li>
