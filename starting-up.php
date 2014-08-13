@@ -48,7 +48,7 @@
 			<ul>
 				<li><a href="/starting-up/business-structures.php">Business structures</a></li>
 				<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
-				<li><a href="starting-up-buy-a-business.php">Buy a business</a></li>
+				<li><a href="/starting-up/buy-a-business.php">Buy a business</a></li>
 			</ul>
 			<h2>Your workplace</h2>
 			<ul>
