@@ -28,7 +28,7 @@
 					<li><a href="/starting-up/trade-with-other-countries.php">Trade with other countries</a></li>
 					<li><a href="/starting-up/protect-your-business-ideas.php">Protect your business ideas</a></li>
 					<li><a href="/starting-up/further-support-for-your-business.php">Further support for your business</a></li>
-					<li><a href="layera4cc.html?topicId=1097138353">Take the next steps</a></li>
+					<li><a href="/starting-up/take-the-next-steps.php">Take the next steps</a></li>
 				</ul>
 			</li>
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>

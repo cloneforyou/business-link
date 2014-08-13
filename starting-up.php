@@ -79,7 +79,7 @@
 			</ul>
 			<h2>Go for growth</h2>
 			<ul>
-				<li><a href="starting-up-take-the-next-steps.php">Take the next steps</a></li>
+				<li><a href="/starting-up/take-the-next-steps.php">Take the next steps</a></li>
 			</ul>
 			<p><a href="https://www.gov.uk/browse/business/setting-up" rel="external">Starting up - site map</a></p>
 		</div>
