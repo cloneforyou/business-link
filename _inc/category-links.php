@@ -14,7 +14,7 @@
 					<li><a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a></li>
 					<!-- <li><img src="/_img/px_startingabusiness.gif" alt="Current section" width="5" height="5" /><strong>Business structures</strong></li> -->
 					<li><a href="/starting-up/business-structures.php">Business structures</li>
-					<li><a href="layerec25.html?topicId=1085151439">Name your business</a></li>
+					<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
 					<li><a href="layer03ad.html?topicId=1073859122">Buy a business</a></li>
 					<li><a href="layer2500.html?topicId=1073859128">Choose and set up your workplace</a></li>
 					<li><a href="http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101977&amp;type=HUBCHASSIS">Get to grips with business taxes</a></li>
