@@ -4,7 +4,7 @@
 		<div id="footer"> 
 			<!-- "Developed With" section --> 
 			<!-- Rest of footer --> 
-			<img  src="img/footer_top3.gif" alt="" />
+			<img  src="/_img/footer_top3.gif" alt="" />
 			<div id="clickables">
 				<span>
 					<a href="https://www.gov.uk/help" title="Help &amp; support" rel="external">Help &amp; support</a> | 
@@ -85,9 +85,9 @@
 </div>
 <!-- topnav --> 
 
-<?php include("inc/category-links.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
 
-<?php include("inc/scripts.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/scripts.php'; ?>
 
 </body>
 </html>

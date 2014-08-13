@@ -12,7 +12,7 @@
 
 <div id="logo">
 	<a href="home.html" title="Small Business Service home">
-		<img src="img/global-business-link-logo.png" alt="Business Link" border="0" />
+		<img src="/_img/global-business-link-logo.png" alt="Business Link" border="0" />
 	</a>
 </div>
 <div id="strapline">Information. Support. Compliance.</div>
