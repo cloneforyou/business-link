@@ -31,7 +31,7 @@
 				<p><strong>How to find out more</strong></p>
 				<p>You can <a href="http://www.apprenticeships.org.uk/partners/policy/age-1624.aspx" title="How to apply for the AGE 16 to 24 grant and eligibility information" rel="external">find out more about the AGE 16 to 24 grant on the Apprenticeships website<span> - Opens in a new window</span></a>. If you're ready to recruit an apprentice, talk to a NAS Apprenticeship Adviser on Tel 08000 150 600.</p>
 				<p>For more about the benefits of Apprenticeships and the government support that's available, see our page about <a href="https://www.gov.uk/growing-your-business" rel="external">how Apprenticeships can help grow your business<span> - Opens in a new window</span></a> on the Growth and Improvement Service website.</p>
-				<p><img src="img/hr_325px_global.gif" alt="" align="middle" /></p>
+				<p><img src="/_img/hr_325px_global.gif" alt="" align="middle" /></p>
 				<div>
 					<ul>
 						<li><a href="https://www.gov.uk/apprenticeships-guide" title="Print page now  - Opens in a new window" rel="external">Print page now <span> - Opens in a new window</span></a></li>
