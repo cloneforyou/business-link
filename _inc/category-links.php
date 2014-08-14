@@ -13,7 +13,7 @@
 					<li><a href="layer7fa1.html?topicId=1097138362">Business planning</a></li>
 					<li><a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a></li>
 					<!-- <li><img src="/_img/px_startingabusiness.gif" alt="Current section" width="5" height="5" /><strong>Business structures</strong></li> -->
-					<li><a href="/starting-up/business-structures.php">Business structures</li>
+					<li><a href="/starting-up/business-structures.php">Business structures</a></li>
 					<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
 					<li><a href="/starting-up/buy-a-business.php">Buy a business</a></li>
 					<li><a href="/starting-up/choose-and-set-up-your-workplace.php">Choose and set up your workplace</a></li>
