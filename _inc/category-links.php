@@ -109,7 +109,7 @@
 		</p>
 		<div>
 			<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" rel="external">
-				<img src="/_img/logo_hm_gov2.jpg" width="167" height="31" border="0" alt="HM Government" />
+				<img src="/_img/logo_hm_gov2.jpg" width="167" height="31" alt="HM Government" />
 			</a>
 		</div>
 		<!-- imgwrap --> 

@@ -111,16 +111,16 @@
 								<div>
 									<h2>Follow us on</h2>
 									<div>
-										<a href="https://www.facebook.com/BusinessSupportGov" title="View and follow Business Link Facebook page" rel="external"><img border="0" alt="Join us on Facebook" src="/_img/about_facebook.gif" /> Facebook</a>
+										<a href="https://www.facebook.com/BusinessSupportGov" title="View and follow Business Link Facebook page" rel="external"><img alt="Join us on Facebook" src="/_img/about_facebook.gif" /> Facebook</a>
 									</div>
 									<div>
-										<a href="http://www.linkedin.com/company/businesslink.gov.uk" title="View and follow Business Link LinkedIn page" rel="external"><img border="0" alt="Join us on LinkedIn" src="/_img/about_linkedin.gif" /> LinkedIn</a>
+										<a href="http://www.linkedin.com/company/businesslink.gov.uk" title="View and follow Business Link LinkedIn page" rel="external"><img alt="Join us on LinkedIn" src="/_img/about_linkedin.gif" /> LinkedIn</a>
 									</div>
 									<div>
-										<a href="https://twitter.com/BusinessLinkGov" title="View and follow Business Link on Twitter" rel="external"><img border="0" alt="Follow us on Twitter" src="/_img/about_twitters.gif" /> Twitter</a>
+										<a href="https://twitter.com/BusinessLinkGov" title="View and follow Business Link on Twitter" rel="external"><img alt="Follow us on Twitter" src="/_img/about_twitters.gif" /> Twitter</a>
 									</div>
 									<div>
-										<a href="http://www.youtube.com/user/BusinessLinkGov" title="View videos on the Business Link YouTube channel" rel="external"><img border="0" alt="Follow us on YouTube" src="/_img/about_youtubes.gif" /> YouTube</a>
+										<a href="http://www.youtube.com/user/BusinessLinkGov" title="View videos on the Business Link YouTube channel" rel="external"><img alt="Follow us on YouTube" src="/_img/about_youtubes.gif" /> YouTube</a>
 									</div>
 								</div>
 							</div>

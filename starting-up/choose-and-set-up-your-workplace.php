@@ -47,7 +47,7 @@
 		</div>
 	</div>
 	<div>
-		<img src="/_img/Choosing_and_setting_up_pre.jpg" width="146" height="146" border="0" alt=" " />
+		<img src="/_img/Choosing_and_setting_up_pre.jpg" width="146" height="146" alt=" " />
 	</div>
 </div>
 

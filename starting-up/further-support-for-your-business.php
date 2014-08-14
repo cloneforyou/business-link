@@ -51,7 +51,7 @@
 		</div>
 	</div>
 	<div>
-		<img src="/_img/Choosing_advisers_and_services.jpg" width="146" height="146" border="0" alt=" " />
+		<img src="/_img/Choosing_advisers_and_services.jpg" width="146" height="146" alt=" " />
 	</div>
 </div>
 

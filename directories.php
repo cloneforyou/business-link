@@ -17,18 +17,18 @@
 	
 	<div>
 		<h1>Directories</h1>
-		<table border="0" cellpadding="0" cellspacing="0">
+		<table cellpadding="0" cellspacing="0">
 			<tr>
 				<td>
 					<a href="https://www.gov.uk/events-finder" title="Search for business training and networking events" rel="external">
-						<img src="/_img/TL0011.jpg" width="76" height="76" border="0" alt="Find events from a variety of organisations" />
+						<img src="/_img/TL0011.jpg" width="76" height="76" alt="Find events from a variety of organisations" />
 						<h2>Find events</h2>
 						<p>Search or browse for business events throughout the UK</p>
 					</a>
 				</td>
 				<td>
 					<a href="#">
-						<img src="/_img/TL0012.jpg" width="76" height="76" border="0" alt="Find contact details from our database of over 4,000 organisations" />
+						<img src="/_img/TL0012.jpg" width="76" height="76" alt="Find contact details from our database of over 4,000 organisations" />
 						<h2>Find a contact</h2>
 						<p>Search our database of more than 4,000 business and government contacts</p>
 					</a>
@@ -37,14 +37,14 @@
 			<tr>
 				<td>
 					<a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" rel="external">
-						<img src="/_img/tutorial_02.jpg" width="76" height="76" border="0" alt="Start-up learning directory" />
+						<img src="/_img/tutorial_02.jpg" width="76" height="76" alt="Start-up learning directory" />
 						<h2>Start-up learning directory</h2>
 						<p>Find over 200 videos and e-learning courses on a wide range of start-up topics</p>
 					</a>
 				</td>
 				<td>
 					<a href="https://www.gov.uk/growing-your-business" title="Growing your business" rel="external">
-						<img src="/_img/support_finder_1.jpg" width="76" height="76" border="0" alt="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible" />
+						<img src="/_img/support_finder_1.jpg" width="76" height="76" alt="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible" />
 						<h2>Business support finder</h2>
 						<p>Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</p>
 					</a>
@@ -53,14 +53,14 @@
 			<tr>
 				<td>
 					<a href="#">
-						<img src="/_img/glossary.jpg" width="76" height="76" border="0" alt="Search our online dictionary of business terms" />
+						<img src="/_img/glossary.jpg" width="76" height="76" alt="Search our online dictionary of business terms" />
 						<h2>Glossary</h2>
 						<p>Find definitions of useful business terms in our glossary</p>
 					</a>
 				</td>
 				<td>
 					<a href="/training-directory.php.html">
-						<img src="/_img/TL0010.jpg" width="76" height="76" border="0" alt="Search our Training Directory for details of courses currently available" />
+						<img src="/_img/TL0010.jpg" width="76" height="76" alt="Search our Training Directory for details of courses currently available" />
 						<h2>Training Directory</h2>
 						<p>Find online training courses or search for workshops and seminars</p>
 					</a>
@@ -69,14 +69,14 @@
 			<tr>
 				<td>
 					<a href="/find-a-case-study.php">
-						<img src="/_img/find_case_study.jpg" width="76" height="76" border="0" alt="Browse our library of case studies to find out how business owners and managers have tackled real-life challenges and opportunities" />
+						<img src="/_img/find_case_study.jpg" width="76" height="76" alt="Browse our library of case studies to find out how business owners and managers have tackled real-life challenges and opportunities" />
 						<h2>Find a case study</h2>
 						<p>Explore the many case studies on our website through an easy browse interface</p>
 					</a>
 				</td>
 				<td>
 					<a href="https://www.gov.uk/growing-your-business" title="Growing your business" rel="external">
-						<img src="/_img/award_finder.jpg" width="76" height="76" border="0" alt="Search our Business Awards Finder to find business recognition awards you may be eligible to apply forbafSearch" />
+						<img src="/_img/award_finder.jpg" width="76" height="76" alt="Search our Business Awards Finder to find business recognition awards you may be eligible to apply forbafSearch" />
 						<h2>Business awards finder</h2>
 						<p>Search our database to find awards that your business may be eligible to enter</p>
 					</a>
@@ -85,14 +85,14 @@
 			<tr>
 				<td>
 					<a href="detail29fc.html?itemId=1084515656&amp;type=ONEOFFPAGE" title="Links to interactive tools">
-						<img src="/_img/tools_wn.jpg" width="76" height="76" border="0" alt="Links to interactive tools" />
+						<img src="/_img/tools_wn.jpg" width="76" height="76" alt="Links to interactive tools" />
 						<h2>Tools directory</h2>
 						<p>Interactive tools to help you run your business</p>
 					</a>
 				</td>
 				<td>
 					<a href="/tools-directory.php.html">
-						<img src="/_img/TL0014.jpg" width="76" height="76" border="0" alt="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies" />
+						<img src="/_img/TL0014.jpg" width="76" height="76" alt="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies" />
 						<h2>Do it online</h2>
 						<p>Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies</p>
 					</a>

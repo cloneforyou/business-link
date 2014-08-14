@@ -12,7 +12,7 @@
 
 <?php include("inc/skip-links.php"); ?>
 
-<div id="logo"> <a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" border="0" /></a> </div>
+<div id="logo"> <a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" /></a> </div>
 <div id="strapline">Information. Support. Compliance.</div>
 <span style="position:absolute;"><a name="skiplogin" id="skiplogin"></a></span>
 <div id="login">
@@ -48,7 +48,7 @@
 				<div id="developedWithBox">
 					<dl>
 						<dt>In partnership with:</dt>
-						<dd> <a href="http://www.companieshouse.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" onclick="p=window.open('http://www.companieshouse.gov.uk/', 'bgExternalwwwbusinesslinkgovuk');p.focus();" title="Companies House - Opens in a new window"><img src="../../Taxes_and_Returns_images/ch_big_logo_new.jpg" width="115" height="81" border="0" alt="" />Companies House<span class="screenreadertext"> - Opens in a new window</span></a> </dd>
+						<dd> <a href="http://www.companieshouse.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" onclick="p=window.open('http://www.companieshouse.gov.uk/', 'bgExternalwwwbusinesslinkgovuk');p.focus();" title="Companies House - Opens in a new window"><img src="../../Taxes_and_Returns_images/ch_big_logo_new.jpg" width="115" height="81" alt="" />Companies House<span class="screenreadertext"> - Opens in a new window</span></a> </dd>
 					</dl>
 				</div>
 			</div>

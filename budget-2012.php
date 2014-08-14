@@ -50,9 +50,9 @@
 		<div>
 			<div>
 				<div>
-					<table border="0" cellpadding="0" cellspacing="0">
+					<table cellpadding="0" cellspacing="0">
 						<tr>
-							<td><img src="/_img/Budgetoneoffpage.jpg" width="181" height="121" border="0" alt="" /></td>
+							<td><img src="/_img/Budgetoneoffpage.jpg" width="181" height="121" alt="" /></td>
 						</tr>
 					</table>
 				</div>

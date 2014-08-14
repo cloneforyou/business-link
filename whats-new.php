@@ -12,7 +12,7 @@
 
 <?php include("inc/skip-links.php"); ?>
 
-<div> <a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" border="0" /></a> </div>
+<div> <a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" /></a> </div>
 <div>Information. Support. Compliance.</div>
 <span><a name="skiplogin"></a></span>
 <div>
@@ -31,14 +31,14 @@
 		<div>
 		<h1>What's new?</h1>
 		<h2>What's new: just published resources</h2>
-		<table border="0" cellpadding="0" cellspacing="0" width="534">
+		<table cellpadding="0" cellspacing="0" width="534">
 				<tr>
-				<td><a href="detail39a9.html?itemId=1097621079&amp;type=ONEOFFPAGE"   title="GOV.UK will launch in October" ><img src="../../Promotions_images/gds_small_black.jpg" width="76" height="76" align="left" border="0" alt="GOV.UK will launch in October" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="detail39a9.html?itemId=1097621079&amp;type=ONEOFFPAGE"   title="GOV.UK will launch in October" ><img src="../../Promotions_images/gds_small_black.jpg" width="76" height="76" align="left" alt="GOV.UK will launch in October" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detail39a9.html?itemId=1097621079&amp;type=ONEOFFPAGE"   title="GOV.UK will launch in October" >businesslink.gov.uk is changing</a></h2>
 						<p>GOV.UK October launch<br />
 					</p></td>
 				<td><img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" /></td>
-				<td><a href="detailca8b.html?itemId=1097618306&amp;type=ONEOFFPAGE"   title="Make the connections you need to take your business overseas" ><img src="../../Promotions_images/Opentoexport_small.jpg" width="76" height="76" align="left" border="0" alt="Make the connections you need to take your business overseas" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="detailca8b.html?itemId=1097618306&amp;type=ONEOFFPAGE"   title="Make the connections you need to take your business overseas" ><img src="../../Promotions_images/Opentoexport_small.jpg" width="76" height="76" align="left" alt="Make the connections you need to take your business overseas" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detailca8b.html?itemId=1097618306&amp;type=ONEOFFPAGE"   title="Make the connections you need to take your business overseas" >Open to Export</a></h2>
 						<p>Make the connections you need to take your business overseas</p></td>
 			</tr>
@@ -56,17 +56,17 @@
 				<li><a href="http://improve.businesslink.gov.uk/resources/business-awards-finder" target="bgExternalwwwbusinesslinkgovuk" onclick="p=window.open('http://improve.businesslink.gov.uk/resources/business-awards-finder', 'bgExternalwwwbusinesslinkgovuk');p.focus();"  title="Search our Business Awards Finder to find business recognition awards you may be eligible to apply forbafSearch - Opens in a new window" >Business awards finder - Search our new database for business recognition awards that could boost your business' profile <span> - Opens in a new window</span></a></li>
 			</ul>
 		<h2>What's new: advice and support</h2>
-		<table border="0" cellpadding="0" cellspacing="0" width="534">
+		<table cellpadding="0" cellspacing="0" width="534">
 				<tr>
 				<td><a href="detailaf84.html?itemId=1097557603&amp;type=ONEOFFPAGE"   title="GrowthAccelerator is the new premier service that helps ambitious businesses achieve rapid, high and sustainable growth.
 
-If you????re an ambitious business you????re in a race for growth. You????re already good but you want to be bigger and even better. " ><img src="../../Promotions_images/GA_small.jpg" width="76" height="76" align="left" border="0" alt="GrowthAccelerator is the new premier service that helps ambitious businesses achieve rapid, high and sustainable growth. If you????re an ambitious business you????re in a race for growth. You????re already good but you want to be bigger and even better." /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+If you????re an ambitious business you????re in a race for growth. You????re already good but you want to be bigger and even better. " ><img src="../../Promotions_images/GA_small.jpg" width="76" height="76" align="left" alt="GrowthAccelerator is the new premier service that helps ambitious businesses achieve rapid, high and sustainable growth. If you????re an ambitious business you????re in a race for growth. You????re already good but you want to be bigger and even better." /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detailaf84.html?itemId=1097557603&amp;type=ONEOFFPAGE"   title="GrowthAccelerator is the new premier service that helps ambitious businesses achieve rapid, high and sustainable growth.
 
 If you????re an ambitious business you????re in a race for growth. You????re already good but you want to be bigger and even better. " >GrowthAccelerator</a></h2>
 						<p>For MDs who want to double their business in three years</p></td>
 				<td><img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" /></td>
-				<td><a href="detailf4e4.html?itemId=1097558955&amp;type=ONEOFFPAGE"   title="Government initiative to unleash the latent entrepreneurialism in public sector employees" ><img src="../../Promotions_images/mutuals_small.jpg" width="76" height="76" align="left" border="0" alt="Government initiative to unleash the latent entrepreneurialism in public sector employees" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="detailf4e4.html?itemId=1097558955&amp;type=ONEOFFPAGE"   title="Government initiative to unleash the latent entrepreneurialism in public sector employees" ><img src="../../Promotions_images/mutuals_small.jpg" width="76" height="76" align="left" alt="Government initiative to unleash the latent entrepreneurialism in public sector employees" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detailf4e4.html?itemId=1097558955&amp;type=ONEOFFPAGE"   title="Government initiative to unleash the latent entrepreneurialism in public sector employees" >Make It Mutual</a></h2>
 						<p>Government initiative to unleash the latent entrepreneurialism in public sector employees</p></td>
 			</tr>
@@ -79,13 +79,13 @@ If you????re an ambitious business you????re in a race for growth. You????re alr
 				<li><a href="detail29fc.html?itemId=1084515656&amp;type=ONEOFFPAGE"   title="Links to interactive tools" >Tools Directory - Interactive tools to help you run your business </a></li>
 			</ul>
 		<h2>What's new: regulations and your business</h2>
-		<table border="0" cellpadding="0" cellspacing="0" width="534">
+		<table cellpadding="0" cellspacing="0" width="534">
 				<tr>
-				<td><a href="detailbaad.html?itemId=1075320304&amp;type=ONEOFFPAGE"   title="Regulations that come into force in October 2012" ><img src="../../Promotions_images/cc_dates_theme.jpg" width="76" height="76" align="left" border="0" alt="Regulations that come into force in October 2012" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="detailbaad.html?itemId=1075320304&amp;type=ONEOFFPAGE"   title="Regulations that come into force in October 2012" ><img src="../../Promotions_images/cc_dates_theme.jpg" width="76" height="76" align="left" alt="Regulations that come into force in October 2012" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detailbaad.html?itemId=1075320304&amp;type=ONEOFFPAGE"   title="Regulations that come into force in October 2012" >October 2012 regulation changes</a></h2>
 						<p>Find out how October's regulation changes affect your business</p></td>
 				<td><img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" /></td>
-				<td><img src="../../Horizontal_Services_images/trade_wn.jpg" width="76" height="76" align="left" border="0" alt="" /> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><img src="../../Horizontal_Services_images/trade_wn.jpg" width="76" height="76" align="left" alt="" /> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2>London 2012 Olympics</h2>
 						<p>New advertising and trading regulations introduced around venues</p></td>
 			</tr>
@@ -99,13 +99,13 @@ If you????re an ambitious business you????re in a race for growth. You????re alr
 				<li><a href="http://online.businesslink.gov.uk/bdotg/action/sectorsSIMLandingPage"   title="Licences and contacts specific to your business area" >Your Licence and Compliance Requirements  - Find summaries of licences and contacts for your business </a></li>
 			</ul>
 		<h2>What's new: latest government campaigns &amp; announcements</h2>
-		<table border="0" cellpadding="0" cellspacing="0" width="534">
+		<table cellpadding="0" cellspacing="0" width="534">
 				<tr>
-				<td><a href="detailf16d.html?itemId=1097560627&amp;type=ONEOFFPAGE"   title="Initiative to let unused government estate to business start ups" ><img src="../../Promotions_images/IncubationLogo_small.jpg" width="76" height="76" align="left" border="0" alt="Initiative to let unused government estate to business start ups" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="detailf16d.html?itemId=1097560627&amp;type=ONEOFFPAGE"   title="Initiative to let unused government estate to business start ups" ><img src="../../Promotions_images/IncubationLogo_small.jpg" width="76" height="76" align="left" alt="Initiative to let unused government estate to business start ups" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detailf16d.html?itemId=1097560627&amp;type=ONEOFFPAGE"   title="Initiative to let unused government estate to business start ups" >Let the Entrepreneurs in </a></h2>
 						<p>Initiative to let unused Government space to Business start-ups</p></td>
 				<td><img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" /></td>
-				<td><a href="http://www.hmrc.gov.uk/campaigns/emarket.htm" target="bgExternalwwwbusinesslinkgovuk" onclick="p=window.open('http://www.hmrc.gov.uk/campaigns/emarket.htm', 'bgExternalwwwbusinesslinkgovuk');p.focus();"  title="HMRC e-market campaigns - Opens in a new window" ><img src="../../Promotions_images/shoppingcart_website_small.jpg" width="76" height="76" align="left" border="0" alt="HMRC e-market campaigns" /><span> - Opens in a new window</span></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="http://www.hmrc.gov.uk/campaigns/emarket.htm" target="bgExternalwwwbusinesslinkgovuk" onclick="p=window.open('http://www.hmrc.gov.uk/campaigns/emarket.htm', 'bgExternalwwwbusinesslinkgovuk');p.focus();"  title="HMRC e-market campaigns - Opens in a new window" ><img src="../../Promotions_images/shoppingcart_website_small.jpg" width="76" height="76" align="left" alt="HMRC e-market campaigns" /><span> - Opens in a new window</span></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="http://www.hmrc.gov.uk/campaigns/emarket.htm" target="bgExternalwwwbusinesslinkgovuk" onclick="p=window.open('http://www.hmrc.gov.uk/campaigns/emarket.htm', 'bgExternalwwwbusinesslinkgovuk');p.focus();"  title="HMRC e-market campaigns - Opens in a new window" >e-marketplaces campaign<span> - Opens in a new window</span></a></h2>
 						<p>14 September 2012 is the last date your disclosure form and payment must reach HMRC</p></td>
 			</tr>
@@ -120,13 +120,13 @@ If you????re an ambitious business you????re in a race for growth. You????re alr
 				<li><a href="detailf470.html?itemId=1096705244&amp;type=ONEOFFPAGE"   title="Enabling the Transition to a Green Economy: government and business working together - a new publication which sets out what the transition to a green economy means for businesses" >Enabling the Transition to a Green Economy - The government's new publication on improving sustainability</a></li>
 			</ul>
 		<h2>What's new: in the workplace</h2>
-		<table border="0" cellpadding="0" cellspacing="0" width="534">
+		<table cellpadding="0" cellspacing="0" width="534">
 				<tr>
-				<td><a href="detailf55a.html?itemId=1096974123&amp;type=ONEOFFPAGE"   title="We have launched three new tools to help you through the process of taking on a new member of staff" ><img src="../../Horizontal_Services_images/TP_PR0067.jpg" width="76" height="76" align="left" border="0" alt="We have launched three new tools to help you through the process of taking on a new member of staff" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="detailf55a.html?itemId=1096974123&amp;type=ONEOFFPAGE"   title="We have launched three new tools to help you through the process of taking on a new member of staff" ><img src="../../Horizontal_Services_images/TP_PR0067.jpg" width="76" height="76" align="left" alt="We have launched three new tools to help you through the process of taking on a new member of staff" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detailf55a.html?itemId=1096974123&amp;type=ONEOFFPAGE"   title="We have launched three new tools to help you through the process of taking on a new member of staff" >Taking on a new member of staff?</a></h2>
 						<p>Use our new and improved interactive tools</p></td>
 				<td><img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" /></td>
-				<td><a href="detail2470.html?itemId=1096860575&amp;type=ONEOFFPAGE"   title="Tradesmen get a helping hand with a business information portal created in conjunction with Businesslink.gov.uk" ><img src="../../Horizontal_Services_images/TP_hard_hat.jpg" width="76" height="76" align="left" border="0" alt="Tradesmen get a helping hand with a business information portal created in conjunction with Businesslink.gov.uk" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="detail2470.html?itemId=1096860575&amp;type=ONEOFFPAGE"   title="Tradesmen get a helping hand with a business information portal created in conjunction with Businesslink.gov.uk" ><img src="../../Horizontal_Services_images/TP_hard_hat.jpg" width="76" height="76" align="left" alt="Tradesmen get a helping hand with a business information portal created in conjunction with Businesslink.gov.uk" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detail2470.html?itemId=1096860575&amp;type=ONEOFFPAGE"   title="Tradesmen get a helping hand with a business information portal created in conjunction with Businesslink.gov.uk" >Wickes launches Tradebuilder website </a></h2>
 						<p>Tradesmen get a helping hand withthis newbusiness information portal</p></td>
 			</tr>
@@ -141,25 +141,25 @@ If you????re an ambitious business you????re in a race for growth. You????re alr
 				<li><a href="detailb7bd.html?itemId=1085121706&amp;type=ONEOFFPAGE"   title="New guidance on handling and avoiding insolvency" >Managing financial difficulty - Read our new guidance on your options and obligations </a></li>
 			</ul>
 		<h2>Budget</h2>
-		<table border="0" cellpadding="0" cellspacing="0" width="534">
+		<table cellpadding="0" cellspacing="0" width="534">
 				<tr>
-				<td><a href="detail091e.html?itemId=1084757367&amp;type=ONEOFFPAGE"   title="How will the Budget affect your business?" ><img src="../../Horizontal_Services_images/Budgetsmallpromo.jpg" width="76" height="76" align="left" border="0" alt="How will the Budget affect your business?" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="detail091e.html?itemId=1084757367&amp;type=ONEOFFPAGE"   title="How will the Budget affect your business?" ><img src="../../Horizontal_Services_images/Budgetsmallpromo.jpg" width="76" height="76" align="left" alt="How will the Budget affect your business?" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detail091e.html?itemId=1084757367&amp;type=ONEOFFPAGE"   title="How will the Budget affect your business?" >Budget 2012</a></h2>
 						<p>How the Budget will affect your business</p></td>
 				<td><img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" /></td>
-				<td><a href="detail1d27.html?itemId=1097306131&amp;type=ONEOFFPAGE"   title="How the Autumn Statement will affect your business" ><img src="../../Horizontal_Services_images/Autstatementsml.jpg" width="76" height="76" align="left" border="0" alt="How the Autumn Statement will affect your business" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="detail1d27.html?itemId=1097306131&amp;type=ONEOFFPAGE"   title="How the Autumn Statement will affect your business" ><img src="../../Horizontal_Services_images/Autstatementsml.jpg" width="76" height="76" align="left" alt="How the Autumn Statement will affect your business" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detail1d27.html?itemId=1097306131&amp;type=ONEOFFPAGE"   title="How the Autumn Statement will affect your business" >Autumn Statement 2011</a></h2>
 						<p>Autumn Statement 2011</p></td>
 			</tr>
 			</table>
 		<h2>You may also be interested in...</h2>
-		<table border="0" cellpadding="0" cellspacing="0" width="534">
+		<table cellpadding="0" cellspacing="0" width="534">
 				<tr>
-				<td><a href="detail4bbb.html?itemId=1086146761&amp;type=CAMPAIGN"   title="Truck stops finder" ><img src="../../Horizontal_Services_images/truckstops_spotlight.jpg" width="76" height="76" align="left" border="0" alt="Truck stops finder" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="detail4bbb.html?itemId=1086146761&amp;type=CAMPAIGN"   title="Truck stops finder" ><img src="../../Horizontal_Services_images/truckstops_spotlight.jpg" width="76" height="76" align="left" alt="Truck stops finder" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detail4bbb.html?itemId=1086146761&amp;type=CAMPAIGN"   title="Truck stops finder" >New Truck stops finder available</a></h2>
 						<p>Use the Highways Agency service to view details of more than 90 truck stops in England</p></td>
 				<td><img src="../../syntegra/images/px_trans.gif" width="12" height="1" alt="" /></td>
-				<td><a href="detail50f4.html?itemId=1085244428&amp;type=ONEOFFPAGE"   title="HMRC's weekly employer update" ><img src="../../Horizontal_Services_images/paye_rates76.gif" width="76" height="76" align="left" border="0" alt="HMRC's weekly employer update" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
+				<td><a href="detail50f4.html?itemId=1085244428&amp;type=ONEOFFPAGE"   title="HMRC's weekly employer update" ><img src="../../Horizontal_Services_images/paye_rates76.gif" width="76" height="76" align="left" alt="HMRC's weekly employer update" /></a> <img src="../../syntegra/images/tablanding_top.gif" alt="" width="185" height="10" />
 						<h2><a href="detail50f4.html?itemId=1085244428&amp;type=ONEOFFPAGE"   title="HMRC's weekly employer update" >What's new for PAYE</a></h2>
 						<p>News, changes and updates from HMRC</p></td>
 			</tr>

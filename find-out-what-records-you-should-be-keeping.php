@@ -14,7 +14,7 @@
 
 <?php include("inc/skip-links.php"); ?>
 
-<div> <a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" border="0" /></a> </div>
+<div> <a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" /></a> </div>
 <div>Information. Support. Compliance.</div>
 <span><a name="skiplogin"></a></span>
 <div>
@@ -34,7 +34,7 @@
 		<div>
 				<h1>Find out what records you should be keeping</h1>
 				<h2>Introduction</h2>
-				<span><img src="../../Taxes_and_Returns_images/DTree_tax_accounts.gif" width="78" height="118" border="0" alt="Accounts" /></span>
+				<span><img src="../../Taxes_and_Returns_images/DTree_tax_accounts.gif" width="78" height="118" alt="Accounts" /></span>
 				<p>This tool identifies the records you must keep as a business and assesses how well you are keeping them.</p>
 				<p>The tool works in two ways. If you are thinking of starting up, it will ask you a few simple questions aboutwhat you are doingbefore providing a list of the records you will need to keep. This option onlytakes a minute or two to complete.</p>
 				<p>If you are already running a business, it will establish the records you need to keep and then ask you a series of questions about what records you currently keep and how you maintain them, before giving you feedback and advice on any improvements you may need to make. This option may take between five and ten minutes to answer all questions depending on the size and nature of your business.</p>
@@ -52,7 +52,7 @@
 				<li><a href="detailbb7f.html?itemId=1082224946&amp;type=CASE STUDIES"  >Here's how a business adviser helped me with my tax bill (Flash video)</a></li>
 			</ul>
 				<p><img src="../../syntegra/images/hr_325px_global.gif" alt="" /></p>
-				<div> <strong>Print options</strong> - <span><a href="http://online.businesslink.gov.uk/bdotg/action/openpopup?flag=p&amp;itemId=1075331869&amp;r.i=1081913206&amp;r.t=RESOURCES&amp;type=ONEOFFPAGE" title="What are my print options? - Opens in a new window" target="bgPopup">What are my print options <img src="../../Horizontal_Services_images/whatisthis.gif" width="9" height="11" border="0" alt="" /><span> - Opens in a new window</span></a></span>
+				<div> <strong>Print options</strong> - <span><a href="http://online.businesslink.gov.uk/bdotg/action/openpopup?flag=p&amp;itemId=1075331869&amp;r.i=1081913206&amp;r.t=RESOURCES&amp;type=ONEOFFPAGE" title="What are my print options? - Opens in a new window" target="bgPopup">What are my print options <img src="../../Horizontal_Services_images/whatisthis.gif" width="9" height="11" alt="" /><span> - Opens in a new window</span></a></span>
 				<ul>
 						<script type="text/javascript">
 				<!--
@@ -64,7 +64,7 @@
 					</noscript>
 						<li><a href="http://online.businesslink.gov.uk/bdotg/action/addGuide?refPage=%2Fbdotg%2Faction%2Flayer%3Fatom_id%3D0.PR386149%26topicId%3D1085697567&amp;topicId=1085697567"  title="" >Add guide to my print portfolio (print later as PDF)</a></li>
 					</ul>
-				<strong>Email options</strong> - <span><a href="http://online.businesslink.gov.uk/bdotg/action/openpopup?flag=e&amp;itemId=1075331868&amp;r.i=1081913206&amp;r.t=RESOURCES&amp;type=ONEOFFPAGE" title="What are my email options? - Opens in a new window" target="bgPopup">What are my email options <img src="../../Horizontal_Services_images/whatisthis.gif" width="9" height="11" border="0" alt="" /><span> - Opens in a new window</span></a></span>
+				<strong>Email options</strong> - <span><a href="http://online.businesslink.gov.uk/bdotg/action/openpopup?flag=e&amp;itemId=1075331868&amp;r.i=1081913206&amp;r.t=RESOURCES&amp;type=ONEOFFPAGE" title="What are my email options? - Opens in a new window" target="bgPopup">What are my email options <img src="../../Horizontal_Services_images/whatisthis.gif" width="9" height="11" alt="" /><span> - Opens in a new window</span></a></span>
 				<ul>
 						<li><a href="http://online.businesslink.gov.uk/bdotg/action/emailafriend?refPage=%2Fbdotg%2Faction%2Flayer%3Fatom_id%3D0.PR386149%26topicId%3D1085697567&amp;topicId=1085697567" title="Tell a friend about this page" >Tell a friend about this page</a></li>
 						<li><a href="https://online.businesslink.gov.uk/bdotg/action/subscribeAlert?alertType=TOPIC&amp;refPage=%2Fbdotg%2Faction%2Flayer%3Fatom_id%3D0.PR386149%26topicId%3D1085697567&amp;topicId=1085697567" title="Send me an email alert when this guide changes" >Send me an email alert when this guide changes</a></li>
@@ -75,7 +75,7 @@
 				<div>
 				<dl>
 						<dt>Developed with:</dt>
-						<dd><a href="http://www.hmrc.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" title="HM Revenue &amp; Customs - Opens in a new window"><img src="../../Taxes_and_Returns_images/HMRC_logo.gif" width="134" height="35" border="0" alt="" />HM Revenue &amp; Customs<span> - Opens in a new window</span></a> </dd>
+						<dd><a href="http://www.hmrc.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" title="HM Revenue &amp; Customs - Opens in a new window"><img src="../../Taxes_and_Returns_images/HMRC_logo.gif" width="134" height="35" alt="" />HM Revenue &amp; Customs<span> - Opens in a new window</span></a> </dd>
 					</dl>
 			</div>
 			</div>

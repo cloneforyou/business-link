@@ -35,7 +35,7 @@
 		</div>
 	</div>
 	<div>
-		<img src="/_img/Income_corp.jpg" width="146" height="146" border="0" alt="" />
+		<img src="/_img/Income_corp.jpg" width="146" height="146" alt="" />
 	</div>
 </div>
 

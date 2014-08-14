@@ -12,7 +12,7 @@
 
 <?php include("inc/skip-links.php"); ?>
 
-<div> <a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" border="0" /></a> </div>
+<div> <a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" /></a> </div>
 <div>Information. Support. Compliance.</div>
 <span><a name="skiplogin"></a></span>
 <div>

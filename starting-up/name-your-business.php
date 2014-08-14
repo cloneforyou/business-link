@@ -39,7 +39,7 @@
 		</div>
 	</div>
 	<div>
-		<img src="/_img/naming_your_business.jpg" width="146" height="146" border="0" alt="" />
+		<img src="/_img/naming_your_business.jpg" width="146" height="146" alt="" />
 	</div>
 </div>
 
