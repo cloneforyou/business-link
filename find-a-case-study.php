@@ -12,9 +12,8 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <div> 
-	<!-- Page breadcrumb -->
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
-	<span><a name="skipcont"></a></span>
+	
 	<div>
 		<div>
 			<h1>Find a case study</h1>
@@ -28,54 +27,55 @@
 				<div>
 					<ul>
 						<li>
-							<a href="browse-by-theme-starting-up.php">Starting up</a>
+							<a href="/find-a-case-study/browse-by-theme-starting-up.php.html">Starting up</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-finance-and-grants.php">Finance and grants</a>
+							<a href="/find-a-case-study/browse-by-theme-finance-and-grants.php.html">Finance and grants</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-tax-payroll-and-company-information.php">Tax, payroll and company information</a>
+							<a href="/find-a-case-study/browse-by-theme-tax-payroll-and-company-information.php.html">Tax, payroll and company information</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-employment-and-skills.php">Employment &amp; skills</a>
+							<a href="/find-a-case-study/browse-by-theme-employment-and-skills.php.html">Employment &amp; skills</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-workplace-health-and-safety.php">Workplace health &amp; safety</a>
+							<a href="/find-a-case-study/browse-by-theme-workplace-health-and-safety.php.html">Workplace health &amp; safety</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-environment-and-efficiency.php">Environment &amp; efficiency</a>
+							<a href="/find-a-case-study/browse-by-theme-environment-and-efficiency.php.html">Environment &amp; efficiency</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-premises-and-property.php">Premises and property</a>
+							<a href="/find-a-case-study/browse-by-theme-premises-and-property.php.html">Premises and property</a>
 						</li>
 						<li>
-							<a href="browser-by-theme-create-innovate-and-protect.php">Create, innovate and protect</a>
+							<a href="/find-a-case-study/browser-by-theme-create-innovate-and-protect.php.html">Create, innovate and protect</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-it-and-ecommerce.php">IT &amp; e-commerce</a>
+							<a href="/find-a-case-study/browse-by-theme-it-and-ecommerce.php.html">IT &amp; e-commerce</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-sales-and-marketing.php">Sales and marketing</a>
+							<a href="/find-a-case-study/browse-by-theme-sales-and-marketing.php.html">Sales and marketing</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-international-trade.php">International trade</a>
+							<a href="/find-a-case-study/browse-by-theme-international-trade.php.html">International trade</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-grow-your-business.php">Grow your business</a>
+							<a href="/find-a-case-study/browse-by-theme-grow-your-business.php.html">Grow your business</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-buy-or-sell-a-business.php">Buy or sell a business</a>
+							<a href="/find-a-case-study/browse-by-theme-buy-or-sell-a-business.php.html">Buy or sell a business</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-for-professional-advisers.php">For professional advisers</a>
+							<a href="/find-a-case-study/browse-by-theme-for-professional-advisers.php.html">For professional advisers</a>
 						</li>
 						<li>
-							<a href="browse-by-theme-your-business-sector.php">Your business sector</a>
+							<a href="/find-a-case-study/browse-by-theme-your-business-sector.php.html">Your business sector</a>
 						</li>
 					</ul>
 				</div>
 			</div>
 		</div>
 	</div>
+</div>
 	
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>
