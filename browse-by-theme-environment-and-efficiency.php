@@ -13,7 +13,7 @@
 
 <!-- Page breadcrumb -->
 <div id="breadcrumb">
-	<p><a href="home.html">Home</a> &gt; <a href="find-a-case-study.php">Find a case study</a> &gt; Browse by theme</p>
+	<p><a href="index.php">Home</a> &gt; <a href="find-a-case-study.php">Find a case study</a> &gt; Browse by theme</p>
 </div>
 
 <span><a name="skipcont" id="skipcont"></a></span>

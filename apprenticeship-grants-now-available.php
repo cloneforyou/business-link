@@ -13,11 +13,8 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <div>
-	<div>
-		<p><a href="home.html">Home</a>&gt;Get &pound;1,500 for recruiting an apprentice aged 16 to 24</p>
-	</div>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 
-	<span><a name="skipcont"></a></span>
 		<div>
 			<div>
 				<h1>Apprenticeship grants now available</h1>

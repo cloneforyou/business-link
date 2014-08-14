@@ -12,7 +12,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <div id="breadcrumb">
-	<p><a href="home.html">Home</a> &gt; <a href="/starting-up.php">Starting Up</a> &gt; [title]</p>
+	<p><a href="index.php">Home</a> &gt; <a href="/starting-up.php">Starting Up</a> &gt; [title]</p>
 </div>
 
 <span><a name="skipcont" id="skipcont"></a></span>

@@ -13,11 +13,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <div>
-	<div>
-		<p><a href="home.html">Home</a> &gt; Directories</p>
-	</div>
-	
-	<span><a name="skipcont" id="skipcont"></a></span>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 	
 	<div>
 		<h1>Directories</h1>
