@@ -281,13 +281,13 @@
 							<a href="file-company-information-online-using-companies-house-webfiling.php" title="File most company information online (some services require payment)">File company details with WebFiling</a>
 						</li>
 						<li>
-							<a href="using-vat-online.php" title="Access to HMRC VAT online and links to information on service availability and support">Submit your VAT Return online</a>
+							<a href="/do-it-online/using-vat-online.php" title="Access to HMRC VAT online and links to information on service availability and support">Submit your VAT Return online</a>
 						</li>
 						<li>
 							<a href="incorporate-your-company-online.php" title="Incorporate your company online as a private company, limited by shares, with model articles of association">Incorporate your limited company online with Companies House</a>
 						</li>
 						<li>
-							<a href="use-paye-online-for-employers.php" title="Access HMRC's PAYE Online for employers services">Log in or register for PAYE Online</a>
+							<a href="/do-it-online/use-paye-online-for-employers.php" title="Access HMRC's PAYE Online for employers services">Log in or register for PAYE Online</a>
 						</li>
 						<li>
 							<a href="regulation-licences-and-compliance.php" title="Find and apply for licences and permits for your business">Apply for licences</a>
