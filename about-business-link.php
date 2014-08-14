@@ -39,10 +39,10 @@
 									</div>
 									<div>
 										<ul>
-											<li><a href="files/business_link_annual_review_0910.pdf" title="Download the Business Link Annual Review 2009-10 (PDF, 1,001KB)" rel="external">2009-10 Annual Review<span> - Opens in a new window</span></a></li>
+											<li><a href="/_files/business_link_annual_review_0910.pdf" title="Download the Business Link Annual Review 2009-10 (PDF, 1,001KB)" rel="external">2009-10 Annual Review<span> - Opens in a new window</span></a></li>
 											<li><a href="budget-2012.php">2011 Budget Summary</a></li>
-											<li><a href="files/bigger_better_business.pdf" title="A guide to helping small firms start, grow and prosper (PDF, 114KB)" rel="external">Bigger, Better Business<span> - Opens in a new window</span></a></li>
-											<li><a href="files/local_growth_white_paper.pdf" title="The Government's white paper on encouraging local growth (PDF, 1,940KB)" rel="external">Local Growth White Paper<span> - Opens in a new window</span></a></li>
+											<li><a href="/_files/bigger_better_business.pdf" title="A guide to helping small firms start, grow and prosper (PDF, 114KB)" rel="external">Bigger, Better Business<span> - Opens in a new window</span></a></li>
+											<li><a href="/_files/local_growth_white_paper.pdf" title="The Government's white paper on encouraging local growth (PDF, 1,940KB)" rel="external">Local Growth White Paper<span> - Opens in a new window</span></a></li>
 										</ul>
 									</div>
 								</div>
@@ -63,7 +63,7 @@
 						</div>
 						<div>
 							<h1>About Business Link</h1>
-							<img src="img/about_header2.jpg" alt="" />
+							<img src="/_img/about_header2.jpg" alt="" />
 						</div>
 						<div>
 							<div>
@@ -90,7 +90,7 @@
 						<div>
 							<div>
 								<h2>Business Link news</h2>
-								<img src="img/about_news2.jpg" alt="" />
+								<img src="/_img/about_news2.jpg" alt="" />
 								<p>Business Link has launched two new services to help anyone looking to start up, improve and grow their business.</p>
 								<p><a href="https://www.gov.uk/browse/business/setting-up" title="Access the My New Business tool" rel="external">My New Business<span> - Opens in a new window</span></a> - provides people in the stages of starting their business with everything they need to know to get off the ground and plan for future success.</p>
 								<p><a href="https://www.gov.uk/growing-your-business" title="Information and tools for people interested in growing or improving their business" rel="external">Growth and Improvement Service<span> - Opens in a new window</span></a> - provides straightforward, practical guidance for people who want to get more out of their business, such as generating more sales, increasing profits, and saving time and money.</p>
@@ -98,7 +98,7 @@
 							</div>
 							<div>
 								<h2>Useful links</h2>
-								<div><img src="img/about_links2.jpg" alt="" /></div>
+								<div><img src="/_img/about_links2.jpg" alt="" /></div>
 								<div>
 									<ul>
 										<li><a href="whats-new.php">What's new</a></li>
@@ -111,16 +111,16 @@
 								<div>
 									<h2>Follow us on</h2>
 									<div>
-										<a href="https://www.facebook.com/BusinessSupportGov" title="View and follow Business Link Facebook page" rel="external"><img border="0" alt="Join us on Facebook" src="img/about_facebook.gif" /> Facebook</a>
+										<a href="https://www.facebook.com/BusinessSupportGov" title="View and follow Business Link Facebook page" rel="external"><img border="0" alt="Join us on Facebook" src="/_img/about_facebook.gif" /> Facebook</a>
 									</div>
 									<div>
-										<a href="http://www.linkedin.com/company/businesslink.gov.uk" title="View and follow Business Link LinkedIn page" rel="external"><img border="0" alt="Join us on LinkedIn" src="img/about_linkedin.gif" /> LinkedIn</a>
+										<a href="http://www.linkedin.com/company/businesslink.gov.uk" title="View and follow Business Link LinkedIn page" rel="external"><img border="0" alt="Join us on LinkedIn" src="/_img/about_linkedin.gif" /> LinkedIn</a>
 									</div>
 									<div>
-										<a href="https://twitter.com/BusinessLinkGov" title="View and follow Business Link on Twitter" rel="external"><img border="0" alt="Follow us on Twitter" src="img/about_twitters.gif" /> Twitter</a>
+										<a href="https://twitter.com/BusinessLinkGov" title="View and follow Business Link on Twitter" rel="external"><img border="0" alt="Follow us on Twitter" src="/_img/about_twitters.gif" /> Twitter</a>
 									</div>
 									<div>
-										<a href="http://www.youtube.com/user/BusinessLinkGov" title="View videos on the Business Link YouTube channel" rel="external"><img border="0" alt="Follow us on YouTube" src="img/about_youtubes.gif" /> YouTube</a>
+										<a href="http://www.youtube.com/user/BusinessLinkGov" title="View videos on the Business Link YouTube channel" rel="external"><img border="0" alt="Follow us on YouTube" src="/_img/about_youtubes.gif" /> YouTube</a>
 									</div>
 								</div>
 							</div>
