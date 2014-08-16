@@ -59,14 +59,13 @@
 					<li><a href="http://online.businesslink.gov.uk/bdotg/action/cntc" title="Use our interactive tool to search for an available company name and trade mark">Search for an available company name or trade mark</a></li>
 					<li><a href="layer5d66.html?topicId=1073859227">Company administration: an introduction</a></li>
 					<li><a href="layerf242.html?topicId=1086822899">Filing company information using WebFiling</a></li>
-					<li><img src="/_img/px_taxandreporting.gif" alt="Current section" width="5" height="5" /><strong>Companies House annual returns and accounts</strong></li>
+					<li><img src="/_img/px_taxandreporting.gif" alt="Current section" width="5" height="5" />Companies House annual returns and accounts</li>
 					<li><a href="layeredba.html?topicId=1085031345" title="Links to forms, guidance and other information needed when dealing with Companies House">Companies House forms and detailed guidance</a></li>
 					<li><a href="layer1f7d.html?topicId=1085093911">Companies House penalties, appeals and complaints</a></li>
 					<li>
-						<strong>Find out what records you should be keeping</strong>
+						<a>Find out what records you should be keeping</a>
 						<ul>
-							<li><img src="/_img/leftnav_sub_sub_hr.gif" alt="" /></li>
-							<li><img src="/_img/px_taxandreporting.gif" alt="Current section" width="5" height="5" /><strong>Introduction</strong></li>
+							<li><img src="/_img/px_taxandreporting.gif" alt="Current section" width="5" height="5" />Introduction</li>
 							<li><a href="http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1085697565&amp;type=BLTTOOL">Find out what records you should be keeping</a></li>
 							<li><a href="detailbb7f.html?itemId=1082224946&amp;type=CASE STUDIES">Here's how a business adviser helped me with my tax bill (Flash video)</a></li>
 						</ul>
@@ -102,7 +101,7 @@
 						<a href="/buy-or-sell-a-business/buying.php.html">Buying</a>
 						<ul>
 							<li>
-								<a>Buy an existing business</a>
+								<a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php">Buy an existing business</a>
 								<ul>
 									<li><a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php">Introduction</a></li>
 									<li><a href="/starting-up/buy-a-business/buy-an-existing-business/advantages-and-disadvantages-of-buying-an-existing-business.php.html">Advantages and disadvantages of buying an existing business</a></li>
@@ -112,6 +111,26 @@
 									<li><a href="/starting-up/buy-a-business/buy-an-existing-business/make-sure-a-business-is-worth-buying-due-diligence.php.html">Make sure a business is worth buying: due diligence</a></li>
 									<li><a href="/starting-up/buy-a-business/buy-an-existing-business.php.html">Step-by-step: how to buy a business</a></li>
 									<li><a href="/starting-up/buy-a-business/buy-an-existing-business/looking-after-existing-employees.php.html">Looking after existing employees</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/buy-or-sell-a-business/franchising.php.html">Franchising</a>
+						<ul>
+							<li>
+								<a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php">Buy a franchise</a>
+								<ul>
+									<li><a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php">Introduction</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-a-franchise/what-is-franchising.php.html">What is franchising?</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-a-franchise/advantages-and-disadvantages-of-franchising.php.html">Advantages and disadvantages of franchising</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-a-franchise/should-I-buy-a-franchise.php.html">Should I buy a franchise?</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-a-franchise/find-out-about-possible-franchises.php.html">Find out about possible franchises</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-a-franchise/assess-a-franchise-opportunity.php.html">Assess a franchise opportunity</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-a-franchise/the-costs-of-a-franchise.php.html">The costs of a franchise</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-a-franchise/how-to-purchase-a-franchise.php.html">How to purchase a franchise</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-a-franchise/tips-on-franchise-agreements.php.html">Tips on franchise agreements</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-a-franchise/heres-how-I-selected-and-bought-my-franchise.php.html">Here's how I selected and bought my franchise</a></li>
 								</ul>
 							</li>
 						</ul>
