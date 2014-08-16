@@ -6,14 +6,14 @@
 			<!-- Rest of footer --> 
 			<img  src="/_img/footer_top3.gif" alt="" />
 			<div id="clickables">
-				<span>
+				<p>
 					<a href="https://www.gov.uk/help" title="Help &amp; support" rel="external">Help &amp; support</a> | 
 					<a href="https://www.gov.uk/help" title="&copy; Crown copyright 2011" rel="external">Copyright</a> | 
 					<a href="https://www.gov.uk/help" title="Terms &amp; conditions" rel="external">Terms &amp; conditions</a> | 
 					<a href="https://www.gov.uk/help" title="Privacy &amp; cookies" rel="external">Privacy &amp; cookies</a> | 
 					<a href="https://www.gov.uk/help" title="Accessibility" rel="external">Accessibility</a> | 
 					<a href="https://www.gov.uk/help" title="PDF help" rel="external">PDF help</a>
-				</span>
+				</p>
 			</div>
 		</div>
 	</div>

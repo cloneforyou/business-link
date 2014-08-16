@@ -2,7 +2,7 @@
 <!-- start menu -->
 <div id="left">
 	<div id="closedcategories">
-		<p><a href="home.html" title="Home">Home</a></p>
+		<p><a href="index.php" title="Home">Home</a></p>
 		<p><img src="/_img/leftnav_hr.gif" alt="" /></p>
 		<ul>
 			<li>
@@ -95,7 +95,29 @@
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
 			<li><a href="layere82b.html?topicId=1074404796" title="Grow your business to maturity">Grow your business</a></li>
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
-			<li><a href="layer57ed.html?topicId=1073861225" title="Plan an orderly purchase or exit">Buy or sell a business</a></li>
+			<li>
+				<a href="/buy-or-sell-a-business.php.html" title="Plan an orderly purchase or exit">Buy or sell a business</a>
+				<ul>
+					<li>
+						<a href="/buy-or-sell-a-business/buying.php.html">Buying</a>
+						<ul>
+							<li>
+								<a>Buy an existing business</a>
+								<ul>
+									<li><a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php">Introduction</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-an-existing-business/advantages-and-disadvantages-of-buying-an-existing-business.php.html">Advantages and disadvantages of buying an existing business</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-an-existing-business/deciding-on-the-right-type-of-business-to-buy.php.html">Deciding on the right type of business to buy</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-an-existing-business/where-to-look-for-a-business-to-buy.php.html">Where to look for a business to buy</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-an-existing-business/how-to-value-a-business.php.html">How to value a business</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-an-existing-business/make-sure-a-business-is-worth-buying-due-diligence.php.html">Make sure a business is worth buying: due diligence</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-an-existing-business.php.html">Step-by-step: how to buy a business</a></li>
+									<li><a href="/starting-up/buy-a-business/buy-an-existing-business/looking-after-existing-employees.php.html">Looking after existing employees</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
 			<li><a href="layerf7c5.html?topicId=1081986989" title="Advice for those acting as professional advisers">For professional advisers</a></li>
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
