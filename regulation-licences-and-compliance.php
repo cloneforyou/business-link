@@ -10,35 +10,22 @@
 
 <body>
 
-<?php include("inc/skip-links.php"); ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
-<div> <a href="home.html" title="Small Business Service home"><img src="../../syntegra/images/global-business-link-logo.png" alt="Business Link" /></a> </div>
-<div>Information. Support. Compliance.</div>
-<span><a name="skiplogin"></a></span>
 <div>
-			<p> Your account </p>
-			<ul>
-		<li> <a href="https://online.businesslink.gov.uk/bdotg/action/BGAuthenticate"> Register </a> </li>
-		<li> <a onclick="bLeaving=false;" href="https://online.businesslink.gov.uk/bdotg/action/BGAuthenticate"> Log in </a> </li>
-	</ul>
-		</div>
-<div><img src="../../syntegra/images/px_trans.gif" alt="" width="745" height="1" /></div>
-<div >
-			<div>
-		<p><a href="home.html"  title="">Home</a>&gt;Regulation, licences and compliance</p>
-	</div>
-			<span><a name="skipcont"></a></span>
-			<div>
+	<div>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 		<div>
-					<h1>Regulation, licences and compliance</h1>
-					<p>Our unique tools and services cut through the complexities of laws and regulations, linking you to business focused, plain English guidance and the licence and permits online application service offered by many local authorities and other issuing authorities.</p>
-					<p>Please note: GOV.UK will replace businesslink.gov.uk in October, <a href="detail39a9.html?itemId=1097621079&amp;type=ONEOFFPAGE"  >read more about how businesslink.gov.uk is changing.</a></p>
-					<div>
-				<h3>Your licences and compliance requirements</h3>
+			<div>
+				<h1>Regulation, licences and compliance</h1>
+				<p>Our unique tools and services cut through the complexities of laws and regulations, linking you to business focused, plain English guidance and the licence and permits online application service offered by many local authorities and other issuing authorities.</p>
+				<p>Please note: GOV.UK will replace businesslink.gov.uk in October, <a href="/gov-uk-will-launch-in-october.php">read more about how businesslink.gov.uk is changing.</a></p>
 				<div>
+					<h3>Your licences and compliance requirements</h3>
+						<div>
 							<div>
-						<p><strong>Describe your business</strong> to find licence summaries, compliance guidance and trade bodies and contacts</p>
-						<form method="get" action="http://online.businesslink.gov.uk/bdotg/action/sectorsSIMCommitPage">
+								<p><strong>Describe your business</strong> to find licence summaries, compliance guidance and trade bodies and contacts</p>
+								<form method="get" action="http://online.businesslink.gov.uk/bdotg/action/sectorsSIMCommitPage">
 									<label for="expressionNav">Search</label>
 									<input type="hidden" name="searchId" value="5"/>
 									<input type="hidden" name="searchQueryId" value="941"/>
@@ -48,112 +35,46 @@
 									<input type="text" name="expression"/>
 									<input type="submit" name="go" value="Go"/>
 								</form>
-						<ul>
-									<li><a href="http://online.businesslink.gov.uk/bdotg/action/sectorsSIMLandingPage">Or browse business categories</a></li>
+								<ul>
+									<li><a href="https://www.gov.uk/licence-finder" title="Licence finder" rel="external">Or browse business categories</a></li>
 								</ul>
-					</div>
+							</div>
 						</div>
-			</div>
 					<h2>Or just search and browse licences</h2>
 					<div>
-				<div>
+						<div>
 							<h3>Search for a licence</h3>
 							<div>
-						<form action="http://online.businesslink.gov.uk/bdotg/action/searchAdvancedMode" method="get">
+								<form action="http://online.businesslink.gov.uk/bdotg/action/searchAdvancedMode" method="get">
 									<input type="hidden" name="resultPage" value="1"/>
 									<input type="hidden" name="contentType" value="licenses"/>
 									<label for="searchforlicence">Search</label>
 									<input type="text" name="expression"/>
 									<input type="submit" value="Go"/>
 								</form>
-					</div>
+							</div>
 						</div>
-				<div>
+						<div>
 							<h3>Browse licences</h3>
 							<div>
-						<ul>
-									<li><a href="blukBrowseLicenceCategories.html">Browse licences</a></li>
+								<ul>
+									<li><a href="/regulation-licences-and-compliance/browse-licence-categories.php.html">Browse licences</a></li>
 								</ul>
-					</div>
+							</div>
 						</div>
-			</div>
+					</div>
 					<div>
-				<ul>
-							<li><a href="detail253b.html?itemId=1084699441&amp;type=PIP" title="Making regulation work">Submit an idea to improve regulation<br />
+						<ul>
+							<li><a href="/do-it-online/submit-an-idea-to-the-better-regulation-executive.php.html">Submit an idea to improve regulation<br />
 								</a>Influence how regulations that affect your business are devised and delivered</li>
-							<li><a href="http://online.businesslink.gov.uk/bdotg/action/ruLanding" title="At-a-glance guidance about new and changing regulations that affect small and medium-sized businesses">Regulation updates<br />
+							<li><a href="#">Regulation updates<br />
 								</a>Keep track of regulation changes affecting small business with our at-a-glance guidance</li>
 						</ul>
+					</div>
+				</div>
 			</div>
-				</div>
-	</div>
-			<span><a name="skipfooter"></a></span>
-			<div>
-		<div><img src="../../syntegra/images/footer_top3.gif" alt="" />
-					<div> <span><a href="https://online.businesslink.gov.uk/bdotg/action/userSupport?refPage=%2Fbdotg%2Faction%2FblukLicenceLanding%3Fatom_id%3D0.PR392146%26pageId%3Dmynewbusiness" title="Help &amp; support">Help &amp; support</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Copyright" title="&copy; Crown copyright 2011">Copyright</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Disclaimer" title="Terms &amp; conditions">Terms &amp; conditions</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Privacy" title="Privacy &amp; cookies">Privacy &amp; cookies</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Accessibility" title="Accessibility">Accessibility</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=HelpWithPDFFiles" title="PDF help">PDF help</a> </span> </div>
-				</div>
-	</div>
 		</div>
-<div>
-			<div> <span><a name="skiphelp"id="skiphelp"></a></span>
-		<div>
-					<div>
-				<div>
-							<form method="get" action="http://online.businesslink.gov.uk/bdotg/action/redirectToSite">
-						<fieldset>
-									<label for="localBusinessLink">Regional Support</label>
-									<select name="Site Id">
-								<option selected="selected" value="default">Select your location</option>
-								<optgroup label='Northern Ireland'>
-										<option value='1087659111'>nibusinessinfo.co.uk</option>
-										</optgroup>
-								<optgroup label='Scotland'>
-										<option value='1087659110'>Business Gateway</option>
-										</optgroup>
-								<optgroup label='Wales'>
-										<option value='1087659109'>Welsh Government</option>
-										</optgroup>
-							</select>
-									<input type="submit" value="Go" />
-								</fieldset>
-					</form>
-						</div>
-				<div>
-							<ul>
-						<li><a href="http://www.businesslink.gov.uk/bdotg/action/fullsitemap" title="Site map">Sitemap</a></li>
-						<li><a href="http://www.businesslink.gov.uk/bdotg/action/help?page=HelpPage" title="Help">Help</a></li>
-						<li><a href="detailddbd.html?itemId=1087351667&amp;page=AboutUs&amp;r.s=h&amp;type=CAMPAIGN" title="About us">About us</a></li>
-						<li><a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Accessibility">Accessibility</a></li>
-					</ul>
-						</div>
-				<div>
-							<form method="get" action="http://online.businesslink.gov.uk/bdotg/action/searchBasicMode">
-						<fieldset>
-									<input type="hidden" name="resultPage" value="1"/>
-									<label for="headersearchinput">Search</label>
-									<input type="text" name="expression" />
-									<input type="submit" value="Search" title="Start the search" />
-								</fieldset>
-					</form>
-						</div>
-			</div>
-					<div>
-				<div>
-							<ul>
-						<li><a href="https://online.businesslink.gov.uk/bdotg/action/myBusiness" title="">My Business</a></li>
-						<li><a href="layer4866.html?topicId=1075193191" title="">What's new?</a></li>
-						<li><a href="layer21a5.html?topicId=1075193162" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">Do it online</a></li>
-						<li><a href="layercdb4.html?topicId=1075193173" title="">Directories</a></li>
-					</ul>
-						</div>
-			</div>
-				</div>
 	</div>
-		</div>
+</div>
 
-<?php include("inc/category-links.php"); ?>
-
-<?php include("inc/scripts.php"); ?>
-
-</body>
-</html>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>
