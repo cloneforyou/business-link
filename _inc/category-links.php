@@ -84,7 +84,28 @@
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
 			<li><a href="layer25e3.html?topicId=1086951342">Premises and property</a></li>
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
-			<li><a href="layerb888.html?topicId=1073858796" title="Develop, exploit and protect your ideas">Create, innovate and protect</a></li>
+			<li>
+				<a href="/create-innovate-and-protect.php.html" title="Develop, exploit and protect your ideas">Create, innovate and protect</a>
+				<ul>
+					<li>
+						<a href="/create-innovate-and-protect/protecting-your-intellectual-property.php.html" title="Learn about protecting your ideas, copyright, trade marks and exploiting the potential of your business">Protecting your intellectual property</a>
+						<ul>
+							<li>
+								<a href="/create-innovate-and-protect/protecting-your-intellectual-property/find-value-you-didnt-know-existed-in-your-business.php.html" title="Information on protecting your business, exploiting ideas and exploiting hidden value">Find value you didn't know existed in your business</a>
+								<ul>
+									<li>
+										<a href="/create-innovate-and-protect/protecting-your-intellectual-property/find-value-you-didnt-know-existed-in-your-business/find-out-how-to-protect-your-ideas.php">Find out how to protect your ideas</a>
+										<ul>
+											<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/find-value-you-didnt-know-existed-in-your-business/find-out-how-to-protect-your-ideas.php">Introduction</a></li>
+											<li><a href="#">How can I protect my ideas?</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
 			<li><a href="layer8216.html?topicId=1073861197" title="Choose the right systems and suppliers">IT &amp; e-commerce</a></li>
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
