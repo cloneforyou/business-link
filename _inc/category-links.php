@@ -76,7 +76,33 @@
 				</ul>
 			</li>
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
-			<li><a href="layer6871.html?topicId=1073858787" title="Recruit, train and manage your staff">Employment &amp; skills</a></li>
+			<li>
+				<a href="layer6871.html?topicId=1073858787" title="Recruit, train and manage your staff">Employment &amp; skills</a>
+				<ul>
+					<li>
+						<img src="/_img/px_employingpeople.gif" alt="Current section" width="5" height="5" /> <a>Advertise a job</a>
+						<ul>
+							<li><a href="layer2ddf.html?topicId=1074428798" title="Understand the options for engaging a worker and the legal considerations that apply">Take on staff</a></li>
+							<li><a href="layerc3f7.html?topicId=1084822723" title="Guidance on how to find people to fill your vacancies">Different types of worker</a></li>
+							<li><a href="layer87eb.html?topicId=1084607697" title="Information on checks you can perform on potential staff member">Employment checks</a></li>
+							<li><a href="layer575e.html?topicId=1084822756" title="Job offers, contracts and setting the rules for your new starters">Staff documents and employment policies</a></li>
+							<li><a href="layerb3bf.html?topicId=1084822773">Pay and pensions</a></li>
+							<li><a href="/employment-and-skills/national-minimum-wage.php.html" title="Understanding, calculating and complying with National Minimum Wage law">National minimum wage</a></li>
+							<li><a href="layer4a42.html?topicId=1084822795" title="Rules, calculations and best practice for giving people time off work">Holiday and other leave</a></li>
+							<li><a href="layer78ca.html?topicId=1073858926" title="Setting the hours and days your staff work, how to manage overtime and the Working Time Directive">Working time</a></li>
+							<li><a href="layer182e.html?topicId=1073877851">Equality and diversity</a></li>
+							<li><a href="layere696.html?topicId=1080898061">Maternity, paternity and adoption</a></li>
+							<li><a href="layer53a2.html?topicId=1084688832" title="Engaging with employees encourages commitment, energy and productivity from all those involved to help improve your business' performance">Employee engagement</a></li>
+							<li><a href="layer64c9.html?topicId=1074429816">Staff motivation and performance</a></li>
+							<li><a href="layer6b5b.html?topicId=1074436102">Trade unions</a></li>
+							<li><a href="layerce7a.html?topicId=1074450319">Redundancy, restructures and change</a></li>
+							<li><a href="layeraa66.html?topicId=1074202347">Skills and development</a></li>
+							<li><a href="layer11cb.html?topicId=1074207487">Problems at work</a></li>
+							<li><a href="layer2cd1.html?topicId=1073876974">Dismissals and staff leaving</a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
 			<li><a href="layer7807.html?topicId=1073858799" title="Protect yourself and others">Workplace health &amp; safety</a></li>
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
