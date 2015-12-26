@@ -80,7 +80,8 @@
 				<a href="layer6871.html?topicId=1073858787" title="Recruit, train and manage your staff">Employment &amp; skills</a>
 				<ul>
 					<li>
-						<img src="/_img/px_employingpeople.gif" alt="Current section" width="5" height="5" /> <a>Advertise a job</a>
+						<img src="/_img/px_employingpeople.gif" alt="Current section" width="5" height="5" />
+						<a href="/advertise-a-job-vacancy-with-jobcentre-plus.php">Advertise a job</a>
 						<ul>
 							<li><a href="layer2ddf.html?topicId=1074428798" title="Understand the options for engaging a worker and the legal considerations that apply">Take on staff</a></li>
 							<li><a href="layerc3f7.html?topicId=1084822723" title="Guidance on how to find people to fill your vacancies">Different types of worker</a></li>
