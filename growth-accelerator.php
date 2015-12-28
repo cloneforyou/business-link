@@ -35,19 +35,12 @@
 		<li>Turning over less than &pound;40m</li>
 		<li>Determined to double within three years</li>
 	</ul>
-	<p>It's not about size or sector, it's about senior ma nagement ambition. Visit <a href="http://www.growthaccelerator.com/" target="bgExternalonlinebusinesslinkgovuk"   >www.growthaccelerator.com - Opens in a new window</a> to find out more.</p>
+	<p>It's not about size or sector, it's about senior management ambition. Visit <a href="http://www.ga.businessgrowthservice.greatbusiness.gov.uk/" target="_blank">www.growthaccelerator.com - Opens in a new window</a> to find out more.</p>
 	<p><img src="_img/hr_325px_global.gif" alt=""  /></p>
 	<ul>
-		<script language="javascript" type="text/javascript">
-					<!--
-						document.write('<li><a href="#"  title="Print page now  - Opens in a new window">Print page now <span> - Opens in a new window</span></a></li>');
-					//-->
-				</script>
-		<noscript>
-		<li><a href="http://online.businesslink.gov.uk/bdotg/action/printpage?itemId=1097557603&amp;type=ONEOFFPAGE" title="Print page now  - Opens in a new window" target="bgPrintable">Print page now - Opens in a new window</a></li>
-		</noscript>
-		<li><a href="http://online.businesslink.gov.uk/bdotg/action/emailafriend?itemId=1097557603&amp;refPage=%2Fbdotg%2Faction%2Fdetail%3FitemId%3D1097557603%26type%3DONEOFFPAGE&amp;type=ONEOFFPAGE" title="Tell a friend about this page">Tell a friend about this page</a></li>
-		<li><a href="https://online.businesslink.gov.uk/bdotg/action/subscribeAlert?alertType=ONEOFFPAGE&amp;itemId=1097557603&amp;refPage=%2Fbdotg%2Faction%2Fdetail%3FitemId%3D1097557603%26type%3DONEOFFPAGE&amp;type=ONEOFFPAGE" title="Tell a friend about this page">Send me an email alert when this page changes</a></li>
+		<li><a href="#">Print page now</a></li>
+		<li><a href="#">Tell a friend about this page</a></li>
+		<li><a href="#">Send me an email alert when this page changes</a></li>
 	</ul>
 </div>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>
