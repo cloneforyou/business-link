@@ -112,7 +112,7 @@
 			<li><a href="layer25e3.html?topicId=1086951342">Premises and property</a></li>
 			<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
 			<li>
-				<a href="/create-innovate-and-protect.php.html" title="Develop, exploit and protect your ideas">Create, innovate and protect</a>
+				<a href="/create-innovate-and-protect.php" title="Develop, exploit and protect your ideas">Create, innovate and protect</a>
 				<ul>
 					<li>
 						<a href="/create-innovate-and-protect/protecting-your-intellectual-property.php.html" title="Learn about protecting your ideas, copyright, trade marks and exploiting the potential of your business">Protecting your intellectual property</a>
