@@ -34,7 +34,8 @@
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077722970&type=BLTTOOL">What other options do I have when considering bankruptcy?</a></li>
 		</ul>
 		<p><img src="../../_img/hr_325px_global.gif" alt="" /></p>
-		<div> <strong>Print options</strong> - <span><a href="#">What are my print options <img src="../../_img/whatisthis.gif" width="9" height="11" border="0" alt="" /><span> - Opens in a new window</span></a></span>
+		<div>
+			<strong>Print options</strong> - <span><a href="#">What are my print options <img src="../../_img/whatisthis.gif" width="9" height="11" border="0" alt="" /><span> - Opens in a new window</span></a></span>
 			<ul>
 				<li><a href="#">Add guide to my print portfolio (print later as PDF)</a></li>
 			</ul>
