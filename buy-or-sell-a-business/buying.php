@@ -10,7 +10,7 @@
 <body>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
-<div >
+<div>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 <div>
 	<div>
