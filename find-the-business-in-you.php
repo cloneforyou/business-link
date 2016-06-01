@@ -1,20 +1,17 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<meta charset="utf-8">
-	
-	<title>The &quot;Business in You&quot; is a major new campaign to help people to start a new business or grow their existing one | Business Link</title>
-	<meta name="author" content="Caroline Murphy">
-	<meta name="viewport" content="width=device-width">
+<meta charset="utf-8">
+<title>The &quot;Business in You&quot; is a major new campaign to help people to start a new business or grow their existing one | Business Link</title>
+<meta name="author" content="Caroline Murphy">
+<meta name="viewport" content="width=device-width">
 </head>
 
 <body>
-
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <div>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
-
 	<div>
 		<div>
 			<h1>Find the business in you</h1>
@@ -25,7 +22,7 @@
 			<p>The campaign will also highlight top tools available from BusinessLink, StartUp Britain and a wide range of partners.</p>
 			<p>'Business in You' runs nationwide for the duration of the Olympic year 2012 which is a unique moment for the UK on the global stage. Each month will focus on a different theme will spotlight key business support products.</p>
 			<p><a href="#">Go to Business in You to find out about more about the campaign, read the case studies, or register for email alerts about the campaign</a>.</p>
-			<p><img src="/_img/hr_325px_global.gif" alt="" align="middle" /></p>
+			<p><img src="/_img/hr_325px_global.gif" alt="" /></p>
 			<div>
 				<ul>
 					<li><a href="#">Print page now</a></li>
@@ -47,5 +44,4 @@
 		</div>
 	</div>
 </div>
-
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>
