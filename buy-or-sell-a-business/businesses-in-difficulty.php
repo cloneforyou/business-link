@@ -50,4 +50,5 @@
 	</div>
 	<div><img src="../_img/Business_in_difficulty.jpg" width="146" height="146" border="0" alt="" /></div>
 </div>
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>
