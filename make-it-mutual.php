@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>Government initiative to unleash the latent entrepreneurialism in public sector employees | Business Link</title>
-<meta content="Caroline Murphy">
-<meta content="width=device-width">
+	<title>Government initiative to unleash the latent entrepreneurialism in public sector employees | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

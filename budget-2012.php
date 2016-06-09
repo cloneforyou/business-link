@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<meta charset="utf-8">	
 	<title>Budget 2012 | Business Link</title>
-	<meta name="author" content="Caroline Murphy">
-	<meta name="viewport" content="width=device-width">
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>New services for Approved Driving Instructors (ADIs) | Business Link</title>
-<meta content="Caroline Murphy">
-<meta content="width=device-width">
+	<title>New services for Approved Driving Instructors (ADIs) | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

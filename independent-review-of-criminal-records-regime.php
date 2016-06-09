@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>Second phase of recommendations published | Business Link</title>
-<meta content="Caroline Murphy">
-<meta content="width=device-width">
+	<title>Second phase of recommendations published | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

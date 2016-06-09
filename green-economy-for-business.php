@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>The government's new publication on the green economy  | Business Link</title>
-<meta name="author" content="Caroline Murphy">
-<meta name="viewport" content="width=device-width">
+	<title>The government's new publication on the green economy  | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

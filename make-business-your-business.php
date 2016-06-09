@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>Helping you to start and develop your business | Business Link</title>
-<title>Initiative to let unused government estate to business start ups | Business Link</title>
-<meta content="Caroline Murphy">
-<meta content="width=device-width">
+	<title>Helping you to start and develop your business | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

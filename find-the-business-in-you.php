@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-<meta charset="utf-8">
-<title>The &quot;Business in You&quot; is a major new campaign to help people to start a new business or grow their existing one | Business Link</title>
-<meta name="author" content="Caroline Murphy">
-<meta name="viewport" content="width=device-width">
+	<title>The &quot;Business in You&quot; is a major new campaign to help people to start a new business or grow their existing one | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

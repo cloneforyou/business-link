@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>Guidance for employers and agents on payroll and related topics | Business Link</title>
-<meta content="Caroline Murphy">
-<meta content="width=device-width">
+	<title>Guidance for employers and agents on payroll and related topics | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

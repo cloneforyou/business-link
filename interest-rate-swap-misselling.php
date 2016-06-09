@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>Advice for businesses worried about having been missold an interest rate swap | Business Link</title>
-<meta name="author" content="Caroline Murphy">
-<meta name="viewport" content="width=device-width">
+	<title>Advice for businesses worried about having been missold an interest rate swap | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>
