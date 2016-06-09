@@ -1,0 +1,23 @@
+<div>
+	<strong>Print options</strong> - 
+	<span>
+		<a href="#" title="What are my print options? - Opens in a new window">
+			What are my print options <img src="../../_img/whatisthis.gif" width="9" height="11"  alt="" />
+			<span> - Opens in a new window</span>
+		</a>
+	</span>
+	<ul>
+		<li><a href="#">Add guide to my print portfolio (print later as PDF)</a></li>
+	</ul>
+	<strong>Email options</strong> - 
+	<span>
+		<a href="#" title="What are my email options? - Opens in a new window">
+			What are my email options <img src="../../_img/whatisthis.gif" width="9" height="11"  alt="" />
+			<span> - Opens in a new window</span>
+		</a>
+	</span>
+	<ul>
+		<li><a href="#" title="Tell a friend about this page">Tell a friend about this page</a></li>
+		<li><a href="#" title="Tell a friend about this page">Send me an email alert when this guide changes</a></li>
+	</ul>
+</div>
