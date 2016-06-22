@@ -8,4 +8,4 @@
 <meta class="foundation-mq">
 
 <!-- Styles -->
-<link href="./asseta/style.min.css" rel="stylesheet">
+<link href="./assets/style.min.css" rel="stylesheet">
