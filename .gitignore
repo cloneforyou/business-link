@@ -1,1 +1,6 @@
+.DS_Store
+assets/scss/.sass-cache/*
+node_modules/
+bower_components/
+npm-debug.log
 sftp-config.json
