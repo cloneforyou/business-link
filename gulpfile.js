@@ -24,7 +24,7 @@ gulp.task('imagemin', function() {
 			progressive: true,
 			use: [pngquant()]
 		}))
-	.pipe(gulp.dest('./assets/images/min/'))
+	.pipe(gulp.dest('./_img/'))
 });
 
 // Compile Sass, Autoprefix and minify
