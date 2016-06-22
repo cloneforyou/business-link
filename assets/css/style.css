@@ -484,7 +484,7 @@ body {
   margin: 0;
   font-family: "nta", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
-  line-height: 1.5;
+  line-height: 1.563;
   color: #0a0a0a;
   background: #fefefe;
   -webkit-font-smoothing: antialiased;
@@ -1281,6 +1281,9 @@ LINK STYLES
 /*********************
 H1, H2, H3, H4, H5 P STYLES
 *********************/
+p {
+  font-size: 1.188rem; }
+
 /*********************
 HEADER STYLES
 *********************/
