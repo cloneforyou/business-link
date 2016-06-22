@@ -8,4 +8,5 @@
 <meta class="foundation-mq">
 
 <!-- Styles -->
+<?php /* reference : http://php.net/manual/en/function.dirname.php#114600 */ ?>
 <link href="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/assets/css/style.min.css" rel="stylesheet">
