@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
 	<title>File company information online using Companies House WebFiling | Business Link</title>
-	<meta name="author" content="Caroline Murphy">
-	<meta name="viewport" content="width=device-width">
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

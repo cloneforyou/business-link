@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>Protecting your intellectual property | Business Link</title>
-<meta content="Caroline Murphy">
-<meta content="width=device-width">
+	<title>Protecting your intellectual property | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

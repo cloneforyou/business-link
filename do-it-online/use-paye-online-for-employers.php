@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
 	<title>Use PAYE Online for employers | Business Link</title>
-	<meta name="author" content="Caroline Murphy">
-	<meta name="viewport" content="width=device-width">
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

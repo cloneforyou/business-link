@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<meta charset="utf-8">	
 	<title>Advertise a job using the Employer Direct online service | Business Link</title>
-	<meta name="author" content="Caroline Murphy">
-	<meta name="viewport" content="width=device-width">
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>
