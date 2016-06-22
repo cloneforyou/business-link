@@ -37,5 +37,5 @@
 			
 		</header>
 
-	</div><!-- //large-12 columns -->
-</div><!-- //row -->
+	</div><!-- // .large-12 .columns -->
+</div><!-- // .row -->
