@@ -6,3 +6,6 @@
 
 <!-- required for ZURB Foundation framework -->
 <meta class="foundation-mq">
+
+<!-- Styles -->
+<link href="./asseta/style.min.css" rel="stylesheet">
