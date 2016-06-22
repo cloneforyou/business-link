@@ -4,9 +4,11 @@
 
 	<div id="left">
 		<div id="closedcategories">
+			
 			<p><a href="index.php" title="Home">Home</a></p>
 			<p><img src="/_img/leftnav_hr.gif" alt="" /></p>
-			<ul>
+			
+			<ul class="accordion" data-accordion>
 				<li>
 					<a href="/starting-up.php" title="From first thoughts to a firm footing">Starting up</a>
 					<ul>
