@@ -1,5 +1,5 @@
 <div class="row">
-	<div class="large-12 columns">
+	<div class="small-12 columns">
 
 		<?php /* 
 			Breadcrumbs - see the following documentation:
@@ -23,5 +23,5 @@
 
 		<a name="skipcont" id="skipcont"></a>
 
-	</div><!-- // .large-12 .columns -->
+	</div><!-- // .small-12 .columns -->
 </div><!-- // .row -->

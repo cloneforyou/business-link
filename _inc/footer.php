@@ -1,5 +1,5 @@
 <div class="row">
-	<div class="large-12 columns">
+	<div class="small-12 columns">
 
 		<a name="skipfooter" id="skipfooter"></a>
 
@@ -64,7 +64,7 @@
 
 		</footer>
 
-	</div><!-- // .large-12 .columns -->
+	</div><!-- // .small-12 .columns -->
 </div><!-- // .row -->
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/scripts.php'; ?>
