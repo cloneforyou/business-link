@@ -8,4 +8,4 @@
 <meta class="foundation-mq">
 
 <!-- Styles -->
-<link href=".../assets/css/style.min.css" rel="stylesheet">
+<link href="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/assets/css/style.min.css" rel="stylesheet">
