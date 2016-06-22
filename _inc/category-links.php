@@ -1,4 +1,4 @@
-<div class="small-12 large-6 columns">
+<div class="small-12 large-4 large-pull-8 columns">
 
 	<div class="categories">
 
