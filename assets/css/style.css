@@ -1287,6 +1287,9 @@ p {
 /*********************
 HEADER STYLES
 *********************/
+header {
+  border: 1px solid #eee; }
+
 /*********************
 NAVIGATION STYLES
 *********************/
