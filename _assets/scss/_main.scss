@@ -37,9 +37,15 @@ p {
 /*********************
 HEADER STYLES
 *********************/
-header {
+header, 
+.breadcrumbs, 
+footer {
 	padding: 1rem; // 16px
 	border: 1px solid #eee; 
+}
+
+.categories {
+	outline: 1px solid #ccc; 
 }
  
 /*********************

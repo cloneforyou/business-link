@@ -1287,9 +1287,14 @@ p {
 /*********************
 HEADER STYLES
 *********************/
-header {
+header,
+.breadcrumbs,
+footer {
   padding: 1rem;
   border: 1px solid #eee; }
+
+.categories {
+  outline: 1px solid #ccc; }
 
 /*********************
 NAVIGATION STYLES
