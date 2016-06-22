@@ -60,8 +60,6 @@
 				</div>
 			</div>
 
-			<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
-
 		</footer>
 
 	</div><!-- // .small-12 .columns -->

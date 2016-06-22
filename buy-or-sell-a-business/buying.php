@@ -10,8 +10,10 @@
 
 <div>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
-<div>
-	<div>
+
+<div class="row">
+	<div class="small-12 large-6 columns">
+
 		<h1>Buying</h1>
 		<div>
 			<h2><a href="buying/buy-an-existing-business.php">Buy an existing business</a></h2>
@@ -29,6 +31,11 @@
 			<h2><a href="considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business.php">Understanding contracts when buying or selling a business</a></h2>
 			<p>Get expert advice to help you understand the many contracts involved in buying or selling a business</p>
 		</div>
-	</div>
-</div>
+
+	</div><!-- // .small-12 .large-6 .columns -->
+
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
+
+</div><!-- // .row -->
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>
