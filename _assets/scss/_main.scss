@@ -7,9 +7,7 @@ Stylesheet: Main Stylesheet
 /*********************
 GENERAL STYLES
 *********************/
-body {
-	background-color: pink; 
-}
+
 
 /*********************
 LINK STYLES
@@ -19,7 +17,7 @@ a, a:visited {
 	// Mobile tap color
 	&:link {
 		//Highlight links on iOS, Similar to :hover for mobile devices.
-		-webkit-tap-highlight-color : rgba( 0, 0, 0, 0.3 );
+		// -webkit-tap-highlight-color : rgba( 0, 0, 0, 0.3 );
 	}
 }
 
@@ -30,13 +28,7 @@ h1, .h1,
 h2, .h2, 
 h3, .h3, 
 h4, .h4, 
-h5, .h5 {
-
-	// Removing text decoration from all headline links
-	a {
-		text-decoration: none;
-	}
-}
+h5, .h5 {}
 
 
 /*********************
