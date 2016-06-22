@@ -8,4 +8,5 @@
 <meta class="foundation-mq">
 
 <!-- Styles -->
-<link href="<?php echo $_SERVER['DOCUMENT_ROOT']; ?>/assets/css/style.min.css" rel="stylesheet">
+<?php $dir = $_SERVER['REQUEST_URI']; ?>
+<link href="<?php echo $dir; ?>/assets/css/style.min.css" rel="stylesheet">
