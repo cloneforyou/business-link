@@ -9,6 +9,12 @@
 			<p><img src="/_img/leftnav_hr.gif" alt="" /></p>
 			
 			<ul class="accordion" data-accordion>
+				<li class="accordion-item is-active" data-accordion-item>
+					<a href="#" class="accordion-title">Accordion 1</a>
+					<div class="accordion-content" data-tab-content>
+						I would start in the open state, due to using the `is-active` state class.
+					</div>
+				</li>
 				<li>
 					<a href="/starting-up.php" title="From first thoughts to a firm footing">Starting up</a>
 					<ul>
