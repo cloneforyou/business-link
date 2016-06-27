@@ -7,21 +7,14 @@
 		<div id="left">
 			<div id="closedcategories">
 				
-				<p><a href="index.php" title="Home">Home</a></p>
-				<p><img src="/_img/leftnav_hr.gif" alt="" /></p>
-				
 				<ul class="vertical menu" data-accordion-menu>
-					<li class="accordion-item is-active" data-accordion-item>
-						<a href="#" class="accordion-title">Accordion 1</a>
-						<ul class="menu vertical nested">
-							<li><a href="#">Item 1A</a></li>
-							<li><a href="#">Item 1B</a></li>
-						</ul>
+					<li data-accordion-item>
+						<a href="index.php">Home</a>
 					</li>
-					<li>
-						<a href="/starting-up.php" title="From first thoughts to a firm footing">Starting up</a>
+					<li data-accordion-item>
+						<a href="/starting-up.php">Starting up</a>
 						<ul>
-							<li><img src="/_img/leftnav_sub_hr.gif" alt="" /></li>
+							<li><a href="/starting-up.php">Introduction</a></li>
 							<li><a href="/starting-up/considering-starting-up.php">Considering starting up?</a></li>
 							<li><a href="../starting-up/business-planning.php">Business planning</a></li>
 							<li><a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a></li>
