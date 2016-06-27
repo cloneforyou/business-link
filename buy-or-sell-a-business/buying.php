@@ -13,7 +13,7 @@
 <div class="row">
 	<div class="small-12 large-6 large-push-4 columns">
 
-		<h1>Buying</h1>
+		<h1 class="prox-ns">Buying</h1>
 		<div>
 			<h2><a href="buying/buy-an-existing-business.php">Buy an existing business</a></h2>
 			<p>Advantages and disadvantages of buying an existing business including how to assess and value it</p>
