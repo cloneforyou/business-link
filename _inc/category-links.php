@@ -8,7 +8,7 @@
 			<div id="closedcategories">
 				
 				<ul class="vertical menu" data-accordion-menu>
-					<li data-accordion-item>
+					<li>
 						<a href="index.php">Home</a>
 					</li>
 					<li data-accordion-item>
@@ -37,13 +37,13 @@
 							<li><a href="/starting-up/take-the-next-steps.php">Take the next steps</a></li>
 						</ul>
 					</li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
-					<li><a href="../finance-and-grants.php">Finance and grants</a></li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li data-accordion-item>
+						<a href="../finance-and-grants.php">Finance and grants</a>
+					</li>
 					<li>
 						<a href="../tax-payroll-and-company-information.php">Tax, payroll and company information</a>
 						<ul>
-							<li><img src="/_img/leftnav_sub_hr.gif" alt="" /></li>
+							<li></li>
 							<li><a href="../tax-payroll-and-company-information/self-assessment.php">Self Assessment</a></li>
 							<li><a href="../tax-payroll-and-company-information/vat.php">VAT</a></li>
 							<li><a href="../tax-payroll-and-company-information/business-rates.php">Business rates</a></li>
@@ -81,7 +81,7 @@
 							<li><a href="../tax-payroll-and-company-information/selling-or-closing-your-business.php">Selling or closing your business</a></li>
 						</ul>
 					</li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li>
 						<a href="../employment-and-skills.html">Employment &amp; skills</a>
 						<ul>
@@ -110,13 +110,13 @@
 							</li>
 						</ul>
 					</li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li><a href="../workplace-health-and-safety.php">Workplace health &amp; safety</a></li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li><a href="../environment-and-efficiency.php">Environment &amp; efficiency</a></li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li><a href="../premises-and-property.php">Premises and property</a></li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li>
 						<a href="/create-innovate-and-protect.php">Create, innovate and protect</a>
 						<ul>
@@ -139,15 +139,15 @@
 							</li>
 						</ul>
 					</li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li><a href="../it-and-ecommerce.php">IT &amp; e-commerce</a></li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li><a href="../sales-and-marketing.php">Sales and marketing</a></li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li><a href="../international-trade.php">International trade</a></li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li><a href="../grow-your-business.php">Grow your business</a></li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li>
 						<a href="/buy-or-sell-a-business.php">Buy or sell a business</a>
 						<ul>
@@ -191,11 +191,11 @@
 							</li>
 						</ul>
 					</li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li><a href="../for-professional-advisers.php">For professional advisers</a></li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 					<li><a href="../your-business-sector.php">Your business sector</a></li>
-					<li><img src="/_img/leftnav_hr.gif" alt=""/></li>
+					<li></li>
 				</ul>
 			</div>
 			<div id="serviceprovider">
