@@ -65,84 +65,133 @@
 				</p>
 			</div>
 			<div class="column">
-				<img src="//placehold.it/300x300" class="thumbnail" alt="">
+				<p>
+					<a href="https://www.gov.uk/growing-your-business" title="Information and tools for people interested in growing or improving their business">
+						Growth and Improvement Service
+						<img src="/_img/growing-your-business.jpg" alt="" />
+					</a>
+					<br />Access information to help your business work better
+				</p>
 			</div>
 			<div class="column">
-			<img src="//placehold.it/300x300" class="thumbnail" alt="">
+				<p>
+					<a href="#">
+						Look out for fake emails from legitimate organisations
+						<img src="/_img/spam-emails.jpg" alt="" />
+					</a>
+					<br />Take note of our advice regarding fake emails
+				</p>
 			</div>
 			<div class="column">
-			<img src="//placehold.it/300x300" class="thumbnail" alt="">
+				<p>
+					<a href="#" title="A report and short guide by Lord Young, highlighting the evolving nature of enterprise and business and showcasing the opportunities and support available to you.">
+						Make Business Your Business
+						<img src="/_img/make-business-your-business.jpg" alt="Make Business Your Business" />
+					</a>
+					<br />Helping you to start and develop your business
+				</p>
 			</div>
 			<div class="column">
-			<img src="//placehold.it/300x300" class="thumbnail" alt="">
+				<p>
+					<a href="https://www.gov.uk/growing-your-business" title="GIS service">
+						Have a business idea, looking to start-up or grow your business?
+						<img src="/_img/icon-helpline.jpg" alt="" />
+					</a>
+					<br />Unable to find the information you are looking for? Contact the Business Link Helpline Tel: 0845 600 9006 9am-6pm Monday to Friday.
+				</p>
 			</div>
 			<div class="column">
-			<img src="//placehold.it/300x300" class="thumbnail" alt="">
+				<p>
+					<a href="#">
+						Contracts Finder for suppliers and buyers
+						<img src="/_img/bhp_contract_finder.jpg" alt="Contract Finder" />
+					</a>
+					<br />Find public sector procurement tender and contract documents
+				</p>
 			</div>
+			<div class="column">
+				<p>
+					<a href="https://www.gov.uk/browse/business/setting-up" title="My New Business" rel="external">
+						Start-up service
+						<img src="/_img/MNB_302x239.jpg" alt="" />
+					</a>
+					<br />Get your business off the ground
+				</p>
+			</div>
+			<div class="column">
+				<p>
+					<a href="our-use-of-cookies.php" title="How cookies are used on this site">
+						Our use of cookies
+						<img src="/_img/handonkeyboard_large.jpg" alt="Cookies" />
+					</a>
+					<br />How cookies are used on Business Link
+				</p>
+			</div>
+			<div class="column">
+				<p>
+					<a href="apprenticeship-grants-now-available.php" title="Get �1,500 for recruiting an apprentice aged 16 to 24">
+						Apprenticeship grants now available
+						<img src="/_img/apprenticeships_302x239.JPG" alt="Apprenticeships" />
+					</a>
+					<br />Get &pound;1,500 when you recruit an apprentice aged 16 to 24
+				</p>
+			</div>
+			<div class="column">
+				<p>
+					<a href="regulation-licences-and-compliance.php" title="Find and apply for licences and permits for your business">
+						Apply for licences and permits online
+						<img src="/_img/online_licences_2.jpg" alt="" />
+					</a>
+					<br />You can now apply online for business licences and permits from around 90 per cent of authorities in the UK
+				</p>
+			</div>
+			<div class="column">
+				<p>
+					<a href="incorporate-your-company-online.php" title="Incorporate your company online as a private company, limited by shares, with model articles of association">
+						Incorporate your limited company online with Companies House
+						<img src="/_img/hp_promo_302x239_comp2.jpg" alt="" />
+					</a>
+					<br />Use the web incorporation service tool to incorporate your limited company online with Companies House
+				</p>
+			</div>
+			<div class="column">
+				<p>
+					<a href="taking-on-a-new-member-of-staff.php" title="We have launched three new tools to help you through the process of taking on a new member of staff">
+						Taking on a new member of staff?
+						<img src="/_img/hp_promo_302x239_comp1.jpg" alt="" />
+					</a>
+					<br />Use our new and improved interactive tools
+				</p>
+			</div>
+			<div class="column">
+				<p>
+					<a href="http://www.events.businesslink.gov.uk/" title="Search for relevant business events near you" rel="external">
+						Events Finder
+						<img src="/_img/EMS_302x239.jpg" alt="" />
+					</a>
+					<br />Find and book business related events near you
+				</p>
+			</div>
+			<div class="column">
+				<p>
+					<a href="http://improve.businesslink.gov.uk/resources/business-support-finder" title="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible">
+						Business Support Finder
+						<img src="/_img/bsf_promo.jpg"  alt="" />
+					</a>
+					<br />Find sources of help to start, run or grow your business
+				</p>
+			</div>
+			<div class="column">
+				<p>
+					<a href="https://www.gov.uk/growing-your-business" title="Taking on an employee" target="_blank">
+						Taking on an employee tool launched
+						<img src="/_img/takingonanemployee_home.jpg" alt="Taking on an employee tool" />
+					</a>
+					<br />Tool outlines the five steps an employer must take when employing someone
+				</p>
+			</div>
+			<div class="column"></div>
 		</div>
-
-	
-		
-		<p><a href="https://www.gov.uk/growing-your-business" title="Information and tools for people interested in growing or improving their business">Growth and Improvement Service</a></p>
-		<a href="https://www.gov.uk/growing-your-business" title="Information and tools for people interested in growing or improving their business"><img src="/_img/growing-your-business.jpg" alt="" /></a>
-		<p>Access information to help your business work better</p>
-		<p><a href="#">Look out for fake emails from legitimate organisations</a></p>
-		<img src="/_img/spam-emails.jpg" alt="" />
-		<p>Take note of our advice regarding fake emails</p>
-		<p><a href="#" title="A report and short guide by Lord Young, highlighting the evolving nature of enterprise and business and showcasing the opportunities and support available to you." >Make Business Your Business</a></p>
-		<img src="/_img/make-business-your-business.jpg" alt="Make Business Your Business" />
-		<p>Helping you to start and develop your business</p>
-		<p><a href="https://www.gov.uk/growing-your-business" title="GIS service">Have a business idea, looking to start-up or grow your business?</a></p>
-		<img src="/_img/icon-helpline.jpg" alt="" />
-		<p>Unable to find the information you are looking for? Contact the Business Link Helpline Tel: 0845 600 9006 9am-6pm Monday to Friday.</p>
-		<p><a href="#">Contracts Finder for suppliers and buyers</a></p>
-		<img src="/_img/bhp_contract_finder.jpg" alt="Contract Finder" />
-		<p>Find public sector procurement tender and contract documents</p>
-		<p><a href="https://www.gov.uk/browse/business/setting-up" title="My New Business" rel="external">Start-up service</a></p>
-		<a href="https://www.gov.uk/browse/business/setting-up" title="My New Business" rel="external">
-			<img src="/_img/MNB_302x239.jpg" alt="" />
-		</a>
-		<p>Get your business off the ground</p>
-		<p><a href="our-use-of-cookies.php" title="How cookies are used on this site">Our use of cookies</a></p>
-		<a href="our-use-of-cookies.php" title="How cookies are used on this site" title="How cookies are used on this site">
-			<img src="/_img/handonkeyboard_large.jpg" alt="Cookies" />
-		</a>
-		<p>How cookies are used on Business Link</p>
-		<p><a href="apprenticeship-grants-now-available.php" title="Get �1,500 for recruiting an apprentice aged 16 to 24">Apprenticeship grants now available </a></p>
-		<a href="apprenticeship-grants-now-available.php" title="Get �1,500 for recruiting an apprentice aged 16 to 24">
-			<img src="/_img/apprenticeships_302x239.JPG" alt="Apprenticeships" />
-		</a>
-		<p>Get &pound;1,500 when you recruit an apprentice aged 16 to 24</p>
-		<p><a href="regulation-licences-and-compliance.php" title="Find and apply for licences and permits for your business">Apply for licences and permits online</a></p>
-		<a href="regulation-licences-and-compliance.php" title="Find and apply for licences and permits for your business">
-			<img src="/_img/online_licences_2.jpg" alt="" />
-		</a>
-		<p>You can now apply online for business licences and permits from around 90 per cent of authorities in the UK</p>
-		<p><a href="incorporate-your-company-online.php" title="Incorporate your company online as a private company, limited by shares, with model articles of association">Incorporate your limited company online with Companies House</a></p>
-		<a href="incorporate-your-company-online.php" title="Incorporate your company online as a private company, limited by shares, with model articles of association">
-			<img src="/_img/hp_promo_302x239_comp2.jpg" alt="" />
-		</a>
-		<p>Use the web incorporation service tool to incorporate your limited company online with Companies House</p>
-		<p><a href="taking-on-a-new-member-of-staff.php" title="We have launched three new tools to help you through the process of taking on a new member of staff">Taking on a new member of staff?</a></p>
-		<a href="taking-on-a-new-member-of-staff.php" title="We have launched three new tools to help you through the process of taking on a new member of staff">
-			<img src="/_img/hp_promo_302x239_comp1.jpg" alt="" />
-		</a>
-		<p>Use our new and improved interactive tools</p>
-		<p><a href="http://www.events.businesslink.gov.uk/" title="Search for relevant business events near you" rel="external">Events Finder</a></p>
-		<a href="http://www.events.businesslink.gov.uk/" title="Search for relevant business events near you" rel="external">
-			<img src="/_img/EMS_302x239.jpg" alt="" />
-		</a>
-		<p>Find and book business related events near you</p>
-		<p><a href="http://improve.businesslink.gov.uk/resources/business-support-finder" onClick="p=window.open('http://improve.businesslink.gov.uk/resources/business-support-finder', 'bgExternalonlinebusinesslinkgovuk');p.focus();" title="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible" >Business Support Finder</a></p>
-		<a href="http://improve.businesslink.gov.uk/resources/business-support-finder" onClick="p=window.open('http://improve.businesslink.gov.uk/resources/business-support-finder', 'bgExternalonlinebusinesslinkgovuk');p.focus();" title="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible">
-			<img src="/_img/bsf_promo.jpg"  alt="" />
-		</a>
-		<p>Find sources of help to start, run or grow your business</p>
-		<p><a href="https://www.gov.uk/growing-your-business" title="Taking on an employee" rel="external">Taking on an employee tool launched </a></p>
-		<a href="https://www.gov.uk/growing-your-business" title="Taking on an employee" rel="external">
-			<img src="/_img/takingonanemployee_home.jpg" alt="Taking on an employee tool" />
-		</a>
-		<p>Tool outlines the five steps an employer must take when employing someone</p>
 		<p><a href="whats-new.php">View all what's new items</a></p>
 		
 
