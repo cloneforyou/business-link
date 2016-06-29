@@ -53,10 +53,36 @@
 		</a>
 		<a href="find-the-business-in-you.php" title="The 'Business in You' is a major new campaign to help people to start a new business or grow their existing one">The business in you</a>
 		<p>Starting and growing a business - tips and tools from real-life success stories</p>
-		
+
+		<div class="row small-up-1 medium-up-2">
+			<div class="column">
+				<p>
+					<a href="gov-uk-will-launch-in-october.php" title="GOV.UK will launch in October">
+						Businesslink.gov.uk is changing
+						<img src="/_img/gov-uk-will-launch-in-october.jpg" alt="" />
+					</a>
+					<br />GOV.UK October launch
+				</p>
+			</div>
+			<div class="column">
+				<img src="//placehold.it/300x300" class="thumbnail" alt="">
+			</div>
+			<div class="column">
+			<img src="//placehold.it/300x300" class="thumbnail" alt="">
+			</div>
+			<div class="column">
+			<img src="//placehold.it/300x300" class="thumbnail" alt="">
+			</div>
+			<div class="column">
+			<img src="//placehold.it/300x300" class="thumbnail" alt="">
+			</div>
+			<div class="column">
+			<img src="//placehold.it/300x300" class="thumbnail" alt="">
+			</div>
+		</div>
+
 	
-		<p><a href="gov-uk-will-launch-in-october.php" title="GOV.UK will launch in October">Businesslink.gov.uk is changing</a></p>
-		<a href="gov-uk-will-launch-in-october.php" title="GOV.UK will launch in October"><img src="/_img/gov-uk-will-launch-in-october.jpg" alt="" /></a><p>GOV.UK October launch</p>
+		
 		<p><a href="https://www.gov.uk/growing-your-business" title="Information and tools for people interested in growing or improving their business">Growth and Improvement Service</a></p>
 		<a href="https://www.gov.uk/growing-your-business" title="Information and tools for people interested in growing or improving their business"><img src="/_img/growing-your-business.jpg" alt="" /></a>
 		<p>Access information to help your business work better</p>
