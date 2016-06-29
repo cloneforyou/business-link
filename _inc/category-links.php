@@ -18,7 +18,7 @@
 							<li><a href="/starting-up/considering-starting-up.php">Considering starting up?</a></li>
 							<li><a href="../starting-up/business-planning.php">Business planning</a></li>
 							<li><a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a></li>
-							<li><img src="/_img/px_startingabusiness.gif" alt="Current section" width="5" height="5" /><strong>Business structures</strong></li>
+							<li><strong>Business structures</strong></li>
 							<li><a href="/starting-up/business-structures.php">Business structures</a></li>
 							<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
 							<li><a href="/starting-up/buy-a-business.php">Buy a business</a></li>
@@ -70,13 +70,13 @@
 							<li><a href="https://www.gov.uk/get-information-about-a-company" title="Get information about a company" target="_blank">Search for an available company name or trade mark</a></li>
 							<li><a href="../tax-payroll-and-company-information/company-administration-an-introduction.html">Company administration: an introduction</a></li>
 							<li><a href="../tax-payroll-and-company-information/filing-company-information-using-webfiling.php">Filing company information using WebFiling</a></li>
-							<li><img src="/_img/px_taxandreporting.gif" alt="Current section" width="5" height="5" />Companies House annual returns and accounts</li>
+							<li>Companies House annual returns and accounts</li>
 							<li><a href="../tax-payroll-and-company-information/companies-house-forms-and-detailed-guidance.php">Companies House forms and detailed guidance</a></li>
 							<li><a href="../tax-payroll-and-company-information/companies-house-penalties-appeals-and-complaints.php">Companies House penalties, appeals and complaints</a></li>
 							<li>
 								<a>Find out what records you should be keeping</a>
 								<ul>
-									<li><img src="/_img/px_taxandreporting.gif" alt="Current section" width="5" height="5" />Introduction</li>
+									<li>Introduction</li>
 									<li><a href="https://www.gov.uk/keeping-your-pay-tax-records" title="Keeping your pay and tax records" target="_blank">Find out what records you should be keeping</a></li>
 									<li><a href="../tax-payroll-and-company-information/find-out-what-records-you-should-be-keeping.php">Here's how a business adviser helped me with my tax bill (Flash video)</a></li>
 								</ul>
@@ -93,7 +93,6 @@
 								<a href="../employment-and-skills.html">Introduction</a>
 							</li>
 							<li>
-								<img src="/_img/px_employingpeople.gif" alt="Current section" width="5" height="5" />
 								<a href="/advertise-a-job-vacancy-with-jobcentre-plus.php">Advertise a job</a>
 								<ul>
 									<li><a href="layer2ddf.html?topicId=1074428798" title="Understand the options for engaging a worker and the legal considerations that apply">Take on staff</a></li>
