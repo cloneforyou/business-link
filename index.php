@@ -228,26 +228,6 @@
 		</p>
 		<p><a href="#">Go to My Business</a></p>
 		<p><a href="#">Log in</a></p>
-		<h2>Select your location</h2>
-		<p>Use the drop down menu to set your location and find help in your area.</p>
-		<img alt="United Kingdom Map" src="/_img/UK_map_lt.png">
-		<form method="get" action="http://online.businesslink.gov.uk/bdotg/action/redirectToSite">
-			<fieldset>
-				<select name="Site Id">
-					<option selected="selected" value="default">Select your location</option>
-					<optgroup label='Northern Ireland'>
-						<option value='1087659111'>nibusinessinfo.co.uk</option>
-					</optgroup>
-					<optgroup label='Scotland'>
-						<option value='1087659110'>Business Gateway</option>
-					</optgroup>
-					<optgroup label='Wales'>
-						<option value='1087659109'>Welsh Government</option>
-					</optgroup>
-				</select>
-				<input type="submit"  value="Go" />
-			</fieldset>
-		</form>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

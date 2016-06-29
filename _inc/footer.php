@@ -20,6 +20,9 @@
 			<a name="skiphelp"id="skiphelp"></a>
 
 			<!-- Regional Support dropdown -->
+			<h2>Select your location</h2>
+			<p>Use the drop down menu to set your location and find help in your area.</p>
+			<img alt="United Kingdom Map" src="/_img/UK_map_lt.png">
 			<form id="localForm" method="get" action="#">
 				<fieldset>
 					<label for="localBusinessLink">Regional Support</label>
