@@ -12,7 +12,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 
 <div class="row">
-	<div class="small-12 large-6 large-push-4 columns">
+	<div class="small-12 large-8 large-push-4 columns">
 
 		<h1>Welcome to Business Link</h1>
 		<p>Business Link is government's online resource for businesses. It is now enhanced with new, easy-to-use tools to help you start up, improve and grow your business.</p>
@@ -174,7 +174,7 @@
 			</fieldset>
 		</form>
 
-	</div><!-- // .small-12 .large-6 .columns -->
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
 

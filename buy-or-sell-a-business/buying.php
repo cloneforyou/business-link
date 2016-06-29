@@ -11,7 +11,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 
 <div class="row">
-	<div class="small-12 large-6 large-push-4 columns">
+	<div class="small-12 large-8 large-push-4 columns">
 
 		<h1 class="prox-ns">Buying</h1>
 		<div>
@@ -31,7 +31,7 @@
 			<p>Get expert advice to help you understand the many contracts involved in buying or selling a business</p>
 		</div>
 
-	</div><!-- // .small-12 .large-6 .columns -->
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
 
