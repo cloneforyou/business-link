@@ -1,1 +1,5 @@
-This is my new project and a work in progress.
+So, I've been working on this is my spare time for many years. Ever since the government ditched the great resource Business Link, I've striked to bring it back to it's former glory.
+
+I'm not at a point where it is becoming readable, so you can view the live development link at http://blink.caroline-murphy.co.uk/
+
+The content is &copy; Crown Copyright, all code is my own.
