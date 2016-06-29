@@ -9,10 +9,11 @@
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
-<div>
-	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
-	
-	<div>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
+
+<div class="row">
+	<div class="small-12 large-8 large-push-4 columns">
+
 		<h1>Directories</h1>
 		<table cellpadding="0" cellspacing="0">
 			<tr>
@@ -96,7 +97,11 @@
 				</td>
 			</tr>
 		</table>
-	</div>
-</div>
+	
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
+
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
+
+</div><!-- // .row -->
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

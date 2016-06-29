@@ -10,8 +10,10 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
-<div>
-	<div>
+
+<div class="row">
+	<div class="small-12 large-8 large-push-4 columns">
+
 		<h1>New guidance on recruiting disabled people</h1>
 		<h2>Disability Clearkit developed over three years with 220 employers</h2>
 		<p>A campaign promoting wider employer support for recruiting and retaining disabled workers is being supported by the Department for Work and Pensions (DWP).</p>
@@ -25,13 +27,16 @@
 			<li><a href="premises-and-property/access-and-facilities/access-and-facilities-for-disabled-people.php" title="Information on what changes you can make to ensure your business is accessible to disabled people">Access and facilities for disabled people</a></li>
 		</ul>
 		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
-		<div>
-			<ul>
-				<li><a href="#">Print page now</a></li>
-				<li><a href="#">Tell a friend about this page</a></li>
-				<li><a href="#">Send me an email alert when this page changes</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
+		<ul>
+			<li><a href="#">Print page now</a></li>
+			<li><a href="#">Tell a friend about this page</a></li>
+			<li><a href="#">Send me an email alert when this page changes</a></li>
+		</ul>
+
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
+
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
+
+</div><!-- // .row -->
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

@@ -6,12 +6,16 @@
 </head>
 
 <body>
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
-<div>
-	<div>
+
+<div class="row">
+	<div class="small-12 large-8 large-push-4 columns">
+		
 		<h1>New support for SMEs</h1>
+		
 		<h2>Finance Fitness campaign for businesses</h2>
 		<p>The government has launched a new initiative to encourage accountants, banks and representative bodies to offer support to the UK's small and medium sized enterprises (SMEs). The Finance Fitness campaign is designed to help businesses improve their finance fitness - to better manage cashflow and access finance more easily. Finance Fitness will also help SMEs find the information and advice they need and will support them in accessing finance so they are better able to meet economic challenges and are better positioned for growth.</p>
 		<p>Over the coming months, the campaign will focus on resources available to SMEs covering business finance topics including cash management, prompt payment, credit ratings, finding and securing the right finance and export finance.</p>
@@ -22,13 +26,16 @@
 		<p>SMEs can also consult a range of guidance from the Institute of Credit Management. These guides cover topics including managing customers and suppliers, chasing payment and managing finances and provide straight-forward advice with simple checklists and top tips. <a href="http://www.cicm.com/" target="_blank">Read the guides to managing cashflow from the Credit Management Matters website<span> - Opens in a new window</span></a>.</p>
 		<p>Additional information is also available from Business Link's new <a href="https://www.gov.uk/growing-your-business" target="_blank">Growth and Improvement Service<span> - Opens in a new window</span></a>.</p>
 		<p><img src="_img/hr_325px_global.gif" alt="" align="middle" /></p>
-		<div>
-			<ul>
-				<li><a href="#">Print page now</a></li>
-				<li><a href="#">Tell a friend about this page</a></li>
-				<li><a href="#">Send me an email alert when this page changes</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
+		<ul>
+			<li><a href="#">Print page now</a></li>
+			<li><a href="#">Tell a friend about this page</a></li>
+			<li><a href="#">Send me an email alert when this page changes</a></li>
+		</ul>
+
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
+
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
+
+</div><!-- // .row -->
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

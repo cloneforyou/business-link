@@ -6,12 +6,16 @@
 </head>
 
 <body>
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
-<div>
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
-<div>
-	<div>
+
+<div class="row">
+	<div class="small-12 large-8 large-push-4 columns">
+
 		<h1>Interest rate Swap misselling </h1>
+		
 		<h2>Advice for businesses worried about having been missold an interest rate swap</h2>
 		<p>In June 2012, the Financial Services Authority, the regulator responsible for governing banks and other financial institutions, announced it had found some misselling of &quot;Interest Rate Swap&quot; or &quot;Hedging&quot; products.</p>
 		<p>These products, also known as &quot;cap and collars&quot; are designed to reduce the risk of interest rate fluctuations for customers with loans. Interest rate hedging products can be appropriate when properly sold to businesses, in the right circumstances. But The FSA announced it found a number of cases of bad practice, including possible mis-selling, meaning that customers may be entitled to redress.</p>
@@ -21,13 +25,16 @@
 		<p><strong>Where can I find out more information?</strong></p>
 		<p><a href="http://www.fsa.gov.uk/library/other_publications/interest-rate-swaps" target="_blank">For more information please visit the FSA's website. <span> - Opens in a new window</span></a> </p>
 		<p><img src="_img/hr_325px_global.gif" alt=""  /></p>
-		<div class="pageoptions">
-			<ul>
-				<li><a href="#">Print page now - Opens in a new window</a></li>
-				<li><a href="#">Tell a friend about this page</a></li>
-				<li><a href="#">Send me an email alert when this page changes</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
+		<ul>
+			<li><a href="#">Print page now - Opens in a new window</a></li>
+			<li><a href="#">Tell a friend about this page</a></li>
+			<li><a href="#">Send me an email alert when this page changes</a></li>
+		</ul>
+
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
+
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
+
+</div><!-- // .row -->
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

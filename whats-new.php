@@ -9,11 +9,11 @@
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
-<div>
-	<div>
-		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 
-		<div>
+<div class="row">
+	<div class="small-12 large-8 large-push-4 columns">
+		
 		<h1>What's new?</h1>
 		<h2>What's new: just published resources</h2>
 		<table cellpadding="0" cellspacing="0">
@@ -200,7 +200,11 @@
 		<ul>
 			<li><a href="/starting-a-business.php.html">Starting a business - Essential resources</a></li>
 		</ul>
-	</div>
-</div>
+	
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
+
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
+
+</div><!-- // .row -->
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

@@ -6,11 +6,14 @@
 </head>
 
 <body>
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
-<div>
-	<div>
+
+<div class="row">
+	<div class="small-12 large-8 large-push-4 columns">
+		
 		<h1>New Contracts Finder service</h1>
 		<h2>Find public sector procurement tender and contract documents</h2>
 		<p><strong>The Prime Minister launched Contracts Finder on 11 February 2011. At the launch event at the Treasury in London, the PM said the Government was determined to make government procurement &ldquo;more welcoming&rdquo; for small and medium-sized enterprises. The Government's goal, he said, is to ensure that at least a 25 percent share of government contracts end up awarded to SMEs. You can <a href="https://www.gov.uk/government/news/pm-launches-contracts-finder" target="_blank">find details of the announcement on the Number10 website<span> - Opens in a new window</span></a>.</strong></p>
@@ -25,13 +28,16 @@
 			<li><a href="grow-your-business/suppliers-overview-of-tendering-for-contracts/tendering-for-public-sector-contracts-in-europe.php" title="The process of tendering for procurement contracts in the European Union">Tendering for public sector contracts in Europe</a> </li>
 		</ul>
 		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
-		<div>
-			<ul>
-				<li><a href="#">Print page now</a></li>
-				<li><a href="#">Tell a friend about this page</a></li>
-				<li><a href="#">Send me an email alert when this page changes</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
+		<ul>
+			<li><a href="#">Print page now</a></li>
+			<li><a href="#">Tell a friend about this page</a></li>
+			<li><a href="#">Send me an email alert when this page changes</a></li>
+		</ul>
+
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
+
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
+
+</div><!-- // .row -->
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

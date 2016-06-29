@@ -8,9 +8,14 @@
 <body>
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
-<div>
-	<div>
+
+<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
+
+<div class="row">
+	<div class="small-12 large-8 large-push-4 columns">
+	
 		<h1>Let the Entrepreneurs in</h1>
+		
 		<h2>Initiative to let unused government estate to business start ups</h2>
 		<p>Government is opening up its unused and underused office space to start-ups. To make this happen we need to recruit providers to manage the space and to provide a package of support to these new businesses.</p>
 		<p>31 May, Government announced details of space available in twenty buildings across England with the potential to be used by aspiring entrepreneurs to build and grow their businesses. We are pleased to announce today (2 July) that a further four spaces are now available.</p>
@@ -29,13 +34,16 @@
 			<li>Appointments from August</li>
 		</ul>
 		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
-		<div>
-			<ul>
-				<li><a href="#">Print page now</a></li>
-				<li><a href="#">Tell a friend about this page</a></li>
-				<li><a href="#">Send me an email alert when this page changes</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
+		<ul>
+			<li><a href="#">Print page now</a></li>
+			<li><a href="#">Tell a friend about this page</a></li>
+			<li><a href="#">Send me an email alert when this page changes</a></li>
+		</ul>
+		
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
+
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
+
+</div><!-- // .row -->
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

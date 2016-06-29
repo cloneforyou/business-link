@@ -6,11 +6,14 @@
 </head>
 
 <body>
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
-<div>
-	<div>
+
+<div class="row">
+	<div class="small-12 large-8 large-push-4 columns">
+	
 		<h1>October 2012 regulation changes</h1>
 		<h2>Common commencement dates</h2>
 		<p>Most new laws affecting businesses come into force on one of two common commencement dates (CCDs) each year - 6 April and 1 October. CCDs enable you to prepare your business for the introduction of new, amended or reduced requirements.</p>
@@ -23,13 +26,16 @@
 			<li>Changing the Home Office's vetting and barring scheme. This will consist of scaling back criminal records disclosure and barring arrangements by making criminal record checks more portable and reducing the need for repeat checks.</li>
 		</ul>
 		<p><img src="_img/hr_325px_global.gif" alt="" align="middle" /></p>
-		<div>
-			<ul>
-				<li><a href="#">Print page now</a></li>
-				<li><a href="#">Tell a friend about this page</a></li>
-				<li><a href="#">Send me an email alert when this page changes</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
+		<ul>
+			<li><a href="#">Print page now</a></li>
+			<li><a href="#">Tell a friend about this page</a></li>
+			<li><a href="#">Send me an email alert when this page changes</a></li>
+		</ul>
+		
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
+
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
+
+</div><!-- // .row -->
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

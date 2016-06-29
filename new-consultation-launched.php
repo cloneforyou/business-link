@@ -10,8 +10,10 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
-<div>
-	<div>
+
+<div class="row">
+	<div class="small-12 large-8 large-push-4 columns">
+
 		<h1>New consultation launched</h1>
 		<h2>Simpler Income Tax for Self employed and Small Partnerships</h2>
 		<p><strong>What's the Consultation about?</strong></p>
@@ -26,13 +28,16 @@
 		<p>The consultation period runs until 22 June 2012, <a href="#">you can download the full consultation proposal Simpler Income Tax for the Simplest Small Businesses<span> - Opens in a new window</span></a> (PDF, 140K)</p>
 		<p>In particular Chapter 2 'Small Businesses - what the proposals mean for you' summarises the proposals for those running small businesses. <a href="_files/simpler-income-tax-for-the-simplest-small-businesses.pdf" target="_blank">You can download the shorter version of the consultation<span> - Opens in a new window</span></a>.</p>
 		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
-		<div>
-			<ul>
-				<li><a href="#">Print page now</a></li>
-				<li><a href="#">Tell a friend about this page</a></li>
-				<li><a href="#">Send me an email alert when this page changes</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
+		<ul>
+			<li><a href="#">Print page now</a></li>
+			<li><a href="#">Tell a friend about this page</a></li>
+			<li><a href="#">Send me an email alert when this page changes</a></li>
+		</ul>
+
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
+
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
+
+</div><!-- // .row -->
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>

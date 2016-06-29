@@ -6,14 +6,16 @@
 </head>
 
 <body>
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
-<div>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 
-<div>
-	<div>
+<div class="row">
+	<div class="small-12 large-8 large-push-4 columns">
+	
 		<h1>Floating on the stock market</h1>
+		
 		<h2>Advantages and disadvantages of stock market flotation</h2>
 		<p>Even if your business is suited to flotation, it may not be the right choice for you. Being a public company can present a range of benefits to your business, but there are also issues that might require careful consideration.</p>
 		<p>The <strong>benefits</strong> of stock market flotation could include:</p>
@@ -37,12 +39,11 @@
 			<li> <strong>Employees may become demotivated</strong> - if shares are only offered to selected employees, there could be resentment. Shareholding employees could feel that there is little left to work for if they are sitting on valuable shares.</li>
 		</ul>
 		<p>You can <a href="http://www.londonstockexchange.com/companies-and-advisors/listing/float/float.htm" target="_blank">find out about the advantages of flotation on the London Stock Exchange website<span> - Opens in a new window</span></a>.</p>
-		<div>
-			<ul>
-				<li><a href="is-your-business-suitable-to-be-a-public-company.php" title="Is your business suitable to be a public company?" >Prev</a></li>
-				<li><a href="the-process-of-floating-on-a-stock-market.php" title="The process of floating on a stock market" >Next</a></li>
-			</ul>
-		</div>
+		<ul>
+			<li><a href="is-your-business-suitable-to-be-a-public-company.php" title="Is your business suitable to be a public company?" >Prev</a></li>
+			<li><a href="the-process-of-floating-on-a-stock-market.php" title="The process of floating on a stock market" >Next</a></li>
+		</ul>
+		
 		<h3>Subjects covered in this guide</h3>
 		<ul>
 			<li><a href="../floating-on-the-stock-market.php" title="Floating on the stock market" >Introduction</a></li>
@@ -53,49 +54,49 @@
 			<li><a href="../../finance-and-grants/finance-options/shares-and-equity-finance/here-is-how-we-prepared-our-business-for-flotation.php"  >Here's how we prepared our business for flotation</a></li>
 		</ul>
 		<p><img src="../../_img/hr_325px_global.gif" alt="" /></p>
-		<div>
-			<strong>Print options</strong> - 
-			<span>
-				<a href="#" title="What are my print options? - Opens in a new window">
-					What are my print options <img src="../../_img/whatisthis.gif" width="9" height="11"  alt="" />
-					<span> - Opens in a new window</span>
-				</a>
-			</span>
-			<ul>
-				<li><a href="#">Add guide to my print portfolio (print later as PDF)</a></li>
-			</ul>
-			<strong>Email options</strong> - 
-			<span>
-				<a href="#" title="What are my email options? - Opens in a new window">
-					What are my email options <img src="../../_img/whatisthis.gif" width="9" height="11"  alt="" />
-					<span> - Opens in a new window</span>
-				</a>
-			</span>
-			<ul>
-				<li><a href="#" title="Tell a friend about this page">Tell a friend about this page</a></li>
-				<li><a href="#" title="Tell a friend about this page">Send me an email alert when this guide changes</a></li>
-			</ul>
-		</div>		
-	</div>
-	<div>
-		<div>
-			<h3>Actions</h3>
-			<ul>
-				<li><a href="http://www.londonstockexchange.com/companies-and-advisors/listing/float/float.htm" target="_blank">Flotation advantages and disadvantages explained on the London Stock Exchange website <span>- Opens in a new window</span></a></li>
-				<li><a href="../../finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">Use our interactive tool to identify the right finance options for your business</a></li>
-			</ul>
-			</ul>
-			<img src="../../_img/px_sellingabusiness.gif" alt="" width="1" height="1" /></div>
-		<div>
-			<h3>Also on this site</h3>
-			<ul>
-				<li><a href="../../finance-and-grants/finance-options/shares-and-equity-finance/equity-finance.php">Equity finance</a></li>
-				<li><a href="../../finance-and-grants/finance-options/shares-and-equity-finance/shares-and-shareholders.php">Shares and shareholders</a></li>
-				<li><a href="../considering-selling-a-business/value-and-market-your-business.php">Value and market your business</a></li>
-				<li><a href="../../grow-your-business/setting-a-vision-for-growth/assess-your-options-for-growth.html">Assess your options for growth</a></li>
-			</ul>
-			<img src="../../_img/px_sellingabusiness.gif" alt="" width="1" height="1" /></div>
-	</div>
-</div>
+		<strong>Print options</strong> - 
+		<span>
+			<a href="#" title="What are my print options? - Opens in a new window">
+				What are my print options <img src="../../_img/whatisthis.gif" width="9" height="11"  alt="" />
+				<span> - Opens in a new window</span>
+			</a>
+		</span>
+		<ul>
+			<li><a href="#">Add guide to my print portfolio (print later as PDF)</a></li>
+		</ul>
+		<strong>Email options</strong> - 
+		<span>
+			<a href="#" title="What are my email options? - Opens in a new window">
+				What are my email options <img src="../../_img/whatisthis.gif" width="9" height="11"  alt="" />
+				<span> - Opens in a new window</span>
+			</a>
+		</span>
+		<ul>
+			<li><a href="#" title="Tell a friend about this page">Tell a friend about this page</a></li>
+			<li><a href="#" title="Tell a friend about this page">Send me an email alert when this guide changes</a></li>
+		</ul>
+
+		<h3>Actions</h3>
+		<ul>
+			<li><a href="http://www.londonstockexchange.com/companies-and-advisors/listing/float/float.htm" target="_blank">Flotation advantages and disadvantages explained on the London Stock Exchange website <span>- Opens in a new window</span></a></li>
+			<li><a href="../../finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">Use our interactive tool to identify the right finance options for your business</a></li>
+		</ul>
+		</ul>
+		<img src="../../_img/px_sellingabusiness.gif" alt="" width="1" height="1" />
+	
+		<h3>Also on this site</h3>
+		<ul>
+			<li><a href="../../finance-and-grants/finance-options/shares-and-equity-finance/equity-finance.php">Equity finance</a></li>
+			<li><a href="../../finance-and-grants/finance-options/shares-and-equity-finance/shares-and-shareholders.php">Shares and shareholders</a></li>
+			<li><a href="../considering-selling-a-business/value-and-market-your-business.php">Value and market your business</a></li>
+			<li><a href="../../grow-your-business/setting-a-vision-for-growth/assess-your-options-for-growth.html">Assess your options for growth</a></li>
+		</ul>
+		<img src="../../_img/px_sellingabusiness.gif" alt="" width="1" height="1" />
+
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
+
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
+
+</div><!-- // .row -->
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>
