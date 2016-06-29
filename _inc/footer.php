@@ -11,8 +11,8 @@
 					<a href="https://www.gov.uk/help/terms-conditions" target="_blank">Terms &amp; Conditions</a> | 
 					<a href="https://www.gov.uk/help/privacy-policy" target="_blank">Privacy Policy</a> | 
 					<a href="https://www.gov.uk/help/accessibility" target="_blank">Accessibility</a> | 
-					<a href="https://www.gov.uk/help/cookies" target="_blank">Cookies</a>
-					<a href="#" title="Site map">Site map</a>
+					<a href="https://www.gov.uk/help/cookies" target="_blank">Cookies</a> |
+					<a href="#" title="Site map">Sitemap</a> |
 					<a href="about-business-link.php">About us</a>
 				</p>
 			</nav><!-- end .sub-links -->
