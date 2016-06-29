@@ -39,11 +39,16 @@
 					</li>
 					<li data-accordion-item>
 						<a href="../finance-and-grants.php">Finance and grants</a>
+						<ul>
+							<li>
+								<a href="../finance-and-grants.php">Introduction</a>
+							</li>
+						</ul>
 					</li>
-					<li>
+					<li data-accordion-item>
 						<a href="../tax-payroll-and-company-information.php">Tax, payroll and company information</a>
 						<ul>
-							<li></li>
+							<a href="../tax-payroll-and-company-information.php">Introduction</a>
 							<li><a href="../tax-payroll-and-company-information/self-assessment.php">Self Assessment</a></li>
 							<li><a href="../tax-payroll-and-company-information/vat.php">VAT</a></li>
 							<li><a href="../tax-payroll-and-company-information/business-rates.php">Business rates</a></li>
@@ -81,10 +86,12 @@
 							<li><a href="../tax-payroll-and-company-information/selling-or-closing-your-business.php">Selling or closing your business</a></li>
 						</ul>
 					</li>
-					<li></li>
-					<li>
+					<li data-accordion-item>
 						<a href="../employment-and-skills.html">Employment &amp; skills</a>
 						<ul>
+							<li>
+								<a href="../employment-and-skills.html">Introduction</a>
+							</li>
 							<li>
 								<img src="/_img/px_employingpeople.gif" alt="Current section" width="5" height="5" />
 								<a href="/advertise-a-job-vacancy-with-jobcentre-plus.php">Advertise a job</a>
@@ -110,16 +117,36 @@
 							</li>
 						</ul>
 					</li>
-					<li></li>
-					<li><a href="../workplace-health-and-safety.php">Workplace health &amp; safety</a></li>
-					<li></li>
-					<li><a href="../environment-and-efficiency.php">Environment &amp; efficiency</a></li>
-					<li></li>
-					<li><a href="../premises-and-property.php">Premises and property</a></li>
-					<li></li>
-					<li>
+					<li data-accordion-item>
+						<a href="../workplace-health-and-safety.php">Workplace health &amp; safety</a>
+						<ul>
+							<li>
+								<a href="../workplace-health-and-safety.php">Introduction</a>
+							</li>
+						</ul>
+					</li>
+					<li data-accordion-item>
+						<a href="../environment-and-efficiency.php">Environment &amp; efficiency</a>
+						<ul>
+							<li>
+								<a href="../environment-and-efficiency.php">Introduction</a>
+							</li>
+						</ul>
+					</li>
+					<li data-accordion-item>
+						<a href="../premises-and-property.php">Premises and property</a>
+						<ul>
+							<li>
+								<a href="../premises-and-property.php">Introduction</a>
+							</li>
+						</ul>
+					</li>
+					<li data-accordion-item>
 						<a href="/create-innovate-and-protect.php">Create, innovate and protect</a>
 						<ul>
+							<li>
+								<a href="/create-innovate-and-protect.php">Introduction</a>
+							</li>
 							<li>
 								<a href="/create-innovate-and-protect/protecting-your-intellectual-property.php" title="Learn about protecting your ideas, copyright, trade marks and exploiting the potential of your business">Protecting your intellectual property</a>
 								<ul>
@@ -139,18 +166,44 @@
 							</li>
 						</ul>
 					</li>
-					<li></li>
-					<li><a href="../it-and-ecommerce.php">IT &amp; e-commerce</a></li>
-					<li></li>
-					<li><a href="../sales-and-marketing.php">Sales and marketing</a></li>
-					<li></li>
-					<li><a href="../international-trade.php">International trade</a></li>
-					<li></li>
-					<li><a href="../grow-your-business.php">Grow your business</a></li>
-					<li></li>
-					<li>
+					<li data-accordion-item>
+						<a href="../it-and-ecommerce.php">IT &amp; e-commerce</a>
+						<ul>
+							<li>
+								<a href="../it-and-ecommerce.php">Introduction</a>
+							</li>
+						</ul>
+					</li>
+					<li data-accordion-item>
+						<a href="../sales-and-marketing.php">Sales and marketing</a>
+						<ul>
+							<li>
+								<a href="../sales-and-marketing.php">Introduction</a>
+							</li>
+						</ul>
+					</li>
+					<li data-accordion-item>
+						<a href="../international-trade.php">International trade</a>
+						<ul>
+							<li>
+								<a href="../international-trade.php">Introduction</a>
+							</li>
+						</ul>
+					</li>
+					<li data-accordion-item>
+						<a href="../grow-your-business.php">Grow your business</a>
+						<ul>
+							<li>
+								<a href="../grow-your-business.php">Introduction</a>
+							</li>
+						</ul>
+					</li>
+					<li data-accordion-item>
 						<a href="/buy-or-sell-a-business.php">Buy or sell a business</a>
 						<ul>
+							<li>
+								<a href="/buy-or-sell-a-business.php">Introduction</a>
+							</li>
 							<li>
 								<a href="/buy-or-sell-a-business/buying.php">Buying</a>
 								<ul>
@@ -191,27 +244,33 @@
 							</li>
 						</ul>
 					</li>
-					<li></li>
-					<li><a href="../for-professional-advisers.php">For professional advisers</a></li>
-					<li></li>
-					<li><a href="../your-business-sector.php">Your business sector</a></li>
-					<li></li>
+					<li data-accordion-item>
+						<a href="../for-professional-advisers.php">For professional advisers</a>
+						<ul>
+							<li>
+								<a href="../for-professional-advisers.php">~~</a>
+							</li>
+						</ul>
+					</li>
+					<li data-accordion-item>
+						<a href="../your-business-sector.php">Your business sector</a>
+						<ul>
+							<li>
+								<a href="../your-business-sector.php">~~</a>
+							</li>
+						</ul>
+					</li>
 				</ul>
-			</div>
+			</div><!-- #closed categories -->
 			<div id="serviceprovider">
 				<p>
-					<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" target="_blank">In partnership with Cabinet Office</a>
-				</p>
-				<div>
 					<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" target="_blank">
+						In partnership with Cabinet Office
 						<img src="/_img/logo_hm_gov2.jpg" width="167" height="31" alt="HM Government" />
 					</a>
-				</div>
-				<!-- imgwrap --> 
-			</div>
-			<!-- serviceprovider 2 --> 
-		</div>
-		<!-- end menu -->
+				</p>
+			</div><!-- #serviceprovider -->
+		</div><!-- #left -->
 
 	</div><!-- // .categories -->
 
