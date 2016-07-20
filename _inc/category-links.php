@@ -204,6 +204,28 @@
 								<a href="/buy-or-sell-a-business.php">Introduction</a>
 							</li>
 							<li>
+								<a href="layer910d.html?topicId=1074407303"  >Businesses in difficulty</a>
+								<ul>
+									<li>
+										<a>Complain against an undischarged bankrupt or disqualified company director</a>
+										<ul>
+											<li>
+												<a href="layer2f3a.html?topicId=1084624281" title="How to complain against a disqualified director, an undischarged bankrupt or a person subject to bankruptcy restrictions" >Introduction</a>
+											</li>
+											<li>
+												<a href="detail5885.html?itemId=1084681574&amp;type=RESOURCES"  >What undischarged bankrupts and persons subject to bankruptcy restrictions are not allowed to do</a>
+											</li>
+											<li>
+												<a href="detailc89d.html?itemId=1084624469&amp;type=RESOURCES"  >How to check if a director has been disqualified or if an individual is an undischarged bankrupt or subject to bankruptcy restrictions</a>
+											</li>
+											<li>
+												<a href="detailb79c.html?itemId=1084624496&amp;type=RESOURCES"  >Complaining about disqualified directors, undischarged bankrupts and persons subject to bankruptcy restrictions</a>
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li>
 								<a href="/buy-or-sell-a-business/buying.php">Buying</a>
 								<ul>
 									<li>
@@ -217,6 +239,43 @@
 											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/make-sure-a-business-is-worth-buying-due-diligence.php">Make sure a business is worth buying: due diligence</a></li>
 											<li><a href="/starting-up/buy-a-business/buy-an-existing-business.php">Step-by-step: how to buy a business</a></li>
 											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/looking-after-existing-employees.php">Looking after existing employees</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="layer4bae.html?topicId=1074400490"  >Considering selling a business</a>
+								<ul>
+									<li>
+										<a>Preparing to sell your business</a>
+										<ul>
+											<li>
+												<a href="layer19b7.html?topicId=1074410823" title="Options for selling your business, making it attractive to purchasers and finding advisers" >Introduction</a>
+											</li>
+											<li>
+												<a href="detail0983.html?itemId=1074423944&amp;type=RESOURCES"  >Is selling my business the right option?</a>
+											</li>
+											<li>
+												<a href="detail351c.html?itemId=1074423958&amp;type=RESOURCES"  >Ways to sell your business</a>
+											</li>
+											<li>
+												<a href="detail5dc6.html?itemId=1074423967&amp;type=RESOURCES"  >Is a sale realistic?</a>
+											</li>
+											<li>
+												<a href="detaildd28.html?itemId=1074423981&amp;type=RESOURCES"  >When to sell your business</a>
+											</li>
+											<li>
+												<a href="detail30d6.html?itemId=1074423992&amp;type=RESOURCES"  >Choosing advisers when selling your business</a>
+											</li>
+											<li>
+												<a href="detail80a3.html?itemId=1074424013&amp;type=RESOURCES"  >Show strong financial performance</a>
+											</li>
+											<li>
+												<a href="detailfca8-2.html?itemId=1074424032&amp;type=RESOURCES"  >Streamline your business operations</a>
+											</li>
+											<li>
+												<a href="detaila136.html?itemId=1075062195&amp;type=CASE STUDIES"  >Here's how I prepared my business for sale</a>
+											</li>
 										</ul>
 									</li>
 								</ul>
@@ -237,6 +296,102 @@
 											<li><a href="/starting-up/buy-a-business/buy-a-franchise/how-to-purchase-a-franchise.php">How to purchase a franchise</a></li>
 											<li><a href="/starting-up/buy-a-business/buy-a-franchise/tips-on-franchise-agreements.php">Tips on franchise agreements</a></li>
 											<li><a href="/starting-up/buy-a-business/buy-a-franchise/heres-how-I-selected-and-bought-my-franchise.php">Here's how I selected and bought my franchise</a></li>
+										</ul>
+									</li>
+									<li>
+										<p><strong>Turn your business into a franchise</strong></p>
+										<ul>
+											<li>
+												<a href="detail0584-2.html?itemId=1077056054&amp;type=RESOURCES"  >Franchising options</a>
+											</li>
+											<li>
+												<a href="detail1891-2.html?itemId=1077060955&amp;type=RESOURCES"  >The benefits of franchising your business</a>
+											</li>
+											<li>
+												<a href="detail4f6f.html?itemId=1077060959&amp;type=RESOURCES"  >Is franchising right for your business?</a>
+											</li>
+											<li>
+												<a href="detaildffb-2.html?itemId=1077061045&amp;type=RESOURCES"  >Develop your business format</a>
+											</li>
+											<li>
+												<a href="detail8763.html?itemId=1077061251&amp;type=RESOURCES"  >The franchise agreement</a>
+											</li>
+											<li>
+												<a href="detail2057.html?itemId=1077061265&amp;type=RESOURCES"  >Franchise fees and royalties</a>
+											</li>
+											<li>
+												<a href="detail45f0.html?itemId=1077061297&amp;type=RESOURCES"  >Marketing your franchise opportunity</a>
+											</li>
+											<li>
+												<a href="detail07b5.html?itemId=1077061355&amp;type=RESOURCES"  >Managing your franchisees</a>
+											</li>
+											<li>
+												<a href="detail4c41.html?itemId=1081790687&amp;type=CASE STUDIES"  >Here's how I turned my existing business into a franchise</a>
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="layer73cb.html?topicId=1087216741"  >Transferring your business</a>
+								<ul>
+									<li>
+										<strong>Selling or passing a business to a family member</strong>
+										<ul>
+											<li>
+												<a href="detail3e60.html?itemId=1074413858&amp;type=RESOURCES"  >Is family succession the right option?</a>
+											</li>
+											<li>
+												<a href="detailfea2.html?itemId=1074413682&amp;type=RESOURCES"  >One family successor or more?</a>
+											</li>
+											<li>
+												<a href="detail24b5.html?itemId=1074413732&amp;type=RESOURCES"  >Identify a potential family successor</a>
+											</li>
+											<li>
+												<a href="detailef42.html?itemId=1074413750&amp;type=RESOURCES"  >Clarify your future involvement in the business</a>
+											</li>
+											<li>
+												<a href="detailfa8e.html?itemId=1074413764&amp;type=RESOURCES"  >Manage the family succession process</a>
+											</li>
+											<li>
+												<a href="detaild6d7.html?itemId=1074413850&amp;type=RESOURCES"  >Tax implications of family succession</a>
+											</li>
+											<li>
+												<a href="detaile181.html?itemId=1075070048&amp;type=CASE STUDIES"  >Here's how I'm transferring my business to my son</a>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<strong>Succession planning and business transfer</strong>
+										<img src="../../syntegra/images/px_sellingabusiness.gif" alt="Current section" width="5" height="5" />
+										<ul>
+											<li>
+												<a href="detail3285.html?itemId=1081350603&amp;type=RESOURCES"  >Why succession planning is important</a>
+											</li>
+											<li>
+												<a href="detail40d6.html?itemId=1081350691&amp;type=RESOURCES"  >Assessing your options</a>
+											</li>
+											<li>
+												<a href="detail4bd0.html?itemId=1081350695&amp;type=RESOURCES"  >Keeping it in the family</a> 
+											</li>
+											<li>
+												<a href="detailcfa4.html?itemId=1081350703&amp;type=RESOURCES" title="Transferring ownership to a non-family member " >Transferring ownership to a non-family member </a>
+											</li>
+											<li>
+												<a href="detail6fcc.html?itemId=1081350613&amp;type=RESOURCES"  >Trade sales</a>
+											</li>
+											<li>
+												<a href="detail2547.html?itemId=1081350706&amp;type=RESOURCES"  >Voluntary liquidation</a>
+											</li>
+											<li>
+												<a href="detail7065.html?itemId=1081350616&amp;type=RESOURCES"  >Have a formal succession plan</a>
+											</li>
+											<li>
+												<a href="detail5fe9.html?itemId=1087157769&amp;type=CASE STUDIES"  >Here's how I successfully took over a family business (Flash video)</a>
+											</li>
+											<li>
+												<a href="http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1078303661&amp;type=BLTTOOL"  >Which succession planning options should I consider?</a>
+											</li>
 										</ul>
 									</li>
 								</ul>
