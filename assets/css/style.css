@@ -38,6 +38,7 @@ This is where you can take advantage of Sass' great features:
 Mixins & Constants.
 
 ********************************************************************/
+/*** Variables ***/
 /*********************
 TOOLS
 *********************/
@@ -107,7 +108,7 @@ CSS3 GRADIENTS.
 ********************************************************************/
 /**
  * Foundation for Sites by ZURB
- * Version 6.2.1
+ * Version 6.2.3
  * foundation.zurb.com
  * Licensed under MIT Open Source
  */
@@ -549,8 +550,7 @@ button {
   .row .row {
     max-width: none;
     margin-left: -0.625rem;
-    margin-right: -0.625rem;
-    max-width: none; }
+    margin-right: -0.625rem; }
     @media screen and (min-width: 40em) {
       .row .row {
         margin-left: -0.9375rem;
@@ -830,7 +830,8 @@ button {
   padding-left: 0;
   padding-right: 0; }
 
-.small-collapse .row {
+.small-collapse .row,
+.expanded.row .small-collapse.row {
   margin-left: 0;
   margin-right: 0; }
 
@@ -1041,7 +1042,8 @@ button {
   .medium-collapse > .column, .medium-collapse > .columns {
     padding-left: 0;
     padding-right: 0; }
-  .medium-collapse .row {
+  .medium-collapse .row,
+  .expanded.row .medium-collapse.row {
     margin-left: 0;
     margin-right: 0; }
   .medium-uncollapse > .column, .medium-uncollapse > .columns {
@@ -1249,7 +1251,8 @@ button {
   .large-collapse > .column, .large-collapse > .columns {
     padding-left: 0;
     padding-right: 0; }
-  .large-collapse .row {
+  .large-collapse .row,
+  .expanded.row .large-collapse.row {
     margin-left: 0;
     margin-right: 0; }
   .large-uncollapse > .column, .large-uncollapse > .columns {
