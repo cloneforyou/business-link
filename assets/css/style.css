@@ -4338,7 +4338,8 @@ GENERAL STYLES
 /*********************
 LINK STYLES
 *********************/
-a[target="_blank"] {
+a[target="_blank"],
+a[rel="external"] {
   outline: 1px solid red; }
 
 /*********************
