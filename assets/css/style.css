@@ -4374,6 +4374,9 @@ COMMENT STYLES
 /*********************
 SIDEBARS & ASIDES
 *********************/
+.submenu.is-accordion-submenu {
+  margin-left: 33px; }
+
 /*********************
 FOOTER STYLES
 *********************/

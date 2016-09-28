@@ -30,7 +30,7 @@
 				<ul class="menu align-right">
 					<li><a href="#">Register</a></li>
 					<li><a href="#">Log in</a></li>
-					<li>Your Account</li>
+					<!-- <li>Your Account</li> -->
 				</ul>
 			</div><!-- end .login -->
 			
