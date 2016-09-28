@@ -4338,6 +4338,9 @@ GENERAL STYLES
 /*********************
 LINK STYLES
 *********************/
+a[target="_blank"] {
+  outline: 1px solid red; }
+
 /*********************
 H1, H2, H3, H4, H5 P STYLES
 *********************/
