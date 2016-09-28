@@ -21,16 +21,16 @@
 				<a class="float-left" href="index.php" title="Nusiness Link for Small Businesses">
 					<img src="/_img/business-link-logo.jpg" alt="Business Link logo" />
 				</a>
-				<p class="strapline float-right">Information. Support. Compliance.</p>
+				<p class="strapline float-left">Information. Support. Compliance.</p>
 			</div><!-- end .branding -->
 			
 			<a name="skiplogin"></a>
 			
 			<div class="login clearfix">
-				<ul class="menu">
-					<li>Your Account</li>
+				<ul class="menu align-right">
 					<li><a href="#">Register</a></li>
 					<li><a href="#">Log in</a></li>
+					<li>Your Account</li>
 				</ul>
 			</div><!-- end .login -->
 			
