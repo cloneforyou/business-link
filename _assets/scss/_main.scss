@@ -12,7 +12,9 @@ GENERAL STYLES
 /*********************
 LINK STYLES
 *********************/
-a, a:visited {
+a:visited {
+
+	color: darken($primary-color, 20%); 
 
 	// Mobile tap color
 	&:link {
