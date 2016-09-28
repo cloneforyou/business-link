@@ -9,8 +9,8 @@
 			 */ ?>
 			<nav class="skip-links">
 				<h3>Skip content</h3>
-				<ul>
-					<li><a href="#skipcont">Go to main content</a></li>
+				<ul class="menu">
+					<li><a class="show-on-focus" href="#skipcont">Go to main content</a></li>
 					<li><a href="#skipleft">Go to main navigation</a></li>
 					<li><a href="#skiphelp">Go to site map, help, search</a></li>
 					<li><a href="#skiplogin">Go to register, log in</a></li>
@@ -20,7 +20,7 @@
 			
 			<div class="branding">
 				<a href="index.php" title="Nusiness Link for Small Businesses">
-					<img src="/_img/global-business-link-logo.png" alt="Business Link logo" />
+					<img src="/_img/business-link-logo.jpg" alt="Business Link logo" />
 				</a>
 				<p class="strapline">Information. Support. Compliance.</p>
 			</div><!-- end .branding -->
