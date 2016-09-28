@@ -19,7 +19,7 @@
 
 			<a name="skiphelp"id="skiphelp"></a>
 
-			<!-- Regional Support dropdown -->
+			<!-- Regional Support dropdown
 			<h2>Select your location</h2>
 			<p>Use the drop down menu to set your location and find help in your area.</p>
 			<img alt="United Kingdom Map" src="/_img/UK_map_lt.png">
@@ -42,7 +42,6 @@
 				</fieldset>
 			</form>
 
-			<!-- Search form -->
 			<form method="get" action="#">
 				<fieldset>
 					<input type="hidden" name="resultPage" value="1"/>
@@ -51,10 +50,11 @@
 					<input type="submit" value="Search" id="headersearchsubmit" title="Start the search" />
 				</fieldset>
 			</form>
+			 -->
 
 			<div id="bottomgroup">
 				<div id="tabs">
-					<ul>
+					<ul class="menu">
 						<li><a href="#">My Business</a></li>
 						<li><a href="whats-new.php">What's new?</a></li>
 						<li><a href="do-it-online.php" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">Do it online</a></li>
