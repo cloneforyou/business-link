@@ -17,18 +17,18 @@
 				</ul>
 			</nav><!-- end .skip-links -->
 			
-			<div class="branding">
-				<a href="index.php" title="Nusiness Link for Small Businesses">
+			<div class="branding clearfix">
+				<a class="float-left" href="index.php" title="Nusiness Link for Small Businesses">
 					<img src="/_img/business-link-logo.jpg" alt="Business Link logo" />
 				</a>
-				<p class="strapline">Information. Support. Compliance.</p>
+				<p class="strapline float-right">Information. Support. Compliance.</p>
 			</div><!-- end .branding -->
 			
 			<a name="skiplogin"></a>
 			
-			<div class="login">
-				<p>Your account</p>
+			<div class="login clearfix">
 				<ul class="menu">
+					<li>Your Account</li>
 					<li><a href="#">Register</a></li>
 					<li><a href="#">Log in</a></li>
 				</ul>
