@@ -18,7 +18,7 @@
 							<li><a href="/starting-up/considering-starting-up.php">Considering starting up?</a></li>
 							<li><a href="../starting-up/business-planning.php">Business planning</a></li>
 							<li><a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a></li>
-							<li><strong>Business structures</strong></li>
+							<li class="cat-title"><strong>Business structures</strong></li>
 							<li><a href="/starting-up/business-structures.php">Business structures</a></li>
 							<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
 							<li><a href="/starting-up/buy-a-business.php">Buy a business</a></li>
