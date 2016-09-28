@@ -8,13 +8,12 @@
 				https://www.w3.org/TR/WCAG20-TECHS/G1.html
 			 */ ?>
 			<nav class="skip-links">
-				<h3>Skip content</h3>
 				<ul class="menu">
 					<li><a class="show-on-focus" href="#skipcont">Go to main content</a></li>
-					<li><a href="#skipleft">Go to main navigation</a></li>
-					<li><a href="#skiphelp">Go to site map, help, search</a></li>
-					<li><a href="#skiplogin">Go to register, log in</a></li>
-					<li><a href="#skipfooter">Go to footer navigation</a></li>
+					<li><a class="show-on-focus" href="#skipleft">Go to main navigation</a></li>
+					<li><a class="show-on-focus" href="#skiphelp">Go to site map, help, search</a></li>
+					<li><a class="show-on-focus" href="#skiplogin">Go to register, log in</a></li>
+					<li><a class="show-on-focus" href="#skipfooter">Go to footer navigation</a></li>
 				</ul>
 			</nav><!-- end .skip-links -->
 			
@@ -29,7 +28,7 @@
 			
 			<div class="login">
 				<p>Your account</p>
-				<ul>
+				<ul class="menu">
 					<li><a href="#">Register</a></li>
 					<li><a href="#">Log in</a></li>
 				</ul>
