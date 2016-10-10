@@ -9,3 +9,5 @@
 <?php /* Typekit - Proxima Nova Soft */ ?>
 <script defer src="https://use.typekit.net/hnm1usr.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
+<?php /* Font Awesome CDN */ ?>
+<script src="https://use.fontawesome.com/4f840bacf9.js"></script>
