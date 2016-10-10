@@ -4341,9 +4341,16 @@ LINK STYLES
 a:visited {
   color: #0f5f94; }
 
-a[target="_blank"],
-a[rel="external"] {
-  outline: 1px solid red; }
+a[target="_blank"]:after {
+  font-family: "FontAwesome";
+  content: "\f08e";
+  display: inline-block;
+  padding-left: 5px; }
+
+.caption {
+  text-align: center; }
+  .caption img {
+    display: block; }
 
 /*********************
 H1, H2, H3, H4, H5 P STYLES
