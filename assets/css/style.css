@@ -4341,12 +4341,25 @@ LINK STYLES
 a:visited {
   color: #0f5f94; }
 
+/* Add a external link icon */
 a[target="_blank"]:after {
   font-family: "FontAwesome";
   content: "\f08e";
   display: inline-block;
   padding-left: 5px; }
 
+/* Change the colour of telephone links */
+a[href^="tel:"] {
+  color: orange;
+  font-weight: bold;
+  text-decoration: none; }
+
+/* add a unicode telephone icon */
+a[href^="tel:"]:before {
+  content: "\260e";
+  padding-right: 5px; }
+
+/* Links containing an image then text */
 .caption {
   text-align: center; }
   .caption img {

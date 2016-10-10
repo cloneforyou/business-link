@@ -62,7 +62,7 @@
 				<img src="/_img/helplineblsmallhomepage.jpg" width="166" height="56" alt="GIS service" />
 			<br />Unable to find the information you are looking for?</a>
 			<br />
-			Contact the <strong>Business Link Helpline</strong> on Tel: <a href="tel:08456009006">0845 600 9006</a>, open 9am-6pm Monday to Friday.
+			Contact the <strong>Business Link Helpline</strong> on: <a href="tel:08456009006">0845 600 9006</a>, open 9am - 6pm Monday to Friday.
 		</p>
 
 		<h3>The business in you</h3>
@@ -117,7 +117,7 @@
 						<img src="/_img/icon-helpline.jpg" alt="" />
 					</a>
 					<br />Unable to find the information you are looking for?<br />
-					Contact the <strong>Business Link Helpline</strong> on Tel: <a href="tel:08456009006">0845 600 9006</a>, open 9am-6pm Monday to Friday.
+					Contact the <strong>Business Link Helpline</strong> on: <a href="tel:08456009006">0845 600 9006</a>, open 9am - 6pm Monday to Friday.
 				</p>
 			</div>
 			<div class="column">
