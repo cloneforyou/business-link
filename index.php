@@ -17,42 +17,61 @@
 		<h1>Welcome to Business Link</h1>
 		<p>Business Link is government's online resource for businesses. It is now enhanced with new, easy-to-use tools to help you start up, improve and grow your business.</p>
 		<p>For more information visit <a href="about-business-link.php">about us</a>.</p>
-		<p>You can also find information and support specific to businesses in <a href="http://www.business.scotland.gov.uk/" title="Government-funded support services for businesses in Scotland" rel="external">Scotland</a>, <a href="http://business.wales.gov.uk/" title="Government-funded support services for businesses in Wales" rel="external">Wales</a> and <a href="http://www.nibusinessinfo.co.uk/" title="Government-funded support services for businesses in Northern Ireland" rel="external">Northern Ireland</a>.</p>
-		<a href="http://twitter.com/BusinessLinkGov" title="Keep your business on track with our latest news and updates" rel="external">
+		<p>You can also find information and support specific to businesses in <a href="http://www.business.scotland.gov.uk/" title="Government-funded support services for businesses in Scotland" target="_blank" rel="noopener noreferrer">Scotland</a>, <a href="http://business.wales.gov.uk/" title="Government-funded support services for businesses in Wales" target="_blank" rel="noopener noreferrer">Wales</a> and <a href="http://www.nibusinessinfo.co.uk/" title="Government-funded support services for businesses in Northern Ireland" target="_blank" rel="noopener noreferrer">Northern Ireland</a>.</p>
+		<a class="caption" href="http://twitter.com/BusinessLinkGov" title="Keep your business on track with our latest news and updates" target="_blank" rel="noopener noreferrer">
 			<img src="/_img/shp_twitter.jpg" width="166" height="56" alt="Keep your business on track with our latest news and updates" />
+			Follow us on Twitter
 		</a>
-		<a href="http://twitter.com/BusinessLinkGov" title="Keep your business on track with our latest news and updates" rel="external">Follow us on Twitter</a>
+		
+		<hr />
+		
 		<p>Keep your business on track with our latest news and updates</p>
-		<a href="http://www.ukwelcomes.businesslink.gov.uk/" title="Learn about the opportunities that the UK could offer to your business" rel="external">
-			<img src="/_img/PSCPromoimage.jpg" width="166" height="56" alt="Learn about the opportunities that the UK could offer to your business" />
-		</a>
-		<a href="http://www.ukwelcomes.businesslink.gov.uk/" title="Learn about the opportunities that the UK could offer to your business" rel="external">UK welcomes business</a>
+		
+		<h3>UK welcomes business</h3>
+		<a href="http://www.ukwelcomes.businesslink.gov.uk/" title="Learn about the opportunities that the UK could offer to your business" target="_blank" rel="noopener noreferrer">
+			<img src="/_img/PSCPromoimage.jpg" width="166" height="56" alt="Learn about the opportunities that the UK could offer to your business" /></a>
+		
 		<p>Are you based outside the UK? Do you want to explore opportunities or expand your business in the UK? If so, then UK welcomes business is for you&hellip;</p>
-		<a href="find-out-what-records-you-should-be-keeping.php" title="Use our interactive tool to find out the records you must keep as a business and assess how well you are keeping them">
-			<img src="/_img/web_chk_home.jpg" width="166" height="56" alt="Use our interactive tool to find out the records you must keep as a business and assess how well you are keeping them" />
-		</a>
-		<a href="find-out-what-records-you-should-be-keeping.php" title="Use our interactive tool to find out the records you must keep as a business and assess how well you are keeping them">Find out what records you should be keeping</a>
-		<p>Use our interactive tool to find out the records you must keep as a business</p>
-		<a href="intrastat-returns-important-changes.php" title="Submitting Intrastat declarations from 1 April 2012: a reminder">
-			<img src="/_img/HP_hands_on_keyboard.jpg" width="166" height="56" alt="Submitting Intrastat declarations from 1 April 2012: a reminder" />
-		</a>
-		<a href="intrastat-returns-important-changes.php" title="Submitting Intrastat declarations from 1 April 2012: a reminder">Intrastat returns: important changes</a>
-		<p>Businesses providing Intrastat returns to HMRC need to act on this information</p>
-		<a href="employers-charter.php" title="Find out what you can and can't do when managing your staff">
-			<img src="/_img/support.jpg" width="166" height="56" alt="Find out what you can and can't do when managing your staff" />
-		</a>
-		<a href="employers-charter.php" title="Find out what you can and can't do when managing your staff">Updated Employer's Charter</a>
-		<p>Find out what you can and can't do when managing your staff</p>
-		<a href="http://improve.businesslink.gov.uk/what-service-can-do-you" title="GIS service" rel="external">
-			<img src="/_img/helplineblsmallhomepage.jpg" width="166" height="56" alt="GIS service" />
-		</a>
-		<a href="http://improve.businesslink.gov.uk/what-service-can-do-you" title="GIS service" rel="external">Have a business idea, looking to start-up or grow your business?</a>
-		<p>Unable to find the information you are looking for? Contact the Business Link Helpline Tel: 0845 600 9006 9am-6pm Monday to Friday.</p>
+		
+		<h3>Find out what records you should be keeping</h3>
+		<p>
+			<a href="find-out-what-records-you-should-be-keeping.php" title="Use our interactive tool to find out the records you must keep as a business and assess how well you are keeping them">
+				<img src="/_img/web_chk_home.jpg" width="166" height="56" alt="Use our interactive tool to find out the records you must keep as a business and assess how well you are keeping them" />
+				<br />Use our interactive tool to find out the records you must keep as a business
+			</a>
+		</p>
+		
+		<h3>Intrastat returns: important changes</h3>
+		<p>
+			<a href="intrastat-returns-important-changes.php" title="Submitting Intrastat declarations from 1 April 2012: a reminder">
+				<img src="/_img/HP_hands_on_keyboard.jpg" width="166" height="56" alt="Submitting Intrastat declarations from 1 April 2012: a reminder" />
+			<br />Businesses providing Intrastat returns to HMRC need to act on this information</a>
+		</p>
+
+		<h3>Updated Employer's Charter</h3>
+		<p>
+			<a href="employers-charter.php" title="Find out what you can and can't do when managing your staff">
+				<img src="/_img/support.jpg" width="166" height="56" alt="Find out what you can and can't do when managing your staff" />
+			<br />Find out what you can and can't do when managing your staff
+			</a>
+		</p>
+
+		<h3>Have a business idea, looking to start-up or grow your business?</h3>
+		<p>
+			<a href="http://improve.businesslink.gov.uk/what-service-can-do-you" title="GIS service" target="_blank" rel="noopener noreferrer">
+				<img src="/_img/helplineblsmallhomepage.jpg" width="166" height="56" alt="GIS service" />
+			<br />Unable to find the information you are looking for?</a>
+			<br />
+			Contact the <strong>Business Link Helpline</strong> on Tel: <a href="tel:08456009006">0845 600 9006</a>, open 9am-6pm Monday to Friday.
+		</p>
+
+		<h3>The business in you</h3>
 		<a href="find-the-business-in-you.php" title="The 'Business in You' is a major new campaign to help people to start a new business or grow their existing one">
 			<img src="/_img/Business_in_you_smaller_homepage_promo.jpg" width="166" height="56" alt="The "business in you" is a major new campaign to help people to start a new business or grow their existing one" />
 		</a>
-		<a href="find-the-business-in-you.php" title="The 'Business in You' is a major new campaign to help people to start a new business or grow their existing one">The business in you</a>
 		<p>Starting and growing a business - tips and tools from real-life success stories</p>
+
+		<hr />
 
 		<div class="row small-up-1 medium-up-2">
 			<div class="column">
@@ -97,7 +116,8 @@
 						Have a business idea, looking to start-up or grow your business?
 						<img src="/_img/icon-helpline.jpg" alt="" />
 					</a>
-					<br />Unable to find the information you are looking for? Contact the Business Link Helpline Tel: 0845 600 9006 9am-6pm Monday to Friday.
+					<br />Unable to find the information you are looking for?<br />
+					Contact the <strong>Business Link Helpline</strong> on Tel: <a href="tel:08456009006">0845 600 9006</a>, open 9am-6pm Monday to Friday.
 				</p>
 			</div>
 			<div class="column">
@@ -111,8 +131,10 @@
 			</div>
 			<div class="column">
 				<p>
-					<a href="https://www.gov.uk/browse/business/setting-up" title="My New Business" rel="external">
+					<a href="https://www.gov.uk/browse/business/setting-up" title="My New Business" target="_blank" rel="noopener noreferrer">
 						Start-up service
+					</a>
+					<a href="https://www.gov.uk/browse/business/setting-up" title="My New Business">
 						<img src="/_img/MNB_302x239.jpg" alt="" />
 					</a>
 					<br />Get your business off the ground
@@ -165,8 +187,10 @@
 			</div>
 			<div class="column">
 				<p>
-					<a href="http://www.events.businesslink.gov.uk/" title="Search for relevant business events near you" rel="external">
+					<a href="http://www.events.businesslink.gov.uk/" title="Search for relevant business events near you" target="_blank" rel="noopener noreferrer">
 						Events Finder
+					</a>
+					<a href="http://www.events.businesslink.gov.uk/" title="Search for relevant business events near you">
 						<img src="/_img/EMS_302x239.jpg" alt="" />
 					</a>
 					<br />Find and book business related events near you
@@ -183,8 +207,10 @@
 			</div>
 			<div class="column">
 				<p>
-					<a href="https://www.gov.uk/growing-your-business" title="Taking on an employee" target="_blank">
+					<a href="https://www.gov.uk/growing-your-business" title="Taking on an employee" target="_blank" rel="noopener noreferrer">
 						Taking on an employee tool launched
+					</a>
+					<a href="https://www.gov.uk/growing-your-business" title="Taking on an employee">
 						<img src="/_img/takingonanemployee_home.jpg" alt="Taking on an employee tool" />
 					</a>
 					<br />Tool outlines the five steps an employer must take when employing someone
@@ -217,6 +243,8 @@
 			</li>
 		</ul>
 		<p><a href="do-it-online.php" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">View all services</a></p>
+
+		<!--
 		<h2><a href="#">My Business</a></h2>
 		<p>
 			<a href="#" title="The more you tell us about your business, the more time we can save you. We recommend that you keep your profile up to date.">
@@ -228,6 +256,7 @@
 		</p>
 		<p><a href="#">Go to My Business</a></p>
 		<p><a href="#">Log in</a></p>
+		-->
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
