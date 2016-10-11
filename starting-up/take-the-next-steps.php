@@ -16,10 +16,10 @@
 
 		<h1>Take the next steps</h1>
 
-		<h2><a href="https://www.gov.uk/business-finance-support-finder" title="Finance and support for your business" rel="external">Work out if your business is ready to grow</a></h2>
+		<h2><a href="https://www.gov.uk/business-finance-support-finder" title="Finance and support for your business" target="_blank" rel="noopener noreferrer">Work out if your business is ready to grow</a></h2>
 		<p>How to assess readiness and plan for business growth</p>
 
-		<h2><a href="https://www.gov.uk/business-finance-support-finder" title="Finance and support for your business" rel="external">Take the next steps in your business journey</a></h2>
+		<h2><a href="https://www.gov.uk/business-finance-support-finder" title="Finance and support for your business" target="_blank" rel="noopener noreferrer">Take the next steps in your business journey</a></h2>
 		<p>The factors that will contribute to successful growth</p>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

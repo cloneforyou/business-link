@@ -22,7 +22,7 @@
 		<h2><a href="#">Get tips on how to network</a></h2>
 		<p>Watch our video on how to get the most from business networking and find networking events near you</p>
 	
-		<h2><a href="https://www.gov.uk/business-finance-support-finder" title="Finance and support for your business" rel="external">Find the right support for your new business</a></h2>
+		<h2><a href="https://www.gov.uk/business-finance-support-finder" title="Finance and support for your business" target="_blank" rel="noopener noreferrer">Find the right support for your new business</a></h2>
 		<p>Watch our case study on how a start up business found the right help and support and get tips on the best way to use outside help</p>
 	
 		<h2><a href="/further-support-for-your-business/business-advice-open-days.php.html">Business Advice Open Days</a></h2>
@@ -34,7 +34,7 @@
 		<h2><a href="/further-support-for-your-business/extra-help-and-support-available-for-your-start-up.php.html">Extra help and support available for your start up</a></h2>
 		<p>How to find out if you are eligible for extra help and support for your new business</p>
 	
-		<h2><a href="http://shop.bsigroup.com/BusinessLinks/BusinessLinkLP/" title="BSI and Business Link's standards information portal" rel="external">Standards explained on the British Standards Institution website</a></h2>
+		<h2><a href="http://shop.bsigroup.com/BusinessLinks/BusinessLinkLP/" title="BSI and Business Link's standards information portal" target="_blank" rel="noopener noreferrer">Standards explained on the British Standards Institution website</a></h2>
 		<p>Learn more about standards and how they can help you and your organisation</p>
 		<img src="/_img/Choosing_advisers_and_services.jpg" width="146" height="146" alt=" " />
 	

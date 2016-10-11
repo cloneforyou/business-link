@@ -16,16 +16,16 @@
 	
 		<h1>Choose and set up your workplace</h1>
 
-		<h2><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" rel="external">Choose the right type of premises</a></h2>
+		<h2><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Choose the right type of premises</a></h2>
 		<p>How to choose the right business premises</p>
 
-		<h2><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" rel="external">Rent or buy premises </a></h2>
+		<h2><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Rent or buy premises </a></h2>
 		<p>How to assess if you should rent or buy your business premises</p>
 
-		<h2><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" rel="external">Manage workplace health and safety </a></h2>
+		<h2><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Manage workplace health and safety </a></h2>
 		<p>Learn how to manage your workplace health and safety</p>
 
-		<h2><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" rel="external">Set up your business at home</a></h2>
+		<h2><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Set up your business at home</a></h2>
 		<p>Find information on how to start a business from home</p>
 
 		<h2><a href="/choose-and-set-up-your-workplace/starting-a-business-from-home.php.html">Starting a business from home </a></h2>

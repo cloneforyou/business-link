@@ -16,19 +16,19 @@
 
 		<h1>Trade with other countries</h1>
 
-		<h2><a href="https://www.gov.uk/browse/business/imports-exports" title="Imports and exports" rel="external">Trade with other European Union countries</a></h2>
+		<h2><a href="https://www.gov.uk/browse/business/imports-exports" title="Imports and exports" target="_blank" rel="noopener noreferrer">Trade with other European Union countries</a></h2>
 		<p>Customs, tax and VAT procedures that apply when you trade with countries outside the EU</p>
 
 
-		<h2><a href="https://www.gov.uk/browse/business/imports-exports" title="Imports and exports" rel="external">Trade with other countries using the internet</a></h2>
+		<h2><a href="https://www.gov.uk/browse/business/imports-exports" title="Imports and exports" target="_blank" rel="noopener noreferrer">Trade with other countries using the internet</a></h2>
 		<p>Customs, VAT and excise rules that apply when you trade online with other countries</p>
 
 
-		<h2><a href="https://www.gov.uk/browse/business/imports-exports" title="Imports and exports" rel="external">Trade with countries outside the European Union</a></h2>
+		<h2><a href="https://www.gov.uk/browse/business/imports-exports" title="Imports and exports" target="_blank" rel="noopener noreferrer">Trade with countries outside the European Union</a></h2>
 		<p>Customs, tax and VAT procedures are simpler when you trade with other countries in the EU </p>
 
 
-		<h2><a href="https://www.gov.uk/browse/business/imports-exports" title="Imports and exports" rel="external">Find out about excise duty</a></h2>
+		<h2><a href="https://www.gov.uk/browse/business/imports-exports" title="Imports and exports" target="_blank" rel="noopener noreferrer">Find out about excise duty</a></h2>
 		<p>Excise duty applies to certain goods when they are brought into the UK for commercial use</p>
 
 

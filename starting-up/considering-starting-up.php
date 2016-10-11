@@ -16,13 +16,13 @@
 
 		<h1>Considering starting up?</h1>
 
-		<h2><a href="https://www.gov.uk/starting-up-a-business" title="Start your own business" rel="external">Find out whether you can work for yourself</a></h2>
+		<h2><a href="https://www.gov.uk/starting-up-a-business" title="Start your own business" target="_blank" rel="noopener noreferrer">Find out whether you can work for yourself</a></h2>
 		<p>Discover what it means to be your own boss and how to take the first steps in getting your business off the ground</p>
 
-		<h2><a href="https://www.gov.uk/starting-up-a-business" title="Start your own business" rel="external">Decide if you've got what it takes to be your own boss</a></h2>
+		<h2><a href="https://www.gov.uk/starting-up-a-business" title="Start your own business" target="_blank" rel="noopener noreferrer">Decide if you've got what it takes to be your own boss</a></h2>
 		<p>Learn about the qualities you need to be your own boss and how you can use your skills and experience to get your business up and running</p>
 
-		<h2><a href="https://www.gov.uk/starting-up-a-business" title="Start your own business" rel="external">Develop your business idea</a></h2>
+		<h2><a href="https://www.gov.uk/starting-up-a-business" title="Start your own business" target="_blank" rel="noopener noreferrer">Develop your business idea</a></h2>
 		<p>Find out about researching your chosen market and how to generate or develop a new business idea</p>
 
 		<h2><a href="/considering-starting-up/starting-a-business-the-basics.php.html">Starting a business: the basics</a></h2>
@@ -49,12 +49,12 @@
 		<h2><a href="/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php.html">Starting a business when economic conditions are tough</a></h2>
 		<p>Assess the opportunities for starting a business during an economic downturn</p>
 
-		<h2><a href="https://www.gov.uk/business-finance-explained" title="Business finance explained" rel="external">Think about the money</a></h2>
+		<h2><a href="https://www.gov.uk/business-finance-explained" title="Business finance explained" target="_blank" rel="noopener noreferrer">Think about the money</a></h2>
 		<p>Understand your finance options when starting up and how to manage your money in the first year of trading</p>
 
 		<h3>Directories</h3>
 		<ul>
-			<li><a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" rel="external">Starting up events near you</a></li>
+			<li><a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" target="_blank" rel="noopener noreferrer">Starting up events near you</a></li>
 			<li><a href="/browse-by-theme-starting-up.php">Starting up case studies</a></li>
 		</ul>
 

@@ -19,13 +19,13 @@
 		<h2><a href="#">Learn how to describe your business to customers</a></h2>
 		<p>How defining what your business does can generate more sales</p>
 
-		<h2><a href="https://www.gov.uk/business-selling-customers" title="Your business and selling to customers" rel="external">Understand your market</a></h2>
+		<h2><a href="https://www.gov.uk/business-selling-customers" title="Your business and selling to customers" target="_blank" rel="noopener noreferrer">Understand your market</a></h2>
 		<p>Researching your market and competition</p>
 
 		<h2><a href="#">Build your brand</a></h2>
 		<p>Find out how to develop your business' brand and reputation</p>
 
-		<h2><a href="httphttps://www.gov.uk/browse/business/sale-goods-services-data" title="Sale of goods and services and data protection" rel="external">Get your pricing right</a></h2>
+		<h2><a href="httphttps://www.gov.uk/browse/business/sale-goods-services-data" title="Sale of goods and services and data protection" target="_blank" rel="noopener noreferrer">Get your pricing right</a></h2>
 		<p>How to set the right price for your product or service</p>
 
 		<h2><a href="#">Sell your product or service</a></h2>
@@ -39,7 +39,7 @@
 
 		<h3>Directories</h3>
 		<ul>
-			<li><a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" rel="external">Starting up events near you</a></li>
+			<li><a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" target="_blank" rel="noopener noreferrer">Starting up events near you</a></li>
 			<li><a href="/browse-by-theme-starting-up.php">Starting up case studies</a></li>
 		</ul>
 

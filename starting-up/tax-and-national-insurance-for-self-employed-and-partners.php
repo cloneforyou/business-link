@@ -16,13 +16,13 @@
 
 		<h1>Tax and National Insurance for self-employed or partners</h1>
 
-		<h2><a href="https://www.gov.uk/browse/tax/income-tax" title="Income Tax" rel="external">Get started with Income Tax and National Insurance</a></h2>
+		<h2><a href="https://www.gov.uk/browse/tax/income-tax" title="Income Tax" target="_blank" rel="noopener noreferrer">Get started with Income Tax and National Insurance</a></h2>
 		<p>What is National Insurance and how does it apply to you if you work for yourself</p>
 
-		<h2><a href="https://www.gov.uk/self-assessment-tax-returns" title="Self Assessment tax returns" rel="external">Find out about Self Assessment and your tax return </a></h2>
+		<h2><a href="https://www.gov.uk/self-assessment-tax-returns" title="Self Assessment tax returns" target="_blank" rel="noopener noreferrer">Find out about Self Assessment and your tax return </a></h2>
 		<p>Tools and videos to help you fill in your Self Assessment tax return and understand what the deadlines and penalities are</p>
 
-		<h2><a href="http://www.hmrc.gov.uk/incometax/relief-self-emp.htm" title="Tax allowances and reliefs if you're self-employed" rel="external">Get to grips with expenses and records if you're self-employed</a></h2>
+		<h2><a href="http://www.hmrc.gov.uk/incometax/relief-self-emp.htm" title="Tax allowances and reliefs if you're self-employed" target="_blank" rel="noopener noreferrer">Get to grips with expenses and records if you're self-employed</a></h2>
 		<p>What records you should keep as a self-employed person and some tools to help you understand what you can and can't claim as a business expense</p>
 		<img src="/_img/Income_corp.jpg" width="146" height="146" alt="" />
 

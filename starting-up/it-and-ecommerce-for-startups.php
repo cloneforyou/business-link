@@ -16,7 +16,7 @@
 
 		<h1>IT and e-commerce for start ups</h1>
 
-		<h2><a href="https://www.gov.uk/understanding-business-it-needs" title="Understanding your business's IT needs" rel="external">Choose the right IT for your business</a></h2>
+		<h2><a href="https://www.gov.uk/understanding-business-it-needs" title="Understanding your business's IT needs" target="_blank" rel="noopener noreferrer">Choose the right IT for your business</a></h2>
 		<p>How to choose the right IT for your business</p>
 
 		<h2><a href="#">Create your first website</a></h2>
@@ -33,7 +33,7 @@
 
 		<h3>Directories</h3>
 		<ul>
-			<li><a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" rel="external">Starting up events near you</a></li>
+			<li><a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" target="_blank" rel="noopener noreferrer">Starting up events near you</a></li>
 			<li><a href="/browse-by-theme-starting-up.php">Starting up case studies</a></li>
 		</ul>
 

@@ -16,13 +16,13 @@
 	
 		<h1>Business structures</h1>
 		
-		<h2><a href="https://www.gov.uk/business-legal-structures" title="Choose a legal structure for a new business" rel="external">Understand the different business types</a></h2>
+		<h2><a href="https://www.gov.uk/business-legal-structures" title="Choose a legal structure for a new business" target="_blank" rel="noopener noreferrer">Understand the different business types</a></h2>
 		<p>Learn about the different types of business and legal structures to help you choose the right one for your new business</p>
 	
-		<h2><a href="https://www.gov.uk/business-legal-structures" title="Choose a legal structure for a new business" rel="external">Choose the right business model and legal structure </a></h2>
+		<h2><a href="https://www.gov.uk/business-legal-structures" title="Choose a legal structure for a new business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></h2>
 		<p>Tutorials, videos and tools to help you decide how to become self-employed - from sole trader to limited company, franchisee to social enterprise and more</p>
 	
-		<h2><a href="https://www.gov.uk/register-a-company-online" title="Register a private limited company online" rel="external">Register with Companies House</a></h2>
+		<h2><a href="https://www.gov.uk/register-a-company-online" title="Register a private limited company online" target="_blank" rel="noopener noreferrer">Register with Companies House</a></h2>
 		<p>Tutorials to guide you through registering your limited company with Companies House</p>
 	
 		<h2><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your company online</a></h2>

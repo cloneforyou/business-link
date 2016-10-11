@@ -16,7 +16,7 @@
 
 		<h1>Protect your business ideas</h1>
 
-		<h2><a href="https://www.gov.uk/browse/business/intellectual-property" title="Patents, trade marks, copyright and designs" rel="external">Protect your business and premises</a></h2>
+		<h2><a href="https://www.gov.uk/browse/business/intellectual-property" title="Patents, trade marks, copyright and designs" target="_blank" rel="noopener noreferrer">Protect your business and premises</a></h2>
 		<p>Identify what areas of your business need insurance and the best way to do it</p>
 
 		<h2><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/intellectual-property-the-basics.php.html">Intellectual property: the basics</a></h2>
@@ -30,7 +30,7 @@
 
 		<h3>Directories</h3>
 		<ul>
-			<li><a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" rel="external">Starting up events near you</a></li>
+			<li><a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" target="_blank" rel="noopener noreferrer">Starting up events near you</a></li>
 			<li><a href="/browse-by-theme-starting-up.php">Starting up case studies</a></li>
 		</ul>
 
