@@ -18,7 +18,7 @@
 		
 		<h2>How will the Budget affect your business?</h2>
 		<p>Budget 2012 maintains the Government's strategy and sets out further action it will take in three areas: a stable economy; a fairer, more efficient and simpler tax system; and reforms to support growth.</p>
-		<p>You can find full details of the Budget announcements on the <a href="https://www.gov.uk/government/organisations/hm-treasury" rel="external">HM Treasury website</a>, <a href="http://www.hmrc.gov.uk/budget2012/index.htm" rel="external">HMRC website</a> and <a href="https://www.gov.uk/government/news/budget-2012--2" rel="external">BIS website</a>.</p>
+		<p>You can find full details of the Budget announcements on the <a href="https://www.gov.uk/government/organisations/hm-treasury" target="_blank" rel="noopener noreferrer">HM Treasury website</a>, <a href="http://www.hmrc.gov.uk/budget2012/index.htm" target="_blank" rel="noopener noreferrer">HMRC website</a> and <a href="https://www.gov.uk/government/news/budget-2012--2" target="_blank" rel="noopener noreferrer">BIS website</a>.</p>
 		<p><strong>Key announcements for business</strong></p>
 		<ul>
 			<li>The main rate of <strong>corporation tax</strong> will be reduced by an additional one per cent, so that the rate will reduce from 26 per cent to 24 per cent in April 2012, to 23 per cent in April 2013 and will come down to 22 per cent by April 2014.</li>

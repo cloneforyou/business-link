@@ -44,7 +44,7 @@
 			<li><a href="/make-business-your-business.php.html">Make Business Your Business  - Helping you to start and develop your business</a></li>
 			<li><a href="/national-business-support-services-have-changed.php.html">An overview of the national business support services available to you - Changes from November 2011</a></li>
 			<li><a href="/web-incorporation-service.php.html">Incorporate online with Companies House - Use this simple, new service to incorporate a private limited company online</a></li>
-			<li><a href="https://www.gov.uk/growing-your-business" title="Growing your business" rel="external">Business awards finder - Search our new database for business recognition awards that could boost your business' profile </a></li>
+			<li><a href="https://www.gov.uk/growing-your-business" title="Growing your business" target="_blank" rel="noopener noreferrer">Business awards finder - Search our new database for business recognition awards that could boost your business' profile </a></li>
 		</ul>
 		<h2>What's new: advice and support</h2>
 		<table cellpadding="0" cellspacing="0">
@@ -97,7 +97,7 @@
 			<li><a href="/intrastat-returns-important-changes.php.html">Intrastat returns: important changes - Businesses providing Intrastat returns to HMRC need to act on this information</a></li>
 			<li><a href="/public-have-their-say-on-business-regulations.php.html">Red Tape Challenge now focusing on Company &amp; Commercial Law - Have your say on the regulations thataffect your business</a></li>
 			<li><a href="#">Regulation updates - Keep track of regulation changes affecting small business with our at-a-glance guidance</a></li>
-			<li><a href="https://www.gov.uk/licence-finder" title="Licence finder" rel="external">Your Licence and Compliance Requirements  - Find summaries of licences and contacts for your business</a></li>
+			<li><a href="https://www.gov.uk/licence-finder" title="Licence finder" target="_blank" rel="noopener noreferrer">Your Licence and Compliance Requirements  - Find summaries of licences and contacts for your business</a></li>
 		</ul>
 		<h2>What's new: latest government campaigns &amp; announcements</h2>
 		<table cellpadding="0" cellspacing="0">
@@ -120,10 +120,10 @@
 			</tr>
 		</table>
 		<ul>
-			<li><a href="https://www.gov.uk/government/consultations/specialist-disability-employment-programmes" title="Specialist disability employment programmes" rel="external">Government's response to Liz Sayce's review  - Find out about key reforms which may benefit your business</a></li>
+			<li><a href="https://www.gov.uk/government/consultations/specialist-disability-employment-programmes" title="Specialist disability employment programmes" target="_blank" rel="noopener noreferrer">Government's response to Liz Sayce's review  - Find out about key reforms which may benefit your business</a></li>
 			<li><a href="/helping-high-streets-to-thrive-and-be-competitive.php.html">The Portas Review - Helping high streets to thrive and be competitive</a></li>
 			<li><a href="/new-consultation-launched.php.html">New consultation launched - Simpler Income Tax for Self employed and Small Partnerships</a></li>
-			<li><a href="http://www.hmrc.gov.uk/budget-updates/march2011/index.htm" title="Budget 23 March 2011 - updates" rel="external">Draft Finance Bill 2012 - Draft Finance Bill clauses have been published</a></li>
+			<li><a href="http://www.hmrc.gov.uk/budget-updates/march2011/index.htm" title="Budget 23 March 2011 - updates" target="_blank" rel="noopener noreferrer">Draft Finance Bill 2012 - Draft Finance Bill clauses have been published</a></li>
 			<li><a href="/independent-review-of-criminal-records-regime.php.html">Independent review of criminal records regime - Second phase of recommendations published</a></li>
 			<li><a href="/new-support-for-smes.php.html">Finance Fitness campaign - Find out about the government's new initiative to help businesses manage their finances</a></li>
 			<li><a href="/green-economy-for-business.php.html">Enabling the Transition to a Green Economy - The government's new publication on improving sustainability</a></li>
@@ -150,7 +150,7 @@
 		</table>
 		<ul>
 			<li><a href="/how-to-use-online-adi-services.php.html">DSA online services - How to use these ADI services</a></li>
-			<li><a href="https://www.youtube.com/playlist?list=PLAB964530D9007F73" title="ADI online services - Youtube" rel="external">Approved driving instructors (ADI) online services video - Watch this video to learn more about the DSA's online services </a></li>
+			<li><a href="https://www.youtube.com/playlist?list=PLAB964530D9007F73" title="ADI online services - Youtube" target="_blank" rel="noopener noreferrer">Approved driving instructors (ADI) online services video - Watch this video to learn more about the DSA's online services </a></li>
 			<li><a href="/statutory-payment-rates.php.html">Statutory payment rates - Find out the current rates of statutory sick, maternity, paternity adoption pay</a></li>
 			<li><a href="/new-guidance-on-recruiting-disabled-people.php.html">New 'Clearkit' - Guidance for employers on recruiting and retaining disabled people</a></li>
 			<li><a href="/find-the-business-in-you.php">The business in you - Starting and growing a business - tips and tools from real-life success stories</a></li>

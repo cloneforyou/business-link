@@ -20,10 +20,10 @@
 		<p>Trade marks also need to be classified by the specific goods and services they will be applied to. A full list of goods and services, together with the appropriate class numbers, is available on the Intellectual Property Office website.</p>
 		<p>To apply to register your trade mark, complete the online application form on the Intellectual Property Office website by clicking the button below. Please note there is a fee to pay which will vary according to the filing option you choose. (All major credit/debit cards are accepted. Mastercard Secure Pay and Verified by Visa are used to improve online card payment security.)</p>
 		<p>While completing the online form, you will be able to save and return to it. Please note the service is unavailable between 00.15 and 03.15 every morning.</p>
-		<a href="https://www.ipo.gov.uk/tm3-online/CompleterTypeQuestion/Edit" title="Intellectual Property Office - TM3 On-line form" rel="external">Apply to register a trade mark</a>
+		<a href="https://www.ipo.gov.uk/tm3-online/CompleterTypeQuestion/Edit" title="Intellectual Property Office - TM3 On-line form" target="_blank" rel="noopener noreferrer">Apply to register a trade mark</a>
 		<dl>
 			<dt>In partnership with:</dt>
-			<dd> <a href="http://www.ipo.gov.uk" rel="external"><img src="/_img/IPO_LOGO.gif" width="150" height="26" alt="" />Intellectual Property Office</a></dd>
+			<dd> <a href="http://www.ipo.gov.uk" target="_blank" rel="noopener noreferrer"><img src="/_img/IPO_LOGO.gif" width="150" height="26" alt="" />Intellectual Property Office</a></dd>
 		</dl>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

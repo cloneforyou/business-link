@@ -16,7 +16,7 @@
 		
 		<h1>Do it online</h1>
 		<p>Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies, as well as interactive tools to help you run your business.</p>
-		<p>Most downloadable forms are in Adobe Acrobat&reg; portable document format (PDF) - <a href="https://www.gov.uk/help" title="Help using GOV.UK" rel="external">see our help page on using Adobe Acrobat&reg;</a>.</p>
+		<p>Most downloadable forms are in Adobe Acrobat&reg; portable document format (PDF) - <a href="https://www.gov.uk/help" title="Help using GOV.UK" target="_blank" rel="noopener noreferrer">see our help page on using Adobe Acrobat&reg;</a>.</p>
 		<form method="get" action="#">
 			<label for="searchby">Search do it online items</label>
 			<input type="text" name="expression" />
@@ -47,7 +47,7 @@
 		<h3>Business support tools</h3>
 		<ul>
 			<li><a href="/tools-directory.php.html">View our interactive tools directory</a></li>
-			<li><a href="https://www.gov.uk/business-finance-support-finder" title="Finance and support for your business" rel="external">Use the business support finder</a></li>
+			<li><a href="https://www.gov.uk/business-finance-support-finder" title="Finance and support for your business" target="_blank" rel="noopener noreferrer">Use the business support finder</a></li>
 		</ul>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

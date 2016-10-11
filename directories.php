@@ -18,7 +18,7 @@
 		<table cellpadding="0" cellspacing="0">
 			<tr>
 				<td>
-					<a href="https://www.gov.uk/events-finder" title="Search for business training and networking events" rel="external">
+					<a href="https://www.gov.uk/events-finder" title="Search for business training and networking events" target="_blank" rel="noopener noreferrer">
 						<img src="/_img/TL0011.jpg" width="76" height="76" alt="Find events from a variety of organisations" />
 						<h2>Find events</h2>
 						<p>Search or browse for business events throughout the UK</p>
@@ -34,14 +34,14 @@
 			</tr>
 			<tr>
 				<td>
-					<a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" rel="external">
+					<a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" target="_blank" rel="noopener noreferrer">
 						<img src="/_img/tutorial_02.jpg" width="76" height="76" alt="Start-up learning directory" />
 						<h2>Start-up learning directory</h2>
 						<p>Find over 200 videos and e-learning courses on a wide range of start-up topics</p>
 					</a>
 				</td>
 				<td>
-					<a href="https://www.gov.uk/growing-your-business" title="Growing your business" rel="external">
+					<a href="https://www.gov.uk/growing-your-business" title="Growing your business" target="_blank" rel="noopener noreferrer">
 						<img src="/_img/support_finder_1.jpg" width="76" height="76" alt="Search our business support finder for grants, loans, expertise and advice for which your business may be eligible" />
 						<h2>Business support finder</h2>
 						<p>Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</p>
@@ -73,7 +73,7 @@
 					</a>
 				</td>
 				<td>
-					<a href="https://www.gov.uk/growing-your-business" title="Growing your business" rel="external">
+					<a href="https://www.gov.uk/growing-your-business" title="Growing your business" target="_blank" rel="noopener noreferrer">
 						<img src="/_img/award_finder.jpg" width="76" height="76" alt="Search our Business Awards Finder to find business recognition awards you may be eligible to apply forbafSearch" />
 						<h2>Business awards finder</h2>
 						<p>Search our database to find awards that your business may be eligible to enter</p>

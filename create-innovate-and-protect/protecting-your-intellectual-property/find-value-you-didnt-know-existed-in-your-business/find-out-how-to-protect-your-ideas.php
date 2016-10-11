@@ -26,10 +26,10 @@
 			<li>what level of protection you think you're going to need</li>
 		</ul>
 		<p>This tool will help you find out what kind of protection you may be able to get for your idea and what you'll need to do to get it.</p>
-		<p><a href="https://www.gov.uk/intellectual-property-an-overview" title="Intellectual property - an overview" rel="external">Go straight to the first question</a>.</p>
+		<p><a href="https://www.gov.uk/intellectual-property-an-overview" title="Intellectual property - an overview" target="_blank" rel="noopener noreferrer">Go straight to the first question</a>.</p>
 		<p><b>Note:</b> Intellectual property (IP) law is a complex area. This tool can give you information about the types of protection available, but there may be strategic and financial reasons why applying for IP rights may not be commercially advantageous. You should consider seeking professional advice, for instance from a patent attorney or trade mark attorney, before deciding how to proceed.</p>
 		<ul>
-			<li><a href="https://www.gov.uk/intellectual-property-an-overview" title="Intellectual property - an overview" rel="external">Next</a></li>
+			<li><a href="https://www.gov.uk/intellectual-property-an-overview" title="Intellectual property - an overview" target="_blank" rel="noopener noreferrer">Next</a></li>
 		</ul>
 
 		<h3>Subjects covered in this guide</h3>

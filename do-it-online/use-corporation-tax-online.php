@@ -20,7 +20,7 @@
 		<p>If you are a tax adviser or accountant please <a href="/do-it-online/use-corporation-tax-for-agents.php.html">use Corporation Tax for Agents</a>.</p>
 		
 		<h3>Service availability</h3>
-		<p><a href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&_pageLabel=pageOnlineServices_ShowContent&propertyType=document&id=HMCE_MIG_009921#P155_10104" title="Service availability" rel="external">Check the availability of HMRC's Online Services</a>.</p>
+		<p><a href="http://customs.hmrc.gov.uk/channelsPortalWebApp/channelsPortalWebApp.portal?_nfpb=true&_pageLabel=pageOnlineServices_ShowContent&propertyType=document&id=HMCE_MIG_009921#P155_10104" title="Service availability" target="_blank" rel="noopener noreferrer">Check the availability of HMRC's Online Services</a>.</p>
 		
 		<h3>Related guidance</h3>
 		<p>See our section on <a href="/tax-payroll-and-company-information/corporation-tax.php.html">Corporation Tax</a>.</p>
@@ -29,7 +29,7 @@
 		<p>Please note that HMRC's terms and conditions will apply when using Corporation Tax Online.</p>
 		<dl>
 			<dt>In partnership with:</dt>
-			<dd><a href="http://www.hmrc.gov.uk" rel="external"><img src="/_img/HMRC_logo.gif" width="134" height="35"  alt="" />HM Revenue &amp; Customs</a></dd>
+			<dd><a href="http://www.hmrc.gov.uk" target="_blank" rel="noopener noreferrer"><img src="/_img/HMRC_logo.gif" width="134" height="35"  alt="" />HM Revenue &amp; Customs</a></dd>
 		</dl>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

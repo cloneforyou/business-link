@@ -31,7 +31,7 @@
 			<input type="submit" name="go" value="Go"/>
 		</form>
 		<ul>
-			<li><a href="https://www.gov.uk/licence-finder" title="Licence finder" rel="external">Or browse business categories</a></li>
+			<li><a href="https://www.gov.uk/licence-finder" title="Licence finder" target="_blank" rel="noopener noreferrer">Or browse business categories</a></li>
 		</ul>
 
 		<h2>Or just search and browse licences</h2>

@@ -24,16 +24,16 @@
 		<p>This tool identifies the records you must keep as a business and assesses how well you are keeping them.</p>
 		<p>The tool works in two ways. If you are thinking of starting up, it will ask you a few simple questions aboutwhat you are doingbefore providing a list of the records you will need to keep. This option onlytakes a minute or two to complete.</p>
 		<p>If you are already running a business, it will establish the records you need to keep and then ask you a series of questions about what records you currently keep and how you maintain them, before giving you feedback and advice on any improvements you may need to make. This option may take between five and ten minutes to answer all questions depending on the size and nature of your business.</p>
-		<p><a href="http://www.hmrc.gov.uk/record-keeping/index.htm" title="Keeping records for tax" rel="external">Go straight to the first question</a>.</p>
+		<p><a href="http://www.hmrc.gov.uk/record-keeping/index.htm" title="Keeping records for tax" target="_blank" rel="noopener noreferrer">Go straight to the first question</a>.</p>
 		<p>You can save your progress while using this tool. To do so, you will need to log in or register - then you can come back and check or change your responses at any time, and the tool will give you updated advice. Please ensure that before saving, you have answered all questions on the page you are working on.</p>
 		<ul>
-			<li><a href="http://www.hmrc.gov.uk/record-keeping/index.htm" title="Keeping records for tax" rel="external">Next</a></li>
+			<li><a href="http://www.hmrc.gov.uk/record-keeping/index.htm" title="Keeping records for tax" target="_blank" rel="noopener noreferrer">Next</a></li>
 		</ul>
 		
 		<h3>Subjects covered in this guide</h3>
 		<ul>
 			<li>Introduction</li>
-			<li><a href="http://www.hmrc.gov.uk/record-keeping/index.htm" title="Keeping records for tax" rel="external">Find out what records you should be keeping</a></li>
+			<li><a href="http://www.hmrc.gov.uk/record-keeping/index.htm" title="Keeping records for tax" target="_blank" rel="noopener noreferrer">Find out what records you should be keeping</a></li>
 			<li><a href="/tax-payroll-and-company-information/heres-how-a-business-adviser-helped-me-with-my-tax-bill-flash-video.php.html">Here's how a business adviser helped me with my tax bill (Flash video)</a></li>
 		</ul>
 		

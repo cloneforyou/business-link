@@ -23,11 +23,11 @@
 		<li>create downloadable PDFs, making management and storage of the information you need easier</li>
 		<li>find additional information such as guides, helplines and other contact details</li>
 		</ul>
-		<p><a href="https://www.gov.uk/trade-tariff" title="Trade Tariff" rel="external">Use the UK Trade Tariff</a></p>
+		<p><a href="https://www.gov.uk/trade-tariff" title="Trade Tariff" target="_blank" rel="noopener noreferrer">Use the UK Trade Tariff</a></p>
 
 		<dl>
 			<dt>In partnership with:</dt>
-			<dd><a href="http://www.hmrc.gov.uk" rel="external"><img src="/_img/HMRC_logo.gif" width="134" height="35" alt="" />HM Revenue &amp; Customs</a></dd>
+			<dd><a href="http://www.hmrc.gov.uk" target="_blank" rel="noopener noreferrer"><img src="/_img/HMRC_logo.gif" width="134" height="35" alt="" />HM Revenue &amp; Customs</a></dd>
 		</dl>
 				
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

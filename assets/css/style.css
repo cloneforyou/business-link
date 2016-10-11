@@ -3865,6 +3865,9 @@ a[target="_blank"]:after {
   padding-left: 5px; }
 
 /* show links which are dead */
+a[href="#"] {
+  color: red; }
+
 a[href="#"]:after {
   font-family: "FontAwesome";
   content: "\f057";

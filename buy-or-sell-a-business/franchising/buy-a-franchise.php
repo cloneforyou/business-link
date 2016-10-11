@@ -53,10 +53,10 @@
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.thebfa.org" title="British Franchise Association (BFA)" rel="external">Franchising explained on the British Franchise Association (BFA) website</a></li>
-			<li><a href="http://www.whichfranchise.com/resources.cfm" title="All About Franchising" rel="external">Franchising information on the whichfranchise.com website</a></li>
-			<li><a href="http://www.thebfa.org/join-a-franchise/how-to-choose-a-franchise" title="How to choose a franchise" rel="external">Choosing the right franchise guidance on the BFA website</a></li>
-			<li><a href="http://www.theukfranchisedirectory.net" title="UK Franchise Directory - Franchises for Sale" rel="external">UK franchise opportunities on the UK Franchise Directory website</a></li>
+			<li><a href="http://www.thebfa.org" title="British Franchise Association (BFA)" target="_blank" rel="noopener noreferrer">Franchising explained on the British Franchise Association (BFA) website</a></li>
+			<li><a href="http://www.whichfranchise.com/resources.cfm" title="All About Franchising" target="_blank" rel="noopener noreferrer">Franchising information on the whichfranchise.com website</a></li>
+			<li><a href="http://www.thebfa.org/join-a-franchise/how-to-choose-a-franchise" title="How to choose a franchise" target="_blank" rel="noopener noreferrer">Choosing the right franchise guidance on the BFA website</a></li>
+			<li><a href="http://www.theukfranchisedirectory.net" title="UK Franchise Directory - Franchises for Sale" target="_blank" rel="noopener noreferrer">UK franchise opportunities on the UK Franchise Directory website</a></li>
 		</ul>
 		<img src="/_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 

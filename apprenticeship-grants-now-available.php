@@ -24,14 +24,14 @@
 		<p>If your apprentice is aged between 16 and 18, NAS will pay their training costs in full. For apprentices aged between 19 and 24, NAS will pay 50 per cent of the training costs.</p>
 		<p>More support and assistance is available through the network of Apprenticeship training providers. They can help you advertise your job vacancy free of charge on the Apprenticeship vacancies website, and support you throughout the recruitment process. Your training provider will check that your business meets the grant criteria, and help you apply. They'll also claim the grant on your behalf from the NAS, and make the payment to you directly.</p>
 		<p><strong>How to find out more</strong></p>
-		<p>You can <a href="http://www.apprenticeships.org.uk/partners/policy/age-1624.aspx" title="How to apply for the AGE 16 to 24 grant and eligibility information" rel="external">find out more about the AGE 16 to 24 grant on the Apprenticeships website<span> - Opens in a new window</span></a>. If you're ready to recruit an apprentice, talk to a NAS Apprenticeship Adviser on Tel 08000 150 600.</p>
-		<p>For more about the benefits of Apprenticeships and the government support that's available, see our page about <a href="https://www.gov.uk/growing-your-business" rel="external">how Apprenticeships can help grow your business<span> - Opens in a new window</span></a> on the Growth and Improvement Service website.</p>
+		<p>You can <a href="http://www.apprenticeships.org.uk/partners/policy/age-1624.aspx" title="How to apply for the AGE 16 to 24 grant and eligibility information" target="_blank" rel="noopener noreferrer">find out more about the AGE 16 to 24 grant on the Apprenticeships website<span> - Opens in a new window</span></a>. If you're ready to recruit an apprentice, talk to a NAS Apprenticeship Adviser on Tel 08000 150 600.</p>
+		<p>For more about the benefits of Apprenticeships and the government support that's available, see our page about <a href="https://www.gov.uk/growing-your-business" target="_blank" rel="noopener noreferrer">how Apprenticeships can help grow your business<span> - Opens in a new window</span></a> on the Growth and Improvement Service website.</p>
 		<p><img src="/_img/hr_325px_global.gif" alt="" align="middle" /></p>
 		
 		<ul>
-			<li><a href="https://www.gov.uk/apprenticeships-guide" title="Print page now  - Opens in a new window" rel="external">Print page now <span> - Opens in a new window</span></a></li>
-			<li><a href="https://www.gov.uk/apprenticeships-guide" title="Tell a friend about this page" rel="external">Tell a friend about this page</a></li>
-			<li><a href="https://www.gov.uk/apprenticeships-guide" title="Tell a friend about this page" rel="external">Send me an email alert when this page changes</a></li>
+			<li><a href="https://www.gov.uk/apprenticeships-guide" title="Print page now  - Opens in a new window" target="_blank" rel="noopener noreferrer">Print page now <span> - Opens in a new window</span></a></li>
+			<li><a href="https://www.gov.uk/apprenticeships-guide" title="Tell a friend about this page" target="_blank" rel="noopener noreferrer">Tell a friend about this page</a></li>
+			<li><a href="https://www.gov.uk/apprenticeships-guide" title="Tell a friend about this page" target="_blank" rel="noopener noreferrer">Send me an email alert when this page changes</a></li>
 		</ul>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

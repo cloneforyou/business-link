@@ -24,7 +24,7 @@
 			<li>recognising that you may already have provided a username and password so that you don't need to keep repeating these for every web page requested</li>
 			<li>measuring how many people are using services so they can be improved and there is enough capacity to ensure they are fast</li>
 		</ul>
-		<p>You can easily manage these small files yourself if you know how. You can <a href="https://www.gov.uk/help/cookies" title="Cookies" rel="external">find guidance on managing cookies on the Directgov website</a>.</p>
+		<p>You can easily manage these small files yourself if you know how. You can <a href="https://www.gov.uk/help/cookies" title="Cookies" target="_blank" rel="noopener noreferrer">find guidance on managing cookies on the Directgov website</a>.</p>
 		
 		<h3>Cookies used by this service</h3>
 		<p>There are two types of cookie:</p>

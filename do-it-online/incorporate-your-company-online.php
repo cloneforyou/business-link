@@ -23,14 +23,14 @@
 			<li>Company name and address</li>
 			<li>Details of directors and secretary (optional)</li>
 			<li>Details of each shareholder and the value of their shares</li>
-			<li>Payment details -<a href="http://www.companieshouse.gov.uk/toolsToHelp/ourPrices.shtml" title="Companies House prices" rel="external">find out more about Companies House fees on the Companies House website</a></li>
+			<li>Payment details -<a href="http://www.companieshouse.gov.uk/toolsToHelp/ourPrices.shtml" title="Companies House prices" target="_blank" rel="noopener noreferrer">find out more about Companies House fees on the Companies House website</a></li>
 		</ol>
-		<p>Any data captured through online incorporation is stored with the Registrar of Companies and not businesslink.gov.uk and is subject to the <a href="http://www.companieshouse.gov.uk/legal/termsAndConditions.shtml" title="Terms and Conditions" rel="external">Companies House privacy policy</a>.</p>
+		<p>Any data captured through online incorporation is stored with the Registrar of Companies and not businesslink.gov.uk and is subject to the <a href="http://www.companieshouse.gov.uk/legal/termsAndConditions.shtml" title="Terms and Conditions" target="_blank" rel="noopener noreferrer">Companies House privacy policy</a>.</p>
 		<p>This service is delivered by Companies House in conjunction with businesslink.gov.uk.</p>
 		<p><a href="#">Incorporate with Companies House now</a></p>
 		<dl>
 			<dt>In partnership with:</dt>
-			<dd><a href="http://www.companieshouse.gov.uk/" rel="external"><img src="/_img/ch_big_logo_new.jpg" width="115" height="81" alt="" />Companies House</a></dd>
+			<dd><a href="http://www.companieshouse.gov.uk/" target="_blank" rel="noopener noreferrer"><img src="/_img/ch_big_logo_new.jpg" width="115" height="81" alt="" />Companies House</a></dd>
 		</dl>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
