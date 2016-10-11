@@ -79,6 +79,8 @@
 		</ul>
 		<p><a href="https://www.gov.uk/browse/business/setting-up" target="_blank" rel="noopener noreferrer">Starting up - site map</a></p>
 
+		<hr />
+		
 		<h3>Spotlight</h3>
 		<h4><a href="find-the-business-in-you.php">The business in you</a></h4>
 		<p>Starting and growing a business - tips and tools from real-life success stories</p>
@@ -86,9 +88,9 @@
 		<img src="/_img/Businessinyou_whatsnewpromo.jpg" width="76" height="76" alt="The "business in you" is a major new campaign to help people to start a new business or grow their existing one" />
 		</a>
 
-		<h4><a href="do-it-online-register-online-for-business-taxes.php">HMRC registration service</a></h4>
+		<h4><a href="do-it-online/register-online-for-business-taxes.php">HMRC registration service</a></h4>
 		<p>Need to register for business taxes? Use the new HMRC tax registration service</p>
-		<a href="do-it-online-register-online-for-business-taxes.php" title="Register online for business taxes">
+		<a href="do-it-online/register-online-for-business-taxes.php" title="Register online for business taxes">
 		<img src="/_img/Businessman.jpg" width="76" height="76" alt="Register online for business taxes" />
 		</a>
 
