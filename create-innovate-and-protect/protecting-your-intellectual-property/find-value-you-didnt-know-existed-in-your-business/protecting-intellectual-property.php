@@ -23,21 +23,21 @@
 		<p>This guide explains the importance of conducting an audit of your business' IP. It sets out the different kinds of legal protection available for IP available (including patents, trade marks, design rights, registered designs and copyright) and explains the range of things you can do to protect and manage your IP rights.</p>
 		
 		<ul>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/the-importance-of-protecting-intellectual-property.html" title="The importance of protecting intellectual property">Next</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/the-importance-of-protecting-intellectual-property.php" title="The importance of protecting intellectual property">Next</a></li>
 		</ul>
 
 		<h3>Subjects covered in this guide</h3>
 		<ul>
 			<li>Introduction</li>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/the-importance-of-protecting-intellectual-property.html">The importance of protecting intellectual property</a></li>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/intellectual-property-management-conducting-an-audit.html">Intellectual property management - conducting an audit</a></li>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/getting-legal-protection-for-your-intellectual-property.html">Getting legal protection for your intellectual property</a></li>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/assistance-with-intellectual-property-protection.html">Assistance with intellectual property protection</a></li>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/intellectual-property-rights-and-your-employees.html">Intellectual property rights and your employees</a></li>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/intellectual-property-and-freelance-contractors.html">Intellectual property and freelance contractors</a></li>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/prevent-intellectual-property-infringement.html">Prevent intellectual property infringement</a></li>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/protecting-your-business-name-and-domain-name.html">Protecting your business name and domain name</a></li>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/respect-other-peoples-intellectual-property.html">Respect other people's intellectual property</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/the-importance-of-protecting-intellectual-property.php">The importance of protecting intellectual property</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/intellectual-property-management-conducting-an-audit.php">Intellectual property management - conducting an audit</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/getting-legal-protection-for-your-intellectual-property.php">Getting legal protection for your intellectual property</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/assistance-with-intellectual-property-protection.php">Assistance with intellectual property protection</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/intellectual-property-rights-and-your-employees.php">Intellectual property rights and your employees</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/intellectual-property-and-freelance-contractors.php">Intellectual property and freelance contractors</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/prevent-intellectual-property-infringement.php">Prevent intellectual property infringement</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/protecting-your-business-name-and-domain-name.php">Protecting your business name and domain name</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/respect-other-peoples-intellectual-property.php">Respect other people's intellectual property</a></li>
 		</ul>
 
 		<p><img src="/_img/hr_325px_global.gif" alt="" /></p>
@@ -59,12 +59,12 @@
 		<!--Helplines-->
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="detaila6b0.html?itemId=1085931331&amp;type=PIP" title="Search the Intellectual Property Office online patents register">Search the patents directory with the Intellectual Property Office</a></li>
-			<li><a href="detaildb59.html?itemId=1085920811&amp;type=PIP" title="Register your patent with the Intellectual Property Office">Apply for a patent online with the Intellectual Property Office</a></li>
-			<li><a href="http://www.ipo.gov.uk/whyuse.htm" target="bgExternalonlinebusinesslinkgovuk" onclick="p=window.open('http://www.ipo.gov.uk/whyuse.htm', 'bgExternalonlinebusinesslinkgovuk');p.focus();" title="Find the right protection for your intellectual property">IP advice on the Intellectual Property Office website<span> - Opens in a new window</span></a></li>
-			<li><a href="detail4802.html?itemId=1087044741&amp;type=PIP">Take the IP Healthcheck with the Intellectual Property Office</a></li>
-			<li><a href="http://www.ipo.gov.uk/myip.pdf" target="bgExternalonlinebusinesslinkgovuk" onclick="p=window.open('http://www.ipo.gov.uk/myip.pdf', 'bgExternalonlinebusinesslinkgovuk');p.focus();" title="Leaflet providing an overview of patents, copyright, design and trade marks">Download guidance on IP from the Intellectual Property Office website (PDF, 1.01MB)<span> - Opens in a new window</span></a></li>
-			<li><a href="http://www.lawdonut.co.uk/law/disputes/intellectual-property-disputes/how-to-protect-your-intellectual-property" target="bgExternalonlinebusinesslinkgovuk" onclick="p=window.open('http://www.lawdonut.co.uk/law/disputes/intellectual-property-disputes/how-to-protect-your-intellectual-property', 'bgExternalonlinebusinesslinkgovuk');p.focus();" title="Protecting your intellectual property and dealing with intellectual property disputes">Intellectual property disputes guidance on the Law Donut website<span> - Opens in a new window</span></a></li>
+			<li><a href="/do-it-online/look-up-patents.php">Search the patents directory with the Intellectual Property Office</a></li>
+			<li><a href="/do-it-online/apply-for-a-uk-patent.php">Apply for a patent online with the Intellectual Property Office</a></li>
+			<li><a href="https://www.gov.uk/government/organisations/intellectual-property-office" target="_blank" rel="noopener noreferrer">IP advice on the Intellectual Property Office website</a></li>
+			<li><a href="/do-it-online/use-the-ip-healthcheck-tool.php">Take the IP Healthcheck with the Intellectual Property Office</a></li>
+			<li><a href="#">Download guidance on IP from the Intellectual Property Office website (PDF, 1.01MB)</a></li>
+			<li><a href="http://www.lawdonut.co.uk/business/blog/2013/04/how-protect-your-intellectual-property" target="_blank" rel="noopener noreferrer">Intellectual property disputes guidance on the Law Donut website</a></li>
 		</ul>
 		<img src="/_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
  
