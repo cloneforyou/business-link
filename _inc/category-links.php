@@ -98,7 +98,32 @@
 									<li><a href="layerc3f7.html?topicId=1084822723" title="Guidance on how to find people to fill your vacancies">Different types of worker</a></li>
 									<li><a href="layer87eb.html?topicId=1084607697" title="Information on checks you can perform on potential staff member">Employment checks</a></li>
 									<li><a href="layer575e.html?topicId=1084822756" title="Job offers, contracts and setting the rules for your new starters">Staff documents and employment policies</a></li>
-									<li><a href="layerb3bf.html?topicId=1084822773">Pay and pensions</a></li>
+									<li>
+										<a href="layerb3bf.html?topicId=1084822773">Pay and pensions</a>
+										<ul>
+											<li>
+												<a href="#">Introduction</a>
+											</li>
+											<li>
+												<a href="detail523a.html?itemId=1074424523&amp;type=RESOURCES">The benefits of staff incentive schemes</a>
+											</li>
+											<li>
+												<a href="detail060f.html?itemId=1074424585&amp;type=RESOURCES">Incentive schemes and the options</a>
+											</li>
+											<li>
+												<a href="detail5cf8-2.html?itemId=1074424665&amp;type=RESOURCES">Perks and the options</a>
+											</li>
+											<li>
+												<a href="detail4e66.html?itemId=1074424722&amp;type=RESOURCES">Setting up an incentive scheme for employees</a>
+											</li>
+											<li>
+												<a href="detail7640.html?itemId=1074424813&amp;type=RESOURCES">Ensuring the incentive scheme is successful</a>
+											</li>
+											<li>
+												<a href="detail8940.html?itemId=1075395707&amp;type=CASE STUDIES">Here's how a staff incentive scheme improved our business</a>
+											</li>
+										</ul>
+									</li>
 									<li><a href="/employment-and-skills/national-minimum-wage.php" title="Understanding, calculating and complying with National Minimum Wage law">National minimum wage</a></li>
 									<li><a href="layer4a42.html?topicId=1084822795" title="Rules, calculations and best practice for giving people time off work">Holiday and other leave</a></li>
 									<li><a href="layer78ca.html?topicId=1073858926" title="Setting the hours and days your staff work, how to manage overtime and the Working Time Directive">Working time</a></li>
