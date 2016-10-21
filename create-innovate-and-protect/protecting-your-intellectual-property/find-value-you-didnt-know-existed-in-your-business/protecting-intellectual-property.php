@@ -23,21 +23,21 @@
 		<p>This guide explains the importance of conducting an audit of your business' IP. It sets out the different kinds of legal protection available for IP available (including patents, trade marks, design rights, registered designs and copyright) and explains the range of things you can do to protect and manage your IP rights.</p>
 		
 		<ul>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/protecting-intellectual-property.html" title="The importance of protecting intellectual property">Next</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/the-importance-of-protecting-intellectual-property.html" title="The importance of protecting intellectual property">Next</a></li>
 		</ul>
 
 		<h3>Subjects covered in this guide</h3>
 		<ul>
 			<li>Introduction</li>
-			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/protecting-intellectual-property.html">The importance of protecting intellectual property</a></li>
-			<li><a href="detail0c0c-2.html?itemId=1074300708&amp;type=RESOURCES">Intellectual property management - conducting an audit</a></li>
-			<li><a href="detail3f3d.html?itemId=1074300727&amp;type=RESOURCES">Getting legal protection for your intellectual property</a></li>
-			<li><a href="detaile1c4.html?itemId=1075308805&amp;type=RESOURCES">Assistance with intellectual property protection</a></li>
-			<li><a href="detail0731.html?itemId=1074300742&amp;type=RESOURCES">Intellectual property rights and your employees</a></li>
-			<li><a href="detail6449.html?itemId=1074300758&amp;type=RESOURCES">Intellectual property and freelance contractors</a></li>
-			<li><a href="detail761f.html?itemId=1074300819&amp;type=RESOURCES">Prevent intellectual property infringement</a></li>
-			<li><a href="detailc375.html?itemId=1074300849&amp;type=RESOURCES">Protecting your business name and domain name</a></li>
-			<li><a href="detail1180.html?itemId=1075310362&amp;type=RESOURCES">Respect other people's intellectual property</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/the-importance-of-protecting-intellectual-property.html">The importance of protecting intellectual property</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/intellectual-property-management-conducting-an-audit.html">Intellectual property management - conducting an audit</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/getting-legal-protection-for-your-intellectual-property.html">Getting legal protection for your intellectual property</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/assistance-with-intellectual-property-protection.html">Assistance with intellectual property protection</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/intellectual-property-rights-and-your-employees.html">Intellectual property rights and your employees</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/intellectual-property-and-freelance-contractors.html">Intellectual property and freelance contractors</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/prevent-intellectual-property-infringement.html">Prevent intellectual property infringement</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/protecting-your-business-name-and-domain-name.html">Protecting your business name and domain name</a></li>
+			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/respect-other-peoples-intellectual-property.html">Respect other people's intellectual property</a></li>
 		</ul>
 
 		<p><img src="/_img/hr_325px_global.gif" alt="" /></p>
