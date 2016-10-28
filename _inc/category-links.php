@@ -78,7 +78,19 @@
 											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/here-is-how-I-decided-I-was-ready-to-start-up-my-business.php">Here's how I decided I was ready to start up my business</a></li>
 										</ul>
 									</li>
-									<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php">How do I survive until my business is off the ground?</a></li>
+									<li>
+										<a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php">How do I survive until my business is off the ground?</a>
+										<ul>
+											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php">Introduction</a></li>
+											<li>Introduction</li>
+											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/forecast-your-personal-financial-needs.php">Forecast your personal financial needs</a></li>
+											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/how-much-money-will-your-business-make.php">How much money will your business make?</a></li>
+											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/make-savings.php">Make savings</a></li>
+											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/other-sources-of-income.php">Other sources of income</a></li>
+											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/prepare-a-financial-plan.php">Prepare a financial plan</a></li>
+											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/find-support.php">Find support</a></li>
+										</ul>
+									</li>
 									<li><a href="/starting-up/considering-starting-up/family-run-businesses.php">Family-run businesses</a></li>
 									<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise.php">Thinking about starting a social enterprise?</a></li>
 									<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php">Starting a business when economic conditions are tough</a></li>
