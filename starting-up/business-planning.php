@@ -31,12 +31,12 @@
 		<h2><a href="https://www.gov.uk/business-finance-support-finder" title="Finance and support for your business" target="_blank" rel="noopener noreferrer">Think about your financial planning</a></h2>
 		<p>How to forecast your finances and raise finance when starting up</p>
 
-		<h2><a href="/business-planning/prepare-a-business-plan.php.html">Prepare a business plan</a></h2>
+		<h2><a href="/starting-up/business-planning/prepare-a-business-plan.php">Prepare a business plan</a></h2>
 		<p>The essential role that creating and using a business plan plays in starting a successful new business</p>
 
 		<h3>Directories</h3>
 		<ul>
-			<li><a href="/browse-by-theme-starting-up.php">Starting up case studies</a></li>
+			<li><a href="/find-a-case-study/browse-by-theme-starting-up.php">Starting up case studies</a></li>
 		</ul>
 		
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
