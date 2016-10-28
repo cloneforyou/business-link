@@ -28,25 +28,25 @@
 		<h2><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your company online</a></h2>
 		<p>Incorporate your company online as a private company, limited by shares, with model articles of association</p>
 	
-		<h2><a href="/business-structures/legal-structures-the-basics.php.html">Legal structures: the basics</a></h2>
+		<h2><a href="/starting-up/business-structures/legal-structures-the-basics.php">Legal structures: the basics</a></h2>
 		<p>Company, partnership or sole trader - find the right structure for your new business</p>
 	
-		<h2><a href="/business-structures/set-up-and-register-as-self-employed.php.html">Set up and register as self-employed</a></h2>
+		<h2><a href="/starting-up/business-structures/set-up-and-register-as-self-employed.php">Set up and register as self-employed</a></h2>
 		<p>How to meet your legal and tax responsibilities</p>
 	
-		<h2><a href="/business-structures/set-up-and-register-a-partnership.php.html">Set up and register a partnership</a></h2>
+		<h2><a href="/starting-up/business-structures/set-up-and-register-a-partnership.php">Set up and register a partnership</a></h2>
 		<p>The legal steps you have to take to form a partnership, including guidance about deeds of partnership</p>
 	
-		<h2><a href="/business-structures/set-up-and-register-a-limited-partnership.php.html">Set up and register a limited partnership</a></h2>
+		<h2><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership.php">Set up and register a limited partnership</a></h2>
 		<p>What a limited partnership is, the benefits of setting one up, and how to register and dissolve it</p>
 	
-		<h2><a href="/business-structures/set-up-and-register-a-limited-liability-partnership-llp.php.html">Set up and register a limited liability partnership (LLP)</a></h2>
+		<h2><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp.php">Set up and register a limited liability partnership (LLP)</a></h2>
 		<p>The legal steps you need to take to form an LLP, including links to Companies House guidance</p>
 	
-		<h2><a href="/business-structures/set-up-and-register-a-limited-company-private-or-public.php.html">Set up and register a limited company (private or public)</a></h2>
+		<h2><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public.php">Set up and register a limited company (private or public)</a></h2>
 		<p>The legal steps you need to take for company formation, with links to the relevant registration forms</p>
 	
-		<h2><a href="/business-structures/set-up-a-social-enterprise.php.html">Set up a social enterprise</a></h2>
+		<h2><a href="/starting-up/business-structures/set-up-a-social-enterprise.php">Set up a social enterprise</a></h2>
 		<p>The various types of social enterprise and how you can set one up, with links to forms and further information</p>
 	
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
