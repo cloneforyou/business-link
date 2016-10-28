@@ -63,7 +63,7 @@
 		</ul>
 		<hr />		
 		<ul>
-			<li><a href="#">Print page now </a></li>
+			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>
 			<li><a href="#">Send me an email alert when this page changes</a></li>
 		</ul>
