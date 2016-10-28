@@ -25,15 +25,20 @@
 										<a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Starting a business: the basics</a>
 										<ul>
 											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Introduction</a></li>
-											<li>What to do before you start your business</li>
-											<li>What are your start-up options?</li>
-											<li>Finding and keeping customers</li>
-											<li>Finance for start-ups</li>
-											<li>Tax and legal issues for start-ups</li>
-											<li>Your business plan</li>
+											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/what-to-do-before-you-start-your-business.php">What to do before you start your business</a></li>
+											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/what-are-your-start-up-options.php">What are your start-up options?</a></li>
+											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/finding-and-keeping-customers.php">Finding and keeping customers</a></li>
+											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/finance-for-start-ups.php">Finance for start-ups</a></li>
+											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/tax-and-legal-issues-for-start-ups.php">Tax and legal issues for start-ups</a></li>
+											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/your-business-plan.php">Your business plan</a></li>
 										</ul>
 									</li>
-									<li><a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php">Research and develop your business ideas, new products and services</a></li>
+									<li>
+										<a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php">Research and develop your business ideas, new products and services</a>
+										<ul>
+											<li></li>
+										</ul>
+									</li>
 									<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Common mistakes when starting up - and how to avoid them</a></li>
 									<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business.php">Starting a part-time business</a></li>
 									<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php">How do I survive until my business is off the ground?</a></li>
