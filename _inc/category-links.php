@@ -36,7 +36,21 @@
 									<li>
 										<a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php">Research and develop your business ideas, new products and services</a>
 										<ul>
-											<li></li>
+											<li><a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php">Introduction</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/finding-and-developing-your-idea-and-new-products-and-services.php">Finding and developing your idea and new products and services</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/is-there-a-market-for-my-idea.php">Is there a market for my idea?</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/plan-the-development-of-your-idea.php">Plan the development of your idea</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/financing-your-idea-and-cost-control.php">Financing your idea and cost control</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/creating-a-project-development-team.php">Creating a project development team</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/manage-a-development-project.php">Manage a development project</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/the-product-development-process.php">The product development process</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/pricing-your-proposed-service-or-product.php">Pricing your proposed service or product</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/sharing-your-ideas-with-others.php">Sharing your ideas with others</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/test-the-market.php">Test the market</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/checklist-developing-a-product-or-service.php">Checklist: developing a product or service</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-I-exploited-a-gap-in-the-market.php">Here's how I exploited a gap in the market</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-I-got-my-great-new-product-in-front-of-customers.php">Here's how I got my great new product in front of customers</a></li>
+											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-developing-a-new-product-benefited-my-business.php">Here's how developing a new product benefited my business</a></li>
 										</ul>
 									</li>
 									<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Common mistakes when starting up - and how to avoid them</a></li>
