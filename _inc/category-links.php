@@ -21,7 +21,18 @@
 									<li><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Find out whether you can work for yourself</a></li>
 									<li><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Decide if you've got what it takes to be your own boss</a></li>
 									<li><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Develop your business idea</a></li>
-									<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Starting a business: the basics</a></li>
+									<li>
+										<a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Starting a business: the basics</a>
+										<ul>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Introduction</a></li>
+											<li>What to do before you start your business</li>
+											<li>What are your start-up options?</li>
+											<li>Finding and keeping customers</li>
+											<li>Finance for start-ups</li>
+											<li>Tax and legal issues for start-ups</li>
+											<li>Your business plan</li>
+										</ul>
+									</li>
 									<li><a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php">Research and develop your business ideas, new products and services</a></li>
 									<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Common mistakes when starting up - and how to avoid them</a></li>
 									<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business.php">Starting a part-time business</a></li>
