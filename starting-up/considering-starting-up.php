@@ -16,13 +16,13 @@
 
 		<h1>Considering starting up?</h1>
 
-		<h2><a href="https://www.gov.uk/starting-up-a-business" title="Start your own business" target="_blank" rel="noopener noreferrer">Find out whether you can work for yourself</a></h2>
+		<h2><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Find out whether you can work for yourself</a></h2>
 		<p>Discover what it means to be your own boss and how to take the first steps in getting your business off the ground</p>
 
-		<h2><a href="https://www.gov.uk/starting-up-a-business" title="Start your own business" target="_blank" rel="noopener noreferrer">Decide if you've got what it takes to be your own boss</a></h2>
+		<h2><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Decide if you've got what it takes to be your own boss</a></h2>
 		<p>Learn about the qualities you need to be your own boss and how you can use your skills and experience to get your business up and running</p>
 
-		<h2><a href="https://www.gov.uk/starting-up-a-business" title="Start your own business" target="_blank" rel="noopener noreferrer">Develop your business idea</a></h2>
+		<h2><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Develop your business idea</a></h2>
 		<p>Find out about researching your chosen market and how to generate or develop a new business idea</p>
 
 		<h2><a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Starting a business: the basics</a></h2>
@@ -49,7 +49,7 @@
 		<h2><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php">Starting a business when economic conditions are tough</a></h2>
 		<p>Assess the opportunities for starting a business during an economic downturn</p>
 
-		<h2><a href="https://www.gov.uk/business-finance-explained" title="Business finance explained" target="_blank" rel="noopener noreferrer">Think about the money</a></h2>
+		<h2><a href="https://www.gov.uk/business-finance-explained" target="_blank" rel="noopener noreferrer">Think about the money</a></h2>
 		<p>Understand your finance options when starting up and how to manage your money in the first year of trading</p>
 
 		<h3>Directories</h3>
