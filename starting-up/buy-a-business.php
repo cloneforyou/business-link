@@ -16,10 +16,10 @@
 	
 		<h1>Buy a business</h1>
 		
-		<h2><a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php.html">Buy a franchise</a></h2>
+		<h2><a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php">Buy a franchise</a></h2>
 		<p>What franchising is, how to find and assess franchise opportunities and how to buy a franchise</p>
 		
-		<h2><a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php.html">Buy an existing business</a></h2>
+		<h2><a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php">Buy an existing business</a></h2>
 		<p>Advantages and disadvantages of buying an existing business including how to assess and value it</p>
 		<img src="/_img/Buying_a_business.jpg" width="146" height="146" alt="" />
 	
