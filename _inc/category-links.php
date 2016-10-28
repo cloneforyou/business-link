@@ -91,7 +91,20 @@
 											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/find-support.php">Find support</a></li>
 										</ul>
 									</li>
-									<li><a href="/starting-up/considering-starting-up/family-run-businesses.php">Family-run businesses</a></li>
+									<li>
+										<a href="/starting-up/considering-starting-up/family-run-businesses.php">Family-run businesses</a>
+										<ul>
+											<li><a href="/starting-up/considering-starting-up/family-run-businesses.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/family-run-businesses/advantages-of-family-businesses.php">Advantages of family businesses</a></li>
+											<li><a href="/starting-up/considering-starting-up/family-run-businesses/key-things-to-consider-when-setting-up-a-family-business.php">Key things to consider when setting up a family business</a></li>
+											<li><a href="/starting-up/considering-starting-up/family-run-businesses/communication-and-family-businesses.php">Communication and family businesses</a></li>
+											<li><a href="/starting-up/considering-starting-up/family-run-businesses/managing-conflict-in-family-businesses.php">Managing conflict in family businesses</a></li>
+											<li><a href="/starting-up/considering-starting-up/family-run-businesses/pay-and-benefits-for-family-members.php">Pay and benefits for family members</a></li>
+											<li><a href="/starting-up/considering-starting-up/family-run-businesses/draw-up-a-family-business-constitution.php">Draw up a family-business constitution</a></li>
+											<li><a href="/starting-up/considering-starting-up/family-run-businesses/succession-planning-in-family-businesses.php">Succession planning in family businesses</a></li>
+											<li><a href="/starting-up/considering-starting-up/family-run-businesses/here-is-how-having-a-family-member-in-the-business-made-a-difference.php">Here's how having a family member in the business made a difference</a></li>
+										</ul>
+									</li>
 									<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise.php">Thinking about starting a social enterprise?</a></li>
 									<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php">Starting a business when economic conditions are tough</a></li>
 									<li><a href="https://www.gov.uk/business-finance-explained" target="_blank" rel="noopener noreferrer">Think about the money</a></li>
