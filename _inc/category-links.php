@@ -67,7 +67,17 @@
 											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/here-is-how-I-started-a-successful-business_flash-video.php">Here's how I started a successful business (Flash video)</a></li>
 										</ul>
 									</li>
-									<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business.php">Starting a part-time business</a></li>
+									<li>
+										<a href="/starting-up/considering-starting-up/starting-a-part-time-business.php">Starting a part-time business</a>
+										<ul>
+											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/what-to-consider-when-starting-your-part-time-business.php">What to consider when starting your part-time business</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/tax-and-legal-implications-of-a-part-time-business.php">Tax and legal implications of a part-time business</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/advantages-and-disadvantages-of-starting-a-part-time-business.php">Advantages and disadvantages of starting a part-time business</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/help-and-support-for-part-time-businesses.php">Help and support for part-time businesses</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/here-is-how-I-decided-I-was-ready-to-start-up-my-business.php">Here's how I decided I was ready to start up my business</a></li>
+										</ul>
+									</li>
 									<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php">How do I survive until my business is off the ground?</a></li>
 									<li><a href="/starting-up/considering-starting-up/family-run-businesses.php">Family-run businesses</a></li>
 									<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise.php">Thinking about starting a social enterprise?</a></li>
