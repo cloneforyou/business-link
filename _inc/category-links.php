@@ -53,7 +53,20 @@
 											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-developing-a-new-product-benefited-my-business.php">Here's how developing a new product benefited my business</a></li>
 										</ul>
 									</li>
-									<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Common mistakes when starting up - and how to avoid them</a></li>
+									<li>
+										<a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Common mistakes when starting up - and how to avoid them</a>
+										<ul>
+											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/poor-or-inadequate-market-research.php">Poor or inadequate market research</a></li>
+											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/weak-financial-planning.php">Weak financial planning</a></li>
+											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/setting-sights-too-high.php">Setting sights too high</a></li>
+											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/taking-your-eye-off-the-competition.php">Taking your eye off the competition</a></li>
+											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/poor-supplier-and-customer-controls.php">Poor supplier and customer controls</a></li>
+											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/poor-stock-and-asset-management.php">Poor stock and asset management</a></li>
+											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/hiring-the-wrong-people.php">Hiring the wrong people</a></li>
+											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/here-is-how-I-started-a-successful-business_flash-video.php">Here's how I started a successful business (Flash video)</a></li>
+										</ul>
+									</li>
 									<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business.php">Starting a part-time business</a></li>
 									<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php">How do I survive until my business is off the ground?</a></li>
 									<li><a href="/starting-up/considering-starting-up/family-run-businesses.php">Family-run businesses</a></li>
