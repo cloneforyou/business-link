@@ -46,16 +46,16 @@
 		<h2><a href="https://www.gov.uk/keeping-your-pay-tax-records" title="Keeping your pay and tax records" target="_blank" rel="noopener noreferrer">Understand how to set up a record-keeping system</a></h2>
 		<p>How to set up a basic record-keeping system and details of what records you need to keep and for how long</p>
 	
-		<h2><a href="/finance-and-grants/financial-planning-and-accounts/financial-and-management-accounts-the-basics.php.html">Financial and management accounts: the basics</a></h2>
+		<h2><a href="/finance-and-grants/financial-planning-and-accounts/financial-and-management-accounts-the-basics.php">Financial and management accounts: the basics</a></h2>
 		<p>How to use financial and management accounts, analytical accounting tools and reduce the risk of fraud</p>
 	
-		<h2><a href="/find-and-manage-the-money/stock-control-and-inventory.php.html">Stock control and inventory</a></h2>
+		<h2><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory.php">Stock control and inventory</a></h2>
 		<p>Why stock control is important and the different methods of stock control available to you</p>
 	
 		<h3>Directories</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" target="_blank" rel="noopener noreferrer">Starting up events near you</a></li>
-			<li><a href="/browse-by-theme-starting-up.php">Starting up case studies</a></li>
+			<li><a href="/find-a-case-study/browse-by-theme-starting-up.php">Starting up case studies</a></li>
 		</ul>
 	
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
