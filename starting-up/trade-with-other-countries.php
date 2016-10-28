@@ -32,20 +32,20 @@
 		<p>Excise duty applies to certain goods when they are brought into the UK for commercial use</p>
 
 
-		<h2><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/are-you-ready-to-import.php.html">Are you ready to import?</a></h2>
+		<h2><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/are-you-ready-to-import.php">Are you ready to import?</a></h2>
 		<p>Ensuring you have the right strategy and resources to benefit from importing</p>
 
 
-		<h2><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/exporting-an-overview.php.html">Exporting - an overview</a></h2>
+		<h2><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/exporting-an-overview.php">Exporting - an overview</a></h2>
 		<p>What's involved in selling goods or services to another country</p>
 
 
-		<h2><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/preparing-to-export.php.html">Preparing to export</a></h2>
+		<h2><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/preparing-to-export.php">Preparing to export</a></h2>
 		<p>Assessing whether you are ready to export and planning your approach</p>
 
 		<h3>Directories</h3>
 		<ul>
-			<li><a href="/browse-by-theme-starting-up.php">Starting up case studies</a></li>
+			<li><a href="/find-a-case-study/browse-by-theme-starting-up.php">Starting up case studies</a></li>
 		</ul>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

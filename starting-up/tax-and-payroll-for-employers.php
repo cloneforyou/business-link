@@ -43,7 +43,7 @@
 		<h3>Directories</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" target="_blank" rel="noopener noreferrer">Starting up events near you</a></li>
-			<li><a href="/browse-by-theme-starting-up.php">Starting up case studies</a></li>
+			<li><a href="/find-a-case-study/browse-by-theme-starting-up.php">Starting up case studies</a></li>
 		</ul>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

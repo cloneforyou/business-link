@@ -34,13 +34,13 @@
 		<h2><a href="#">Promote your business</a></h2>
 		<p>Marketing your product or service to attract more customers</p>
 
-		<h2><a href="/sales-and-marketing/selling-and-the-law/comply-with-the-law-in-the-provision-of-goods-facilities-and-services.php.html">Comply with the law in the provision of goods, facilities and services</a></h2>
+		<h2><a href="/sales-and-marketing/selling-and-the-law/comply-with-the-law-in-the-provision-of-goods-facilities-and-services.php">Comply with the law in the provision of goods, facilities and services</a></h2>
 		<p>A brief introduction to the laws that every business needs to stick to when selling products or services</p>
 
 		<h3>Directories</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/browse/business/setting-up" title="Setting up" target="_blank" rel="noopener noreferrer">Starting up events near you</a></li>
-			<li><a href="/browse-by-theme-starting-up.php">Starting up case studies</a></li>
+			<li><a href="/find-a-case-study/browse-by-theme-starting-up.php">Starting up case studies</a></li>
 		</ul>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

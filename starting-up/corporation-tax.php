@@ -16,7 +16,7 @@
 
 		<h1>Corporation Tax</h1>
 
-		<h2><a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/who-is-liable-for-corporation-tax.php.html">Who is liable for Corporation Tax</a></h2>
+		<h2><a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/who-is-liable-for-corporation-tax.php">Who is liable for Corporation Tax</a></h2>
 		<p>Limited companies, some organisations and charities: who's liable for Corporation Tax and who's not and who's exempt</p>
 		<h2><a href="https://www.gov.uk/browse/tax" title="Money and tax" target="_blank" rel="noopener noreferrer">Get started with Corporation Tax</a></h2>
 		<p>What is Corporation Tax, who does it apply to, how to manage it online and other tax responsiblities if you're a company director</p>

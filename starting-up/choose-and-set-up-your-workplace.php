@@ -28,10 +28,10 @@
 		<h2><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Set up your business at home</a></h2>
 		<p>Find information on how to start a business from home</p>
 
-		<h2><a href="/choose-and-set-up-your-workplace/starting-a-business-from-home.php.html">Starting a business from home </a></h2>
+		<h2><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home.php">Starting a business from home </a></h2>
 		<p>Decide whether starting a business from home is right for you</p>
 
-		<h2><a href="/choose-and-set-up-your-workplace/environmental-responsibilities.php.html">Environmental responsibilities</a></h2>
+		<h2><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities.php">Environmental responsibilities</a></h2>
 		<p>Complying with environmental legislation, and the business and cost benefits of protecting the environment</p>
 		<img src="/_img/Choosing_and_setting_up_pre.jpg" width="146" height="146" alt=" " />
 	

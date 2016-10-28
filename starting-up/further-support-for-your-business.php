@@ -25,13 +25,13 @@
 		<h2><a href="https://www.gov.uk/business-finance-support-finder" title="Finance and support for your business" target="_blank" rel="noopener noreferrer">Find the right support for your new business</a></h2>
 		<p>Watch our case study on how a start up business found the right help and support and get tips on the best way to use outside help</p>
 	
-		<h2><a href="/further-support-for-your-business/business-advice-open-days.php.html">Business Advice Open Days</a></h2>
+		<h2><a href="/starting-up/further-support-for-your-business/business-advice-open-days.php">Business Advice Open Days</a></h2>
 		<p>The advice and benefits of Business Advice Open Days, and how you can attend</p>
 	
-		<h2><a href="/further-support-for-your-business/the-benefits-of-business-mentoring.php.html">The benefits of business mentoring</a></h2>
+		<h2><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring.php">The benefits of business mentoring</a></h2>
 		<p>How a business mentor can offer you guidance and support to help your business succeed, and how to become a mentor</p>
 	
-		<h2><a href="/further-support-for-your-business/extra-help-and-support-available-for-your-start-up.php.html">Extra help and support available for your start up</a></h2>
+		<h2><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up.php">Extra help and support available for your start up</a></h2>
 		<p>How to find out if you are eligible for extra help and support for your new business</p>
 	
 		<h2><a href="http://shop.bsigroup.com/BusinessLinks/BusinessLinkLP/" title="BSI and Business Link's standards information portal" target="_blank" rel="noopener noreferrer">Standards explained on the British Standards Institution website</a></h2>
