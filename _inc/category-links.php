@@ -15,7 +15,23 @@
 						<a href="/starting-up.php">Starting up</a>
 						<ul>
 							<li><a href="/starting-up.php">Introduction</a></li>
-							<li><a href="/starting-up/considering-starting-up.php">Considering starting up?</a></li>
+							<li>
+								<a href="/starting-up/considering-starting-up.php">Considering starting up?</a>
+								<ul>
+									<li><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Find out whether you can work for yourself</a></li>
+									<li><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Decide if you've got what it takes to be your own boss</a></li>
+									<li><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Develop your business idea</a></li>
+									<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Starting a business: the basics</a></li>
+									<li><a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php">Research and develop your business ideas, new products and services</a></li>
+									<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Common mistakes when starting up - and how to avoid them</a></li>
+									<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business.php">Starting a part-time business</a></li>
+									<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php">How do I survive until my business is off the ground?</a></li>
+									<li><a href="/starting-up/considering-starting-up/family-run-businesses.php">Family-run businesses</a></li>
+									<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise.php">Thinking about starting a social enterprise?</a></li>
+									<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php">Starting a business when economic conditions are tough</a></li>
+									<li><a href="https://www.gov.uk/business-finance-explained" target="_blank" rel="noopener noreferrer">Think about the money</a></li>
+								</ul>
+							</li>
 							<li><a href="../starting-up/business-planning.php">Business planning</a></li>
 							<li><a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a></li>
 							<li><a href="/starting-up/business-structures.php">Business structures</a></li>
