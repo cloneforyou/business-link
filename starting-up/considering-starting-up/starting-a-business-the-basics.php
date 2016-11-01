@@ -29,12 +29,12 @@
 		<h3>Subjects covered in this guide</h3>
 		<ul>
 			<li>Introduction</li>
-			<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/what-to-do-before-you-start-your-business.php">What to do before you start your business</a></li>
-			<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/what-are-your-start-up-options.php">What are your start-up options?</a></li>
-			<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/finding-and-keeping-customers.php">Finding and keeping customers</a></li>
-			<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/finance-for-start-ups.php">Finance for start-ups</a></li>
-			<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/tax-and-legal-issues-for-start-ups.php">Tax and legal issues for start-ups</a></li>
-			<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/your-business-plan.php">Your business plan</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/what-to-do-before-you-start-your-business.php">What to do before you start your business</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/what-are-your-start-up-options.php">What are your start-up options?</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/finding-and-keeping-customers.php">Finding and keeping customers</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/finance-for-start-ups.php">Finance for start-ups</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/tax-and-legal-issues-for-start-ups.php">Tax and legal issues for start-ups</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/your-business-plan.php">Your business plan</a></li>
 		</ul>
 		
 		<img src="../../_img/hr_325px_global.gif" alt="" />

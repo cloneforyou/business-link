@@ -25,12 +25,12 @@
 										<a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Starting a business: the basics</a>
 										<ul>
 											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Introduction</a></li>
-											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/what-to-do-before-you-start-your-business.php">What to do before you start your business</a></li>
-											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/what-are-your-start-up-options.php">What are your start-up options?</a></li>
-											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/finding-and-keeping-customers.php">Finding and keeping customers</a></li>
-											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/finance-for-start-ups.php">Finance for start-ups</a></li>
-											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/tax-and-legal-issues-for-start-ups.php">Tax and legal issues for start-ups</a></li>
-											<li><a href="/starting-a-business-the-basics/starting-up/considering-starting-up/your-business-plan.php">Your business plan</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/what-to-do-before-you-start-your-business.php">What to do before you start your business</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/what-are-your-start-up-options.php">What are your start-up options?</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/finding-and-keeping-customers.php">Finding and keeping customers</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/finance-for-start-ups.php">Finance for start-ups</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/tax-and-legal-issues-for-start-ups.php">Tax and legal issues for start-ups</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/your-business-plan.php">Your business plan</a></li>
 										</ul>
 									</li>
 									<li>
@@ -121,7 +121,19 @@
 											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-I-started-a-successful-social-enterprise.html">Here's how I started a successful social enterprise</a></li>
 										</ul>
 									</li>
-									<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php">Starting a business when economic conditions are tough</a></li>
+									<li>
+										<a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php">Starting a business when economic conditions are tough</a>
+										<ul>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/work-on-your-business-idea .php">Work on your business idea</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/your-business-structure-and-business-plan .php">Your business structure and business plan</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/access-to-sources-of-starting-up-finance .php">Access to sources of starting-up finance</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/develop-an-effective-survival-strategy .php">Develop an effective survival strategy</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/minimise-costs-and-maximise-efficiency .php">Minimise costs and maximise efficiency</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/sources-and-contacts-to-help-you-start-a-business .php">Sources and contacts to help you start a business</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/here-is-how-I-started-a-business-during-an-economic-downturn_flash-video .php">Here's how I started a business during an economic downturn (Flash video)</a></li>
+										</ul>
+									</li>
 									<li><a href="https://www.gov.uk/business-finance-explained" target="_blank" rel="noopener noreferrer">Think about the money</a></li>
 								</ul>
 							</li>
@@ -586,7 +598,7 @@
 			</div><!-- #closed categories -->
 
 			<hr />
-			
+
 			<div id="serviceprovider">
 				<p>
 					<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" target="_blank" rel="noopener noreferrer">
