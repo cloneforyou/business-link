@@ -18,7 +18,7 @@
 			</nav><!-- end .skip-links -->
 			
 			<div class="branding clearfix">
-				<a class="float-left" href="index.php" title="Nusiness Link for Small Businesses">
+				<a class="top-logo" href="index.php" title="Nusiness Link for Small Businesses">
 					<img src="/_img/business-link-logo.jpg" alt="Business Link logo" />
 				</a>
 				<p class="strapline float-left">Information. Support. Compliance.</p>
