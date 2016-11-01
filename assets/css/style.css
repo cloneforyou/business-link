@@ -2049,10 +2049,10 @@ h6 {
     line-height: 0; }
 
 h1 {
-  font-size: 1.5rem; }
+  font-size: 2.5rem; }
 
 h2 {
-  font-size: 1.25rem; }
+  font-size: 1.875rem; }
 
 h3 {
   font-size: 1.1875rem; }
@@ -2068,7 +2068,7 @@ h6 {
 
 @media screen and (min-width: 40em) {
   h1 {
-    font-size: 3rem; }
+    font-size: 2.625rem; }
   h2 {
     font-size: 1.875rem; }
   h3 {
@@ -3907,11 +3907,22 @@ footer {
   padding: 1rem;
   border: 1px solid #eee; }
 
+.branding .top-logo {
+  float: left;
+  max-width: 250px; }
+  @media screen and (min-width: 40em) {
+    .branding .top-logo {
+      max-width: auto; } }
+
 .strapline {
-  margin-top: 91px;
-  margin-left: -83px;
-  font-size: 30px;
+  margin-top: 10px;
+  font-size: 21px;
   color: #3276AD; }
+  @media screen and (min-width: 40em) {
+    .strapline {
+      margin-top: 91px;
+      margin-left: -83px;
+      font-size: 30px; } }
 
 .categories {
   outline: 1px solid #ccc; }
