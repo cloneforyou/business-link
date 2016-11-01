@@ -90,11 +90,11 @@ footer {
 .branding {
 
 	.top-logo {
-		float: left; 
 		max-width: 250px; 
 
 		@include breakpoint(medium) {
-			max-width: auto; 
+			float: left; 
+			max-width: inherit; 
 		}
 	}
 }
@@ -105,8 +105,10 @@ footer {
 	color: #3276AD; 
 
 	@include breakpoint(medium) {
-		margin-top: 91px;
-		margin-left: -83px;
+		float: right; 
+		margin-top: 40px; 
+		// margin-top: 91px;
+		// margin-left: -83px;
 		font-size: 30px;
 	}
 }
