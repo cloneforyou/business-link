@@ -87,11 +87,28 @@ footer {
 	border: 1px solid #eee; 
 }
 
+.branding {
+
+	.top-logo {
+		float: left; 
+		max-width: 250px; 
+
+		@include breakpoint(medium) {
+			max-width: auto; 
+		}
+	}
+}
+
 .strapline {
-	margin-top: 91px;
-    margin-left: -83px;
-    font-size: 30px;
-    color: #3276AD; 
+	margin-top: 10px;
+	font-size: 21px;
+	color: #3276AD; 
+
+	@include breakpoint(medium) {
+		margin-top: 91px;
+		margin-left: -83px;
+		font-size: 30px;
+	}
 }
 
 
