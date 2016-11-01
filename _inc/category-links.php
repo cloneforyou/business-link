@@ -82,7 +82,6 @@
 										<a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php">How do I survive until my business is off the ground?</a>
 										<ul>
 											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php">Introduction</a></li>
-											<li>Introduction</li>
 											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/forecast-your-personal-financial-needs.php">Forecast your personal financial needs</a></li>
 											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/how-much-money-will-your-business-make.php">How much money will your business make?</a></li>
 											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/make-savings.php">Make savings</a></li>
@@ -120,7 +119,7 @@
 											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/checklist-starting-up-a-social-enterprise.html">Checklist: starting up a social enterprise</a></li>
 											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.html">Here's how being a social enterprise works for our business</a></li>
 											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-I-started-a-successful-social-enterprise.html">Here's how I started a successful social enterprise</a></li>
-										<ul>
+										</ul>
 									</li>
 									<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php">Starting a business when economic conditions are tough</a></li>
 									<li><a href="https://www.gov.uk/business-finance-explained" target="_blank" rel="noopener noreferrer">Think about the money</a></li>
@@ -532,7 +531,7 @@
 									</li>
 									<li>
 										<strong>Succession planning and business transfer</strong>
-										<img src="../../syntegra/images/px_sellingabusiness.gif" alt="Current section" width="5" height="5" />
+										<img src="../../_img/px_sellingabusiness.gif" alt="Current section" width="5" height="5" />
 										<ul>
 											<li>
 												<a href="detail3285.html?itemId=1081350603&amp;type=RESOURCES"  >Why succession planning is important</a>
@@ -585,9 +584,12 @@
 					</li>
 				</ul>
 			</div><!-- #closed categories -->
+
+			<hr />
+			
 			<div id="serviceprovider">
 				<p>
-					<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" target="_blank">
+					<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" target="_blank" rel="noopener noreferrer">
 						In partnership with Cabinet Office
 						<img src="/_img/logo_hm_gov2.jpg" width="167" height="31" alt="HM Government" />
 					</a>
