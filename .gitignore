@@ -5,3 +5,6 @@ bower_components/
 npm-debug.log
 sftp-config.json
 _assets/images/_bin
+config.local.php
+_admin/
+_vendor/
