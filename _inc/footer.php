@@ -60,6 +60,9 @@
 						<li><a href="do-it-online.php" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">Do it online</a></li>
 						<li><a href="directories.php">Directories</a></li>
 					</ul>
+					<ul class="menu">
+						<li><a href="http://www.blueocto.co.uk" title="Web Design and Development Newcastle" target="_blank" rel="noopener noreferrer">Reincarnated and maintained by Caroline Hagan at Blueocto Ltd</a></li>
+					</ul>
 				</div>
 			</div>
 
