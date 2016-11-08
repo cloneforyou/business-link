@@ -3851,6 +3851,10 @@ Stylesheet: Main Stylesheet
 /*********************
 GENERAL STYLES
 *********************/
+.label {
+  padding: 5px 5px 2px 5px;
+  font-weight: bold; }
+
 /*********************
 LINK STYLES
 *********************/
