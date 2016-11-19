@@ -64,6 +64,8 @@
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
+		<img src="../../../_img/hr_325px_global.gif" alt="" />
+
 		<div class="media-object stack-for-small">
 			<div class="media-object-section">
 				<div class="thumbnail">
