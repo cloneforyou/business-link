@@ -46,6 +46,7 @@
 
 		<h3>Subjects covered in this guide</h3>
 		<ul>
+			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Introduction</a></li>
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/poor-or-inadequate-market-research.php">Poor or inadequate market research</a></li>
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/weak-financial-planning.php">Weak financial planning</a></li>
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/setting-sights-too-high.php">Setting sights too high</a></li>
