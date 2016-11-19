@@ -52,7 +52,7 @@
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/the-product-development-process.php">The product development process</a></li>
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/pricing-your-proposed-service-or-product.php">Pricing your proposed service or product</a></li>
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/sharing-your-ideas-with-others.php">Sharing your ideas with others</a></li>
-			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/test-the-market.php">Test the market</a></li>
+			<li>Test the market</li>
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/checklist-developing-a-product-or-service.php">Checklist: developing a product or service</a></li>
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-I-exploited-a-gap-in-the-market.php">Here's how I exploited a gap in the market</a></li>
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-I-got-my-great-new-product-in-front-of-customers.php">Here's how I got my great new product in front of customers</a></li>
