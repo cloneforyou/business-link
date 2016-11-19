@@ -55,8 +55,8 @@
 		<p>For more information on working with formal project management systems for the first time, see our guide on <a href="/grow-your-business/planning-how-to-grow/project-management-the-basics.php">project management - the basics.</a></p>
 
 		<ul>
-			<li><a href="detailb319-2.html?itemId=1074400873&amp;type=RESOURCES" title="Plan the development of your idea">Prev</a></li>
-			<li><a href="detail73fe.html?itemId=1097303990&amp;type=RESOURCES" title="Creating a project development team">Next</a></li>
+			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/plan-the-development-of-your-idea.php" title="Plan the development of your idea">Prev</a></li>
+			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/creating-a-project-development-team.php" title="Creating a project development team">Next</a></li>
 		</ul>
 
 		<h3>Subjects covered in this guide</h3>
