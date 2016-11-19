@@ -9,14 +9,43 @@ Mixins & Constants.
 
 /*** Variables ***/
 
-// <a href="/starting-up.php">Starting up</a>
-$starting-up: #cc9999; 
-// <a href="../tax-payroll-and-company-information.php">Tax, payroll and company information</a>
-$tax-payroll: #99cc99; 
-// <a href="../employment-and-skills.html">Employment &amp; skills</a>
-$employment: #99cccc; 
+// Starting Up 
+$startingup: #cc9999; // rose
+a[href^="/starting-up"], 
+a[href^="../starting-up"] {
+	padding-left: 5px; 
+	border-left: 3px solid $startingup; 
+}
 
 
+// Tax, Payroll and Company Information
+$taxpayroll: #99cc99; // light green
+
+a[href^="/tax-payroll-and-company-information"], 
+a[href^="../tax-payroll-and-company-information"] {
+	padding-left: 5px; 
+	border-left: 3px solid $taxpayroll; 
+}
+
+
+// Employment and Skills
+$employment: #99cccc; // mint green 
+
+a[href^="/employment-and-skills"], 
+a[href^="..//employment-and-skills"] {
+	padding-left: 5px; 
+	border-left: 3px solid $employment; 
+}
+
+
+// Create Innovate and Protect
+$createinnovate: #CCCC66; // msutard green/yellow
+
+a[href^="/create-innovate-and-protect"], 
+a[href^="../create-innovate-and-protect"] {
+	padding-left: 5px; 
+	border-left: 3px solid $createinnovate; 
+}
 
 /*********************
 TOOLS

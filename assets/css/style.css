@@ -40,6 +40,26 @@ Mixins & Constants.
 
 ********************************************************************/
 /*** Variables ***/
+a[href^="/starting-up"],
+a[href^="../starting-up"] {
+  padding-left: 5px;
+  border-left: 3px solid #cc9999; }
+
+a[href^="/tax-payroll-and-company-information"],
+a[href^="../tax-payroll-and-company-information"] {
+  padding-left: 5px;
+  border-left: 3px solid #99cc99; }
+
+a[href^="/employment-and-skills"],
+a[href^="..//employment-and-skills"] {
+  padding-left: 5px;
+  border-left: 3px solid #99cccc; }
+
+a[href^="/create-innovate-and-protect"],
+a[href^="../create-innovate-and-protect"] {
+  padding-left: 5px;
+  border-left: 3px solid #CCCC66; }
+
 /*********************
 TOOLS
 *********************/
