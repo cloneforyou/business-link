@@ -32,6 +32,10 @@ a[target="_blank"]:after {
 	content: "\f08e"; 
 	display: inline-block; 
 	padding-left: 5px; 
+	// stop the accordion styles overwritng		
+	float: none!important; 		
+	right: 0!important; 		
+	top: 2px!important; 
 }
 
 /* show links which are dead */
@@ -110,25 +114,74 @@ footer {
 	@include breakpoint(medium) {
 		float: right; 
 		margin-top: 40px; 
-		// margin-top: 91px;
-		// margin-left: -83px;
 		font-size: 30px;
 	}
 }
 
+/*** Breadcrumbs ***/		
+// Let's remove Foundation styling		
+.breadcrumbs li:not(:last-child):after {		
+	content: ""; 		
+	margin: 0; 		
+}		
+// And add some to the Perch breadcrumb		
+.breadcrumb-arrow {		
+	padding: 0 .75rem; 		
+	color: #cacaca; 		
+}		
+/*** Side bar master navigation ***/
 
 .categories {
 	outline: 1px solid #ccc; 
+
+	.fa {		
+		position: relative; 		
+		top: -3px; 		
+	}		
+	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up'		
+	ul li ul {		
+		background-color: lighten($light-gray, 5%); 		
+	}		
+	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics'		
+	ul li ul li ul {		
+		background-color: #fff; 		
+	}		
+	.submenu.is-accordion-submenu {		
+		margin: 0; 		
+		padding: 15px; 		
+		list-style: none; 		
+	}		
+	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics' > level [4] great-grandchild 'What to do before you start your business'		
+	ul li ul li ul li ul { 		
+		background-color: lighten($light-gray, 5%); 		
+	}		
+}		
+/*** accordion arrows ***/		
+.is-accordion-submenu-parent>a:after {		
+	top: 5px;		
+    right: 0;		
+    float: right;		
+    position: relative; 		
+    margin-top: 0; 		
 }
+.is-accordion-submenu-parent>ul {}		
+.is-accordion-submenu-item>a:after {		
+    right: 0; 		
+    top: 11px; 		
+}		
+.is-accordion-submenu-item>ul {}
  
 /*********************
 NAVIGATION STYLES
 *********************/
+.parent-cat {		
+	font-style: italic; 		
+}
+
 
 /*********************
 POSTS & CONTENT STYLES
 *********************/
-
 
 
 /*********************
