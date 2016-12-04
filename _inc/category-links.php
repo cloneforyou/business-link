@@ -14,7 +14,7 @@
 					<li data-accordion-item>
 						<a href="/starting-up.php">Starting up</a>
 						<ul>
-							<li><a href="/starting-up.php">Introduction</a></li>
+							<li><a href="/starting-up.php" title="Starting up">Introduction</a></li>
 							<li>
 								<a href="/starting-up/considering-starting-up.php">Considering starting up?</a>
 								<ul>
@@ -24,7 +24,7 @@
 									<li>
 										<a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Starting a business: the basics</a>
 										<ul>
-											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php" title="Starting a business: the basics">Introduction</a></li>
 											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/what-to-do-before-you-start-your-business.php">What to do before you start your business</a></li>
 											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/what-are-your-start-up-options.php">What are your start-up options?</a></li>
 											<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/finding-and-keeping-customers.php">Finding and keeping customers</a></li>
@@ -36,7 +36,7 @@
 									<li>
 										<a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php">Research and develop your business ideas, new products and services</a>
 										<ul>
-											<li><a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/research-and-develop-your-business-ideas-new-products-and-services.php" title="Research and develop your business ideas, new products and services">Introduction</a></li>
 											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/finding-and-developing-your-idea-and-new-products-and-services.php">Finding and developing your idea and new products and services</a></li>
 											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/is-there-a-market-for-my-idea.php">Is there a market for my idea?</a></li>
 											<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/plan-the-development-of-your-idea.php">Plan the development of your idea</a></li>
@@ -56,7 +56,7 @@
 									<li>
 										<a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Common mistakes when starting up - and how to avoid them</a>
 										<ul>
-											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php" title="Common mistakes when starting up - and how to avoid them">Introduction</a></li>
 											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/poor-or-inadequate-market-research.php">Poor or inadequate market research</a></li>
 											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/weak-financial-planning.php">Weak financial planning</a></li>
 											<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/setting-sights-too-high.php">Setting sights too high</a></li>
@@ -70,7 +70,7 @@
 									<li>
 										<a href="/starting-up/considering-starting-up/starting-a-part-time-business.php">Starting a part-time business</a>
 										<ul>
-											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business.php" title="Starting a part-time business">Introduction</a></li>
 											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/what-to-consider-when-starting-your-part-time-business.php">What to consider when starting your part-time business</a></li>
 											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/tax-and-legal-implications-of-a-part-time-business.php">Tax and legal implications of a part-time business</a></li>
 											<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/advantages-and-disadvantages-of-starting-a-part-time-business.php">Advantages and disadvantages of starting a part-time business</a></li>
@@ -81,7 +81,7 @@
 									<li>
 										<a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php">How do I survive until my business is off the ground?</a>
 										<ul>
-											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground.php" title="How do I survive until my business is off the ground?">Introduction</a></li>
 											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/forecast-your-personal-financial-needs.php">Forecast your personal financial needs</a></li>
 											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/how-much-money-will-your-business-make.php">How much money will your business make?</a></li>
 											<li><a href="/starting-up/considering-starting-up/how-do-I-survive-until-my-business-is-off-the-ground/make-savings.php">Make savings</a></li>
@@ -93,7 +93,7 @@
 									<li>
 										<a href="/starting-up/considering-starting-up/family-run-businesses.php">Family-run businesses</a>
 										<ul>
-											<li><a href="/starting-up/considering-starting-up/family-run-businesses.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/family-run-businesses.php" title="Family-run businesses">Introduction</a></li>
 											<li><a href="/starting-up/considering-starting-up/family-run-businesses/advantages-of-family-businesses.php">Advantages of family businesses</a></li>
 											<li><a href="/starting-up/considering-starting-up/family-run-businesses/key-things-to-consider-when-setting-up-a-family-business.php">Key things to consider when setting up a family business</a></li>
 											<li><a href="/starting-up/considering-starting-up/family-run-businesses/communication-and-family-businesses.php">Communication and family businesses</a></li>
@@ -107,7 +107,7 @@
 									<li>
 										<a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise.php">Thinking about starting a social enterprise?</a>
 										<ul>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise.php" title="Thinking about starting a social enterprise?">Introduction</a></li>
 											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/what-is-a-social-enterprise.html">What is a social enterprise?</a></li>
 											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/why-set-up-a-social-enterprise.html">Why set up a social enterprise?</a></li>
 											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/benefits-of-a-social-enterprise.html">Benefits of a social enterprise</a></li>
@@ -124,7 +124,7 @@
 									<li>
 										<a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php">Starting a business when economic conditions are tough</a>
 										<ul>
-											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php">Introduction</a></li>
+											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php" title="Starting a business when economic conditions are tough">Introduction</a></li>
 											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/work-on-your-business-idea .php">Work on your business idea</a></li>
 											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/your-business-structure-and-business-plan .php">Your business structure and business plan</a></li>
 											<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/access-to-sources-of-starting-up-finance .php">Access to sources of starting-up finance</a></li>
@@ -158,17 +158,17 @@
 						</ul>
 					</li>
 					<li data-accordion-item>
-						<a href="../finance-and-grants.php">Finance and grants</a>
+						<a href="/finance-and-grants.php">Finance and grants</a>
 						<ul>
 							<li>
-								<a href="../finance-and-grants.php">Introduction</a>
+								<a href="/finance-and-grants.php" title="Finance and grants">Introduction</a>
 							</li>
 						</ul>
 					</li>
 					<li data-accordion-item>
 						<a href="../tax-payroll-and-company-information.php">Tax, payroll and company information</a>
 						<ul>
-							<a href="../tax-payroll-and-company-information.php">Introduction</a>
+							<a href="../tax-payroll-and-company-information.php" title="Tax, payroll and company information">Introduction</a>
 							<li><a href="../tax-payroll-and-company-information/self-assessment.php">Self Assessment</a></li>
 							<li><a href="../tax-payroll-and-company-information/vat.php">VAT</a></li>
 							<li><a href="../tax-payroll-and-company-information/business-rates.php">Business rates</a></li>
@@ -196,7 +196,7 @@
 							<li>
 								<a>Find out what records you should be keeping</a>
 								<ul>
-									<li>Introduction</li>
+									<li><a title="Find out what records you should be keeping">Introduction</a></li>
 									<li><a href="https://www.gov.uk/keeping-your-pay-tax-records" title="Keeping your pay and tax records" target="_blank">Find out what records you should be keeping</a></li>
 									<li><a href="../tax-payroll-and-company-information/find-out-what-records-you-should-be-keeping.php">Here's how a business adviser helped me with my tax bill (Flash video)</a></li>
 								</ul>
@@ -210,7 +210,7 @@
 						<a href="../employment-and-skills.html">Employment &amp; skills</a>
 						<ul>
 							<li>
-								<a href="../employment-and-skills.html">Introduction</a>
+								<a href="../employment-and-skills.html" title="Employment &amp; skills">Introduction</a>
 							</li>
 							<li>
 								<a href="/advertise-a-job-vacancy-with-jobcentre-plus.php">Advertise a job</a>
@@ -265,7 +265,7 @@
 						<a href="../workplace-health-and-safety.php">Workplace health &amp; safety</a>
 						<ul>
 							<li>
-								<a href="../workplace-health-and-safety.php">Introduction</a>
+								<a href="../workplace-health-and-safety.php" title="Workplace health &amp; safety">Introduction</a>
 							</li>
 						</ul>
 					</li>
@@ -273,7 +273,7 @@
 						<a href="../environment-and-efficiency.php">Environment &amp; efficiency</a>
 						<ul>
 							<li>
-								<a href="../environment-and-efficiency.php">Introduction</a>
+								<a href="../environment-and-efficiency.php" title="Environment &amp; efficiency">Introduction</a>
 							</li>
 						</ul>
 					</li>
@@ -281,7 +281,7 @@
 						<a href="../premises-and-property.php">Premises and property</a>
 						<ul>
 							<li>
-								<a href="../premises-and-property.php">Introduction</a>
+								<a href="../premises-and-property.php" title="Premises and property">Introduction</a>
 							</li>
 						</ul>
 					</li>
@@ -289,7 +289,7 @@
 						<a href="/create-innovate-and-protect.php">Create, innovate and protect</a>
 						<ul>
 							<li>
-								<a href="/create-innovate-and-protect.php">Introduction</a>
+								<a href="/create-innovate-and-protect.php" title="Create, innovate and protect">Introduction</a>
 							</li>
 							<li>
 								<a href="/create-innovate-and-protect/protecting-your-intellectual-property.php" title="Learn about protecting your ideas, copyright, trade marks and exploiting the potential of your business">Protecting your intellectual property</a>
@@ -308,7 +308,7 @@
 												<a>Protecting Intellectual Property</a>
 												<ul>
 													<li>
-														<a>Introduction</a>
+														<a title="Protecting Intellectual Property">Introduction</a>
 													</li>
 													<li>
 														<a href="detail70f4.html?itemId=1074300698&amp;type=RESOURCES">The importance of protecting intellectual property</a>
@@ -349,7 +349,7 @@
 						<a href="../it-and-ecommerce.php">IT &amp; e-commerce</a>
 						<ul>
 							<li>
-								<a href="../it-and-ecommerce.php">Introduction</a>
+								<a href="../it-and-ecommerce.php" title="IT &amp; e-commerce">Introduction</a>
 							</li>
 						</ul>
 					</li>
@@ -357,7 +357,7 @@
 						<a href="../sales-and-marketing.php">Sales and marketing</a>
 						<ul>
 							<li>
-								<a href="../sales-and-marketing.php">Introduction</a>
+								<a href="../sales-and-marketing.php" title="Sales and marketing">Introduction</a>
 							</li>
 						</ul>
 					</li>
@@ -365,7 +365,7 @@
 						<a href="../international-trade.php">International trade</a>
 						<ul>
 							<li>
-								<a href="../international-trade.php">Introduction</a>
+								<a href="../international-trade.php" title="International trade">Introduction</a>
 							</li>
 						</ul>
 					</li>
@@ -373,7 +373,7 @@
 						<a href="../grow-your-business.php">Grow your business</a>
 						<ul>
 							<li>
-								<a href="../grow-your-business.php">Introduction</a>
+								<a href="../grow-your-business.php" title="Grow your business">Introduction</a>
 							</li>
 						</ul>
 					</li>
@@ -381,10 +381,10 @@
 						<a href="/buy-or-sell-a-business.php">Buy or sell a business</a>
 						<ul>
 							<li>
-								<a href="/buy-or-sell-a-business.php">Introduction</a>
+								<a href="/buy-or-sell-a-business.php" title="Buy or sell a business">Introduction</a>
 							</li>
 							<li>
-								<a href="layer910d.html?topicId=1074407303"  >Businesses in difficulty</a>
+								<a href="layer910d.html?topicId=1074407303">Businesses in difficulty</a>
 								<ul>
 									<li>
 										<a>Complain against an undischarged bankrupt or disqualified company director</a>
@@ -411,7 +411,7 @@
 									<li>
 										<a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php">Buy an existing business</a>
 										<ul>
-											<li><a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php">Introduction</a></li>
+											<li><a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php" title="Buy an existing business">Introduction</a></li>
 											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/advantages-and-disadvantages-of-buying-an-existing-business.php">Advantages and disadvantages of buying an existing business</a></li>
 											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/deciding-on-the-right-type-of-business-to-buy.php">Deciding on the right type of business to buy</a></li>
 											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/where-to-look-for-a-business-to-buy.php">Where to look for a business to buy</a></li>
@@ -430,7 +430,7 @@
 										<a>Preparing to sell your business</a>
 										<ul>
 											<li>
-												<a href="layer19b7.html?topicId=1074410823" title="Options for selling your business, making it attractive to purchasers and finding advisers" >Introduction</a>
+												<a href="layer19b7.html?topicId=1074410823" title="Options for selling your business, making it attractive to purchasers and finding advisers">Introduction</a>
 											</li>
 											<li>
 												<a href="detail0983.html?itemId=1074423944&amp;type=RESOURCES"  >Is selling my business the right option?</a>
@@ -466,7 +466,7 @@
 									<li>
 										<a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php">Buy a franchise</a>
 										<ul>
-											<li><a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php">Introduction</a></li>
+											<li><a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php" title="Buy a franchise">Introduction</a></li>
 											<li><a href="/starting-up/buy-a-business/buy-a-franchise/what-is-franchising.php">What is franchising?</a></li>
 											<li><a href="/starting-up/buy-a-business/buy-a-franchise/advantages-and-disadvantages-of-franchising.php">Advantages and disadvantages of franchising</a></li>
 											<li><a href="/starting-up/buy-a-business/buy-a-franchise/should-I-buy-a-franchise.php">Should I buy a franchise?</a></li>
