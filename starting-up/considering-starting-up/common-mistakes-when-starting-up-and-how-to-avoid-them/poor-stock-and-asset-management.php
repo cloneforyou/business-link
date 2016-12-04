@@ -39,6 +39,12 @@
 		<p>See our guide on how to <a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php">decide whether to lease or buy assets</a>.</p>
 
 		<ul>
+			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/poor-supplier-and-customer-controls.php" title="Poor supplier and customer controls">Prev</a></li>
+			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/hiring-the-wrong-people.php" title="Hiring the wrong people">Next</a></li>
+		</ul>
+
+		<h3>Subjects covered in this guide</h3>
+		<ul>
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Introduction</a></li>
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/poor-or-inadequate-market-research.php">Poor or inadequate market research</a></li>
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/weak-financial-planning.php">Weak financial planning</a></li>
