@@ -66,7 +66,7 @@
 
 		<h3>Also on this site</h3>
 		<ul>
-			<li><a href="http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102079&amp;type=HUBCHASSIS" title="Researching your market and competition">Understand your market</a></li>
+			<li><a href="https://www.gov.uk/business-selling-customers" title="Researching your market and competition" target="_blank" rel="noopener noreferrer">Understand your market</a></li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports.php" title="How to use market research to gain knowledge about your marketplace and your customers">Market research and market reports</a></li>
 			<li><a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs.php" title="Why understanding your customers' needs is crucial to the success of your business">Know your customers' needs</a></li>
 		</ul>
