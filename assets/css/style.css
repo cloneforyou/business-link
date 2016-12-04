@@ -45,6 +45,11 @@ a[href^="../starting-up"] {
   padding-left: 5px;
   border-left: 3px solid #cc9999; }
 
+a[href^="/finance-and-grants"],
+a[href^="../finance-and-grants"] {
+  padding-left: 5px;
+  border-left: 3px solid #3399cc; }
+
 a[href^="/tax-payroll-and-company-information"],
 a[href^="../tax-payroll-and-company-information"] {
   padding-left: 5px;

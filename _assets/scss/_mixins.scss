@@ -17,6 +17,14 @@ a[href^="../starting-up"] {
 	border-left: 3px solid $startingup; 
 }
 
+// Finance and Grants
+$financegrants: #3399cc; // sea blue
+a[href^="/finance-and-grants"], 
+a[href^="../finance-and-grants"] {
+	padding-left: 5px; 
+	border-left: 3px solid $financegrants; 
+}
+
 
 // Tax, Payroll and Company Information
 $taxpayroll: #99cc99; // light green
