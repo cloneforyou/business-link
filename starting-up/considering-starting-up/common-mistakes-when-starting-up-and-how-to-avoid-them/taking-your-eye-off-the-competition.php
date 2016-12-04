@@ -37,6 +37,14 @@
 		<p>Failing to use information gathered about your competitors will weaken your position in the market.</p>
 		<p>Feed any useful information into your marketing plan. Your marketing plan and research will help you to set realistic targets and deadlines, and allocate appropriate resources. You can then decide to focus on building relationships with your existing clients or attract new customers. Your marketing can then be turned into sales by deciding on your sales methods.</p>
 		<p>For more information, see our guide on how to <a href="/sales-and-marketing/marketing/write-a-marketing-plan.php">write a marketing plan</a>.</p>
+
+		<ul>
+			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/setting-sights-too-high.php" title="Setting sights too high">Prev</a></li>
+			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/poor-supplier-and-customer-controls.php" title="Poor supplier and customer controls">Next</a></li>
+		</ul>
+
+		<h3>Subjects covered in this guide</h3>
+
 		<ul>
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Introduction</a></li>
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/poor-or-inadequate-market-research.php">Poor or inadequate market research</a></li>
