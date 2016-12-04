@@ -47,7 +47,7 @@
 			<h3>Spotlight</h3>
 			<h4><a href="https://www.gov.uk/growing-your-business" title="Information and tools for people interested in growing or improving their business" target="_blank" rel="noopener noreferrer">Growth and Improvement Service</a></h4>
 			
-			<img alt="" src="../../_img/hr_165px_black.gif" />
+			<hr />
 			
 			<p>Access information and support to help your business work better</p>
 			
@@ -57,7 +57,7 @@
 			
 			<h4><a href="#" title="Video guidance from Business Link on the Business Link YouTube channel">Watch videos about financing your business</a></h4>
 			
-			<img alt="" src="../../_img/hr_165px_black.gif"/>
+			<hr />
 			
 			<p>Get practical advice from business advisers</p>
 			
@@ -68,7 +68,7 @@
 			<h3>Case studies</h3>
 			<p>View case studies for finance and grants</p>
 			
-			<img alt="" src="../../_img/hr_165px_black.gif"/>
+			<hr />
 
 			<ul>
 				<li><a href="/find-a-case-study.php">Find a case study</a></li>
