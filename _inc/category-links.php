@@ -108,17 +108,17 @@
 										<a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise.php">Thinking about starting a social enterprise?</a>
 										<ul>
 											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise.php" title="Thinking about starting a social enterprise?">Introduction</a></li>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/what-is-a-social-enterprise.html">What is a social enterprise?</a></li>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/why-set-up-a-social-enterprise.html">Why set up a social enterprise?</a></li>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/benefits-of-a-social-enterprise.html">Benefits of a social enterprise</a></li>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/social-enterprise-skills.html">Social enterprise skills</a></li>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/challenges-facing-social-enterprises.html">Challenges facing social enterprises</a></li>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/business-and-marketing-plans.html">Business and marketing plans</a></li>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/financing-your-social-enterprise.html">Financing your social enterprise</a></li>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/social-enterprises-and-the-public-sector.html">Social enterprises and the public sector</a></li>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/checklist-starting-up-a-social-enterprise.html">Checklist: starting up a social enterprise</a></li>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.html">Here's how being a social enterprise works for our business</a></li>
-											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-I-started-a-successful-social-enterprise.html">Here's how I started a successful social enterprise</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/what-is-a-social-enterprise.php">What is a social enterprise?</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/why-set-up-a-social-enterprise.php">Why set up a social enterprise?</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/benefits-of-a-social-enterprise.php">Benefits of a social enterprise</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/social-enterprise-skills.php">Social enterprise skills</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/challenges-facing-social-enterprises.php">Challenges facing social enterprises</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/business-and-marketing-plans.php">Business and marketing plans</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/financing-your-social-enterprise.php">Financing your social enterprise</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/social-enterprises-and-the-public-sector.php">Social enterprises and the public sector</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/checklist-starting-up-a-social-enterprise.php">Checklist: starting up a social enterprise</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-I-started-a-successful-social-enterprise.php">Here's how I started a successful social enterprise</a></li>
 										</ul>
 									</li>
 									<li>
