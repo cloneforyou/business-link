@@ -34,6 +34,13 @@
 			<li>investigate legally enforceable ways of encouraging prompt payment</li>
 		</ul>
 		<p>See our guide on <a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php">managing late payment</a>.</p>
+
+		<ul>
+			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/taking-your-eye-off-the-competition.php" title="Taking your eye off the competition">Prev</a></li>
+			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/poor-stock-and-asset-management.php" title="Poor stock and asset management">Next</a></li>
+		</ul>
+
+		<h3>Subjects covered in this guide</h3>
 		<ul>
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Introduction</a></li>
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/poor-or-inadequate-market-research.php">Poor or inadequate market research</a></li>
