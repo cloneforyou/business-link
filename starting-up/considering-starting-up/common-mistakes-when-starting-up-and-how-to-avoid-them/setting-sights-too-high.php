@@ -36,7 +36,7 @@
 
 		<ul>
 			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/weak-financial-planning.php" title="Weak financial planning">Prev</a></li>
-			<li><a href="detailf94f.html?itemId=1075219871&amp;type=RESOURCES" title="Taking your eye off the competition">Next</a></li>
+			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them/taking-your-eye-off-the-competition.php" title="Taking your eye off the competition">Next</a></li>
 		</ul>
 
 		<h3>Subjects covered in this guide</h3>
