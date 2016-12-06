@@ -118,22 +118,23 @@ gulp.task('bower', function() {
 // Browser-Sync watch files and inject changes
 gulp.task('browsersync', function() {
 	// Watch files
-	// var files = [
-	// 	'./_assets/css/*.css', 
-	// 	'./_assets/js/*.js',
-	// 	'**/*.php',
-	// 	'_assets/images/**/*.{png,jpg,gif,svg,webp}',
-	// ];
+	var files = [
+		'./_assets/css/*.css', 
+		'./_assets/js/*.js',
+		'**/*.php',
+		'_assets/images/**/*.{png,jpg,gif,svg,webp}',
+	];
 
-	// browserSync.init(files, {
+	browserSync.init(files, {
 		// Replace with URL of your local site
-	// 	proxy: "http://localhost/",
-	// });
+		proxy: "http://blink.caroline-murphy.co.uk.dev/",
+	});
 	
-	// gulp.watch('./_assets/scss/**/*.scss', ['styles']);
-	// gulp.watch('./_assets/js/scripts/*.js', ['site-js']).on('change', browserSync.reload);
+	gulp.watch('./_assets/scss/**/*.scss', ['styles']);
+	gulp.watch('./_assets/js/scripts/*.js', ['site-js']).on('change', browserSync.reload);
 
 });
+gulp.task('sync', ['browsersync']);
 
 // Watch files for changes (without Browser-Sync)
 gulp.task('watch', function() {
@@ -156,4 +157,3 @@ gulp.task('watch', function() {
 gulp.task('default', function() {
   gulp.start('imagemin', 'styles', 'site-js', 'foundation-js');
 });
-
