@@ -23,19 +23,19 @@
 		<p>This guide looks at how, by choosing the right type of business and conducting it in the right way, your business could thrive when economic conditions are tough. It looks at the key factors that can help you successfully start up and run a business during a period of economic volatility, and shows you how a well-thought out business idea, proper sourcing of finance and good business planning can ensure that your business has the best chance of success.</p>
 		
 		<ul>
-			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/work-on-your-business-idea .php" title="Work on your business idea">Next</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/work-on-your-business-idea.php" title="Work on your business idea">Next</a></li>
 		</ul>
 
 		<h3>Subjects covered in this guide</h3>
 		<ul>
 			<li>Introduction</li>
-			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/work-on-your-business-idea .php">Work on your business idea</a></li>
-			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/your-business-structure-and-business-plan .php">Your business structure and business plan</a></li>
-			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/access-to-sources-of-starting-up-finance .php">Access to sources of starting-up finance</a></li>
-			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/develop-an-effective-survival-strategy .php">Develop an effective survival strategy</a></li>
-			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/minimise-costs-and-maximise-efficiency .php">Minimise costs and maximise efficiency</a></li>
-			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/sources-and-contacts-to-help-you-start-a-business .php">Sources and contacts to help you start a business</a></li>
-			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/here-is-how-I-started-a-business-during-an-economic-downturn_flash-video .php">Here's how I started a business during an economic downturn (Flash video)</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/work-on-your-business-idea.php">Work on your business idea</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/your-business-structure-and-business-plan.php">Your business structure and business plan</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/access-to-sources-of-starting-up-finance.php">Access to sources of starting-up finance</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/develop-an-effective-survival-strategy.php">Develop an effective survival strategy</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/minimise-costs-and-maximise-efficiency.php">Minimise costs and maximise efficiency</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/sources-and-contacts-to-help-you-start-a-business.php">Sources and contacts to help you start a business</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough/here-is-how-I-started-a-business-during-an-economic-downturn_flash-video.php">Here's how I started a business during an economic downturn (Flash video)</a></li>
 		</ul>
 		<img src="../../_img/hr_325px_global.gif" alt="" />
 
