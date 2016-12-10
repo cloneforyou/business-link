@@ -25,7 +25,6 @@ a[href^="../finance-and-grants"] {
 	border-left: 3px solid $financegrants; 
 }
 
-
 // Tax, Payroll and Company Information
 $taxpayroll: #99cc99; // light green
 
@@ -35,15 +34,25 @@ a[href^="../tax-payroll-and-company-information"] {
 	border-left: 3px solid $taxpayroll; 
 }
 
-
 // Employment and Skills
 $employment: #99cccc; // mint green 
 
 a[href^="/employment-and-skills"], 
-a[href^="..//employment-and-skills"] {
+a[href^="../employment-and-skills"] {
 	padding-left: 5px; 
 	border-left: 3px solid $employment; 
 }
+
+// Workplay Health & Safety
+$workplacehs: #cc99cc; // pale purple 
+
+a[href^="/workplace-health-and-safety"], 
+a[href^="../workplace-health-and-safety/"] {
+	padding-left: 5px; 
+	border-left: 3px solid $workplacehs; 
+}
+
+
 
 
 // Create Innovate and Protect
