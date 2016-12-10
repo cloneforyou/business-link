@@ -14,6 +14,7 @@
 <div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
 	
+
 		<h1>Business planning</h1>
 
 		<h2><a href="https://www.gov.uk/business-finance-support-finder" title="Finance and support for your business" target="_blank" rel="noopener noreferrer">Understand the importance of business planning</a></h2>
@@ -38,6 +39,7 @@
 		<ul>
 			<li><a href="/find-a-case-study/browse-by-theme-starting-up.php">Starting up case studies</a></li>
 		</ul>
+		
 		
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
