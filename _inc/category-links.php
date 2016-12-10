@@ -137,7 +137,7 @@
 									<li><a href="https://www.gov.uk/business-finance-explained" target="_blank" rel="noopener noreferrer">Think about the money</a></li>
 								</ul>
 							</li>
-							<li>
+							<li data-accordion-item>
 								<a href="/starting-up/business-planning.php">Business planning</a>
 								<ul>
 									<li>
