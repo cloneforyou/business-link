@@ -229,66 +229,74 @@
 						</ul>
 					</li>
 					<li data-accordion-item>
-						<a href="../employment-and-skills.html">Employment &amp; skills</a>
+						<a href="/employment-and-skills.php">Employment &amp; skills</a>
 						<ul>
 							<li>
-								<a href="../employment-and-skills.html" title="Employment &amp; skills">Introduction</a>
+								<a href="/employment-and-skills.php" title="Employment &amp; skills">Introduction</a>
 							</li>
+							<li><a href="/employment-and-skills/advertise-a-job.php">Advertise a job</a></li>
+							<li><a href="/employment-and-skills/take-on-staff.php">Take on staff</a></li>
+							<li><a href="/employment-and-skills/different-types-of-worker.php">Different types of worker</a></li>
+							<li><a href="/employment-and-skills/employment-checks.php">Employment checks</a></li>
+							<li><a href="/employment-and-skills/staff-documents-and-employment-policies.php">Staff documents and employment policies</a></li>
 							<li>
-								<a href="/advertise-a-job-vacancy-with-jobcentre-plus.php">Advertise a job</a>
+								<a href="/employment-and-skills/pay-and-pensions.php">Pay and pensions</a>
 								<ul>
-									<li><a href="layer2ddf.html?topicId=1074428798" title="Understand the options for engaging a worker and the legal considerations that apply">Take on staff</a></li>
-									<li><a href="layerc3f7.html?topicId=1084822723" title="Guidance on how to find people to fill your vacancies">Different types of worker</a></li>
-									<li><a href="layer87eb.html?topicId=1084607697" title="Information on checks you can perform on potential staff member">Employment checks</a></li>
-									<li><a href="layer575e.html?topicId=1084822756" title="Job offers, contracts and setting the rules for your new starters">Staff documents and employment policies</a></li>
 									<li>
-										<a href="layerb3bf.html?topicId=1084822773">Pay and pensions</a>
-										<ul>
-											<li>
-												<a href="/employment-and-skills/pay-and-pensions/implement-staff-incentive-schemes.php">Introduction</a>
-											</li>
-											<li>
-												<a href="detail523a.html?itemId=1074424523&amp;type=RESOURCES">The benefits of staff incentive schemes</a>
-											</li>
-											<li>
-												<a href="detail060f.html?itemId=1074424585&amp;type=RESOURCES">Incentive schemes and the options</a>
-											</li>
-											<li>
-												<a href="detail5cf8-2.html?itemId=1074424665&amp;type=RESOURCES">Perks and the options</a>
-											</li>
-											<li>
-												<a href="detail4e66.html?itemId=1074424722&amp;type=RESOURCES">Setting up an incentive scheme for employees</a>
-											</li>
-											<li>
-												<a href="/employment-and-skills/pay-and-pensions/ensuring-the-incentive-scheme-is-successful.php">Ensuring the incentive scheme is successful</a>
-											</li>
-											<li>
-												<a href="detail8940.html?itemId=1075395707&amp;type=CASE STUDIES">Here's how a staff incentive scheme improved our business</a>
-											</li>
-										</ul>
+										<a href="/employment-and-skills/pay-and-pensions/implement-staff-incentive-schemes.php">Introduction</a>
 									</li>
-									<li><a href="/employment-and-skills/national-minimum-wage.php" title="Understanding, calculating and complying with National Minimum Wage law">National minimum wage</a></li>
-									<li><a href="layer4a42.html?topicId=1084822795" title="Rules, calculations and best practice for giving people time off work">Holiday and other leave</a></li>
-									<li><a href="layer78ca.html?topicId=1073858926" title="Setting the hours and days your staff work, how to manage overtime and the Working Time Directive">Working time</a></li>
-									<li><a href="layer182e.html?topicId=1073877851">Equality and diversity</a></li>
-									<li><a href="layere696.html?topicId=1080898061">Maternity, paternity and adoption</a></li>
-									<li><a href="layer53a2.html?topicId=1084688832" title="Engaging with employees encourages commitment, energy and productivity from all those involved to help improve your business' performance">Employee engagement</a></li>
-									<li><a href="layer64c9.html?topicId=1074429816">Staff motivation and performance</a></li>
-									<li><a href="layer6b5b.html?topicId=1074436102">Trade unions</a></li>
-									<li><a href="layerce7a.html?topicId=1074450319">Redundancy, restructures and change</a></li>
-									<li><a href="layeraa66.html?topicId=1074202347">Skills and development</a></li>
-									<li><a href="layer11cb.html?topicId=1074207487">Problems at work</a></li>
-									<li><a href="layer2cd1.html?topicId=1073876974">Dismissals and staff leaving</a></li>
+									<li>
+										<a href="detail523a.html?itemId=1074424523&amp;type=RESOURCES">The benefits of staff incentive schemes</a>
+									</li>
+									<li>
+										<a href="detail060f.html?itemId=1074424585&amp;type=RESOURCES">Incentive schemes and the options</a>
+									</li>
+									<li>
+										<a href="detail5cf8-2.html?itemId=1074424665&amp;type=RESOURCES">Perks and the options</a>
+									</li>
+									<li>
+										<a href="detail4e66.html?itemId=1074424722&amp;type=RESOURCES">Setting up an incentive scheme for employees</a>
+									</li>
+									<li>
+										<a href="/employment-and-skills/pay-and-pensions/ensuring-the-incentive-scheme-is-successful.php">Ensuring the incentive scheme is successful</a>
+									</li>
+									<li>
+										<a href="detail8940.html?itemId=1075395707&amp;type=CASE STUDIES">Here's how a staff incentive scheme improved our business</a>
+									</li>
 								</ul>
 							</li>
+							<li><a href="/employment-and-skills/national-minimum-wage.php">National minimum wage</a></li>
+							<li><a href="/employment-and-skills/holiday-and-other-leave.php">Holiday and other leave</a></li>
+							<li><a href="/employment-and-skills/working-time.php">Working time</a></li>
+							<li><a href="/employment-and-skills/equality-and-diversity.php">Equality and diversity</a></li>
+							<li><a href="/employment-and-skills/maternity-paternity-and-adoption.php">Maternity, paternity and adoption</a></li>
+							<li><a href="/employment-and-skills/employee-engagement.php">Employee engagement</a></li>
+							<li><a href="/employment-and-skills/staff-motivation-and-performance.php">Staff motivation and performance</a></li>
+							<li><a href="/employment-and-skills/trade-unions.php">Trade unions</a></li>
+							<li><a href="/employment-and-skills/redundancy-restructures-and-change.php">Redundancy, restructures and change</a></li>
+							<li><a href="/employment-and-skills/skills-and-development.php">Skills and development</a></li>
+							<li><a href="/employment-and-skills/problems-at-work.php">Problems at work</a></li>
+							<li><a href="/employment-and-skills/dismissals-and-staff-leaving.php">Dismissals and staff leaving</a></li>
 						</ul>
 					</li>
 					<li data-accordion-item>
-						<a href="../workplace-health-and-safety.php">Workplace health &amp; safety</a>
+						<a href="/workplace-health-and-safety.php">Workplace health &amp; safety</a>
 						<ul>
 							<li>
-								<a href="../workplace-health-and-safety.php" title="Workplace health &amp; safety">Introduction</a>
+								<a href="/workplace-health-and-safety.php" title="Workplace health &amp; safety">Introduction</a>
 							</li>
+							<li><a href="/workplace-health-and-safety/what-you-need-to-do-about-health-and-safety.php">What you need to do about health and safety</a></li>
+							<li><a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business.php">Write a health and safety policy for your business</a></li>
+							<li><a href="/workplace-health-and-safety/decide-who-will-help-with-your-health-and-safety-duties.php">Decide who will help with your health and safety duties</a></li>
+							<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business.php">Managing the risks in your business</a></li>
+							<li><a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety.php">Consult your employees on health and safety</a></li>
+							<li><a href="/workplace-health-and-safety/provide-training-and-information.php">Provide training and information</a></li>
+							<li><a href="/workplace-health-and-safety/what-workplace-facilities-do-you-need-to-provide.php">What workplace facilities do you need to provide?</a></li>
+							<li><a href="/workplace-health-and-safety/first-aid-accidents-and-ill-health.php">First aid, accidents and ill health</a></li>
+							<li><a href="/workplace-health-and-safety/getting-insurance.php">Getting insurance</a></li>
+							<li><a href="/workplace-health-and-safety/protecting-your-business.php">Protecting your business</a></li>
+							<li><a href="/workplace-health-and-safety/managing-the-welfare-of-people.php">Managing the welfare of people</a></li>
+							<li><a href="/workplace-health-and-safety/safer-ways-of-working.php">Safer ways of working</a></li>
 						</ul>
 					</li>
 					<li data-accordion-item>
