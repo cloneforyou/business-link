@@ -147,29 +147,43 @@ footer {
 		background-color: #fff; 		
 	}		
 	.submenu.is-accordion-submenu {		
-		margin: 0; 		
-		padding: 15px; 		
-		list-style: none; 		
+		margin: 0; 
+		padding: 10px 20px; 
+		list-style: none; 
 	}		
 	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics' > level [4] great-grandchild 'What to do before you start your business'		
 	ul li ul li ul li ul { 		
 		background-color: lighten($light-gray, 5%); 		
 	}		
 }		
-/*** accordion arrows ***/		
-.is-accordion-submenu-parent>a:after {		
-	top: 5px;		
-    right: 0;		
+/*** accordion arrows ***/
+.is-accordion-submenu-parent > a {
+	display: block; 
+}
+.is-accordion-submenu-parent > a:after { 
+	top: 11px;		
+    right: 10px;		
     float: right;		
-    position: relative; 		
+    position: absolute; 		
     margin-top: 0; 		
 }
-.is-accordion-submenu-parent>ul {}		
-.is-accordion-submenu-item>a:after {		
-    right: 0; 		
-    top: 11px; 		
-}		
-.is-accordion-submenu-item>ul {}
+
+/* level 0 */
+.is-accordion-submenu-parent > a:after {
+	// see above
+	// outline: 1px solid red; 
+}
+/* level 1 */
+li ul .is-accordion-submenu-parent > a:after {
+	right: 1px; 
+	// outline: 1px solid blue; 
+}
+/* level 2 */
+li ul li ul .is-accordion-submenu-parent > a:after {
+	right: -11px; 
+	// outline: 1px solid green; 
+}
+
  
 /*********************
 NAVIGATION STYLES

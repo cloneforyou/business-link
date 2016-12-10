@@ -3977,22 +3977,30 @@ footer {
     background-color: #fff; }
   .categories .submenu.is-accordion-submenu {
     margin: 0;
-    padding: 15px;
+    padding: 10px 20px;
     list-style: none; }
   .categories ul li ul li ul li ul {
     background-color: #f3f3f3; }
 
 /*** accordion arrows ***/
+.is-accordion-submenu-parent > a {
+  display: block; }
+
 .is-accordion-submenu-parent > a:after {
-  top: 5px;
-  right: 0;
+  top: 11px;
+  right: 10px;
   float: right;
-  position: relative;
+  position: absolute;
   margin-top: 0; }
 
-.is-accordion-submenu-item > a:after {
-  right: 0;
-  top: 11px; }
+/* level 0 */
+/* level 1 */
+li ul .is-accordion-submenu-parent > a:after {
+  right: 1px; }
+
+/* level 2 */
+li ul li ul .is-accordion-submenu-parent > a:after {
+  right: -11px; }
 
 /*********************
 NAVIGATION STYLES
