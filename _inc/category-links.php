@@ -137,7 +137,29 @@
 									<li><a href="https://www.gov.uk/business-finance-explained" target="_blank" rel="noopener noreferrer">Think about the money</a></li>
 								</ul>
 							</li>
-							<li><a href="/starting-up/business-planning.php">Business planning</a></li>
+							<li>
+								<a href="/starting-up/business-planning.php">Business planning</a>
+								<ul>
+									<li>
+										<a href="/starting-up/business-planning/prepare-a-business-plan.php">Prepare a business plan</a>
+										<ul>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan.php" title="Prepare a business plan">Introduction</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/the-audience-for-your-business-plan.php">The audience for your business plan</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/what-a-business-plan-should-include.php">What a business plan should include</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/the-executive-summary.php">The executive summary</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/your-business-its-products-and-services.php">Your business, its products and services</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/your-markets-and-competitors.php">Your markets and competitors</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/marketing-and-sales.php">Marketing and sales</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/your-teams-skills.php">Your team's skills</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/your-operations.php">Your operations</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/financial-forecasts.php">Financial forecasts</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/presenting-your-business-plan.php">Presenting your business plan</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/using-the-business-plan-template.php">Using the business plan template</a></li>
+											<li><a href="/starting-up/business-planning/prepare-a-business-plan/here-is-how-having-an-up-to-date-business-plan-helped-my-business.php">Here's how having an up-to-date business plan helped my business</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
 							<li><a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a></li>
 							<li><a href="/starting-up/business-structures.php">Business structures</a></li>
 							<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
