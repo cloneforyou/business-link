@@ -14,6 +14,7 @@
 <div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
 
+		
 		<h1>Starting up</h1>
 		
 		<h2>My New Business</h2>
@@ -144,6 +145,7 @@
 			<a href="browse-by-theme-starting-up.php">Starting up case studies</a>
 			</li>
 		</ul>
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
