@@ -44,7 +44,7 @@ a[href^="../employment-and-skills"] {
 }
 
 // Workplay Health & Safety
-$workplacehs: #cc99cc; // pale purple 
+$workplacehs: #cc99cc; // mauve
 
 a[href^="/workplace-health-and-safety"], 
 a[href^="../workplace-health-and-safety/"] {
@@ -52,7 +52,14 @@ a[href^="../workplace-health-and-safety/"] {
 	border-left: 3px solid $workplacehs; 
 }
 
+// Environment & efficiency
+$environment: #96cc4a; // juice green 
 
+a[href^="/environment-and-efficiency"], 
+a[href^="../environment-and-efficiency/"] {
+	padding-left: 5px; 
+	border-left: 3px solid $environment; 
+}
 
 
 // Create Innovate and Protect

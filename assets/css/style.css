@@ -65,6 +65,11 @@ a[href^="../workplace-health-and-safety/"] {
   padding-left: 5px;
   border-left: 3px solid #cc99cc; }
 
+a[href^="/environment-and-efficiency"],
+a[href^="../environment-and-efficiency/"] {
+  padding-left: 5px;
+  border-left: 3px solid #96cc4a; }
+
 a[href^="/create-innovate-and-protect"],
 a[href^="../create-innovate-and-protect"] {
   padding-left: 5px;
