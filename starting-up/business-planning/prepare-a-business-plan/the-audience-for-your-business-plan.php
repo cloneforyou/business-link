@@ -78,8 +78,8 @@
 		<ul>
 			<li><a href="https://www.gov.uk/business-finance-support-finder" title="How completing a business plan can help you improve your business' chance of success" target="_blank" rel="noopener noreferrer">Understand the importance of business planning</a></li>
 			<li><a href="https://www.gov.uk/write-business-plan" title="What you need to include in your business plan and how to create one step-by-step" target="_blank" rel="noopener noreferrer">Create your business plan</a></li>
-			<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php" title="How to present your business plan to the right people in order to secure funding">Use your business plan to get funding</a></li>
-			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php" title="Learn about and avoid the most frequent mistakes made by new business owners">Common mistakes when starting up - and how to avoid them</a></li>
+			<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php">Use your business plan to get funding</a></li>
+			<li><a href="/starting-up/considering-starting-up/common-mistakes-when-starting-up-and-how-to-avoid-them.php">Common mistakes when starting up - and how to avoid them</a></li>
 		</ul>
 		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
