@@ -137,7 +137,7 @@
 									<li><a href="https://www.gov.uk/business-finance-explained" target="_blank" rel="noopener noreferrer">Think about the money</a></li>
 								</ul>
 							</li>
-							<li><a href="../starting-up/business-planning.php">Business planning</a></li>
+							<li><a href="/starting-up/business-planning.php">Business planning</a></li>
 							<li><a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a></li>
 							<li><a href="/starting-up/business-structures.php">Business structures</a></li>
 							<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
