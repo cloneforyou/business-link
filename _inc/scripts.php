@@ -1,4 +1,4 @@
-<script async src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
 
 <?php /* Load What-Input files in footer */ ?>
 <script defer src="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/_vendor/what-input/what-input.min.js"></script>
