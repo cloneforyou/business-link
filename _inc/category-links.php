@@ -285,7 +285,14 @@
 							<li>
 								<a href="/workplace-health-and-safety.php" title="Workplace health &amp; safety">Introduction</a>
 							</li>
-							<li><a href="/workplace-health-and-safety/what-you-need-to-do-about-health-and-safety.php">What you need to do about health and safety</a></li>
+							<li>
+								<a href="/workplace-health-and-safety/what-you-need-to-do-about-health-and-safety.php">What you need to do about health and safety</a>
+								<ul>
+									<li><a href="/workplace-health-and-safety/what-you-need-to-do-about-health-and-safety.php" title="What you need to do about health and safety">Introduction</a></li>
+									<li><a href="/workplace-health-and-safety/what-you-need-to-do-about-health-and-safety.php">Employers' health and safety responsibilities - an overview</a></li>
+			<li><a href="/workplace-health-and-safety/what-you-need-to-do-about-health-and-safety/business-benefits-of-good-health-and-safety-at-work.php">Business benefits of good health and safety at work</a></li>
+								</ul>
+							</li>
 							<li><a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business.php">Write a health and safety policy for your business</a></li>
 							<li><a href="/workplace-health-and-safety/decide-who-will-help-with-your-health-and-safety-duties.php">Decide who will help with your health and safety duties</a></li>
 							<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business.php">Managing the risks in your business</a></li>
