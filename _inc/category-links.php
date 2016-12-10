@@ -312,7 +312,18 @@
 									<li><a href="/workplace-health-and-safety/decide-who-will-help-with-your-health-and-safety-duties/getting-specialist-help.php">Getting specialist help</a></li>
 								</ul>
 							</li>
-							<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business.php">Managing the risks in your business</a></li>
+							<li>
+								<a href="/workplace-health-and-safety/managing-the-risks-in-your-business.php">Managing the risks in your business</a>
+								<ul>
+									<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business.php" title="Managing the risks in your business">Introduction</a></li>
+									<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business/manage-the-risks-in-your-business.php">Manage the risks in your business</a></li>
+									<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business/identify-the-hazards.php">Identify the hazards</a></li>
+									<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business/who-might-be-harmed-and-how.php">Who might be harmed and how?</a></li>
+									<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business/evaluate-the-risks-and-decide-on-precautions.php">Evaluate the risks and decide on precautions</a></li>
+									<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business/record-your-findings-and-implement-them.php">Record your findings and implement them</a></li>
+									<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business/regularly-review-your-risk-assessment.php">Regularly review your risk assessment</a></li>
+								</ul>
+							</li>
 							<li><a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety.php">Consult your employees on health and safety</a></li>
 							<li><a href="/workplace-health-and-safety/provide-training-and-information.php">Provide training and information</a></li>
 							<li><a href="/workplace-health-and-safety/what-workplace-facilities-do-you-need-to-provide.php">What workplace facilities do you need to provide?</a></li>
