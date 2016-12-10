@@ -290,11 +290,28 @@
 								<ul>
 									<li><a href="/workplace-health-and-safety/what-you-need-to-do-about-health-and-safety.php" title="What you need to do about health and safety">Introduction</a></li>
 									<li><a href="/workplace-health-and-safety/what-you-need-to-do-about-health-and-safety.php">Employers' health and safety responsibilities - an overview</a></li>
-			<li><a href="/workplace-health-and-safety/what-you-need-to-do-about-health-and-safety/business-benefits-of-good-health-and-safety-at-work.php">Business benefits of good health and safety at work</a></li>
+									<li><a href="/workplace-health-and-safety/what-you-need-to-do-about-health-and-safety/business-benefits-of-good-health-and-safety-at-work.php">Business benefits of good health and safety at work</a></li>
 								</ul>
 							</li>
-							<li><a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business.php">Write a health and safety policy for your business</a></li>
-							<li><a href="/workplace-health-and-safety/decide-who-will-help-with-your-health-and-safety-duties.php">Decide who will help with your health and safety duties</a></li>
+							<li>
+								<a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business.php">Write a health and safety policy for your business</a>
+								<ul>
+									<li><a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business.php" title="Write a health and safety policy for your business">Introduction</a></li>
+									<li><a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business/what-should-be-in-your-health-and-safety-policy.php">What should be in your health and safety policy?</a></li>
+									<li><a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business/the-statement-of-general-policy.php">The statement of general policy</a></li>
+									<li><a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business/the-responsibilities-section-of-your-health-and-safety-policy.php">The responsibilities section of your health and safety policy</a></li>
+									<li><a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business/the-arrangements-section-of-your-health-and-safety-policy.php">The arrangements section of your health and safety policy</a></li>
+									<li><a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business/implementing-your-health-and-safety-policy.php">Implementing your health and safety policy</a></li>
+								</ul>
+							</li>
+							<li>
+								<a href="/workplace-health-and-safety/decide-who-will-help-with-your-health-and-safety-duties.php">Decide who will help with your health and safety duties</a>
+								<ul>
+									<li><a href="/workplace-health-and-safety/decide-who-will-help-with-your-health-and-safety-duties.php" title="Decide who will help with your health and safety duties">Introduction</a></li>
+									<li><a href="/workplace-health-and-safety/decide-who-will-help-with-your-health-and-safety-duties/getting-external-health-and-safety-advice.php">Getting external health and safety advice</a></li>
+									<li><a href="/workplace-health-and-safety/decide-who-will-help-with-your-health-and-safety-duties/getting-specialist-help.php">Getting specialist help</a></li>
+								</ul>
+							</li>
 							<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business.php">Managing the risks in your business</a></li>
 							<li><a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety.php">Consult your employees on health and safety</a></li>
 							<li><a href="/workplace-health-and-safety/provide-training-and-information.php">Provide training and information</a></li>
