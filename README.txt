@@ -9,4 +9,7 @@ The content is (c) Crown Copyright - all code is my own.
 Updates
 -------------
 
-09 Dec 16 : Startin Up > Considering Starting Up? - entire section is now complete.
+I've thought it an idea to update this when a section is completed to show progression.
+
+17 Dec 16 : Starting up > Find and manage the money > Stock control and inventory
+09 Dec 16 : Starting up > Considering starting up?
