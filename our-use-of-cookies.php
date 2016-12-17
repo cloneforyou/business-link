@@ -14,6 +14,7 @@
 <div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
 		
+
 		<h1>Our use of cookies</h1>
 		
 		<h2>How cookies are used on this site </h2>
@@ -128,13 +129,15 @@
 			Purpose: A random unique ID used to identify the number of unique visitors to the site<br />
 			Typical content: [CS]v4|0-0|4DFF6598[CE]<br />
 			Expires: In five years</p>
-		<p><img src="/_img/hr_325px_global.gif" alt="" align="middle" /></p>
+		
+		<img src="/_img/hr_325px_global.gif" alt="" align="middle" />
 		
 		<ul>
 			<li><a href="#">Print page now</a></li>
 			<li><a href="#">Tell a friend about this page</a></li>
 			<li><a href="#">Send me an email alert when this page changes</a></li>
 		</ul>
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
