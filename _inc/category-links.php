@@ -349,9 +349,9 @@
 								<a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety.php">Consult your employees on health and safety</a>
 								<ul>
 									<li><a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety.php" title="Consult your employees on health and safety">Introduction</a></li>
-									<li>The benefits of involving employees in health and safety</li>
-									<li>What the law says about consulting your staff</li>
-									<li>How to consult with your workers</li>
+									<li><a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety/the-benefits-of-involving-employees-in-health-and-safety.php">The benefits of involving employees in health and safety</a></li>
+									<li><a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety/what-the-law-says-about-consulting-your-staff.php">What the law says about consulting your staff</a></li>
+									<li><a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety/how-to-consult-with-your-workers.php">How to consult with your workers</a></li>
 								</ul>
 							</li>
 							<li><a href="/workplace-health-and-safety/provide-training-and-information.php">Provide training and information</a></li>
