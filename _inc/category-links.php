@@ -164,20 +164,19 @@
 								<a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a>
 								<ul>
 									<li>
-										<li><a href="/starting-up/find-and-manage-the-money.php" title="Find and manage the money">Introduction</a></li>
 										<a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory.php">Stock control and inventory</a>
 										<ul>
 											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory.php" title="Stock control and stock-control-and-inventory">Introduction</a></li>
-											<li>Types of stock</li>
-											<li>How much stock should you keep?</li>
-											<li>Stock control methods</li>
-											<li>Stock control systems - keeping track manually</li>
-											<li>Stock control systems - keeping track using computer software</li>
-											<li>Using RFID for inventory control, stock security and quality management</li>
-											<li>Stock security</li>
-											<li>Control the quality of your stock</li>
-											<li>Stock control administration</li>
-											<li>Here's how I control my stock</li>
+											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/types-of-stock.php">Types of stock</a></li>
+											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/how-much-stock-should-you-keep.php">How much stock should you keep?</a></li>
+											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-control-methods.php">Stock control methods</a></li>
+											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-control-systems-keeping-track-manually.php">Stock control systems - keeping track manually</a></li>
+											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-control-systems-keeping-track-using-computer-software.php">Stock control systems - keeping track using computer software</a></li>
+											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/using-rfid-for-inventory-control-stock-security-and-quality-management.php">Using RFID for inventory control, stock security and quality management</a></li>
+											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-security.php">Stock security</a></li>
+											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/control-the-quality-of-your-stock.php">Control the quality of your stock</a></li>
+											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/stock-control-administration.php">Stock control administration</a></li>
+											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 										</ul>
 									</li>
 
