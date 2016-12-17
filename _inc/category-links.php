@@ -160,7 +160,29 @@
 									</li>
 								</ul>
 							</li>
-							<li><a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a></li>
+							<li data-accordion-item>
+								<a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a>
+								<ul>
+									<li>
+										<li><a href="/starting-up/find-and-manage-the-money.php" title="Find and manage the money">Introduction</a></li>
+										<a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory.php">Stock control and inventory</a>
+										<ul>
+											<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory.php" title="Stock control and stock-control-and-inventory">Introduction</a></li>
+											<li>Types of stock</li>
+											<li>How much stock should you keep?</li>
+											<li>Stock control methods</li>
+											<li>Stock control systems - keeping track manually</li>
+											<li>Stock control systems - keeping track using computer software</li>
+											<li>Using RFID for inventory control, stock security and quality management</li>
+											<li>Stock security</li>
+											<li>Control the quality of your stock</li>
+											<li>Stock control administration</li>
+											<li>Here's how I control my stock</li>
+										</ul>
+									</li>
+
+								</ul>
+							</li>
 							<li><a href="/starting-up/business-structures.php">Business structures</a></li>
 							<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
 							<li><a href="/starting-up/buy-a-business.php">Buy a business</a></li>
@@ -324,7 +346,15 @@
 									<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business/regularly-review-your-risk-assessment.php">Regularly review your risk assessment</a></li>
 								</ul>
 							</li>
-							<li><a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety.php">Consult your employees on health and safety</a></li>
+							<li>
+								<a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety.php">Consult your employees on health and safety</a>
+								<ul>
+									<li><a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety.php" title="Consult your employees on health and safety">Introduction</a></li>
+									<li>The benefits of involving employees in health and safety</li>
+									<li>What the law says about consulting your staff</li>
+									<li>How to consult with your workers</li>
+								</ul>
+							</li>
 							<li><a href="/workplace-health-and-safety/provide-training-and-information.php">Provide training and information</a></li>
 							<li><a href="/workplace-health-and-safety/what-workplace-facilities-do-you-need-to-provide.php">What workplace facilities do you need to provide?</a></li>
 							<li><a href="/workplace-health-and-safety/first-aid-accidents-and-ill-health.php">First aid, accidents and ill health</a></li>
