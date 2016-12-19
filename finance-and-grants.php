@@ -6,12 +6,13 @@
 </head>
 
 <body>
+
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/header.php'; ?>
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 
 <div class="row">
-	<div class="small-12 large-6 large-push-4 columns">
+	<div class="small-12 large-8 large-push-4 columns">
 	
 			
 			<h1>Finance and grants</h1>
@@ -106,7 +107,7 @@
 			</ul>
 
 
-	</div><!-- // .small-12 .large-6 .columns -->
+	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
 
