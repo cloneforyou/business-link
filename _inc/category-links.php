@@ -186,7 +186,7 @@
 							<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
 							<li><a href="/starting-up/buy-a-business.php">Buy a business</a></li>
 							<li><a href="/starting-up/choose-and-set-up-your-workplace.php">Choose and set up your workplace</a></li>
-							<li><a href="https://www.gov.uk/browse/tax" target="_blank">Get to grips with business taxes</a></li>
+							<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">Get to grips with business taxes</a></li>
 							<li><a href="/starting-up/tax-and-national-insurance-for-self-employed-and-partners.php">Tax and National Insurance for self-employed or partners</a></li>
 							<li><a href="/starting-up/corporation-tax.php">Corporation Tax</a></li>
 							<li><a href="/starting-up/vat.php">VAT</a></li>
@@ -221,32 +221,37 @@
 							<li><a href="../tax-payroll-and-company-information/capital-gains-tax.php">Capital Gains Tax</a></li>
 							<li><a href="../tax-payroll-and-company-information/stamp-taxes.php">Stamp taxes</a></li>
 							<li><a href="../tax-payroll-and-company-information/excise-duties.php">Excise duties</a></li>
-							<li><a href="../tax-payroll-and-company-information/industry-specific-taxes.html">Industry-specific taxes</a></li>
+							<li><a href="../tax-payroll-and-company-information/industry-specific-taxes.php">Industry-specific taxes</a></li>
 							<li><a href="../tax-payroll-and-company-information/tax-reliefs-and-allowances.php">Tax reliefs and allowances</a></li>
 							<li><a href="../tax-payroll-and-company-information/paye-for-employers.php">PAYE for employers</a></li>
 							<li><a href="../tax-payroll-and-company-information/expenses-and-benefits-for-employers.php">Expenses and benefits for employers</a></li>
 							<li><a href="../tax-payroll-and-company-information/paying-hmrc.php">Paying HMRC</a></li>
+							<!-- ? -->
 							<li><a href="../tax-payroll-and-company-information/changes-to-your-business/reporting-changes-to-hmrc.php">Reporting changes to HMRC</a></li>
+							<!-- ? -->
 							<li><a href="../tax-payroll-and-company-information/hmrc-complaints-and-appeals.php">HMRC complaints and appeals</a></li>
 							<li><a href="../tax-payroll-and-company-information/how-to-deal-with-hmrc-for-someone-else.php">How to deal with HMRC for someone else</a></li>
 							<li><a href="../tax-payroll-and-company-information/authorising-an-accountant-to-deal-with-hmrc-for-you.php">Authorising an accountant to deal with HMRC for you</a></li>
-							<li><a href="https://www.gov.uk/get-information-about-a-company" title="Get information about a company" target="_blank">Search for an available company name or trade mark</a></li>
-							<li><a href="../tax-payroll-and-company-information/company-administration-an-introduction.html">Company administration: an introduction</a></li>
-							<li><a href="../tax-payroll-and-company-information/filing-company-information-using-webfiling.php">Filing company information using WebFiling</a></li>
-							<li>Companies House annual returns and accounts</li>
-							<li><a href="../tax-payroll-and-company-information/companies-house-forms-and-detailed-guidance.php">Companies House forms and detailed guidance</a></li>
-							<li><a href="../tax-payroll-and-company-information/companies-house-penalties-appeals-and-complaints.php">Companies House penalties, appeals and complaints</a></li>
+							<!-- ? -->
+							<li><a href="https://www.gov.uk/get-information-about-a-company" title="Get information about a company" target="_blank" rel="noopener noreferrer">Search for an available company name or trade mark</a></li>
+							<!-- ? -->
+							<li><a href="/tax-payroll-and-company-information/company-administration-an-introduction.php">Company administration: an introduction</a></li>
+							<li><a href="/tax-payroll-and-company-information/filing-company-information-using-webfiling.php">Filing company information using WebFiling</a></li>
+							<li><a href="/tax-payroll-and-company-information/companies-house-annual-returns-and-accounts.php">Companies House annual returns and accounts</a></li>
+							<li><a href="/tax-payroll-and-company-information/companies-house-forms-and-detailed-guidance.php">Companies House forms and detailed guidance</a></li>
+							<li><a href="/tax-payroll-and-company-information/companies-house-penalties-appeals-and-complaints.php">Companies House penalties, appeals and complaints</a></li>
 							<li>
-								<a>Find out what records you should be keeping</a>
+								<a href="/tax-payroll-and-company-information/find-out-what-records-you-should-be-keeping.php">Find out what records you should be keeping</a>
 								<ul>
-									<li><a title="Find out what records you should be keeping">Introduction</a></li>
-									<li><a href="https://www.gov.uk/keeping-your-pay-tax-records" title="Keeping your pay and tax records" target="_blank">Find out what records you should be keeping</a></li>
-									<li><a href="../tax-payroll-and-company-information/find-out-what-records-you-should-be-keeping.php">Here's how a business adviser helped me with my tax bill (Flash video)</a></li>
+									<li><a href="/tax-payroll-and-company-information/find-out-what-records-you-should-be-keeping.php" title="Find out what records you should be keeping">Introduction</a></li>
+									<li><a href="https://www.gov.uk/keeping-your-pay-tax-records" title="Keeping your pay and tax records" target="_blank" rel="noopener noreferrer">Find out what records you should be keeping</a></li>
+									<li><a href="/tax-payroll-and-company-information/find-out-what-records-you-should-be-keeping.php">Here's how a business adviser helped me with my tax bill (Flash video)</a></li>
 								</ul>
 							</li>
-							<li><a href="../tax-payroll-and-company-information/set-up-a-basic-record-keeping-system.php">Set up a basic record-keeping system</a></li>
-							<li><a href="../tax-payroll-and-company-information/changes-to-your-business.php">Changes to your business</a></li>
-							<li><a href="../tax-payroll-and-company-information/selling-or-closing-your-business.php">Selling or closing your business</a></li>
+							<li><a href="/tax-payroll-and-company-information/set-up-a-basic-record-keeping-system.php">Set up a basic record-keeping system</a></li>
+							<li><a href="/tax-payroll-and-company-information/changes-to-your-business.php">Changes to your business</a></li>
+							<li><a href="/tax-payroll-and-company-information/selling-or-closing-your-business.php">Selling or closing your business</a></li>
+							<li><a href="/tax-payroll-and-company-information/find-out-what-records-you-should-be-keeping.php">Find out what records you should be keeping</a></li>							
 						</ul>
 					</li>
 					<li data-accordion-item>
