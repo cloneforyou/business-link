@@ -1,11 +1,12 @@
+<?php /* ?>
 <div class="row">
 	<div class="small-12 columns">
 
-		<?php /* 
-			Breadcrumbs - see the following documentation:
-			https://developers.google.com/search/docs/data-types/breadcrumbs#guidelines
-			http://schema.org/BreadcrumbList
-		*/ ?>
+		<?php
+			// Breadcrumbs - see the following documentation:
+			// https://developers.google.com/search/docs/data-types/breadcrumbs#guidelines
+			// http://schema.org/BreadcrumbList
+		?>
 		<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
 			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
 				<a itemprop="item" href="index.php" title="Business Link for Small Businesses">
@@ -25,3 +26,4 @@
 
 	</div><!-- // .small-12 .columns -->
 </div><!-- // .row -->
+<?php */ ?>
