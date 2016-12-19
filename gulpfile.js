@@ -122,7 +122,7 @@ gulp.task('browsersync', function() {
 		'./_assets/css/*.css', 
 		'./_assets/js/*.js',
 		'**/*.php',
-		'_assets/images/**/*.{png,jpg,gif,svg,webp}',
+		'_assets/images/*.{png,jpg,gif,svg,webp}',
 	];
 
 	browserSync.init(files, {
