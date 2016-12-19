@@ -61,19 +61,59 @@ a[href^="../employment-and-skills"] {
   border-left: 3px solid #99cccc; }
 
 a[href^="/workplace-health-and-safety"],
-a[href^="../workplace-health-and-safety/"] {
+a[href^="../workplace-health-and-safety"] {
   padding-left: 5px;
   border-left: 3px solid #cc99cc; }
 
 a[href^="/environment-and-efficiency"],
-a[href^="../environment-and-efficiency/"] {
+a[href^="../environment-and-efficiency"] {
   padding-left: 5px;
   border-left: 3px solid #96cc4a; }
+
+a[href^="/premises-and-property"],
+a[href^="../premises-and-property"] {
+  padding-left: 5px;
+  border-left: 3px solid #cc99cc; }
 
 a[href^="/create-innovate-and-protect"],
 a[href^="../create-innovate-and-protect"] {
   padding-left: 5px;
-  border-left: 3px solid #CCCC66; }
+  border-left: 3px solid #cccc66; }
+
+a[href^="/it-and-ecommerce"],
+a[href^="../it-and-ecommerce"] {
+  padding-left: 5px;
+  border-left: 3px solid #cc6666; }
+
+a[href^="/sales-and-marketing"],
+a[href^="../sales-and-marketing"] {
+  padding-left: 5px;
+  border-left: 3px solid #6666cc; }
+
+a[href^="/international-trade"],
+a[href^="../international-trade"] {
+  padding-left: 5px;
+  border-left: 3px solid #66cccc; }
+
+a[href^="/grow-your-business"],
+a[href^="../grow-your-business"] {
+  padding-left: 5px;
+  border-left: 3px solid #cccc99; }
+
+a[href^="/buy-or-sell-a-business"],
+a[href^="../buy-or-sell-a-business"] {
+  padding-left: 5px;
+  border-left: 3px solid #cc9999; }
+
+a[href^="/for-professional-advisers"],
+a[href^="../for-professional-advisers"] {
+  padding-left: 5px;
+  border-left: 3px solid #666699; }
+
+a[href^="/your-business-sector"],
+a[href^="../your-business-sector"] {
+  padding-left: 5px;
+  border-left: 3px solid #ff9933; }
 
 /*********************
 TOOLS

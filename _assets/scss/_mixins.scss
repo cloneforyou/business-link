@@ -43,11 +43,11 @@ a[href^="../employment-and-skills"] {
 	border-left: 3px solid $employment; 
 }
 
-// Workplay Health & Safety
+// Workplace Health & Safety
 $workplacehs: #cc99cc; // mauve
 
 a[href^="/workplace-health-and-safety"], 
-a[href^="../workplace-health-and-safety/"] {
+a[href^="../workplace-health-and-safety"] {
 	padding-left: 5px; 
 	border-left: 3px solid $workplacehs; 
 }
@@ -56,20 +56,91 @@ a[href^="../workplace-health-and-safety/"] {
 $environment: #96cc4a; // juice green 
 
 a[href^="/environment-and-efficiency"], 
-a[href^="../environment-and-efficiency/"] {
+a[href^="../environment-and-efficiency"] {
 	padding-left: 5px; 
 	border-left: 3px solid $environment; 
 }
 
+// Premises and property
+$premises: #cc99cc; // juice green 
+
+a[href^="/premises-and-property"], 
+a[href^="../premises-and-property"] {
+	padding-left: 5px; 
+	border-left: 3px solid $premises; 
+}
 
 // Create Innovate and Protect
-$createinnovate: #CCCC66; // msutard green/yellow
+$createinnovate: #cccc66; // mustard green/yellow
 
 a[href^="/create-innovate-and-protect"], 
 a[href^="../create-innovate-and-protect"] {
 	padding-left: 5px; 
 	border-left: 3px solid $createinnovate; 
 }
+
+// IT & e-commerce
+$itecommerce: #cc6666; // dusky red
+
+a[href^="/it-and-ecommerce"], 
+a[href^="../it-and-ecommerce"] {
+	padding-left: 5px; 
+	border-left: 3px solid $itecommerce; 
+}
+
+// Sales & Marketing
+$marketing: #6666cc; // royal purple
+
+a[href^="/sales-and-marketing"], 
+a[href^="../sales-and-marketing"] {
+	padding-left: 5px; 
+	border-left: 3px solid $marketing; 
+}
+
+// International Trade
+$inttrade: #66cccc; // sea blue
+
+a[href^="/international-trade"], 
+a[href^="../international-trade"] {
+	padding-left: 5px; 
+	border-left: 3px solid $inttrade; 
+}
+
+// Grow your business
+$growbiz: #cccc99; // khaki
+
+a[href^="/grow-your-business"], 
+a[href^="../grow-your-business"] {
+	padding-left: 5px; 
+	border-left: 3px solid $growbiz; 
+}
+
+// Buy or sell a business
+$buysell: #cc9999; // rose
+a[href^="/buy-or-sell-a-business"], 
+a[href^="../buy-or-sell-a-business"] {
+	padding-left: 5px; 
+	border-left: 3px solid $buysell; 
+}
+
+// For professional advisers
+$proadviser: #666699; // dusky purple
+
+a[href^="/for-professional-advisers"], 
+a[href^="../for-professional-advisers"] {
+	padding-left: 5px; 
+	border-left: 3px solid $proadviser; 
+}
+
+// Your business sector
+$yoursector: #ff9933; // orange
+
+a[href^="/your-business-sector"], 
+a[href^="../your-business-sector"] {
+	padding-left: 5px; 
+	border-left: 3px solid $yoursector; 
+}
+
 
 /*********************
 TOOLS
