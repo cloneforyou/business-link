@@ -797,6 +797,7 @@
 				</ul>
 			</div><!-- #closed categories -->
 
+			<?php /* ?>
 			<hr />
 
 			<div id="serviceprovider">
@@ -807,6 +808,7 @@
 					</a>
 				</p>
 			</div><!-- #serviceprovider -->
+			<?php */ ?>
 		</div><!-- #left -->
 
 	</div><!-- // .categories -->
