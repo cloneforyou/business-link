@@ -3983,6 +3983,9 @@ p {
 /*********************
 HEADER STYLES
 *********************/
+.header-row {
+  margin-bottom: 40px; }
+
 header,
 .breadcrumbs,
 footer {
@@ -3994,7 +3997,7 @@ footer {
   @media screen and (min-width: 40em) {
     .branding .top-logo {
       float: left;
-      max-width: inherit; } }
+      max-width: 150px; } }
 
 .strapline {
   margin-top: 10px;

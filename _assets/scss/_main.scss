@@ -87,6 +87,10 @@ p {
 /*********************
 HEADER STYLES
 *********************/
+.header-row {
+	margin-bottom: 40px; 
+}
+
 header, 
 .breadcrumbs, 
 footer {
@@ -101,7 +105,7 @@ footer {
 
 		@include breakpoint(medium) {
 			float: left; 
-			max-width: inherit; 
+			max-width: 150px; 
 		}
 	}
 }
