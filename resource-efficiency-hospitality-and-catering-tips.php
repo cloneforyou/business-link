@@ -47,7 +47,7 @@
 
 		<ul>
 			<li><a href="/resource-efficiency-general-tips.php">General tips</a></li>
-			<li><a href="/resource-efficiency-hospitality-and-catering-tips.php">Hospitality &amp; Catering</a></li>
+			<li>Hospitality &amp; Catering</li>
 			<li><a href="/resource-efficiency-retail-tips.php">Retail</a></li>
 			<li><a href="/resource-efficiency-manufacturing-tips.php">Manufacturing</a></li>
 		</ul>
