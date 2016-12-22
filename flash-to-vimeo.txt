@@ -2,7 +2,17 @@
 
 1. Login to Vimeo account (cmurphy....)
 
-2. 
+2. Upload video, assign tag of 'blink'
+
+3. Paste in the following code:
+
+<div class="flex-video widescreen vimeo">
+	<iframe src="http://player.vimeo.com/video/192278297?badge=0&byline=0&portrait=0&title=0" width="720" height="540" allowfullscreen style="border:0"></iframe>
+</div>
+
+4. change the video link to the one you wish to use.
+
+5. Move the flash file to the unused folder
 
 
 
