@@ -39,12 +39,12 @@
 		<hr />
 
 		<ul>
-			<li><a href="#generaltips">General tips</a></li>
+			<li>General tips</li>
 			<li><a href="/resource-efficiency-hospitality-and-catering-tips.php">Hospitality &amp; Catering</a></li>
 			<li><a href="/resource-efficiency-retail-tips.php">Retail</a></li>
 			<li><a href="/resource-efficiency-manufacturing-tips.php">Manufacturing</a></li>
 		</ul>
-		<h2><a name="generaltips">General tips</a></h2>
+		<h2>General tips</h2>
 		<p>Top ten tips to help your business save money and increase efficiency.</p>
 		
 		<h3>1. Turn off office equipment when you're not using it</h3>
