@@ -1,8 +1,7 @@
 <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
 
 <?php /* Load What-Input files in footer */ ?>
-<script defer src="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/_vendor/what-input/what-input.min.js"></script>
-<script defer src="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/_vendor/what-input/what-input.min.js"></script>
+<script defer src="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/_vendor/what-input/dist/what-input.min.js"></script>
 <?php /* Adding Foundation scripts file in the footer */ ?>
 <script defer src="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/assets/js/foundation.min.js"></script>
 <?php /* Load What-Input files in footer */ ?>
