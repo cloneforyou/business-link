@@ -15,21 +15,18 @@
 	<div class="small-12 large-8 large-push-4 columns">
 
 
-		<div class="flex-video widescreen vimeo">
-			<iframe src="http://player.vimeo.com/video/192278297?badge=0&byline=0&portrait=0&title=0" width="720" height="540" allowfullscreen style="border:0"></iframe>
+		<div class="responsive-embed resource-flash">
+			<object type="application/x-shockwave-flash" data="/_flash/hospitality_and_catering.swf">
+				<param name="movie" value="/_flash/hospitality_and_catering.swf" />
+				<param name="wmode" value="transparent" />
+				<param name="quality" value="high" />
+			</object>
 		</div>
 
-		<hr />
-
-		<script type="text/javascript" src="../../../businesslink.edgeboss.net/download/businesslink/flash_player/swfobject.js">
-		<!--
-
-		//-->
-		</script>
+		<?php /* ?>
+		<script type="text/javascript" src="../../../businesslink.edgeboss.net/download/businesslink/flash_player/swfobject.js"></script>
 		<a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">Adobe Flash Player</a> is required to view this content.
 		<script type="text/javascript">
-		<!--
-
 		var flashvars = {
 			height: "167",
 			width: "740"
@@ -39,11 +36,8 @@
 		};
 		var attributes = {};
 		swfobject.embedSWF("http://businesslink.edgeboss.net/download/businesslink/flash/campaigns/resource_efficiency/hospitality_and_catering.swf", "previewvid", "740", "167", "9.0.0", "http://businesslink.edgeboss.net/download/businesslink/flash_player/expressinstall.swf", flashvars, params, attributes);
-
-		//-->
 		</script>
-
-		<hr />
+		<?php */ ?>
 
 		<ul>
 			<li><a href="/resource-efficiency-general-tips.php">General tips</a></li>

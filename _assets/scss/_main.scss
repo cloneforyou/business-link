@@ -156,7 +156,9 @@ footer {
 		background-color: lighten($light-gray, 5%); 		
 	}		
 }		
-/*** accordion arrows ***/
+/*********************
+accordion arrows
+*********************/
 .is-accordion-submenu-parent > a {
 	display: block; 
 }
@@ -223,4 +225,11 @@ FOOTER STYLES
 /*********************
 FOUNDATION STYLES
 *********************/
+.resource-flash {
+	padding-bottom: 25%; 
+}
+.resource-flash object {
+	height: auto; 
+}
+
 

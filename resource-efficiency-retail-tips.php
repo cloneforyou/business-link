@@ -15,11 +15,15 @@
 	<div class="small-12 large-8 large-push-4 columns">
 
 
-		<div class="flex-video widescreen vimeo">
-			<iframe src="http://player.vimeo.com/video/192278297?badge=0&byline=0&portrait=0&title=0" width="720" height="540" allowfullscreen style="border:0"></iframe>
+		<div class="responsive-embed resource-flash">
+			<object type="application/x-shockwave-flash" data="/_flash/retail.swf">
+				<param name="movie" value="/_flash/retail.swf" />
+				<param name="wmode" value="transparent" />
+				<param name="quality" value="high" />
+			</object>
 		</div>
 
-		<hr />
+		<?php /* ?>
 
 		<script type="text/javascript" src="../../../businesslink.edgeboss.net/download/businesslink/flash_player/swfobject.js">
 		<!--
@@ -42,7 +46,7 @@
 		//-->
 		</script>
 
-		<hr />
+		<?php */ ?>
 
 		<ul>
 			<li><a href="/resource-efficiency-general-tips.php">General tips</a></li>
