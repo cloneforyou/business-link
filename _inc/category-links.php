@@ -185,7 +185,31 @@
 							<li><a href="/starting-up/business-structures.php">Business structures</a></li>
 							<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
 							<li><a href="/starting-up/buy-a-business.php">Buy a business</a></li>
-							<li><a href="/starting-up/choose-and-set-up-your-workplace.php">Choose and set up your workplace</a></li>
+							<li>
+								<a href="/starting-up/choose-and-set-up-your-workplace.php">Choose and set up your workplace</a>
+								<ul>
+									<li><a href="/starting-up/choose-and-set-up-your-workplace.php" title="Choose and set up your workplace">Introduction</a></li>
+									<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Choose the right type of premises</a></li>
+									<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Rent or buy premises</a></li>
+									<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Manage workplace health and safety</a></li>
+									<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Set up your business at home</a></li>
+									<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home.php">Starting a business from home</a></li>
+									<li>
+										<a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities.php">Environmental responsibilities</a>
+										<ul>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities.php" title="Environmental responsibilities">Introduction</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/comply-with-key-environmental-legislation.php">Comply with key environmental legislation</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/does-my-business-need-a-permit-or-licence.php">Does my business need a permit or licence?</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/hazardous-substances-covered-by-environmental-legislation.php">Hazardous substances covered by environmental legislation</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/conservation-and-biodiversity-issues-for-businesses.php">Conservation and biodiversity issues for businesses</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/environmental-issues-in-specific-business-sectors.php">Environmental issues in specific business sectors</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/who-enforces-environmental-legislation.php">Who enforces environmental legislation?</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/prevent-and-remedy-pollution-incidents.php">Prevent and remedy pollution incidents</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/the-business-benefits-of-good-environmental-and-sustainable-practices.php">The business benefits of good environmental and sustainable practices</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
 							<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">Get to grips with business taxes</a></li>
 							<li><a href="/starting-up/tax-and-national-insurance-for-self-employed-and-partners.php">Tax and National Insurance for self-employed or partners</a></li>
 							<li><a href="/starting-up/corporation-tax.php">Corporation Tax</a></li>
