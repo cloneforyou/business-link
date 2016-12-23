@@ -193,7 +193,20 @@
 									<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Rent or buy premises</a></li>
 									<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Manage workplace health and safety</a></li>
 									<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Set up your business at home</a></li>
-									<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home.php">Starting a business from home</a></li>
+									<li>
+										<a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home.php">Starting a business from home</a>
+										<ul>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home.php" title="Starting a business from home">Introduction</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/is-starting-a-home-based-business-right-for-you.php">Is starting a home-based business right for you?</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/popular-home-business-ideas.php">Popular home business ideas</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/start-up-costs-and-financing-your-home-based-business.php">Start-up costs and financing your home-based business</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/record-keeping.php">Record keeping</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/it-and-home-business.php">IT and home business</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-work-environment.php">Your work environment</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/managing-your-home-based-business.php">Managing your home-based business</a></li>
+											<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home/your-growth-options.php">Your growth options</a></li>
+										</ul>
+									</li>
 									<li>
 										<a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities.php">Environmental responsibilities</a>
 										<ul>
