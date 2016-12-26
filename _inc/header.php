@@ -30,7 +30,7 @@
 
 	<div class="off-canvas-content" data-off-canvas-content>
 
-		<header class="header" role="banner">
+		<header class="header row" role="banner">
 
 			<!-- By default, this menu will use off-canvas for small
 				 and a topbar for medium-up -->
