@@ -4,6 +4,13 @@ Stylesheet: Main Stylesheet
 
 ********************************************************************/
 
+.row {
+	// outline: 1px solid #f0f; 
+}
+.column, .columns {
+	// outline: 1px solid blue; 
+}
+
 /*********************
 GENERAL STYLES
 *********************/
@@ -15,12 +22,9 @@ GENERAL STYLES
 /*********************
 LINK STYLES
 *********************/
-a {
-	color: #01A7BF; 
-}
 a:visited {
 
-	color: darken(#01A7BF, 20%); 
+	color: darken($primary-color, 20%); 
 
 	// Mobile tap color
 	&:link {
@@ -91,11 +95,11 @@ p {
 /*********************
 HEADER STYLES
 *********************/
-.header-row {
+header {
 	margin-bottom: 40px; 
 }
 
-header, 
+// header, 
 .breadcrumbs, 
 footer {
 	padding: 1rem; // 16px
@@ -106,10 +110,11 @@ footer {
 .top-logo {
 	display: block; 
 	margin: 0 auto; 
-	width: 250px; 
+	max-width: 170px; 
 
 	@include breakpoint(medium) {
-		width: 150px; 
+		margin: 0 15px; 
+		max-width: 150px; 
 	}
 }
 
@@ -125,6 +130,42 @@ footer {
 	}
 }
 
+.quick-links {
+	margin-bottom: 60px; 
+	border-bottom: 1px solid $medium-gray; 
+}
+
+/* normal horz main nav */
+.top-bar {
+
+	.menu > li > a {
+		border-left: 0; 
+		border-top-width: 5px; 
+		border-top-style: solid; 
+	}
+}
+
+
+/*** mobile ~ tablet menu ***/
+.top-bar .mobile-menu {
+	margin-top: 30px; 
+	margin-bottom: 30px; 
+	padding: 0 15px; 
+	font-weight: 600; 
+	background-color: #333; 
+
+	> li > a {
+		border: 0; 
+	}
+}
+
+/*** off-canvas ***/
+.off-canvas {
+	padding: 50px 0; 
+}
+
+
+
 /*** Breadcrumbs ***/		
 // Let's remove Foundation styling		
 .breadcrumbs li:not(:last-child):after {		
@@ -135,9 +176,10 @@ footer {
 .breadcrumb-arrow {		
 	padding: 0 .75rem; 		
 	color: #cacaca; 		
-}		
-/*** Side bar master navigation ***/
+}
 
+
+/*** Side bar master navigation ***/
 .categories {
 	outline: 1px solid #ccc; 
 
