@@ -76,25 +76,25 @@ gulp.task('foundation-js', function() {
 		'./_vendor/foundation-sites/js/foundation.util.*.js',
 
 		// Pick the components you need in your project
-		// './_vendor/foundation-sites/js/foundation.abide.js',
+		'./_vendor/foundation-sites/js/foundation.abide.js',
 		'./_vendor/foundation-sites/js/foundation.accordion.js',
 		'./_vendor/foundation-sites/js/foundation.accordionMenu.js',
 		'./_vendor/foundation-sites/js/foundation.drilldown.js',
 		'./_vendor/foundation-sites/js/foundation.dropdown.js',
 		'./_vendor/foundation-sites/js/foundation.dropdownMenu.js',
-		// './_vendor/foundation-sites/js/foundation.equalizer.js',
-		// './_vendor/foundation-sites/js/foundation.interchange.js',
-		// './_vendor/foundation-sites/js/foundation.magellan.js',
+		'./_vendor/foundation-sites/js/foundation.equalizer.js',
+		'./_vendor/foundation-sites/js/foundation.interchange.js',
+		'./_vendor/foundation-sites/js/foundation.magellan.js',
 		'./_vendor/foundation-sites/js/foundation.offcanvas.js',
-		// './_vendor/foundation-sites/js/foundation.orbit.js',
+		'./_vendor/foundation-sites/js/foundation.orbit.js',
 		'./_vendor/foundation-sites/js/foundation.responsiveMenu.js',
 		'./_vendor/foundation-sites/js/foundation.responsiveToggle.js',
-		// './_vendor/foundation-sites/js/foundation.reveal.js',
+		'./_vendor/foundation-sites/js/foundation.reveal.js',
 		'./_vendor/foundation-sites/js/foundation.slider.js',
-		// './_vendor/foundation-sites/js/foundation.sticky.js',
-		// './_vendor/foundation-sites/js/foundation.tabs.js',
-		// './_vendor/foundation-sites/js/foundation.toggler.js',
-		// './_vendor/foundation-sites/js/foundation.tooltip.js',
+		'./_vendor/foundation-sites/js/foundation.sticky.js',
+		'./_vendor/foundation-sites/js/foundation.tabs.js',
+		'./_vendor/foundation-sites/js/foundation.toggler.js',
+		'./_vendor/foundation-sites/js/foundation.tooltip.js',
   ])
 	.pipe(babel({
 		presets: ['es2015'],
@@ -134,7 +134,7 @@ gulp.task('browsersync', function() {
 	gulp.watch('./_assets/js/scripts/*.js', ['site-js']).on('change', browserSync.reload);
 
 });
-gulp.task('sync', ['browsersync']);
+//gulp.task('sync', ['browsersync']);
 
 // Watch files for changes (without Browser-Sync)
 gulp.task('watch', function() {
