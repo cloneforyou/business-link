@@ -8,138 +8,131 @@ Mixins & Constants.
 ********************************************************************/
 
 /*** Variables ***/
-
-// Starting Up 
-$startingup: #cc9999; // rose
 a[href^="/starting-up"], 
-a[href^="../starting-up"] {
-	padding-left: 5px; 
-	border-left: 3px solid $startingup; 
-}
-
-// Finance and Grants
-$financegrants: #3399cc; // sea blue
+a[href^="../starting-up"], 
 a[href^="/finance-and-grants"], 
-a[href^="../finance-and-grants"] {
-	padding-left: 5px; 
-	border-left: 3px solid $financegrants; 
-}
-
-// Tax, Payroll and Company Information
-$taxpayroll: #99cc99; // light green
-
+a[href^="../finance-and-grants"], 
 a[href^="/tax-payroll-and-company-information"], 
-a[href^="../tax-payroll-and-company-information"] {
-	padding-left: 5px; 
-	border-left: 3px solid $taxpayroll; 
-}
-
-// Employment and Skills
-$employment: #99cccc; // mint green 
-
+a[href^="../tax-payroll-and-company-information"], 
 a[href^="/employment-and-skills"], 
-a[href^="../employment-and-skills"] {
-	padding-left: 5px; 
-	border-left: 3px solid $employment; 
-}
-
-// Workplace Health & Safety
-$workplacehs: #cc99cc; // mauve
-
+a[href^="../employment-and-skills"], 
 a[href^="/workplace-health-and-safety"], 
-a[href^="../workplace-health-and-safety"] {
-	padding-left: 5px; 
-	border-left: 3px solid $workplacehs; 
-}
-
-// Environment & efficiency
-$environment: #96cc4a; // juice green 
-
+a[href^="../workplace-health-and-safety"], 
 a[href^="/environment-and-efficiency"], 
-a[href^="../environment-and-efficiency"] {
-	padding-left: 5px; 
-	border-left: 3px solid $environment; 
-}
-
-// Premises and property
-$premises: #cc99cc; // juice green 
-
+a[href^="../environment-and-efficiency"], 
 a[href^="/premises-and-property"], 
-a[href^="../premises-and-property"] {
-	padding-left: 5px; 
-	border-left: 3px solid $premises; 
-}
-
-// Create Innovate and Protect
-$createinnovate: #cccc66; // mustard green/yellow
-
+a[href^="../premises-and-property"], 
 a[href^="/create-innovate-and-protect"], 
-a[href^="../create-innovate-and-protect"] {
-	padding-left: 5px; 
-	border-left: 3px solid $createinnovate; 
-}
-
-// IT & e-commerce
-$itecommerce: #cc6666; // dusky red
-
+a[href^="../create-innovate-and-protect"], 
 a[href^="/it-and-ecommerce"], 
-a[href^="../it-and-ecommerce"] {
-	padding-left: 5px; 
-	border-left: 3px solid $itecommerce; 
-}
-
-// Sales & Marketing
-$marketing: #6666cc; // royal purple
-
+a[href^="../it-and-ecommerce"], 
 a[href^="/sales-and-marketing"], 
-a[href^="../sales-and-marketing"] {
-	padding-left: 5px; 
-	border-left: 3px solid $marketing; 
-}
-
-// International Trade
-$inttrade: #66cccc; // sea blue
-
+a[href^="../sales-and-marketing"], 
 a[href^="/international-trade"], 
-a[href^="../international-trade"] {
-	padding-left: 5px; 
-	border-left: 3px solid $inttrade; 
-}
-
-// Grow your business
-$growbiz: #cccc99; // khaki
-
+a[href^="../international-trade"], 
 a[href^="/grow-your-business"], 
-a[href^="../grow-your-business"] {
-	padding-left: 5px; 
-	border-left: 3px solid $growbiz; 
-}
-
-// Buy or sell a business
-$buysell: #cc9999; // rose
+a[href^="../grow-your-business"], 
 a[href^="/buy-or-sell-a-business"], 
-a[href^="../buy-or-sell-a-business"] {
-	padding-left: 5px; 
-	border-left: 3px solid $buysell; 
-}
-
-// For professional advisers
-$proadviser: #666699; // dusky purple
-
+a[href^="../buy-or-sell-a-business"], 
 a[href^="/for-professional-advisers"], 
-a[href^="../for-professional-advisers"] {
-	padding-left: 5px; 
-	border-left: 3px solid $proadviser; 
-}
-
-// Your business sector
-$yoursector: #ff9933; // orange
-
+a[href^="../for-professional-advisers"], 
 a[href^="/your-business-sector"], 
 a[href^="../your-business-sector"] {
 	padding-left: 5px; 
-	border-left: 3px solid $yoursector; 
+	border-left-width: 3px; 
+	border-left-style: solid; 
 }
+
+
+// Starting Up 
+$startingup: #ef5350; //#cc9999; // rose
+a[href^="/starting-up"], 
+a[href^="../starting-up"] { border-color: $startingup; }
+
+// Finance and Grants
+$financegrants: #EC407A; //#3399cc; // sea blue
+a[href^="/finance-and-grants"], 
+a[href^="../finance-and-grants"] { border-color: $financegrants; }
+
+// Tax, Payroll and Company Information
+$taxpayroll: #AB47BC; //#99cc99; // light green
+
+a[href^="/tax-payroll-and-company-information"], 
+a[href^="../tax-payroll-and-company-information"] { border-color: $taxpayroll; }
+
+// Employment and Skills
+$employment: #7E57C2; //#99cccc; // mint green 
+
+a[href^="/employment-and-skills"], 
+a[href^="../employment-and-skills"] { border-color: $employment; }
+
+// Workplace Health & Safety
+$workplacehs: #5C6BC0; //#cc99cc; // mauve
+
+a[href^="/workplace-health-and-safety"], 
+a[href^="../workplace-health-and-safety"] { border-color: $workplacehs; }
+
+// Environment & efficiency
+$environment: #42A5F5; //#96cc4a; // juice green 
+
+a[href^="/environment-and-efficiency"], 
+a[href^="../environment-and-efficiency"] { border-color: $environment; }
+
+// Premises and property
+$premises: #29B6F6; //#cc99cc; // juice green 
+
+a[href^="/premises-and-property"], 
+a[href^="../premises-and-property"] { border-color: $premises; }
+
+// Create Innovate and Protect
+$createinnovate: #26C6DA; //#cccc66; // mustard green/yellow
+
+a[href^="/create-innovate-and-protect"], 
+a[href^="../create-innovate-and-protect"] { border-color: $createinnovate; }
+
+// IT & e-commerce
+$itecommerce: #26A69A; //#cc6666; // dusky red
+
+a[href^="/it-and-ecommerce"], 
+a[href^="../it-and-ecommerce"] { border-color: $itecommerce; }
+
+// Sales & Marketing
+$marketing: #26A69A; //#6666cc; // royal purple
+
+a[href^="/sales-and-marketing"], 
+a[href^="../sales-and-marketing"] { border-color: $marketing; }
+
+// International Trade
+$inttrade: #66BB6A; //#66cccc; // sea blue
+
+a[href^="/international-trade"], 
+a[href^="../international-trade"] { border-color: $inttrade; }
+
+// Grow your business
+$growbiz: #9CCC65; //#cccc99; // khaki
+
+a[href^="/grow-your-business"], 
+a[href^="../grow-your-business"] { border-color: $growbiz; }
+
+// Buy or sell a business
+$buysell: #D4E157; //#cc9999; // rose
+
+a[href^="/buy-or-sell-a-business"], 
+a[href^="../buy-or-sell-a-business"] { border-color: $buysell; }
+
+// For professional advisers
+$proadviser: #FFEE58; //#666699; // dusky purple
+
+a[href^="/for-professional-advisers"], 
+a[href^="../for-professional-advisers"] { border-color: $proadviser; }
+
+// Your business sector
+$yoursector: #FFCA28; //#ff9933; // orange
+
+a[href^="/your-business-sector"], 
+a[href^="../your-business-sector"] { border-color: $yoursector; }
+
+// Colours left: #FFA726; #FF7043; greys/browns: #8D6E63; #BDBDBD; #78909C; 
 
 
 /*********************
