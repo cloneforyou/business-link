@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Simpler Income Tax for Self employed and Small Partnerships | Business Link</title>
+	<title>Simpler Income Tax for Self employed and Small Partnerships | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

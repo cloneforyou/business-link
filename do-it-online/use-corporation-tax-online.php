@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Use Corporation Tax Online | Business Link</title>
+	<title>Use Corporation Tax Online | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -15,7 +15,7 @@
 	<div class="small-12 large-8 large-push-4 columns">
 
 		<h1>Use Corporation Tax Online</h1>
-		<p>Corporation Tax Online is provided by HM Revenue &amp; Customs (HMRC) in partnership with Business Link.</p>
+		<p>Corporation Tax Online is provided by HM Revenue &amp; Customs (HMRC) in partnership with Venture Labs.</p>
 		<a href="#">Log in or register for Corporation Tax Online</a>
 		<p>If you are a tax adviser or accountant please <a href="/do-it-online/use-corporation-tax-for-agents.php.html">use Corporation Tax for Agents</a>.</p>
 		

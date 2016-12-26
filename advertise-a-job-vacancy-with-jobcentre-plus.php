@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Post your job vacancies for free on Jobcentre Plus using Employer Direct online | Business Link</title>
+	<title>Post your job vacancies for free on Jobcentre Plus using Employer Direct online | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

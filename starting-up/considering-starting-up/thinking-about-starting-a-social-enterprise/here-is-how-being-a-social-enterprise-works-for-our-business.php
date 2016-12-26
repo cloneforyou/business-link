@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Here's how being a social enterprise works for our business | Business Link</title>
+	<title>Here's how being a social enterprise works for our business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -21,7 +21,7 @@
 		<h3>What I did</h3>
 		<h3>Get plenty of advice</h3>
 		<p>"Swamp Circus Trust uses circus skills in a variety of projects that benefit individuals and communities in the South Yorkshire area. That could be anything from confidence-building workshops in schools, to live shows that tackle community themes. The business also has a strong commercial side, providing high quality circus-based entertainment and team-building events to the corporate market. The two sides of the business co-existed for several years when we decided we wanted to do more.</p>
-		<p>"We got advice from several sources, including Business Link, about how we could set up a more appropriate legal structure. The main criteria was that we wanted to be able to pursue more funding opportunities, such as grants - many of which are easier to apply for and get if you have charitable status. That, and the fact that we were already engaged in charitable work, led us to incorporate as a charitable trust, which we did with the help of legal advisers."</p>
+		<p>"We got advice from several sources, including Venture Labs, about how we could set up a more appropriate legal structure. The main criteria was that we wanted to be able to pursue more funding opportunities, such as grants - many of which are easier to apply for and get if you have charitable status. That, and the fact that we were already engaged in charitable work, led us to incorporate as a charitable trust, which we did with the help of legal advisers."</p>
 		<h3>Operate as a business</h3>
 		<p>"While a social enterprise has built-in differences compared with a traditional company, it still needs to operate as a business. The process of becoming a charitable trust helped us to put business structures in place. For example, we had to write business plans, plus a company constitution outlining our guiding principles and goals. We also had to appoint trustees, which is a valuable exercise because it makes you think about where the skills gaps are in running your company, then gives you the opportunity to fill them.</p>
 		<p>"Preparing a business plan also made us focus on the sources of finance available. Setting up as a charitable trust can limit the options for traditional bank finance, partly because the legal structure means that trustees may be personally liable for debts, which can make them more cautious about loans. So we've had to be flexible and creative, exploring as many financing options as possible and adapting ourselves as we go.</p>

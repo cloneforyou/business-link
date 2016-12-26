@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Further Support For Your Business | Starting Up | Business Link</title>
+	<title>Further Support For Your Business | Starting Up | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -34,7 +34,7 @@
 		<h2><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up.php">Extra help and support available for your start up</a></h2>
 		<p>How to find out if you are eligible for extra help and support for your new business</p>
 	
-		<h2><a href="http://shop.bsigroup.com/BusinessLinks/BusinessLinkLP/" title="BSI and Business Link's standards information portal" target="_blank" rel="noopener noreferrer">Standards explained on the British Standards Institution website</a></h2>
+		<h2><a href="http://shop.bsigroup.com/BusinessLinks/BusinessLinkLP/" title="BSI and Venture Labs's standards information portal" target="_blank" rel="noopener noreferrer">Standards explained on the British Standards Institution website</a></h2>
 		<p>Learn more about standards and how they can help you and your organisation</p>
 		<img src="/_img/Choosing_advisers_and_services.jpg" width="146" height="146" alt=" " />
 	

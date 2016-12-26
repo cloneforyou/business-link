@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Launched by the Bank of England and HM Treasury  | Business Link</title>
+	<title>Launched by the Bank of England and HM Treasury  | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

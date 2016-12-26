@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Get &pound;1,500 for recruiting an apprentice aged 16 to 24 | Business Link</title>
+	<title>Get &pound;1,500 for recruiting an apprentice aged 16 to 24 | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>How the Autumn Statement will affect your business | Business Link</title>
+	<title>How the Autumn Statement will affect your business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -41,11 +41,11 @@
 		<p>At Budget 2011, the Small Business Rate relief holiday was extended by one year to October 2012. This has now been extended again until April 2013. In addition, all businesses will be allowed to defer 60% of the increase in next year's business rates to the two following years.</p>
 		<p><strong>Further information and support</strong></p>
 		<p>For further information on all of the announcements in the Autumn Statement you can visit the <a href="https://www.gov.uk/government/news/autumn-statement-2011--3" target="_blank">HM Treasury website - Opens in a new window</a>, <a href="https://www.gov.uk/government/news/autumn-statement-2011--2" target="_blank">BIS website - Opens in a new window</a> and <a href="http://webarchive.nationalarchives.gov.uk/20121015000000/http://www.direct.gov.uk/en/Nl1/Newsroom/DG_200257" target="_blank">Directgov website - Opens in a new window</a>.</p>
-		<p>Business Link's easy-to-use services can help you start up, grow and improve your business:</p>
+		<p>Venture Labs's easy-to-use services can help you start up, grow and improve your business:</p>
 		<ul>
 			<li>The <a href="https://www.gov.uk/growing-your-business" title="Information and tools for people interested in growing or improving their business" target="_blank">Growth and Improvement Service - Opens in a new window</a> gives you access to the information you need to make your business work better; including tools to help you diagnose and solve business problems, an enhanced business support finder, tutorials and video case studies, information on events in your area and links to business discussions and other services. .</li>
 			<li>The comprehensive <a href="https://www.gov.uk/browse/business/setting-up" title="Access the My New Business tool" target="_blank">Start-Up Service - Opens in a new window</a> offers support through the stages of setting up a business  with  free access to over 200 videos, case studies,  tutorials and tools and a starting up task list to guide you through the process.</li>
-			<li>Our <a href="https://data.gov.uk/data/contracts-finder-archive/" title="Access Contracts Finder on the Business Link website" target="_blank">Contracts Finder - Opens in a new window</a> can help you identify public sector procurement opportunities.</li>
+			<li>Our <a href="https://data.gov.uk/data/contracts-finder-archive/" title="Access Contracts Finder on the Venture Labs website" target="_blank">Contracts Finder - Opens in a new window</a> can help you identify public sector procurement opportunities.</li>
 		</ul>
 		<p><img src="_img/hr_325px_global.gif" alt="" /></p>
 		<ul>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>New services for Approved Driving Instructors (ADIs) | Business Link</title>
+	<title>New services for Approved Driving Instructors (ADIs) | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

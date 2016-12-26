@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Use Self Assessment Online | Business Link</title>
+	<title>Use Self Assessment Online | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -15,7 +15,7 @@
 	<div class="small-12 large-8 large-push-4 columns">
 
 		<h1>Use Self Assessment Online</h1>
-		<p>Self Assessment Online is provided by HM Revenue &amp; Customs (HMRC) in partnership with Business Link.</p>
+		<p>Self Assessment Online is provided by HM Revenue &amp; Customs (HMRC) in partnership with Venture Labs.</p>
 		<a href="#">Log in or register for Self Assessment Online</a>
 		<p>If you are a tax adviser or accountant please use <a href="/do-it-online/use-self-assessment-for-agents.php.html">Self Assessment for agents</a>.</p>
 		

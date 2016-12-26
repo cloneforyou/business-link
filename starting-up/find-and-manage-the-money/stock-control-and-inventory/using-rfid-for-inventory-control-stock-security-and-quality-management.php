@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Using RFID for inventory control, stock security and quality management | Business Link</title>
+	<title>Using RFID for inventory control, stock security and quality management | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

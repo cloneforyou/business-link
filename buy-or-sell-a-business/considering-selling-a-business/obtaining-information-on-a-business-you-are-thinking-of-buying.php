@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Obtaining information on a business you are thinking of buying | Business Link</title>
+	<title>Obtaining information on a business you are thinking of buying | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

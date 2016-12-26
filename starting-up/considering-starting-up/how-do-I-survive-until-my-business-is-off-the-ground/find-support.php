@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Find support | Business Link</title>
+	<title>Find support | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -20,7 +20,7 @@
 		<p>Most businesses need assistance at some stage in their development. This is especially true of businesses in the early days.</p>
 		There are a number of sources of help, including:
 		<ul>
-			<li>local Business Links</li>
+			<li>local Venture Labss</li>
 			<li>start-up schemes run by local enterprise agencies and others</li>
 			<li>schemes for young starters such as Shell LiveWIRE and Prince's Trust</li>
 			<li>schemes for starters aged 50 plus, eg PRIME </li>
@@ -34,7 +34,7 @@
 		<p>The Prince's Trust is an initiative to help young people to succeed in business. The Trust offers advice, opportunities and financial assistance. <a href="https://www.princes-trust.org.uk/" target="_blank" rel="noopener noreferrer">Find out how the Trust can help you on the Prince's Trust website</a>.</p>
 		<p>Another body that helps new businesses is Shell LiveWIRE. This organisation aims to encourage young people aged between 18 and 30 to start up their own business. <a href="http://www.shell-livewire.org/" target="_blank" rel="noopener noreferrer">Find out what help you can get on the Shell LiveWIRE website</a>.</p>
 		<p>
-			<p>If you're receiving <strong>Jobseeker's Allowance</strong> and want to get back into employment by starting your own business, <a href="https://www.gov.uk/new-enterprise-allowance" target="_blank" rel="noopener noreferrer">find out how New Enterprise Allowance can help you on the Directgov website </a>. You can also ask your adviser about the self-employed support package provided by Business Link through Jobcentre Plus. This package is aimed at people who have been unemployed and claiming Jobseeker's Allowance for six months or longer.</p>
+			<p>If you're receiving <strong>Jobseeker's Allowance</strong> and want to get back into employment by starting your own business, <a href="https://www.gov.uk/new-enterprise-allowance" target="_blank" rel="noopener noreferrer">find out how New Enterprise Allowance can help you on the Directgov website </a>. You can also ask your adviser about the self-employed support package provided by Venture Labs through Jobcentre Plus. This package is aimed at people who have been unemployed and claiming Jobseeker's Allowance for six months or longer.</p>
 		</p>
 		<p>You may also be entitled to Working Tax Credits. These are payments to top up the earnings of working people on low incomes, including the self-employed. You can find out about Working Tax Credits by calling the HMRC Tax Credits Helpline on Tel 0845 300 3900.</p>
 		<p>If you find that your business is unable to pay the taxes it owes to HMRC, contact the HMRC Business Payment Support Service. Their team will review your circumstances and discuss temporary options tailored to your business needs, such as arranging for you to make payments over a longer period. You can contact the HMRC Business Payment Support Service Helpline on Tel 0845 302 1435.</p>
@@ -64,7 +64,7 @@
 		<p>0845 915 4515<br/></p>
 		<h3>HMRC Tax Credits Helpline</h3>
 		<p>0845 300 3900<br/></p>
-		<h3>Business Link Helpline</h3>
+		<h3>Venture Labs Helpline</h3>
 		<p>0845 600 9 006</p>
 		
 		<h3>Also on this site</h3>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Poor supplier and customer controls | Business Link</title>
+	<title>Poor supplier and customer controls | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -57,7 +57,7 @@
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Business Link Helpline</h3>
+		<h3>Venture Labs Helpline</h3>
 		<p>0845 600 9 006</p>
 
 		<h3>Also on this site</h3>

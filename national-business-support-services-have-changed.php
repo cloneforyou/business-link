@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>An overview of the services available to you | Business Link</title>
+	<title>An overview of the services available to you | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -18,7 +18,7 @@
 		
 		<h2>An overview of the services available to you</h2>
 		<p>In January 2011, the Government announced a series of changes to the way it offers business support.</p>
-		<p>The <strong>Business Link website</strong> is your first place to go to access essential information, support and services for your business. The website contains a wealth of information and guidance designed to help you whether you work within a large organisation or are looking to start up.</p>
+		<p>The <strong>Venture Labs website</strong> is your first place to go to access essential information, support and services for your business. The website contains a wealth of information and guidance designed to help you whether you work within a large organisation or are looking to start up.</p>
 		<p>The website has been updated with new, easy-to-use services to help you start up, grow and improve your business. New features include:</p>
 		<ul>
 			<li>The Growth and Improvement Service, giving you access to the information you need to make your business work better; including tools to help you diagnose and solve business problems, an enhanced business support finder, tutorials and video case studies, information on events in your area and links to business discussions and other services. <a href="#">www.businesslink.gov.uk/improve</a>.</li>

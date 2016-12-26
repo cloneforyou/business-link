@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Finance Fitness campaign for businesses | Business Link</title>
+	<title>Finance Fitness campaign for businesses | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -24,7 +24,7 @@
 		<p>There are also some existing resources that complement the new Finance Fitness activities.</p>
 		<p>The Institute of Chartered Accountants in England and Wales (ICAEW) provides a Business Advice Service, which offers free advice to businesses in over 2,400 locations across the country. ICAEW accountants can offer guidance on topics from finding finance, dealing with regulation and export planning. <a href="http://www.businessadviceservice.com/" target="_blank">Find out about the Business Advice Service on the ICAEW website<span> - Opens in a new window</span></a>.</p>
 		<p>SMEs can also consult a range of guidance from the Institute of Credit Management. These guides cover topics including managing customers and suppliers, chasing payment and managing finances and provide straight-forward advice with simple checklists and top tips. <a href="http://www.cicm.com/" target="_blank">Read the guides to managing cashflow from the Credit Management Matters website<span> - Opens in a new window</span></a>.</p>
-		<p>Additional information is also available from Business Link's new <a href="https://www.gov.uk/growing-your-business" target="_blank">Growth and Improvement Service<span> - Opens in a new window</span></a>.</p>
+		<p>Additional information is also available from Venture Labs's new <a href="https://www.gov.uk/growing-your-business" target="_blank">Growth and Improvement Service<span> - Opens in a new window</span></a>.</p>
 		<p><img src="_img/hr_325px_global.gif" alt="" align="middle" /></p>
 		<ul>
 			<li><a href="#">Print page now</a></li>

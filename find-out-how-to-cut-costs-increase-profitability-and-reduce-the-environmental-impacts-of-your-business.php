@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Find out how to cut costs, increase profitability and reduce the environmental impacts of your business | Business Link</title>
+	<title>Find out how to cut costs, increase profitability and reduce the environmental impacts of your business | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

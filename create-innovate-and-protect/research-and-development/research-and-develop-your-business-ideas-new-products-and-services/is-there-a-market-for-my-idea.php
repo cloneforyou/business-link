@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Is there a market for my idea? | Business Link</title>
+	<title>Is there a market for my idea? | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -72,7 +72,7 @@
 
 		<h3>The Chartered Institute of Marketing General Enquiry Line</h3>
 		<p>01628 427 200</p>
-		<h3>Business Link Helpline</h3>
+		<h3>Venture Labs Helpline</h3>
 		<p>0845 600 9 006</p>
 
 		<img src="../../../_img/hr_140px_global.gif" alt="" />

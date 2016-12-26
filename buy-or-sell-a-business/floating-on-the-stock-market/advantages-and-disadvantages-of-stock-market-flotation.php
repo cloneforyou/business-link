@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Advantages and disadvantages of stock market flotation | Business Link</title>
+	<title>Advantages and disadvantages of stock market flotation | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

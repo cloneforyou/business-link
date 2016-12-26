@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Starting a business: the basics | Business Link</title>
+	<title>Starting a business: the basics | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -41,7 +41,7 @@
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Business Link Helpline</h3>
+		<h3>Venture Labs Helpline</h3>
 		<p>0845 600 9 006</p>
 		<img src="../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Use the Business Tax Dashboard | Business Link</title>
+	<title>Use the Business Tax Dashboard | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -15,7 +15,7 @@
 	<div class="small-12 large-8 large-push-4 columns">
 
 		<h1>Use the Business Tax Dashboard</h1>
-		<p>The Business Tax Dashboard is provided by HM Revenue &amp; Customs (HMRC) in partnership with Business Link.</p>
+		<p>The Business Tax Dashboard is provided by HM Revenue &amp; Customs (HMRC) in partnership with Venture Labs.</p>
 		<p>You can use the Business Tax Dashboard create a single view of your payments and liabilities for these taxes:</p>
 		<ul>
 			<li>VAT</li>

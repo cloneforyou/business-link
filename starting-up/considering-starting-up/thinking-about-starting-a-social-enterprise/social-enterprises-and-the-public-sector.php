@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Social enterprises and the public sector | Business Link</title>
+	<title>Social enterprises and the public sector | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -59,7 +59,7 @@
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Business Link Helpline</h3>
+		<h3>Venture Labs Helpline</h3>
 		<p>0845 600 9 006</p>
 		
 		<img src="../../../_img/hr_140px_global.gif" alt="" />

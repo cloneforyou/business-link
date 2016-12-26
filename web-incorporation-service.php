@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>New online incorporation service from Companies House | Business Link</title>
+	<title>New online incorporation service from Companies House | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -17,7 +17,7 @@
 
 		<h1>Web Incorporation Service</h1>
 		<h2>New online incorporation service from Companies House</h2>
-		<p>From 6 April 2011, you can use the new <a href="/do-it-online/incorporate-your-company-online.php">web incorporation service</a> - a Companies House service available on Business Link - for incorporating a private company, limited by shares, with model articles of association.</p>
+		<p>From 6 April 2011, you can use the new <a href="/do-it-online/incorporate-your-company-online.php">web incorporation service</a> - a Companies House service available on Venture Labs - for incorporating a private company, limited by shares, with model articles of association.</p>
 		<h3>Easy to use and straightforward</h3>
 		<p>To <a href="/do-it-online/incorporate-your-company-online.php">use the service</a>, you will need to register with your email address and a password of your choice.</p>
 		<p>You will then need the following information to complete the form:</p>

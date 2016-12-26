@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Complain against an undischarged bankrupt or disqualified company director | Business Link</title>
+	<title>Complain against an undischarged bankrupt or disqualified company director | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

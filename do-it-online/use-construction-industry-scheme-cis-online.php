@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Use Construction Industry Scheme (CIS) Online | Business Link</title>
+	<title>Use Construction Industry Scheme (CIS) Online | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -15,7 +15,7 @@
 	<div class="small-12 large-8 large-push-4 columns">
 
 		<h1>Use Construction Industry Scheme (CIS) Online</h1>
-		<p>CIS Online is provided by HM Revenue &amp; Customs (HMRC) in partnership with Business Link.</p>
+		<p>CIS Online is provided by HM Revenue &amp; Customs (HMRC) in partnership with Venture Labs.</p>
 		<a href="#">Log in or register for CIS online</a>
 		<p>If you are a tax adviser or accountant please use <a href="/do-it-online/use-construction-industry-scheme-cis-online-for-agents.php.html" title="Use Construction Industry Scheme (CIS) Online for agents">CIS for agents</a>.</p>
 		

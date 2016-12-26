@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>The &quot;Business in You&quot; is a major new campaign to help people to start a new business or grow their existing one | Business Link</title>
+	<title>The &quot;Business in You&quot; is a major new campaign to help people to start a new business or grow their existing one | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

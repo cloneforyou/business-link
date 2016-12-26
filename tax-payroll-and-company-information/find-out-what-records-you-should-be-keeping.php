@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	
-	<title>Find out what records you should be keeping | Business Link</title>
+	<title>Find out what records you should be keeping | Venture Labs</title>
 	<meta name="author" content="Caroline Murphy">
 	<meta name="viewport" content="width=device-width">
 </head>

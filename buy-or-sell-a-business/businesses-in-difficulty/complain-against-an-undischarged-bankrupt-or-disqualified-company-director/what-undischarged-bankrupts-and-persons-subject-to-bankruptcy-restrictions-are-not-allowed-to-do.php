@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>What undischarged bankrupts and persons subject to bankruptcy restrictions are not allowed to do | Business Link</title>
+	<title>What undischarged bankrupts and persons subject to bankruptcy restrictions are not allowed to do | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

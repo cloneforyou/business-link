@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Tax And National Insurance For Self Employed And Partners | Starting Up | Business Link</title>
+	<title>Tax And National Insurance For Self Employed And Partners | Starting Up | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

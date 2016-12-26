@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Download a free guide that tells you what you need to know and do | Business Link</title>
+	<title>Download a free guide that tells you what you need to know and do | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Here's how I started a business during an economic downturn (Flash video) | Business Link</title>
+	<title>Here's how I started a business during an economic downturn (Flash video) | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

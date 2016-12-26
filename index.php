@@ -14,8 +14,8 @@
 <div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
 
-		<h1>Welcome to Business Link</h1>
-		<p>Business Link is government's online resource for businesses. It is now enhanced with new, easy-to-use tools to help you start up, improve and grow your business.</p>
+		<h1>Welcome to Venture Labs</h1>
+		<p>Venture Labs is government's online resource for businesses. It is now enhanced with new, easy-to-use tools to help you start up, improve and grow your business.</p>
 		<p>For more information visit <a href="about-business-link.php">about us</a>.</p>
 		<p>You can also find information and support specific to businesses in <a href="http://www.business.scotland.gov.uk/" title="Government-funded support services for businesses in Scotland" target="_blank" rel="noopener noreferrer">Scotland</a>, <a href="http://business.wales.gov.uk/" title="Government-funded support services for businesses in Wales" target="_blank" rel="noopener noreferrer">Wales</a> and <a href="http://www.nibusinessinfo.co.uk/" title="Government-funded support services for businesses in Northern Ireland" target="_blank" rel="noopener noreferrer">Northern Ireland</a>.</p>
 		<a class="caption" href="http://twitter.com/BusinessLinkGov" title="Keep your business on track with our latest news and updates" target="_blank" rel="noopener noreferrer">
@@ -62,7 +62,7 @@
 				<img src="/_img/helplineblsmallhomepage.jpg" width="166" height="56" alt="GIS service" />
 			<br />Unable to find the information you are looking for?</a>
 			<br />
-			Contact the <strong>Business Link Helpline</strong> on: <a href="tel:08456009006">0845 600 9006</a>, open 9am - 6pm Monday to Friday.
+			Contact the <strong>Venture Labs Helpline</strong> on: <a href="tel:08456009006">0845 600 9006</a>, open 9am - 6pm Monday to Friday.
 		</p>
 
 		<h3>The business in you</h3>
@@ -117,7 +117,7 @@
 						<img src="/_img/icon-helpline.jpg" alt="" />
 					</a>
 					<br />Unable to find the information you are looking for?<br />
-					Contact the <strong>Business Link Helpline</strong> on: <a href="tel:08456009006">0845 600 9006</a>, open 9am - 6pm Monday to Friday.
+					Contact the <strong>Venture Labs Helpline</strong> on: <a href="tel:08456009006">0845 600 9006</a>, open 9am - 6pm Monday to Friday.
 				</p>
 			</div>
 			<div class="column">
@@ -146,7 +146,7 @@
 						Our use of cookies
 						<img src="/_img/handonkeyboard_large.jpg" alt="Cookies" />
 					</a>
-					<br />How cookies are used on Business Link
+					<br />How cookies are used on Venture Labs
 				</p>
 			</div>
 			<div class="column">

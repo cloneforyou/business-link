@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Register online for business taxes | Business Link</title>
+	<title>Register online for business taxes | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -15,7 +15,7 @@
 	<div class="small-12 large-8 large-push-4 columns">
 
 		<h1>Register online for business taxes</h1>
-		<p>HM Revenue and Customs (HMRC) in partnership with Business Link provide an online tax registration service. The service is aimed at small businesses who need to tell HMRC they are a new business, new employer, or new to VAT.</p>
+		<p>HM Revenue and Customs (HMRC) in partnership with Venture Labs provide an online tax registration service. The service is aimed at small businesses who need to tell HMRC they are a new business, new employer, or new to VAT.</p>
 		<p>You can register for the key taxes that are relevant to your business and be enrolled for the HMRC Online Services at the same time:</p>
 		<ul>
 			<li>Corporation Tax</li>

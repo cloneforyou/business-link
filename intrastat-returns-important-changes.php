@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Submitting Intrastat declarations from 1 April 2012: a reminder | Business Link</title>
+	<title>Submitting Intrastat declarations from 1 April 2012: a reminder | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

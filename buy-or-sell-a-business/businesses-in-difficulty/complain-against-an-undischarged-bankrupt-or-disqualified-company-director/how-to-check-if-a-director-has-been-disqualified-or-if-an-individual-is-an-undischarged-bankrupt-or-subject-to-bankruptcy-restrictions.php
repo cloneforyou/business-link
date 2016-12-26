@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>How to check if a director has been disqualified or if an individual is an undischarged bankrupt or subject to bankruptcy restrictions | Business Link</title>
+	<title>How to check if a director has been disqualified or if an individual is an undischarged bankrupt or subject to bankruptcy restrictions | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

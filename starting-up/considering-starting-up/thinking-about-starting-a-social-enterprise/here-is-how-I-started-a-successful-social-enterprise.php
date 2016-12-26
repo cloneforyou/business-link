@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Here's how I started a successful social enterprise | Business Link</title>
+	<title>Here's how I started a successful social enterprise | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -27,8 +27,8 @@
 		<p>"Before setting up, I did some research and came across the social enterprise. There seemed to be a couple of different formats, including the CIC. I took the view that I didn't want to just be in it for the money. But don't get me wrong, I do need to earn enough to support my basic needs.</p>
 		<p>"Initially we set up the business with just a laptop at home, but we've now moved to a bigger office at the business technology centre in Stevenage. I've done all of this on a shoestring. We are now working with local authorities and a leading children's charity, as well as providing systems to schools and parents for home use."</p>
 		<h4>Make the most of support</h4>
-		<p>"There is support and advice available for social enterprises, so make the most of it. I received a lot of help from an expert adviser on social enterprises at Business Link. He has helped us keep our head above the water in the tough economic climate.</p>
-		<p>"We've received two Business Link social enterprise grants, each worth &pound;1,500. The money helped us fund our website marketing - an area we knew nothing about. We've also just taken on an apprentice for 18 months using funding from Herts County Council. We took her on so it would free me up to develop the business. The future is bright for us and we're now looking at other health and education related product innovation."</p>
+		<p>"There is support and advice available for social enterprises, so make the most of it. I received a lot of help from an expert adviser on social enterprises at Venture Labs. He has helped us keep our head above the water in the tough economic climate.</p>
+		<p>"We've received two Venture Labs social enterprise grants, each worth &pound;1,500. The money helped us fund our website marketing - an area we knew nothing about. We've also just taken on an apprentice for 18 months using funding from Herts County Council. We took her on so it would free me up to develop the business. The future is bright for us and we're now looking at other health and education related product innovation."</p>
 		<h3>What I'd do differently</h3>
 		<p>"In hindsight, I should have had more of a business focus from the start, rather than just wanting to do something meaningful. A social enterprise needs to stand on its own two feet just like any other business.</p>
 		<p>"I should also have applied for more funding from the start. Even if you don't get it, you can get useful feedback and advice."</p>

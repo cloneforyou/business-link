@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Government initiative to unleash the latent entrepreneurialism in public sector employees | Business Link</title>
+	<title>Government initiative to unleash the latent entrepreneurialism in public sector employees | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

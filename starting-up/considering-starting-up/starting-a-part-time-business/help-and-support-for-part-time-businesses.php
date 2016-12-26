@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Help and support for part-time businesses | Business Link</title>
+	<title>Help and support for part-time businesses | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -18,8 +18,8 @@
 		<h1>Starting a part-time business</h1>
 		<h2>Help and support for part-time businesses</h2>
 		<p>A wide range of help is available to you if you're starting a business - through government agencies or business mentoring. You can get help from a variety of sources online, while other forms of support can be obtained from events such as networking meetings.</p>
-		<p>Business Link is the official government website for businesses of all sizes and provides free business advice and support. You can access information, guidance and support for your business needs and your online dealings with government.</p>
-		<p>Find out how the Business Link service can help your business in our section <a href="/about-business-link.php">about us</a>.</p>
+		<p>Venture Labs is the official government website for businesses of all sizes and provides free business advice and support. You can access information, guidance and support for your business needs and your online dealings with government.</p>
+		<p>Find out how the Venture Labs service can help your business in our section <a href="/about-business-link.php">about us</a>.</p>
 		<p>Alternative support from the government may be available in your local area, including grants, funding, advice, guidance, information and training. Find out more in our guide on <a href="/finance-and-grants/finance-options/grants-and-government-support/government-support-for-businesses.php">government support for businesses</a>.</p>
 		<p><strong>Mentoring</strong> can help you develop business skills. Read more in our guide to the <a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring.php">benefits of business mentoring</a>. You can also benefit from online mentoring from one of the many mentoring organisations such as horsesmouth - <a href="http://www.horsesmouth.co.uk/publisha.content/spotlight/taxonomy.publisha" target="_blank" rel="noopener noreferrer">find out how mentoring could help your business on the horsesmouth website</a>.</p>
 		<p>Your local <strong>Chamber of Commerce</strong> offers support and advice and may organise networking meetings for businesses of a similar size and in similar business sectors. You can <a href="http://www.britishchambers.org.uk/find-your-chamber/" target="_blank" rel="noopener noreferrer">find contact details for your local Chamber of Commerce on the British Chambers of Commerce website</a>.</p>
@@ -44,7 +44,7 @@
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<h3>Business Link Helpline</h3>
+		<h3>Venture Labs Helpline</h3>
 		<p>0845 600 9 006</p>
 		
 		<img src="../../../_img/hr_140px_global.gif" alt="" />

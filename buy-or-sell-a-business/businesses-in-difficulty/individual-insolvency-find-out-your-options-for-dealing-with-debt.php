@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Individual insolvency: find out your options for dealing with debt | Business Link</title>
+	<title>Individual insolvency: find out your options for dealing with debt | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

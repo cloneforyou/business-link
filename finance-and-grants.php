@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Finance and grants | Business Link</title>
+	<title>Finance and grants | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -56,14 +56,14 @@
 				<img src="../../_img/GIS_76x76.jpg" width="76" height="76"  alt="Information and tools for people interested in growing or improving their business" />
 			</a>
 			
-			<h4><a href="#" title="Video guidance from Business Link on the Business Link YouTube channel">Watch videos about financing your business</a></h4>
+			<h4><a href="#" title="Video guidance from Venture Labs on the Venture Labs YouTube channel">Watch videos about financing your business</a></h4>
 			
 			<hr />
 			
 			<p>Get practical advice from business advisers</p>
 			
-			<a href="#" title="Video guidance from Business Link on the Business Link YouTube channel">
-				<img src="../../_img/Video3Pitch2.jpg" width="76" height="76"  alt="Video guidance from Business Link on the Business Link YouTube channel" />
+			<a href="#" title="Video guidance from Venture Labs on the Venture Labs YouTube channel">
+				<img src="../../_img/Video3Pitch2.jpg" width="76" height="76"  alt="Video guidance from Venture Labs on the Venture Labs YouTube channel" />
 			</a>
 			
 			<h3>Case studies</h3>

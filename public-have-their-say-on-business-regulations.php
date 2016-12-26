@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Red Tape challenge now focusing on Company &amp; Commercial Law | Business Link</title>
+	<title>Red Tape challenge now focusing on Company &amp; Commercial Law | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

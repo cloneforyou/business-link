@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Guidance for employers and agents on payroll and related topics | Business Link</title>
+	<title>Guidance for employers and agents on payroll and related topics | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

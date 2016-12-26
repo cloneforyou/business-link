@@ -9,7 +9,7 @@
 		?>
 		<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
 			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-				<a itemprop="item" href="index.php" title="Business Link for Small Businesses">
+				<a itemprop="item" href="index.php" title="Venture Labs for Small Businesses">
 					<span itemprop="name">Home</span>
 				</a>
 				<meta itemprop="position" content="1" />

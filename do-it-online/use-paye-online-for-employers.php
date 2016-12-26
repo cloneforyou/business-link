@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Use PAYE Online for employers | Business Link</title>
+	<title>Use PAYE Online for employers | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -15,7 +15,7 @@
 	<div class="small-12 large-8 large-push-4 columns">
 
 		<h1>Use PAYE Online for employers</h1>
-		<p>PAYE Online for employers is provided by HM Revenue &amp; Customs (HMRC) in partnership with Business Link.</p>
+		<p>PAYE Online for employers is provided by HM Revenue &amp; Customs (HMRC) in partnership with Venture Labs.</p>
 		<p><a href="#">Log in or register for PAYE Online</a></p>
 		<p>If you are a tax adviser or accountant please <a href="/do-it-online/use-paye-for-agents.php.html">use PAYE Online for agents</a>.</p>
 		

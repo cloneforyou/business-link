@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js">
 <head>
-	<title>Solutions for Business is a package of publicly funded business support products and services designed to help businesses start, grow and succeed | Business Link</title>
+	<title>Solutions for Business is a package of publicly funded business support products and services designed to help businesses start, grow and succeed | Venture Labs</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -18,7 +18,7 @@
 		<h1>Solutions for Business portfolio</h1>
 		<h2>Solutions for Business is a package of publicly funded business support products and services designed to help businesses start, grow and succeed</h2>
 		<p>Solutions for Business (SfB) products are designed to equip businesses with the necessary knowledge and skills needed to tackle issues they might be facing.</p>
-		<p>A new SfB portfolio was announced on 17 March 2011. The transition to the streamlined SfB portfolio will start to take place from April 2011 onwards. During this period a number of products from the old portfolio will continue to be available through Business Link. The list below represents products that are currently available and will be updated as the transition to the new portfolio takes place.</p>
+		<p>A new SfB portfolio was announced on 17 March 2011. The transition to the streamlined SfB portfolio will start to take place from April 2011 onwards. During this period a number of products from the old portfolio will continue to be available through Venture Labs. The list below represents products that are currently available and will be updated as the transition to the new portfolio takes place.</p>
 		<p>For further information about the changes to the portfolio please <a href="https://web-beta.archive.org/web/20120416033252/http://www.bis.gov.uk/policies/enterprise-and-business-support/solutions-for-business-simplified-business-support" target="_blank" rel="noopener noreferrer">find information about the updated SfB portfolio on the Department for Business, Innovation and Skills website</a>.</p>
 		<p>The products are:</p>
 		
