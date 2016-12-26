@@ -162,6 +162,10 @@ footer {
 /*** off-canvas ***/
 .off-canvas {
 	padding: 50px 0; 
+
+	.menu > li > a {
+		border-left-width: 7px; 
+	}
 }
 
 
