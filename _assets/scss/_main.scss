@@ -15,9 +15,12 @@ GENERAL STYLES
 /*********************
 LINK STYLES
 *********************/
+a {
+	color: #01A7BF; 
+}
 a:visited {
 
-	color: darken($primary-color, 20%); 
+	color: darken(#01A7BF, 20%); 
 
 	// Mobile tap color
 	&:link {
@@ -28,6 +31,7 @@ a:visited {
 
 /* Add a external link icon */
 a[target="_blank"]:after {
+	font-size: 0.8rem; 
 	font-family: "FontAwesome"; 
 	content: "\f08e"; 
 	display: inline-block; 
@@ -81,7 +85,7 @@ h4, .h4,
 h5, .h5 {}
 
 p {
-	font-size: 1.188rem; // 19px 
+	// font-size: 1.188rem; // 19px 
 }
 
 /*********************
@@ -95,18 +99,17 @@ header,
 .breadcrumbs, 
 footer {
 	padding: 1rem; // 16px
-	border: 1px solid #eee; 
+	// border: 1px solid #eee; 
 }
 
-.branding {
 
-	.top-logo {
-		max-width: 250px; 
+.top-logo {
+	display: block; 
+	margin: 0 auto; 
+	width: 250px; 
 
-		@include breakpoint(medium) {
-			float: left; 
-			max-width: 150px; 
-		}
+	@include breakpoint(medium) {
+		width: 150px; 
 	}
 }
 
@@ -198,33 +201,9 @@ NAVIGATION STYLES
 
 
 /*********************
-POSTS & CONTENT STYLES
-*********************/
-
-
-/*********************
-COMMENT STYLES
-*********************/
-
-
-/*********************
 SIDEBARS & ASIDES
 *********************/
 .submenu.is-accordion-submenu {
 	margin-left: 33px; 
 }
-
-// .cat-title {
-// 	list-style: none; 
-// 	outline: 1px solid red; 
-// }
-
-/*********************
-FOOTER STYLES
-*********************/
-
-	
-/*********************
-FOUNDATION STYLES
-*********************/
 
