@@ -11,7 +11,7 @@
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 
-
+<div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
 
 		<h1>Welcome to Venture Labs</h1>
@@ -278,6 +278,6 @@
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
 
-
+</div><!-- // .row -->
 
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/footer.php'; ?>
