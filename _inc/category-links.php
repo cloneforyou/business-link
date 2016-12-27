@@ -182,7 +182,56 @@
 
 								</ul>
 							</li>
-							<li><a href="/starting-up/business-structures.php">Business structures</a></li>
+							<li>
+								<a href="/starting-up/business-structures.php">Business structures</a>
+								<ul>
+									<li><a href="/starting-up/business-structures.php" title="Business structures">Introduction</a></li>
+									<li>
+										<a href="/starting-up/business-structures/legal-structures-the-basics.php">Legal structures: the basics</a>
+										<ul>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics.php" title="Legal structures: the basics">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/becoming-a-sole-trader.php">Becoming a sole trader</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/partnerships.php">Partnerships</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/starting-a-private-company.php">Starting a private company</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/starting-a-public-limited-company.php">Starting a public limited company</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/setting-up-specific-types-of-limited-company.php">Setting up specific types of limited company</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/european-economic-interest-groupings.php">European Economic Interest Groupings</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/uk-establishments-of-overseas-companies.php">UK establishments of overseas companies</a></li>
+											<li><a href="/starting-up/business-structures/legal-structures-the-basics/buying-a-franchise.php">Buying a franchise</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-and-register-as-self-employed.php">Set up and register as self-employed</a>
+										<ul>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-and-register-a-partnership.php">Set up and register a partnership</a>
+										<ul>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership.php">Set up and register a limited partnership</a>
+										<ul>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp.php">Set up and register a limited liability partnership (LLP)</a>
+										<ul>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public.php">Set up and register a limited company (private or public)</a>
+										<ul>
+										</ul>
+									</li>
+									<li>
+										<a href="/starting-up/business-structures/set-up-a-social-enterprise.php">Set up a social enterprise</a>
+										<ul>
+										</ul>
+									</li>
+								</ul>
+							</li>
 							<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
 							<li><a href="/starting-up/buy-a-business.php">Buy a business</a></li>
 							<li>
