@@ -262,6 +262,15 @@
 									<li>
 										<a href="/starting-up/business-structures/set-up-a-social-enterprise.php">Set up a social enterprise</a>
 										<ul>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise.php" title="Set up a social enterprise">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/unincorporated-associations.php">Unincorporated associations</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/trusts.php">Trusts</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/limited-companies-with-a-social-purpose.php">Limited companies with a social purpose</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-benefit-societies.php">Community benefit societies</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/social-enterprises-as-registered-charities.php">Social enterprises as registered charities</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/community-interest-companies.php">Community Interest Companies</a></li>
+											<li><a href="/starting-up/business-structures/set-up-a-social-enterprise/charitable-incorporated-organisations.php">Charitable incorporated organisations</a></li>
+											<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 										</ul>
 									</li>
 								</ul>
