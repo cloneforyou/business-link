@@ -16,7 +16,11 @@
 
 		<h1>Welcome to Venture Labs</h1>
 		
-		<p>Venture Labs is an online resource for businesses. It is now enhanced with new, easy-to-use tools to help you start up, improve and grow your business.</p>
+		<h3>Venture Labs is a <strong>free</strong>, online resource, for business advice and guidance</h3>
+
+		<h4>Whether you are just starting up, or running an existing business.</h3>
+
+		<p>It is now enhanced with new, easy-to-use tools to help you start up, improve and grow your business.</p>
 		
 		<p>For more information visit <a href="/about-business-link.php">about us</a>.</p>
 		
