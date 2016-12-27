@@ -226,6 +226,11 @@
 									<li>
 										<a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership.php">Set up and register a limited partnership</a>
 										<ul>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership.php" title="Set up and register a limited partnership">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/definition-of-a-limited-partnership-and-partners.php">Definition of a limited partnership and partners</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/how-to-register-a-limited-partnership.php">How to register a limited partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/tax-matters-of-a-limited-partnership.php">Tax matters of a limited partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/dissolving-a-limited-partnership.php">Dissolving a limited partnership</a></li>
 										</ul>
 									</li>
 									<li>
