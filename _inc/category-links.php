@@ -248,6 +248,15 @@
 									<li>
 										<a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public.php">Set up and register a limited company (private or public)</a>
 										<ul>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public.php" title="Set up and register a limited company (private or public)">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/registration-documents-and-forms.php">Registration documents and forms</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/the-companys-officers.php">The company's officers</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/types-of-limited-company.php">Types of limited company</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/requirements-for-public-limited-companies.php">Requirements for public limited companies</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/where-to-register-your-company-and-get-help.php">Where to register your company and get help</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/tax-matters-of-a-limited-company.php">Tax matters of a limited company</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/checklist-setting-up-and-registering-a-limited-company-private-or-public.php">Checklist: setting up and registering a limited company (private or public)</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public/right-to-manage-companies-and-commonhold-associations.php">Right to manage companies and commonhold associations</a></li>
 										</ul>
 									</li>
 									<li>
