@@ -236,6 +236,13 @@
 									<li>
 										<a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp.php">Set up and register a limited liability partnership (LLP)</a>
 										<ul>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp.php" title="Set up and register a limited liability partnership (LLP)">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/the-members-of-an-llp.php">The members of an LLP</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/where-to-register-your-llp-and-get-help.php">Where to register your LLP and get help</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/deed-of-partnership-of-an-llp.php">Deed of partnership of an LLP</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/naming-your-llp.php">Naming your LLP</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/tax-matters-of-an-llp.php">Tax matters of an LLP</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/checklist-setting-up-and-registering-an-llp.php">Checklist: setting up and registering an LLP</a></li>
 										</ul>
 									</li>
 									<li>
