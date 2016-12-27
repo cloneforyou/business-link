@@ -203,6 +203,12 @@
 									<li>
 										<a href="/starting-up/business-structures/set-up-and-register-as-self-employed.php">Set up and register as self-employed</a>
 										<ul>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed.php" title="Set up and register as self-employed">Introduction</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/setting-up-as-self-employed.php">Setting up as self-employed</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/registering-for-tax-and-national-insurance.php">Registering for tax and National Insurance</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/arranging-to-make-national-insurance-contributions.php">Arranging to make National Insurance contributions</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/checking-your-self-employment-status.php">Checking your self-employment status</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/checklist-setting-up-as-self-employed.php">Checklist: setting up as self-employed</a></li>
 										</ul>
 									</li>
 									<li>
