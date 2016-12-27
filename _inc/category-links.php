@@ -214,6 +214,13 @@
 									<li>
 										<a href="/starting-up/business-structures/set-up-and-register-a-partnership.php">Set up and register a partnership</a>
 										<ul>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership.php" title="Set up and register a partnership">Introduction</a>/li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/the-officers-of-a-partnership.php">The officers of a partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/types-of-partner.php">Types of partner</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/setting-up-a-deed-of-partnership.php">Setting up a deed of partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/naming-your-partnership.php">Naming your partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/tax-matters-of-a-partnership.php">Tax matters of a partnership</a></li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/checklist-setting-up-a-partnership.php">Checklist: setting up a partnership</a></li>
 										</ul>
 									</li>
 									<li>
