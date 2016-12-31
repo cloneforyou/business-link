@@ -11,6 +11,8 @@ Updates
 
 I've thought it an idea to update this when a section is completed to show progression.
 
+31 Dec 16 : Starting up > Name your business
+27 Dec 16 : Starting up > Business Structures
 23 Dec 16 : Starting up > Choose and set up your workplace > Starting a business
 19 Dec 16 : Added all top-level/parent category pages and colours
 17 Dec 16 : Starting up > Find and manage the money > Stock control and inventory
