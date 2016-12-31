@@ -293,7 +293,15 @@
 											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/here-is-how-i-chose-the-name-for-my-business.php">Here's how I chose the name for my business</a></li>
 										</ul>
 									</li>
-									<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp.php">Rules for naming your limited company or limited liability partnership (LLP)</a></li>
+									<li>
+										<a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp.php">Rules for naming your limited company or limited liability partnership (LLP)</a>
+										<ul>
+											<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp.php" title="Rules for naming your limited company or limited liability partnership (LLP)">Introduction</a></li>
+											<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/choosing-a-name-for-a-company-or-llp.php">Choosing a name for a company or LLP</a></li>
+											<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/objections-to-company-names.php">Objections to company names</a></li>
+											<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/prescribed-and-sensitive-words.php">Prescribed and sensitive words</a></li>
+										</ul>
+									</li>
 									<li><a href="https://www.gov.uk/get-information-about-a-company" title="Get information about a company" target="_blank" rel="noopener noreferrer">Search for an available company name or trade mark</a></li>
 								</ul>
 							</li>
