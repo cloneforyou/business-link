@@ -275,7 +275,28 @@
 									</li>
 								</ul>
 							</li>
-							<li><a href="/starting-up/name-your-business.php">Name your business</a></li>
+							<li>
+								<a href="/starting-up/name-your-business.php">Name your business</a>
+								<ul>
+									<li><a href="/starting-up/name-your-business.php" title="Name your business">Introduction</a></li>
+									<li><a href="https://www.gov.uk/set-up-business" title="Set up a business" target="_blank" rel="noopener noreferrer">Name your business</a></li>
+									<li>
+										<a href="/starting-up/name-your-business/choose-the-right-name-for-your-business.php">Choose the right name for your business</a>
+										<ul>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business.php" title="Choose the right name for your business">Introduction</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/choosing-a-business-name-to-create-the-right-impression.php">Choosing a business name to create the right impression</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/names-for-limited-companies-and-llps.php">Names for limited companies and LLPs</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/names-for-sole-traders-partnerships-and-limited-partnerships.php">Names for sole traders, partnerships and limited partnerships</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/use-of-sensitive-words-and-expressions-in-business-names.php">Use of sensitive words and expressions in business names</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/displaying-and-disclosing-your-business-company-or-limited-liability-partnership-name.php">Displaying and disclosing your business, company or limited liability partnership name</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/getting-your-business-name-on-the-internet.php">Getting your business name on the internet</a></li>
+											<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/here-is-how-i-chose-the-name-for-my-business.php">Here's how I chose the name for my business</a></li>
+										</ul>
+									</li>
+									<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp.php">Rules for naming your limited company or limited liability partnership (LLP)</a></li>
+									<li><a href="https://www.gov.uk/get-information-about-a-company" title="Get information about a company" target="_blank" rel="noopener noreferrer">Search for an available company name or trade mark</a></li>
+								</ul>
+							</li>
 							<li><a href="/starting-up/buy-a-business.php">Buy a business</a></li>
 							<li>
 								<a href="/starting-up/choose-and-set-up-your-workplace.php">Choose and set up your workplace</a>
