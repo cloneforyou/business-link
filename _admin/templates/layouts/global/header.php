@@ -21,15 +21,15 @@
 
 	<!-- Styles -->
 	<?php /* reference : http://php.net/manual/en/function.dirname.php#114600 */ ?>
-	<link href="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/assets/css/style.min.css" rel="stylesheet">
+	<link href="/assets/css/style.min.css" rel="stylesheet">
 
-	<link rel="icon" href="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/favicon.png">
-	<link href="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/_img/apple-icon-touch.png" rel="apple-touch-icon" />
+	<link rel="icon" href="/favicon.png">
+	<link href="/_img/apple-icon-touch.png" rel="apple-touch-icon" />
 	<!--[if IE]>
-		<link rel="shortcut icon" href="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/favicon.ico">
+		<link rel="shortcut icon" href="/favicon.ico">
 	<![endif]-->
 	<meta name="msapplication-TileColor" content="#f01d4f">
-	<meta name="msapplication-TileImage" content="<?php $_SERVER['HTTP_HOST'] . dirname($_SERVER['PHP_SELF']); ?>/_img/win8-tile-icon.png">
+	<meta name="msapplication-TileImage" content="/_img/win8-tile-icon.png">
 	<meta name="theme-color" content="#121212">
 </head>
 
