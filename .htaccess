@@ -1,1 +1,7 @@
+# Perch Runway
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !^/_admin 
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule .* /_admin/core/runway/start.php [L] 
+
 ErrorDocument 404 /404.php
