@@ -1,37 +1,10 @@
-<div class="small-12 large-4 large-pull-8 columns">
-
-	<div class="categories">
-
-		<a name="skipleft" id="skipleft"></a>
-
-		<div id="left">
-			<div id="closedcategories">
-				
-				<perch:before>
-				<ul>
-				</perch:before>
-					<li<perch:if exists="current_page"> class="selected"</perch:if><perch:if exists="ancestor_page"> class="ancestor"</perch:if>>
-					<a href="<perch:pages id="pagePath" />"><perch:pages id="pageNavText" /></a>   
-					<perch:pages id="subitems" encode="false" />
-					</li>
-				<perch:after>
-				</ul>
-				</perch:after>
-
-			</div><!-- #closed categories -->
-
-			<hr />
-
-			<div id="serviceprovider">
-				<p>
-					<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" target="_blank" rel="noopener noreferrer">
-						In partnership with Cabinet Office
-						<img src="/_img/logo_hm_gov2.jpg" width="167" height="31" alt="HM Government" />
-					</a>
-				</p>
-			</div><!-- #serviceprovider -->
-		</div><!-- #left -->
-
-	</div><!-- // .categories -->
-
-</div><!-- // .small-12 large-6 columns -->
+<perch:before>
+<ul class="vertical menu" data-accordion-menu>
+</perch:before>
+	<li data-accordion-item<perch:if exists="current_page"> class="selected"</perch:if><perch:if exists="ancestor_page"> class="ancestor"</perch:if>>
+	<a href="<perch:pages id="pagePath" />"><perch:pages id="pageNavText" /></a>   
+	<perch:pages id="subitems" encode="false" />
+	</li>
+<perch:after>
+</ul>
+</perch:after>
