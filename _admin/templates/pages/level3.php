@@ -8,40 +8,29 @@
 <div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
 		
-		<div class="perch_content_custom" style="outline:1px solid red;">
+		<h1>
+			<?php 
+				perch_content_create('Heading One', array(
+					'template' => 'text.html'
+				)); 
+				perch_content('Heading One'); 
+			?>
+		</h1>
+		<h2>
+			<?php 
+				perch_content_create('Heading Two', array(
+					'template' => 'text.html'
+				)); 
+				perch_content('Heading Two'); 
+			?>
+		</h2>
+
 		<?php 
-			perch_content_create('Section Guide', array(
-				'template' => 'level3_content.html', 
-				// 'paginate' => true, 
-				// 'count' => 1, 
+			perch_content_create('Main Content', array(
+				'template' => 'code_block.html'
 			)); 
+			perch_content('Main Content'); 
 		?>
-		</div>
-
-		<div class="perch_content" style="outline:1px solid blue;">
-		<?php perch_content_custom('Section Guide', array(
-				// 'template' => 'level3_content.html', 
-				'paginate' => true, 
-				// 'count' => 1, 
-			));  ?>
-		</div>
-
-		<div class="pagination" style="outline:1px solid green;">
-		<?php 
-			// perch_content_custom('Section Guide', array(
-		 // 		'paginate' => true, 
-		 // 		// 'count' => 1, 
-			// )); 
-		?>
-		</div>
-
-		<hr />
-
-		<?php perch_pages_navigation(array(
-			'navgroup' =>'starting-a-business-the-basics'
-		)); ?>
-
-		<hr />
 
 		<?php perch_layout('global/options'); ?>
 
