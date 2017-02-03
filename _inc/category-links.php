@@ -838,6 +838,21 @@
 											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/here-is-how-i-obtained-the-right-information-about-a-business-before-buying-it.php">Here's how I obtained the right information about a business before buying it</a></li>
 										</ul>
 									</li>
+									<li>
+										<a>Understanding contracts when buying or selling a business</a>
+										<ul>
+											<li>
+												<a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business.php" title="Understanding contracts when buying or selling a business">Introduction</a>
+											</li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/preparing-to-negotiate-the-sale-of-a-business.php">Preparing to negotiate the sale of a business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/preparing-for-the-final-contract.php">Preparing for the final contract</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/signing-and-completing-the-sale.php">Signing and completing the sale</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/negotiating-the-deal-the-buyers-perspective.php">Negotiating the deal - the buyer's perspective</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/negotiating-the-deal-the-sellers-perspective.php">Negotiating the deal - the seller's perspective</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/checklist-before-you-sign-a-contract.php">Checklist before you sign a contract</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/sources-of-further-advice.php">Sources of further advice</a></li>
+										</ul>
+									</li>
 								</ul>
 							</li>
 							<li>
