@@ -873,6 +873,7 @@
 							<li>
 								<a href="/buy-or-sell-a-business/franchising.php">Franchising</a>
 								<ul>
+									<li><a href="/buy-or-sell-a-business/franchising.php" title="Franchising">Introduction</a></li>
 									<li>
 										<a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php">Buy a franchise</a>
 										<ul>
@@ -889,34 +890,37 @@
 										</ul>
 									</li>
 									<li>
-										<p><strong>Turn your business into a franchise</strong></p>
+										<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise.php">Turn your business into a franchise</a>
 										<ul>
 											<li>
-												<a href="detail0584-2.html?itemId=1077056054&amp;type=RESOURCES">Franchising options</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise.php" title="Turn your business into a franchise">Introduction</a>
 											</li>
 											<li>
-												<a href="detail1891-2.html?itemId=1077060955&amp;type=RESOURCES">The benefits of franchising your business</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/franchising-options.php">Franchising options</a>
 											</li>
 											<li>
-												<a href="detail4f6f.html?itemId=1077060959&amp;type=RESOURCES">Is franchising right for your business?</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/the-benefits-of-franchising-your-business.php">The benefits of franchising your business</a>
 											</li>
 											<li>
-												<a href="detaildffb-2.html?itemId=1077061045&amp;type=RESOURCES">Develop your business format</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/is-franchising-right-for-your-business.php">Is franchising right for your business?</a>
 											</li>
 											<li>
-												<a href="detail8763.html?itemId=1077061251&amp;type=RESOURCES">The franchise agreement</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/develop-your-business-format.php">Develop your business format</a>
 											</li>
 											<li>
-												<a href="detail2057.html?itemId=1077061265&amp;type=RESOURCES">Franchise fees and royalties</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/the-franchise-agreement.php">The franchise agreement</a>
 											</li>
 											<li>
-												<a href="detail45f0.html?itemId=1077061297&amp;type=RESOURCES">Marketing your franchise opportunity</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/franchise-fees-and-royalties.php">Franchise fees and royalties</a>
 											</li>
 											<li>
-												<a href="detail07b5.html?itemId=1077061355&amp;type=RESOURCES">Managing your franchisees</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/marketing-your-franchise-opportunity.php">Marketing your franchise opportunity</a>
 											</li>
 											<li>
-												<a href="detail4c41.html?itemId=1081790687&amp;type=CASE STUDIES">Here's how I turned my existing business into a franchise</a>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/managing-your-franchisees.php">Managing your franchisees</a>
+											</li>
+											<li>
+												<a href="/buy-or-sell-a-business/franchising/turn-your-business-into-a-franchise/here-is-how-i-turned-my-existing-business-into-a-franchise.php">Here's how I turned my existing business into a franchise</a>
 											</li>
 										</ul>
 									</li>
