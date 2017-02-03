@@ -127,7 +127,7 @@ gulp.task('browsersync', function() {
 
 	browserSync.init(files, {
 		// Replace with URL of your local site
-		proxy: "http://blink.caroline-murphy.co.uk.dev/",
+		proxy: "http://business-link-github.dev/",
 	});
 	
 	gulp.watch('./_assets/scss/**/*.scss', ['styles']);

@@ -2164,7 +2164,6 @@ pre {
 
 .align-self-middle {
   -ms-flex-item-align: center;
-  -ms-grid-row-align: center;
   align-self: center; }
 
 .align-stretch {
@@ -2173,7 +2172,6 @@ pre {
 
 .align-self-stretch {
   -ms-flex-item-align: stretch;
-  -ms-grid-row-align: stretch;
   align-self: stretch; }
 
 .small-order-1 {
@@ -3522,7 +3520,6 @@ select {
   position: fixed;
   z-index: 1;
   transition: transform 0.5s ease;
-  -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background: #e6e6e6; }
   [data-whatinput='mouse'] .off-canvas {
@@ -3538,7 +3535,6 @@ select {
   position: absolute;
   z-index: 1;
   transition: transform 0.5s ease;
-  -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background: #e6e6e6; }
   [data-whatinput='mouse'] .off-canvas-absolute {
@@ -3632,7 +3628,6 @@ select {
 
 .off-canvas-content {
   transition: transform 0.5s ease;
-  -webkit-backface-visibility: hidden;
   backface-visibility: hidden; }
 
 @media print, screen and (min-width: 40em) {
@@ -3738,27 +3733,34 @@ table {
   width: 100%;
   margin-bottom: 1rem;
   border-radius: 0; }
-  thead, tbody, tfoot {
+  table thead,
+  table tbody,
+  table tfoot {
     border: 1px solid #f1f1f1;
     background-color: #fefefe; }
-  caption {
+  table caption {
     padding: 0.5rem 0.625rem 0.625rem;
     font-weight: bold; }
-  thead {
+  table thead {
     background: #f8f8f8;
     color: #0a0a0a; }
-  tfoot {
+  table tfoot {
     background: #f1f1f1;
     color: #0a0a0a; }
-  thead tr, tfoot tr {
+  table thead tr,
+  table tfoot tr {
     background: transparent; }
-  thead th, thead td, tfoot th, tfoot td {
+  table thead th,
+  table thead td,
+  table tfoot th,
+  table tfoot td {
     padding: 0.5rem 0.625rem 0.625rem;
     font-weight: bold;
     text-align: left; }
-  tbody th, tbody td {
+  table tbody th,
+  table tbody td {
     padding: 0.5rem 0.625rem 0.625rem; }
-  tbody tr:nth-child(even) {
+  table tbody tr:nth-child(even) {
     border-bottom: 0;
     background-color: #f1f1f1; }
   table.unstriped tbody {
