@@ -735,6 +735,19 @@
 							<li>
 								<a href="/buy-or-sell-a-business.php" title="Buy or sell a business">Introduction</a>
 							</li>
+							<!-- Added not not sure if it goes here -->
+							<li>
+								<a href="/buy-or-sell-a-business/floating-on-the-stock-market/">Floating on the stock market</a>
+								<ul>
+									<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market.php" title="Floating on the stock market">Introduction</a></li>
+									<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/is-your-business-suitable-to-be-a-public-company.php">Is your business suitable to be a public company?</a></li>
+									<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/advantages-and-disadvantages-of-stock-market-flotation.php">Advantages and disadvantages of stock market flotation</a></li>
+									<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/the-process-of-floating-on-a-stock-market.php"  >The process of floating on a stock market</a></li>
+									<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/appoint-your-advisers.php">Appoint your advisers</a></li>
+									<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/here-is-how-we-prepared-our-business-for-flotation.php">Here's how we prepared our business for flotation</a></li>
+								</ul>
+							</li>
+							<!-- end -->
 							<li>
 								<a href="layer910d.html?topicId=1074407303">Businesses in difficulty</a>
 								<ul>
