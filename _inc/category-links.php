@@ -789,38 +789,22 @@
 								</ul>
 							</li>
 							<li>
-								<a href="layer4bae.html?topicId=1074400490">Considering selling a business</a>
+								<a href="buy-or-sell-a-business/considering-selling-a-business.php">Considering selling a business</a>
 								<ul>
 									<li>
 										<a>Preparing to sell your business</a>
 										<ul>
 											<li>
-												<a href="layer19b7.html?topicId=1074410823" title="Options for selling your business, making it attractive to purchasers and finding advisers">Introduction</a>
+												<a href="buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business.php" title="Prepare to sell your business">Introduction</a>
 											</li>
-											<li>
-												<a href="detail0983.html?itemId=1074423944&amp;type=RESOURCES">Is selling my business the right option?</a>
-											</li>
-											<li>
-												<a href="detail351c.html?itemId=1074423958&amp;type=RESOURCES">Ways to sell your business</a>
-											</li>
-											<li>
-												<a href="detail5dc6.html?itemId=1074423967&amp;type=RESOURCES">Is a sale realistic?</a>
-											</li>
-											<li>
-												<a href="detaildd28.html?itemId=1074423981&amp;type=RESOURCES">When to sell your business</a>
-											</li>
-											<li>
-												<a href="detail30d6.html?itemId=1074423992&amp;type=RESOURCES">Choosing advisers when selling your business</a>
-											</li>
-											<li>
-												<a href="detail80a3.html?itemId=1074424013&amp;type=RESOURCES">Show strong financial performance</a>
-											</li>
-											<li>
-												<a href="detailfca8-2.html?itemId=1074424032&amp;type=RESOURCES">Streamline your business operations</a>
-											</li>
-											<li>
-												<a href="detaila136.html?itemId=1075062195&amp;type=CASE STUDIES">Here's how I prepared my business for sale</a>
-											</li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/is-selling-my-business-the-right-option.php">Is selling my business the right option?</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/ways-to-sell-your-business.php">Ways to sell your business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/is-a-sale-realistic.php">Is a sale realistic?</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/when-to-sell-your-business.php">When to sell your business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/choosing-advisers-when-selling-your-business.php">Choosing advisers when selling your business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/show-strong-financial-performance.php">Show strong financial performance</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/streamline-your-business-operations.php">Streamline your business operations</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/here-is-how-i-prepared-my-business-for-sale.php">Here's how I prepared my business for sale</a></li>
 										</ul>
 									</li>
 									<li>
