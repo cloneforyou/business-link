@@ -22,50 +22,30 @@
 		<p>This guide outlines the main options available and will help you decide what is best for you and your business. It also covers a few of the basic things which can be done to make your business attractive to potential buyers and has advice on how to find the right advisers.</p>
 
 		<ul>
-			<li><a href="preparing-to-sell-your-business/is-selling-my-business-the-right-option.php">Next</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/is-selling-my-business-the-right-option.php">Next</a></li>
 		</ul>
 
 		<h3>Subjects covered in this guide</h3>
 		<ul>
 			<li>Introduction</li>
-			<li><a href="preparing-to-sell-your-business/is-selling-my-business-the-right-option.php">Is selling my business the right option?</a></li>
-			<li><a href="preparing-to-sell-your-business/ways-to-sell-your-business.php">Ways to sell your business</a></li>
-			<li><a href="preparing-to-sell-your-business/is-a-sale-realistic.php">Is a sale realistic?</a></li>
-			<li><a href="preparing-to-sell-your-business/when-to-sell-your-business.php">When to sell your business</a></li>
-			<li><a href="preparing-to-sell-your-business/choosing-advisers-when-selling-your-business.php">Choosing advisers when selling your business</a></li>
-			<li><a href="preparing-to-sell-your-business/show-strong-financial-performance.php">Show strong financial performance</a></li>
-			<li><a href="preparing-to-sell-your-business/streamline-your-business-operations.php">Streamline your business operations</a></li>
-			<li><a href="preparing-to-sell-your-business/here-is-how-i-prepared-my-business-for-sale.php">Here's how I prepared my business for sale</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/is-selling-my-business-the-right-option.php">Is selling my business the right option?</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/ways-to-sell-your-business.php">Ways to sell your business</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/is-a-sale-realistic.php">Is a sale realistic?</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/when-to-sell-your-business.php">When to sell your business</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/choosing-advisers-when-selling-your-business.php">Choosing advisers when selling your business</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/show-strong-financial-performance.php">Show strong financial performance</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/streamline-your-business-operations.php">Streamline your business operations</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/here-is-how-i-prepared-my-business-for-sale.php">Here's how I prepared my business for sale</a></li>
 		</ul>
-		<p><img src="../../_img/hr_325px_global.gif" alt="" /></p>
 
-		<strong>Print options</strong> - 
-		<span>
-		<a href="#" title="What are my print options? - Opens in a new window">
-		What are my print options <img src="../../_img/whatisthis.gif" width="9" height="11"  alt="" />
-		<span> - Opens in a new window</span>
-		</a>
-		</span>
-		<ul>
-			<li><a href="#">Add guide to my print portfolio (print later as PDF)</a></li>
-		</ul>
-		<strong>Email options</strong> - 
-		<span>
-		<a href="#" title="What are my email options? - Opens in a new window">
-		What are my email options <img src="../../_img/whatisthis.gif" width="9" height="11"  alt="" />
-		<span> - Opens in a new window</span>
-		</a>
-		</span>
-		<ul>
-			<li><a href="#" title="Tell a friend about this page">Tell a friend about this page</a></li>
-			<li><a href="#" title="Tell a friend about this page">Send me an email alert when this guide changes</a></li>
-		</ul>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.lucasweston.com/mistake.htm" target="_blank">Common mistakes in business sales explained on the Lucas &amp; Weston website<span> - Opens in a new window</span></a></li>
+			<li><a href="http://www.lucasweston.com/mistake.htm" target="_blank" rel="noopener noreferrer">Common mistakes in business sales explained on the Lucas &amp; Weston website</a></li>
 		</ul>
-		<img src="../../_img/px_sellingabusiness.gif" alt="" width="1" height="1" />
+
+		<img src="../../_img/px_sellingabusiness.gif" alt="" width="185" height="50" />
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
