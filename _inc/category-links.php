@@ -853,6 +853,21 @@
 											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/understanding-contracts-when-buying-or-selling-a-business/sources-of-further-advice.php">Sources of further advice</a></li>
 										</ul>
 									</li>
+									<li>
+										<a>Value and market your business</a>
+										<ul>
+											<li>
+												<a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business.php" title="Value and market your business">Introduction</a>
+											</li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/key-factors-affecting-the-value-of-your-business.php">Key factors affecting the value of your business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/common-methods-of-valuing-a-business.php">Common methods of valuing a business</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/prepare-a-sales-memorandum.php">Prepare a sales memorandum</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/identify-likely-buyers.php">Identify likely buyers</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/research-sources-of-potential-buyers.php">Research sources of potential buyers</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/approach-potential-buyers.php">Approach potential buyers</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business/here-is-how-I-marketed-my-business-for-sale.php">Here's how I marketed my business for sale</a></li>
+										</ul>
+									</li>
 								</ul>
 							</li>
 							<li>
