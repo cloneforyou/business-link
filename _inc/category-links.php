@@ -755,7 +755,7 @@
 										<a>Complain against an undischarged bankrupt or disqualified company director</a>
 										<ul>
 											<li>
-												<a href="layer2f3a.html?topicId=1084624281" title="How to complain against a disqualified director, an undischarged bankrupt or a person subject to bankruptcy restrictions" >Introduction</a>
+												<a href="layer2f3a.html?topicId=1084624281" title="How to complain against a disqualified director, an undischarged bankrupt or a person subject to bankruptcy restrictions">Introduction</a>
 											</li>
 											<li>
 												<a href="detail5885.html?itemId=1084681574&amp;type=RESOURCES">What undischarged bankrupts and persons subject to bankruptcy restrictions are not allowed to do</a>
@@ -838,6 +838,20 @@
 											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/exit-option-close-your-business.php">Exit option: close your business</a></li>
 											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/the-exit-process.php">The exit process</a></li>
 											<li><a href="/finance-and-grants/financial-planning-and-accounts/consider-your-exit-strategy-when-starting-up/here-is-how-I-planned-an-exit-strategy.php">Here's how I planned an exit strategy</a></li>
+										</ul>
+									</li>
+									<li>
+										<a>Obtaining information on a business you are thinking of buying</a>
+										<ul>
+											<li>
+												<a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying.php" title="Obtaining information on a business you are thinking of buying">Introduction</a>
+											</li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/assess-a-companys-assets.php">Assess a company's assets</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/legal-and-financial-checks.php">Legal and financial checks</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/employment-it-and-environment-checks.php">Employment, IT and environment checks</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/operating-within-the-law.php">Operating within the law</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/where-to-get-help-and-advice.php">Where to get help and advice</a></li>
+											<li><a href="/buy-or-sell-a-business/considering-selling-a-business/here-is-how-i-obtained-the-right-information-about-a-business-before-buying-it.php">Here's how I obtained the right information about a business before buying it</a></li>
 										</ul>
 									</li>
 								</ul>
@@ -937,7 +951,7 @@
 												<a href="detail4bd0.html?itemId=1081350695&amp;type=RESOURCES">Keeping it in the family</a> 
 											</li>
 											<li>
-												<a href="detailcfa4.html?itemId=1081350703&amp;type=RESOURCES" title="Transferring ownership to a non-family member " >Transferring ownership to a non-family member </a>
+												<a href="detailcfa4.html?itemId=1081350703&amp;type=RESOURCES" title="Transferring ownership to a non-family member ">Transferring ownership to a non-family member </a>
 											</li>
 											<li>
 												<a href="detail6fcc.html?itemId=1081350613&amp;type=RESOURCES">Trade sales</a>
