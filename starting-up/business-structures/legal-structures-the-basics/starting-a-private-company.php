@@ -72,7 +72,7 @@
 				<li><a href="/starting-up/business-structures/legal-structures-the-basics/becoming-a-sole-trader.php">Becoming a sole trader</a></li>
 				<li><a href="/starting-up/business-structures/legal-structures-the-basics/partnerships.php">Partnerships</a></li>
 				<li>Starting a private company</li>
-				<li><a href="/starting-up/business-structures/legal-structures-the-basics/setting-up-specific-types-of-limited-company.php">Starting a public limited company</a></li>
+				<li><a href="/starting-up/business-structures/legal-structures-the-basics/starting-a-public-limited-company.php">Starting a public limited company</a></li>
 				<li><a href="/starting-up/business-structures/legal-structures-the-basics/setting-up-specific-types-of-limited-company.php">Setting up specific types of limited company</a></li>
 				<li><a href="/starting-up/business-structures/legal-structures-the-basics/european-economic-interest-groupings.php">European Economic Interest Groupings</a></li>
 				<li><a href="/starting-up/business-structures/legal-structures-the-basics/uk-establishments-of-overseas-companies.php">UK establishments of overseas companies</a></li>
