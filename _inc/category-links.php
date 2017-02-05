@@ -1020,6 +1020,20 @@
 											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/undergoing-due-diligence.php">Undergoing due diligence</a></li>
 										</ul>
 									</li>
+									<li>
+										<a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout.php">How to achieve an employee buyout</a>
+										<ul>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout.php" title="How to achieve an employee buyout">Introduction</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/why-consider-an-employee-buyout.php">Why consider an employee buyout?</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/alternatives-to-an-employee-buyout.php">Alternatives to an employee buyout</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/planning-for-an-employee-buyout.php">Planning for an employee buyout</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/forms-of-employee-ownership.php">Forms of employee ownership</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/key-stages-in-an-employee-buyout.php">Key stages in an employee buyout</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/financing-an-employee-buyout.php">Financing an employee buyout</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/running-the-business-after-an-employee-buyout.php">Running the business after an employee buyout</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/how-to-achieve-an-employee-buyout/help-and-advice-for-employee-buyouts.php">Help and advice for employee buyouts</a></li>
+										</ul>
+									</li>
 								</ul>
 							</li>
 						</ul>
