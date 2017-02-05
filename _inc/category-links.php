@@ -959,36 +959,40 @@
 										</ul>
 									</li>
 									<li>
-										<strong>Succession planning and business transfer</strong>
-										<img src="../../_img/px_sellingabusiness.gif" alt="Current section" width="5" height="5" />
+										<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer.php">Succession planning and business transfer</a>
 										<ul>
 											<li>
-												<a href="detail3285.html?itemId=1081350603&amp;type=RESOURCES">Why succession planning is important</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer.php" title="Succession planning and business transfer">Introduction</a>
 											</li>
 											<li>
-												<a href="detail40d6.html?itemId=1081350691&amp;type=RESOURCES">Assessing your options</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/why-succession-planning-is-important.php">Why succession planning is important</a>
 											</li>
 											<li>
-												<a href="detail4bd0.html?itemId=1081350695&amp;type=RESOURCES">Keeping it in the family</a> 
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/assessing-your-options.php">Assessing your options</a>
 											</li>
 											<li>
-												<a href="detailcfa4.html?itemId=1081350703&amp;type=RESOURCES" title="Transferring ownership to a non-family member ">Transferring ownership to a non-family member </a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/keeping-it-in-the-family.php">Keeping it in the family</a> 
 											</li>
 											<li>
-												<a href="detail6fcc.html?itemId=1081350613&amp;type=RESOURCES">Trade sales</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/transferring-ownership-to-a-non-family-member.php" title="Transferring ownership to a non-family member ">Transferring ownership to a non-family member </a>
 											</li>
 											<li>
-												<a href="detail2547.html?itemId=1081350706&amp;type=RESOURCES">Voluntary liquidation</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/trade-sales.php">Trade sales</a>
 											</li>
 											<li>
-												<a href="detail7065.html?itemId=1081350616&amp;type=RESOURCES">Have a formal succession plan</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/voluntary-liquidation.php">Voluntary liquidation</a>
 											</li>
 											<li>
-												<a href="detail5fe9.html?itemId=1087157769&amp;type=CASE STUDIES">Here's how I successfully took over a family business (Flash video)</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/have-a-formal-succession-plan.php">Have a formal succession plan</a>
 											</li>
+											<li>
+												<a href="/buy-or-sell-a-business/transferring-your-business/succession-planning-and-business-transfer/here-is-how-I-successfully-took-over-a-family-business_flash-video.php">Here's how I successfully took over a family business (Flash video)</a>
+											</li>
+											<!-- //
 											<li>
 												<a href="http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1078303661&amp;type=BLTTOOL">Which succession planning options should I consider?</a>
 											</li>
+											// -->
 										</ul>
 									</li>
 								</ul>
