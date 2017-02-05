@@ -11,6 +11,12 @@ Updates
 
 I've thought it an idea to update this when a section is completed to show progression.
 
+05 Feb 17 : Starting-up > Business structures > Legal Structures: the basics
+			Starting up > Business structures > Set up a social enterprise
+			Buy or sell a business > top-level pages
+03 Feb 17 : Updated packages. Added line breaks instead of graphics in print/email include. 
+			Buy or sell a business > Floating on the stock market
+			Buy or sell a business > Considering selling a business
 31 Dec 16 : Starting up > Name your business
 27 Dec 16 : Starting up > Business Structures
 23 Dec 16 : Starting up > Choose and set up your workplace > Starting a business
