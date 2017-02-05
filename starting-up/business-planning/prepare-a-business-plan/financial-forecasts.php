@@ -15,7 +15,6 @@
 	<div class="small-12 large-8 large-push-4 columns">
 
 
-
 		<h1>Prepare a business plan</h1>
 		<h2>Financial forecasts</h2>
 		<p>As part of your plan you will need to provide a set of financial projections which translate what you have said about your business into numbers.</p>
