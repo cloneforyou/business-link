@@ -1005,6 +1005,23 @@
 									</li>
 								</ul>
 							</li>
+							<li>
+								<a href="/buy-or-sell-a-business/selling.php">Selling</a>
+								<ul>
+									<li>
+										<a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business.php">Complete the sale of your business</a>
+										<ul>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business.php" title="Complete the sale of your business">Introduction</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/preparing-your-business-for-sale.php">Preparing your business for sale</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/initial-meetings-with-potential-buyers.php">Initial meetings with potential buyers</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/assess-offers-how-is-the-deal-structured.php">Assess offers: how is the deal structured?</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/assess-offers-your-responsibilities-and-liabilities.php">Assess offers: your responsibilities and liabilities</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/choosing-and-negotiating-with-a-buyer.php">Choosing and negotiating with a buyer</a></li>
+											<li><a href="/buy-or-sell-a-business/selling/complete-the-sale-of-your-business/undergoing-due-diligence.php">Undergoing due diligence</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
 						</ul>
 					</li>
 					<li data-accordion-item>
