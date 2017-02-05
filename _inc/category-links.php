@@ -1076,9 +1076,7 @@
 				</ul>
 			</div><!-- #closed categories -->
 
-			<hr />
-
-			<div id="serviceprovider">
+			<div class="service-provider">
 				<p>
 					<a href="https://www.gov.uk/government/organisations/cabinet-office" title="Get the latest news from the Cabinet Office" target="_blank" rel="noopener noreferrer">
 						In partnership with Cabinet Office
