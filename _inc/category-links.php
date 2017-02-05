@@ -927,31 +927,34 @@
 								</ul>
 							</li>
 							<li>
-								<a href="layer73cb.html?topicId=1087216741">Transferring your business</a>
+								<a href="/buy-or-sell-a-business/transferring-your-business.php">Transferring your business</a>
 								<ul>
 									<li>
-										<strong>Selling or passing a business to a family member</strong>
+										<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member.php">Selling or passing a business to a family member</a>
 										<ul>
 											<li>
-												<a href="detail3e60.html?itemId=1074413858&amp;type=RESOURCES">Is family succession the right option?</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member.php" title="Selling or passing a business to a family member">Introduction</a>
 											</li>
 											<li>
-												<a href="detailfea2.html?itemId=1074413682&amp;type=RESOURCES">One family successor or more?</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/is-family-succession-the-right-option.php">Is family succession the right option?</a>
 											</li>
 											<li>
-												<a href="detail24b5.html?itemId=1074413732&amp;type=RESOURCES">Identify a potential family successor</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/one-family-successor-or-more.php">One family successor or more?</a>
 											</li>
 											<li>
-												<a href="detailef42.html?itemId=1074413750&amp;type=RESOURCES">Clarify your future involvement in the business</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/identify-a-potential-family-successor.php">Identify a potential family successor</a>
 											</li>
 											<li>
-												<a href="detailfa8e.html?itemId=1074413764&amp;type=RESOURCES">Manage the family succession process</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/clarify-your-future-involvement-in-the-business.php">Clarify your future involvement in the business</a>
 											</li>
 											<li>
-												<a href="detaild6d7.html?itemId=1074413850&amp;type=RESOURCES">Tax implications of family succession</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/manage-the-family-succession-process.php">Manage the family succession process</a>
 											</li>
 											<li>
-												<a href="detaile181.html?itemId=1075070048&amp;type=CASE STUDIES">Here's how I'm transferring my business to my son</a>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/tax-implications-of-family-succession.php">Tax implications of family succession</a>
+											</li>
+											<li>
+												<a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member/here-is-how-i-am-transferring-my-business-to-my-son.php">Here's how I'm transferring my business to my son</a>
 											</li>
 										</ul>
 									</li>
