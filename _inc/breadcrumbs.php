@@ -1,4 +1,4 @@
-<div class="row">
+<div class="row breadrcrumb-row">
 	<div class="small-12 columns">
 
 		<?php /* 
