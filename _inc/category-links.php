@@ -990,6 +990,21 @@
 									</li>
 								</ul>
 							</li>
+							<li>
+								<a href="/buy-or-sell-a-business/mergers-and-acquisitions.php">Mergers and acquisitions</a>
+								<ul>
+									<li>
+										<a href="/buy-or-sell-a-business/mergers-and-acquisitions/mergers.php">Mergers</a>
+										<ul>
+											<li><a href="/buy-or-sell-a-business/mergers-and-acquisitions/mergers.php" ittle="Mergers">Introduction</a></li>
+											<li><a href="/sales-and-marketing/selling-and-the-law/mergers/who-is-responsible-for-uk-merger-control.php">Who is responsible for UK merger control?</a></li>
+											<li><a href="/sales-and-marketing/selling-and-the-law/mergers/when-does-the-office-of-fair-trading-investigate-mergers.php">When does the Office of Fair Trading investigate mergers?</a></li>
+											<li><a href="/sales-and-marketing/selling-and-the-law/mergers/notifying-authorities-of-a-merger.php">Notifying authorities of a merger</a></li>
+											<li><a href="/sales-and-marketing/selling-and-the-law/mergers/merger-assessment-and-decisions.php">Merger assessment and decisions</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
 						</ul>
 					</li>
 					<li data-accordion-item>
