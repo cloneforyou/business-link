@@ -12,6 +12,11 @@ GENERAL STYLES
 	font-weight: bold; 
 }
 
+.menu {
+	margin: 0; 
+	padding: 0; 
+}
+
 /*********************
 LINK STYLES
 *********************/
@@ -87,6 +92,10 @@ p {
 /*********************
 HEADER STYLES
 *********************/
+header {
+	margin-bottom: 30px; 
+}
+
 header, 
 .breadcrumbs, 
 footer {
@@ -113,12 +122,21 @@ footer {
 
 	@include breakpoint(medium) {
 		float: right; 
-		margin-top: 40px; 
+		margin-top: 51px; 
+		margin-left: 30px; 
 		font-size: 30px;
 	}
 }
 
-/*** Breadcrumbs ***/		
+.login {
+	display: none; 
+}
+
+/*** Breadcrumbs ***/
+.breadrcrumb-row {
+	display: none; 
+}
+
 // Let's remove Foundation styling		
 .breadcrumbs li:not(:last-child):after {		
 	content: ""; 		
@@ -129,33 +147,7 @@ footer {
 	padding: 0 .75rem; 		
 	color: #cacaca; 		
 }		
-/*** Side bar master navigation ***/
-
-.categories {
-	outline: 1px solid #ccc; 
-
-	.fa {		
-		position: relative; 		
-		top: -3px; 		
-	}		
-	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up'		
-	ul li ul {		
-		background-color: lighten($light-gray, 5%); 		
-	}		
-	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics'		
-	ul li ul li ul {		
-		background-color: #fff; 		
-	}		
-	.submenu.is-accordion-submenu {		
-		margin: 0; 
-		padding: 10px 20px; 
-		list-style: none; 
-	}		
-	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics' > level [4] great-grandchild 'What to do before you start your business'		
-	ul li ul li ul li ul { 		
-		background-color: lighten($light-gray, 5%); 		
-	}		
-}		
+	
 /*********************
 accordion arrows
 *********************/
@@ -196,30 +188,69 @@ NAVIGATION STYLES
 
 
 /*********************
-POSTS & CONTENT STYLES
+MAIN CONTENT
 *********************/
+.small-12.large-8.large-push-4.columns {
+	padding-bottom: 50px; 
+	// outline: 1px solid red;
+}
 
-
-/*********************
-COMMENT STYLES
-*********************/
 
 
 /*********************
 SIDEBARS & ASIDES
 *********************/
+
+/*** Side bar master navigation ***/
+
+.categories {
+	border: 1px solid #eee; 
+
+	.fa {		
+		position: relative; 		
+		top: -3px; 		
+	}
+	.vertical.menu {}
+
+	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up'		
+	ul li ul {		
+		background-color: lighten($light-gray, 5%); 		
+	}		
+	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics'		
+	ul li ul li ul {		
+		background-color: #fff; 		
+	}		
+	.submenu.is-accordion-submenu {		
+		margin: 0; 
+		padding: 10px 20px; 
+		list-style: none; 
+	}		
+	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics' > level [4] great-grandchild 'What to do before you start your business'		
+	ul li ul li ul li ul { 		
+		background-color: lighten($light-gray, 5%); 		
+	}		
+}
 .submenu.is-accordion-submenu {
 	margin-left: 33px; 
 }
 
-// .cat-title {
-// 	list-style: none; 
-// 	outline: 1px solid red; 
-// }
+.service-provider {
+	padding: 20px; 
+}
+
 
 /*********************
 FOOTER STYLES
 *********************/
+footer {}
+
+.sub-links {
+	font-size: 15px; 
+}
+
+.copyright {
+	padding: 0 15px; 
+}
 
 	
 /*********************

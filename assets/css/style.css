@@ -4067,6 +4067,10 @@ GENERAL STYLES
   padding: 5px 5px 2px 5px;
   font-weight: bold; }
 
+.menu {
+  margin: 0;
+  padding: 0; }
+
 /*********************
 LINK STYLES
 *********************/
@@ -4120,6 +4124,9 @@ p {
 /*********************
 HEADER STYLES
 *********************/
+header {
+  margin-bottom: 30px; }
+
 header,
 .breadcrumbs,
 footer {
@@ -4140,10 +4147,17 @@ footer {
   @media print, screen and (min-width: 40em) {
     .strapline {
       float: right;
-      margin-top: 40px;
+      margin-top: 51px;
+      margin-left: 30px;
       font-size: 30px; } }
 
+.login {
+  display: none; }
+
 /*** Breadcrumbs ***/
+.breadrcrumb-row {
+  display: none; }
+
 .breadcrumbs li:not(:last-child):after {
   content: "";
   margin: 0; }
@@ -4151,23 +4165,6 @@ footer {
 .breadcrumb-arrow {
   padding: 0 .75rem;
   color: #cacaca; }
-
-/*** Side bar master navigation ***/
-.categories {
-  outline: 1px solid #ccc; }
-  .categories .fa {
-    position: relative;
-    top: -3px; }
-  .categories ul li ul {
-    background-color: #f3f3f3; }
-  .categories ul li ul li ul {
-    background-color: #fff; }
-  .categories .submenu.is-accordion-submenu {
-    margin: 0;
-    padding: 10px 20px;
-    list-style: none; }
-  .categories ul li ul li ul li ul {
-    background-color: #f3f3f3; }
 
 /*********************
 accordion arrows
@@ -4198,20 +4195,46 @@ NAVIGATION STYLES
   font-style: italic; }
 
 /*********************
-POSTS & CONTENT STYLES
+MAIN CONTENT
 *********************/
-/*********************
-COMMENT STYLES
-*********************/
+.small-12.large-8.large-push-4.columns {
+  padding-bottom: 50px; }
+
 /*********************
 SIDEBARS & ASIDES
 *********************/
+/*** Side bar master navigation ***/
+.categories {
+  border: 1px solid #eee; }
+  .categories .fa {
+    position: relative;
+    top: -3px; }
+  .categories ul li ul {
+    background-color: #f3f3f3; }
+  .categories ul li ul li ul {
+    background-color: #fff; }
+  .categories .submenu.is-accordion-submenu {
+    margin: 0;
+    padding: 10px 20px;
+    list-style: none; }
+  .categories ul li ul li ul li ul {
+    background-color: #f3f3f3; }
+
 .submenu.is-accordion-submenu {
   margin-left: 33px; }
+
+.service-provider {
+  padding: 20px; }
 
 /*********************
 FOOTER STYLES
 *********************/
+.sub-links {
+  font-size: 15px; }
+
+.copyright {
+  padding: 0 15px; }
+
 /*********************
 FOUNDATION STYLES
 *********************/
