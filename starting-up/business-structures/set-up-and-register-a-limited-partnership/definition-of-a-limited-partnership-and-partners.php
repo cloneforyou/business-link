@@ -54,15 +54,13 @@
 			<dl>
 				<dt></dt>
 				<dd>
-					<a href="http://www.companieshouse.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" onclick="p=window.open('http://www.companieshouse.gov.uk/', 'bgExternalwwwbusinesslinkgovuk');p.focus();" title="Companies House - Opens in a new window"><img src="../../../_img/ch_logo_new_3.jpg" width="130" height="35" border="0" alt="" />Companies House</a>
+					<a href="https://www.gov.uk/government/organisations/companies-house" target="_blank" rel="noopener noreferrer"><img src="../../../_img/ch_logo_new_3.jpg" width="130" height="35" border="0" alt="" />Companies House</a>
 				</dd>
 			</dl>
 
 			<h3>Companies House Contact Centre</h3>
 			<p>0303 1234 500</p>
 
-			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-			
 			<h3>Also on this site</h3>
 			<ul>
 				<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership.php" title="The legal steps you have to take to form a partnership, including guidance about deeds of partnership">Set up and register a partnership</a></li>
@@ -72,77 +70,6 @@
 			</ul>
 
 			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-
-			<a href="https://online.businesslink.gov.uk/bdotg/action/userSupport?refPage=%2Fbdotg%2Faction%2Fdetail%3FitemId%3D1086166566%26type%3DRESOURCES" title="Help &amp; support">Help &amp; support</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Copyright" title="&copy; Crown copyright 2011">Copyright</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Disclaimer" title="Terms &amp; conditions">Terms &amp; conditions</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Privacy" title="Privacy & cookies">Privacy & cookies</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Accessibility" title="Accessibility">Accessibility</a> | <a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=HelpWithPDFFiles" title="PDF help">PDF help</a>
-			<ul>
-				<li><a href="http://www.businesslink.gov.uk/bdotg/action/fullsitemap" title="Site map">Site map</a></li>
-				<li><a href="http://www.businesslink.gov.uk/bdotg/action/help?page=HelpPage" title="Help">Help</a></li>
-				<li><a href="detailce65.html?itemId=1087351667&amp;page=AboutUs&amp;r.i=1086166566&amp;r.s=h&amp;r.t=RESOURCES&amp;type=CAMPAIGN" title="About us">About us</a></li>
-				<li><a href="http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Accessibility">Accessibility</a></li>
-			</ul>
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tr>
-					<td rowspan="10"><img src="../../_img/px_white.gif" alt="" width="5" height="6" /></td>
-					<td colspan="2">
-						<p>
-							<a href="layer068f.html?topicId=1073858805" title="From first thoughts to a firm footing">Starting up</a>
-						</p>
-						<p><img src="../../_img/leftnav_sub_hr.gif" alt="" /></p>
-					</td>
-				</tr>
-				<tr>
-					<td colspan="2">
-						<p><a href="layer1e2d.html?topicId=1085161962">Business structures</a>
-						</p>
-						<p><img src="../../_img/leftnav_sub_hr.gif" alt="" /></p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p><strong>Set up and register a limited partnership</strong></p>
-					</td>
-				</tr>
-				<tr>
-					<td width="10"> </td>
-					<td>
-						<p><img src="../../_img/leftnav_sub_sub_hr.gif" alt="" /></p>
-					</td>
-				</tr>
-				<tr>
-					<td width="10"> </td>
-					<td>
-						<p><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership.php" title="What a limited partnership is, the benefits of setting one up, and how to register and dissolve it">Introduction</a>
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td><img src="../../_img/px_startingabusiness.gif" alt="Current section" width="5" height="5" /></td>
-					<td>
-						<p><strong>Definition of a limited partnership and partners</strong></p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/how-to-register-a-limited-partnership.php">How to register a limited partnership</a>
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/tax-matters-of-a-limited-partnership.php">Tax matters of a limited partnership</a>
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<p><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/dissolving-a-limited-partnership.php">Dissolving a limited partnership</a>
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td colspan="2"></td>
-				</tr>
-			</table>
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
