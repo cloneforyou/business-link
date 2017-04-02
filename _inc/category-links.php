@@ -214,7 +214,7 @@
 									<li>
 										<a href="/starting-up/business-structures/set-up-and-register-a-partnership.php">Set up and register a partnership</a>
 										<ul>
-											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership.php" title="Set up and register a partnership">Introduction</a>/li>
+											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership.php" title="Set up and register a partnership">Introduction</a>
 											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/the-officers-of-a-partnership.php">The officers of a partnership</a></li>
 											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/types-of-partner.php">Types of partner</a></li>
 											<li><a href="/starting-up/business-structures/set-up-and-register-a-partnership/setting-up-a-deed-of-partnership.php">Setting up a deed of partnership</a></li>
