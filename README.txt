@@ -13,6 +13,7 @@ I've thought it an idea to update this when a section is completed to show progr
 
 02 Apr 17 : Starting-up > Business structures > Set up and register as self-employed
 			Starting-up > Business structures > Set up and register a partnership
+			Starting-up > Business structures > Set up and register a limited partnership
 25 Feb 17 : Starting-up > Business Structures > Set up and register a limited company private or public
 05 Feb 17 : Starting-up > Business structures > Legal Structures: the basics
 			Starting up > Business structures > Set up a social enterprise
