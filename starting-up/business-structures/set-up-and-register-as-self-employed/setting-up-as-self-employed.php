@@ -27,17 +27,17 @@
 			
 			<ul>
 				<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed.php" title="Set up and register as self-employed">Prev</a></li>
-				<li><a href="detail4897.html?itemId=1083844795&amp;type=RESOURCES" title="Registering for tax and National Insurance">Next</a></li>
+				<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/registering-for-tax-and-national-insurance.php" title="Registering for tax and National Insurance">Next</a></li>
 			</ul>
 
 			<h3>Subjects covered in this guide</h3>
 			<ul>
 				<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed.php" title="Set up and register as self-employed">Introduction</a></li>
 				<li>Setting up as self-employed</li>
-				<li><a href="detail4897.html?itemId=1083844795&amp;type=RESOURCES">Registering for tax and National Insurance</a></li>
-				<li><a href="detail9aa4.html?itemId=1073789949&amp;type=RESOURCES">Arranging to make National Insurance contributions</a></li>
-				<li><a href="detail3b1c.html?itemId=1073789948&amp;type=RESOURCES">Checking your self-employment status</a></li>
-				<li><a href="detail9ef1.html?itemId=1073789950&amp;type=RESOURCES">Checklist: setting up as self-employed</a></li>
+				<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/registering-for-tax-and-national-insurance.php">Registering for tax and National Insurance</a></li>
+				<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/arranging-to-make-national-insurance-contributions.php">Arranging to make National Insurance contributions</a></li>
+				<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/checking-your-self-employment-status.php">Checking your self-employment status</a></li>
+				<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/checklist-setting-up-as-self-employed.php">Checklist: setting up as self-employed</a></li>
 			</ul>
 			
 			<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
