@@ -305,7 +305,32 @@
 									<li><a href="https://www.gov.uk/get-information-about-a-company" title="Get information about a company" target="_blank" rel="noopener noreferrer">Search for an available company name or trade mark</a></li>
 								</ul>
 							</li>
-							<li><a href="/starting-up/buy-a-business.php">Buy a business</a></li>
+							<li>
+								<a href="/starting-up/buy-a-business.php">Buy a business</a>
+								<ul>
+									<li>
+										<a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php">Buy a franchise</a>
+										<ul>
+											<li><a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php" title="Buy a franchise">Introduction</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-a-franchise/what-is-franchising.php"></a>What is franchising?</li>
+											<li><a href="/starting-up/buy-a-business/buy-a-franchise/advantages-and-disadvantages-of-franchising.php">Advantages and disadvantages of franchising</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-a-franchise/should-I-buy-a-franchise.php">Should I buy a franchise?</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-a-franchise/find-out-about-possible-franchises.php">Find out about possible franchises</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-a-franchise/assess-a-franchise-opportunity.php">Assess a franchise opportunity</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-a-franchise/the-costs-of-a-franchise.php">The costs of a franchise</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-a-franchise/how-to-purchase-a-franchise.php">How to purchase a franchise</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-a-franchise/tips-on-franchise-agreements.php">Tips on franchise agreements</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-a-franchise/heres-how-I-selected-and-bought-my-franchise.php">Here's how I selected and bought my franchise</a></li>
+										</ul>
+									</li>
+									<li>
+										<a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php">Buy an existing business</a>
+										<ul>
+											<li><a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php" title="Buy an existing business">Introduction</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
 							<li>
 								<a href="/starting-up/choose-and-set-up-your-workplace.php">Choose and set up your workplace</a>
 								<ul>
