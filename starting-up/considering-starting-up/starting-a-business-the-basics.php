@@ -23,7 +23,7 @@
 		<p>You can <a href="/do-it-online/incorporate-your-company-online.php">incorporate your limited company online with Companies House</a> using the web incorporation service, for incorporating a private company, limited by shares, with model articles of association.</p>
 		
 		<ul>
-			<li><a href="/starting-up/considering-starting-up/what-to-do-before-you-start-your-business.php" title="What to do before you start your business">Next</a></li>
+			<li><a href="/starting-up/considering-starting-up/starting-a-business-the-basics/what-to-do-before-you-start-your-business.php" title="What to do before you start your business">Next</a></li>
 		</ul>
 		
 		<h3>Subjects covered in this guide</h3>
