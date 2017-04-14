@@ -11,6 +11,8 @@ Updates
 
 I've thought it an idea to update this when a section is completed to show progression.
 
+15 Apr 17 : Starting up > Choose and set up your workplace > environmental-responsibilities
+			Starting up > Buy a business > Buy an existing business
 11 Apr 17 : Starting up > Buy a business > Buy a franchise
 02 Apr 17 : Starting up > Business structures > Set up and register as self-employed
 			Starting up > Business structures > Set up and register a partnership
