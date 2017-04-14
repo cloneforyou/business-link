@@ -326,7 +326,14 @@
 									<li>
 										<a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php">Buy an existing business</a>
 										<ul>
-											<li><a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php" title="Buy an existing business">Introduction</a></li>
+											<li><a href="/buy-or-sell-a-business/buying/buy-an-existing-business.php" title="Advantages and disadvantages of buying an existing business including how to assess and value it">Introduction</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/advantages-and-disadvantages-of-buying-an-existing-business.php">Advantages and disadvantages of buying an existing business</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/deciding-on-the-right-type-of-business-to-buy.php">Deciding on the right type of business to buy</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/where-to-look-for-a-business-to-buy.php">Where to look for a business to buy</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/how-to-value-a-business.php">How to value a business</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/make-sure-a-business-is-worth-buying-due-diligence.php">Make sure a business is worth buying: due diligence</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/step-by-step-how-to-buy-a-business.php">Step-by-step: how to buy a business</a></li>
+											<li><a href="/starting-up/buy-a-business/buy-an-existing-business/looking-after-existing-employees.php">Looking after existing employees</a></li>
 										</ul>
 									</li>
 								</ul>
