@@ -11,6 +11,11 @@ Updates
 
 I've thought it an idea to update this when a section is completed to show progression.
 
+03 May 17 : Tax, Payroll and Company Information > Corporation Tax > Who is liable for corporation tax (top-level)
+			Tax, Payroll and Company Information > Corporation Tax > Starting a company or organisation and corporation tax (top-level)
+			Tax, Payroll and Company Information > Corporation Tax > Introduction to corporation tax (top-level)
+			Tax, Payroll and Company Information > Corporation Tax > Unincorporated organisations and Corporation Tax (top-level)
+			Tax, Payroll and Company Information > Corporation Tax > Selling or closing your company and Corporation Tax (top-level)
 15 Apr 17 : Starting up > Choose and set up your workplace > environmental-responsibilities
 			Starting up > Buy a business > Buy an existing business
 11 Apr 17 : Starting up > Buy a business > Buy a franchise
