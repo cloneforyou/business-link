@@ -462,6 +462,19 @@
 											<li><a href="/tax-payroll-and-company-information/corporation-tax/unincorporated-organisations-and-corporation-tax/corporation-tax-for-unincorporated-organisations.php">Corporation Tax for unincorporated organisations</a></li>
 										</ul>
 									</li>
+									<li>
+										<a href="/tax-payroll-and-company-information/corporation-tax/selling-or-closing-your-company-and-corporation-tax.php">Selling or closing your company and Corporation Tax</a>
+										<ul>
+											<li><a href="/tax-payroll-and-company-information/corporation-tax/selling-or-closing-your-company-and-corporation-tax.php" title="Selling or closing your company and Corporation Tax">Introduction</a></li>
+											<li><a href="/tax-payroll-and-company-information/corporation-tax/selling-or-closing-your-company-and-corporation-tax/closing-your-company-and-corporation-tax.php">Closing your company and Corporation Tax</a></li>
+											<li><a href="/tax-payroll-and-company-information/corporation-tax/selling-or-closing-your-company-and-corporation-tax/winding-up-your-company-and-corporation-tax.php">Winding up your company and Corporation Tax</a></li>
+											<li><a href="/tax-payroll-and-company-information/corporation-tax/selling-or-closing-your-company-and-corporation-tax/hmrc-can-wind-up-your-company-if-you-dont-pay-corporation-tax.php">HMRC can wind up your company if you don't pay Corporation Tax</a></li>
+											<li><a href="/tax-payroll-and-company-information/corporation-tax/selling-or-closing-your-company-and-corporation-tax/winding-up-and-control-of-the-company.php">Winding up and control of the company</a></li>
+											<li><a href="/tax-payroll-and-company-information/corporation-tax/selling-or-closing-your-company-and-corporation-tax/selling-your-company-as-a-going-concern-and-corporation-tax.php">Selling your company as a going concern and Corporation Tax</a></li>
+											<li><a href="/tax-payroll-and-company-information/corporation-tax/selling-or-closing-your-company-and-corporation-tax/closing-your-company-or-organisation-selling-the-assets-and-corporation-tax.php">Closing your company or organisation, selling the assets and Corporation Tax</a></li>
+											<li><a href="/tax-payroll-and-company-information/corporation-tax/selling-or-closing-your-company-and-corporation-tax/managing-your-other-tax-responsibilities-when-closing-or-selling-your-business.php">Managing your other tax responsibilities when closing or selling your business</a></li>
+										</ul>
+									</li>
 								</ul>
 							</li>
 							<li><a href="/tax-payroll-and-company-information/construction-industry-scheme.php">Construction Industry Scheme</a></li>
