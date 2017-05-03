@@ -399,29 +399,48 @@
 						</ul>
 					</li>
 					<li data-accordion-item>
-						<a href="../tax-payroll-and-company-information.php">Tax, payroll and company information</a>
+						<a href="/tax-payroll-and-company-information.php">Tax, payroll and company information</a>
 						<ul>
-							<a href="../tax-payroll-and-company-information.php" title="Tax, payroll and company information">Introduction</a>
-							<li><a href="../tax-payroll-and-company-information/self-assessment.php">Self Assessment</a></li>
-							<li><a href="../tax-payroll-and-company-information/vat.php">VAT</a></li>
-							<li><a href="../tax-payroll-and-company-information/business-rates.php">Business rates</a></li>
-							<li><a href="../tax-payroll-and-company-information/national-insurance.php">National Insurance</a></li>
-							<li><a href="../tax-payroll-and-company-information/corporation-tax.php">Corporation Tax</a></li>
-							<li><a href="../tax-payroll-and-company-information/construction-industry-scheme.php">Construction Industry Scheme</a></li>
-							<li><a href="../tax-payroll-and-company-information/capital-gains-tax.php">Capital Gains Tax</a></li>
-							<li><a href="../tax-payroll-and-company-information/stamp-taxes.php">Stamp taxes</a></li>
-							<li><a href="../tax-payroll-and-company-information/excise-duties.php">Excise duties</a></li>
-							<li><a href="../tax-payroll-and-company-information/industry-specific-taxes.php">Industry-specific taxes</a></li>
-							<li><a href="../tax-payroll-and-company-information/tax-reliefs-and-allowances.php">Tax reliefs and allowances</a></li>
-							<li><a href="../tax-payroll-and-company-information/paye-for-employers.php">PAYE for employers</a></li>
-							<li><a href="../tax-payroll-and-company-information/expenses-and-benefits-for-employers.php">Expenses and benefits for employers</a></li>
-							<li><a href="../tax-payroll-and-company-information/paying-hmrc.php">Paying HMRC</a></li>
+							<a href="/tax-payroll-and-company-information.php" title="Tax, payroll and company information">Introduction</a>
+							<li><a href="/tax-payroll-and-company-information/self-assessment.php">Self Assessment</a></li>
+							<li><a href="/tax-payroll-and-company-information/vat.php">VAT</a></li>
+							<li><a href="/tax-payroll-and-company-information/business-rates.php">Business rates</a></li>
+							<li><a href="/tax-payroll-and-company-information/national-insurance.php">National Insurance</a></li>
+							<li>
+								<a href="/tax-payroll-and-company-information/corporation-tax.php">Corporation Tax</a>
+								<ul>
+									<li>
+										<a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations.php">Corporation Tax for new companies and organisations</a>
+										<ul>
+											<li>
+												<a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/who-is-liable-for-corporation-tax.php">Who is liable for Corporation Tax</a>
+												<ul>
+													<li><a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/who-is-liable-for-corporation-tax.php" title="Who is liable for Corporation Tax">Introduction</a></li>
+													<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/who-is-subject-to-corporation-tax-requirements.php">Who is subject to Corporation Tax requirements?</a></li>
+													<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/who-is-not-subject-to-corporation-tax-requirements.php">Who is not subject to Corporation Tax requirements?</a></li>
+													<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/what-activities-are-exempt-from-corporation-tax.php">What activities are exempt from Corporation Tax?</a></li>
+													<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/what-you-must-do-if-your-company-or-organisation-is-liable-for-corporation-tax.php">What you must do if your company or organisation is liable for Corporation Tax</a></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li><a href="/tax-payroll-and-company-information/construction-industry-scheme.php">Construction Industry Scheme</a></li>
+							<li><a href="/tax-payroll-and-company-information/capital-gains-tax.php">Capital Gains Tax</a></li>
+							<li><a href="/tax-payroll-and-company-information/stamp-taxes.php">Stamp taxes</a></li>
+							<li><a href="/tax-payroll-and-company-information/excise-duties.php">Excise duties</a></li>
+							<li><a href="/tax-payroll-and-company-information/industry-specific-taxes.php">Industry-specific taxes</a></li>
+							<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances.php">Tax reliefs and allowances</a></li>
+							<li><a href="/tax-payroll-and-company-information/paye-for-employers.php">PAYE for employers</a></li>
+							<li><a href="/tax-payroll-and-company-information/expenses-and-benefits-for-employers.php">Expenses and benefits for employers</a></li>
+							<li><a href="/tax-payroll-and-company-information/paying-hmrc.php">Paying HMRC</a></li>
 							<!-- ? -->
-							<li><a href="../tax-payroll-and-company-information/changes-to-your-business/reporting-changes-to-hmrc.php">Reporting changes to HMRC</a></li>
+							<li><a href="/tax-payroll-and-company-information/changes-to-your-business/reporting-changes-to-hmrc.php">Reporting changes to HMRC</a></li>
 							<!-- ? -->
-							<li><a href="../tax-payroll-and-company-information/hmrc-complaints-and-appeals.php">HMRC complaints and appeals</a></li>
-							<li><a href="../tax-payroll-and-company-information/how-to-deal-with-hmrc-for-someone-else.php">How to deal with HMRC for someone else</a></li>
-							<li><a href="../tax-payroll-and-company-information/authorising-an-accountant-to-deal-with-hmrc-for-you.php">Authorising an accountant to deal with HMRC for you</a></li>
+							<li><a href="/tax-payroll-and-company-information/hmrc-complaints-and-appeals.php">HMRC complaints and appeals</a></li>
+							<li><a href="/tax-payroll-and-company-information/how-to-deal-with-hmrc-for-someone-else.php">How to deal with HMRC for someone else</a></li>
+							<li><a href="/tax-payroll-and-company-information/authorising-an-accountant-to-deal-with-hmrc-for-you.php">Authorising an accountant to deal with HMRC for you</a></li>
 							<!-- ? -->
 							<li><a href="https://www.gov.uk/get-information-about-a-company" title="Get information about a company" target="_blank" rel="noopener noreferrer">Search for an available company name or trade mark</a></li>
 							<!-- ? -->
