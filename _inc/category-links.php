@@ -410,6 +410,7 @@
 								<a href="/tax-payroll-and-company-information/corporation-tax.php">Corporation Tax</a>
 								<ul>
 									<li>
+										<a href="/tax-payroll-and-company-information/corporation-tax.php" title="Corporation Tax">Introduction</a>
 										<a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations.php">Corporation Tax for new companies and organisations</a>
 										<ul>
 											<li>
@@ -420,6 +421,20 @@
 													<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/who-is-not-subject-to-corporation-tax-requirements.php">Who is not subject to Corporation Tax requirements?</a></li>
 													<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/what-activities-are-exempt-from-corporation-tax.php">What activities are exempt from Corporation Tax?</a></li>
 													<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/what-you-must-do-if-your-company-or-organisation-is-liable-for-corporation-tax.php">What you must do if your company or organisation is liable for Corporation Tax</a></li>
+												</ul>
+											</li>
+											<li>
+												<a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/starting-a-company-or-organisation-and-corporation-tax.php">Starting a company or organisation and Corporation Tax</a>
+												<ul>
+													<li>
+														<a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/starting-a-company-or-organisation-and-corporation-tax.php" title="Starting a company or organisation and Corporation Tax">Introduction</a>
+													</li>
+													<li><a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/starting-a-company-or-organisation-and-corporation-tax/new-companies-and-organisations-and-corporation-tax.php">New companies and organisations and Corporation Tax</a></li>
+													<li><a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/starting-a-company-or-organisation-and-corporation-tax/registering-your-new-company-at-companies-house.php">Registering your new company at Companies House</a></li>
+													<li><a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/starting-a-company-or-organisation-and-corporation-tax/telling-hmrc-your-new-limited-company-is-active.php">Telling HMRC your new limited company is active</a></li>
+													<li><a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/starting-a-company-or-organisation-and-corporation-tax/registering-for-other-hmrc-taxes.php">Registering for other HMRC taxes</a></li>
+													<li><a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/starting-a-company-or-organisation-and-corporation-tax/new-clubs-societies-associations-and-corporation-tax.php">New clubs, societies, associations and Corporation Tax</a></li>
+													<li><a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/starting-a-company-or-organisation-and-corporation-tax/using-an-accountant-to-deal-with-hmrc.php">Using an accountant to deal with HMRC</a></li>
 												</ul>
 											</li>
 										</ul>
