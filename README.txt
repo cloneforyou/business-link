@@ -11,6 +11,8 @@ Updates
 
 I've thought it an idea to update this when a section is completed to show progression.
 
+04 May 17 : Tax, Payroll and Company Information > Corporation Tax > > Claiming losses allowances and reliefs > Research and Development (R&D) Relief for Corporation Tax (top-level)
+
 03 May 17 : Tax, Payroll and Company Information > Corporation Tax > Who is liable for corporation tax (top-level)
 			Tax, Payroll and Company Information > Corporation Tax > Starting a company or organisation and corporation tax (top-level)
 			Tax, Payroll and Company Information > Corporation Tax > Introduction to corporation tax (top-level)
