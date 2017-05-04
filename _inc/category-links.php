@@ -475,6 +475,30 @@
 											<li><a href="/tax-payroll-and-company-information/corporation-tax/selling-or-closing-your-company-and-corporation-tax/managing-your-other-tax-responsibilities-when-closing-or-selling-your-business.php">Managing your other tax responsibilities when closing or selling your business</a></li>
 										</ul>
 									</li>
+									<li>
+										<a href="/tax-payroll-and-company-information/corporation-tax/claiming-losses-allowances-and-reliefs.php">Claiming losses, allowances and reliefs</a>
+										<ul>
+											<li><a href="/tax-payroll-and-company-information/corporation-tax/claiming-losses-allowances-and-reliefs.php" title="Claiming losses, allowances and reliefs">Introduction</a></li>
+											<li>
+												<a href="/tax-payroll-and-company-information/corporation-tax/claiming-losses-allowances-and-reliefs/research-and-development-r-and-d-relief-for-corporation-tax.php" title="Research and Development (R&amp;D) Relief for Corporation Tax">Research and Development Relief for Corporation Tax</a>
+												<ul>
+													<li><a href="/tax-payroll-and-company-information/corporation-tax/claiming-losses-allowances-and-reliefs/research-and-development-r-and-d-relief-for-corporation-tax.php">Introduction</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/r-and-d-relief-schemes.php">R&amp;D Relief schemes</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/the-small-and-medium-sized-enterprise-scheme.php">The Small and Medium-sized Enterprise Scheme</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/the-large-company-scheme.php">The Large Company Scheme</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/which-r-and-d-projects-might-qualify-for-relief.php">Which R&amp;D projects might qualify for Relief?</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/which-costs-qualify-for-r-and-d-relief.php">Which costs qualify for R&amp;D Relief?</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/how-much-r-and-d-relief-sme-can-claim.php">How much R&amp;D Relief SMEs can claim</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/how-and-when-to-claim-r-and-d-relief.php">How and when to claim R&amp;D Relief</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/capital-allowances-and-r-and-d-relief.php">Capital allowances and R&amp;D Relief</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/record-keeping-for-r-and-d-relief.php">Record keeping for R&amp;D Relief</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/answers-to-your-r-and-d-elief-questions.php">Answers to your R&amp;D Relief questions</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/r-and-d-consultative-committee.php">R&amp;D Consultative Committee</a></li>
+													<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/voluntary-advance-assurance-pilot.php">Voluntary advance assurance pilot</a></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
 								</ul>
 							</li>
 							<li><a href="/tax-payroll-and-company-information/construction-industry-scheme.php">Construction Industry Scheme</a></li>
