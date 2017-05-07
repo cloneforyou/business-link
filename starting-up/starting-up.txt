@@ -1,0 +1,649 @@
+Starting up
+|
+├── Considering starting up?
+|	|
+│   ├── Find out whether you can work for yourself
+|	|
+│   ├── Decide if you've got what it takes to be your own boss
+|	|
+│   ├── Develop your business idea
+|	|
+│   ├── Starting a business: the basics
+|	|	|
+|	|	├── Introduction
+|	|	├── What to do before you start your business
+|	|	├── What are your start-up options?
+|	|	├── Finding and keeping customers
+|	|	├── Finance for start-ups
+|	|	├── Tax and legal issues for start-ups
+|	|	└── Your business plan
+|	|
+│   ├── Research and develop your business ideas, new products and services
+|	|	|
+|	|	├── Introduction
+|	|	├── Finding and developing your idea and new products and services
+|	|	├── Is there a market for my idea?
+|	|	├── Plan the development of your idea
+|	|	├── Financing your idea and cost control
+|	|	├── Creating a project development team
+|	|	├── Manage a development project
+|	|	├── The product development process
+|	|	├── Pricing your proposed service or product
+|	|	├── Sharing your ideas with others
+|	|	├── Test the market
+|	|	├── Checklist: developing a product or service
+|	|	├── Here's how I exploited a gap in the market
+|	|	├── Here's how I got my great new product in front of customers
+|	|	└── Here's how developing a new product benefited my business
+|	|
+│   ├── Common mistakes when starting up - and how to avoid them
+|	|	|
+|	|	├── Introduction
+|	|	├── Poor or inadequate market research
+|	|	├── Weak financial planning
+|	|	├── Setting sights too high
+|	|	├── Taking your eye off the competition
+|	|	├── Poor supplier and customer controls
+|	|	├── Poor stock and asset management
+|	|	├── Hiring the wrong people
+|	|	└── Here's how I started a successful business (Flash video)
+|	|
+│   ├── Starting a part-time business
+|	|	|
+|	|	├── Introduction
+|	|	├── What to consider when starting your part-time business
+|	|	├── Tax and legal implications of a part-time business
+|	|	├── Advantages and disadvantages of starting a part-time business
+|	|	├── Help and support for part-time businesses
+|	|	└── Here's how I decided I was ready to start up my business
+|	|
+│   ├── How do I survive until my business is off the ground?
+|	|	|
+|	|	├── Introduction
+|	|	├── Forecast your personal financial needs
+|	|	├── How much money will your business make?
+|	|	├── Make savings
+|	|	├── Other sources of income
+|	|	├── Prepare a financial plan
+|	|	└── Find support
+|	|
+│   ├── Family-run businesses
+|	|	|
+|	|	├── Introduction
+|	|	├── Advantages of family businesses
+|	|	├── Key things to consider when setting up a family business
+|	|	├── Communication and family businesses
+|	|	├── Managing conflict in family businesses
+|	|	├── Pay and benefits for family members
+|	|	├── Draw up a family-business constitution
+|	|	├── Succession planning in family businesses
+|	|	└── Here's how having a family member in the business made a difference
+|	|
+│   ├── Thinking about starting a social enterprise?
+|	|	|
+|	|	├── Introduction
+|	|	├── What is a social enterprise?
+|	|	├── Why set up a social enterprise?
+|	|	├── Benefits of a social enterprise
+|	|	├── Social enterprise skills
+|	|	├── Challenges facing social enterprises
+|	|	├── Business and marketing plans
+|	|	├── Financing your social enterprise
+|	|	├── Social enterprises and the public sector
+|	|	├── Checklist: starting up a social enterprise
+|	|	├── Here's how being a social enterprise works for our business
+|	|	└── Here's how I started a successful social enterprise
+|	|
+│   ├── Starting a business when economic conditions are tough
+|	|	|
+|	|	├── Introduction
+|	|	├── Work on your business idea
+|	|	├── Your business structure and business plan
+|	|	├── Access to sources of starting-up finance
+|	|	├── Develop an effective survival strategy
+|	|	├── Minimise costs and maximise efficiency
+|	|	├── Sources and contacts to help you start a business
+|	|	└── Here's how I started a business during an economic downturn (Flash video)
+|	|
+│   └── Think about the money
+|
+|
+├── Business planning
+|	|
+│   ├── Understand the importance of business planning
+|	|
+│   ├── Create your business plan
+|	|
+│   ├── Plan to run your business
+|	|
+│   ├── Develop your sales and marketing strategy
+|	|
+│   ├── Think about your financial planning
+|	|
+│   └── Prepare a business plan
+|		|
+|		├── Introduction
+|		├── The audience for your business plan
+|		├── What a business plan should include
+|		├── The executive summary
+|		├── Your business, its products and services
+|		├── Your markets and competitors
+|		├── Marketing and sales
+|		├── Your team's skills
+|		├── Your operations
+|		├── Financial forecasts
+|		├── Presenting your business plan
+|		├── Using the business plan template
+|		└── Here's how having an up-to-date business plan helped my business
+|
+|
+├── Find and manage the money
+|	|
+│   ├── Use your own money to start up
+|	|
+│   ├── Understand how much money you need to start up
+|	|
+│   ├── Raise finance from outside investors or other sources to get started
+|	|
+│   ├── Raise finance from family and friends
+|	|
+│   ├── Understand the basics of business banking
+|	|
+│   ├── Explore your finance options when starting up
+|	|
+│   ├── Decide if you need an accountant or an adviser
+|	|
+│   ├── Meet your financial commitments
+|	|
+│   ├── Find out what to do if you're refused finance
+|	|
+│   ├── Understand how to set up a record-keeping system
+|	|
+│   ├── Financial and management accounts: the basics
+|	|	|
+|	|	├── Introduction
+|	|	├── Financial accounts
+|	|	├── Filing financial accounts
+|	|	├── Management accounts
+|	|	├── Uses of management accounting
+|	|	├── The importance of maintaining accurate accounts
+|	|	└── False accounting
+|	|
+│   └── Stock control and inventory
+|		|
+|		├── Introduction
+|		├── Types of stock
+|		├── How much stock should you keep?
+|		├── Stock control methods
+|		├── Stock control systems - keeping track manually
+|		├── Stock control systems - keeping track using computer software
+|		├── Using RFID for inventory control, stock security and quality management
+|		├── Stock security
+|		├── Control the quality of your stock
+|		├── Stock control administration
+|		└── Here's how I control my stock
+|
+|
+├── Business structures
+|	|
+│   ├── Understand the different business types
+|	|
+│   ├── Choose the right business model and legal structure
+|	|
+│   ├── Register with Companies House
+|	|
+│   ├── Incorporate your company online
+|	|
+│   ├── Legal structures: the basics
+|	|	|
+|	|	├── Introduction
+|	|	├── Becoming a sole trader
+|	|	├── Partnerships
+|	|	├── Starting a private company
+|	|	├── Starting a public limited company
+|	|	├── Setting up specific types of limited company
+|	|	├── European Economic Interest Groupings
+|	|	├── UK establishments of overseas companies
+|	|	└── Buying a franchise
+|	|
+│   ├── Set up and register as self-employed
+|	|	|
+|	|	├── Introduction
+|	|	├── Setting up as self-employed
+|	|	├── Registering for tax and National Insurance
+|	|	├── Arranging to make National Insurance contributions
+|	|	├── Checking your self-employment status
+|	|	└── Checklist: setting up as self-employed
+|	|
+│   ├── Set up and register a partnership
+|	|	|
+|	|	├── Introduction
+|	|	├── The officers of a partnership
+|	|	├── Types of partner
+|	|	├── Setting up a deed of partnership
+|	|	├── Naming your partnership
+|	|	├── Tax matters of a partnership
+|	|	└── Checklist: setting up a partnership
+|	|
+│   ├── Set up and register a limited partnership
+|	|	|
+|	|	├── Introduction
+|	|	├── Definition of a limited partnership and partners
+|	|	├── How to register a limited partnership
+|	|	├── Tax matters of a limited partnership
+|	|	└── Dissolving a limited partnership
+|	|
+│   ├── Set up and register a limited liability partnership (LLP)
+|	|	|
+|	|	├── Introduction
+|	|	├── The members of an LLP
+|	|	├── Where to register your LLP and get help
+|	|	├── Deed of partnership of an LLP
+|	|	├── Naming your LLP
+|	|	├── Tax matters of an LLP
+|	|	└── Checklist: setting up and registering an LLP
+|	|
+│   ├── Set up and register a limited company (private or public)
+|	|	|
+|	|	├── Introduction
+|	|	├── Registration documents and forms
+|	|	├── The company's officers
+|	|	├── Types of limited company
+|	|	├── Requirements for public limited companies
+|	|	├── Where to register your company and get help
+|	|	├── Tax matters of a limited company
+|	|	├── Checklist: setting up and registering a limited company (private or public)
+|	|	└── Right to manage companies and commonhold associations
+|	|
+│   └── Set up a social enterprise
+|		|
+|		├── Introduction
+|		├── Unincorporated associations
+|		├── Trusts
+|		├── Limited companies with a social purpose
+|		├── Community benefit societies
+|		├── Social enterprises as registered charities
+|		├── Community Interest Companies
+|		├── Charitable incorporated organisations
+|		└── Here's how being a social enterprise works for our business
+|
+|
+├── Name your business
+|	|
+│   ├── Name your business {this is not an error!}
+|	|
+│   ├── Choose the right name for your business
+|	|	|
+|	|	├── Introduction
+|	|	├── Choosing a business name to create the right impression
+|	|	├── Names for limited companies and LLPs
+|	|	├── Names for sole traders, partnerships and limited partnerships
+|	|	├── Use of sensitive words and expressions in business names
+|	|	├── Displaying and disclosing your business, company or limited liability partnership name
+|	|	├── Getting your business name on the internet
+|	|	└── Here's how I chose the name for my business
+|	|
+│   ├── Rules for naming your limited company or limited liability partnership (LLP)
+|	|	|
+|	|	├── Introduction
+|	|	├── Choosing a name for a company or LLP
+|	|	├── Objections to company names
+|	|	└── Prescribed and sensitive words
+|	|
+│   └── Search for an available company name or trade mark
+|
+|
+├── Buy a business
+|	|
+│   ├── Buy a franchise
+|	|	|
+|	|	├── Introduction
+|	|	├── What is franchising?
+|	|	├── Advantages and disadvantages of franchising
+|	|	├── Should I buy a franchise?
+|	|	├── Find out about possible franchises
+|	|	├── Assess a franchise opportunity
+|	|	├── The costs of a franchise
+|	|	├── How to purchase a franchise
+|	|	├── Tips on franchise agreements
+|	|	└── Here's how I selected and bought my franchise
+|	|
+│   └── Buy an existing business
+|		|
+|		├── Introduction
+|		├── Advantages and disadvantages of buying an existing business
+|		├── Deciding on the right type of business to buy
+|		├── Where to look for a business to buy
+|		├── How to value a business
+|		├── Make sure a business is worth buying: due diligence
+|		├── Step-by-step: how to buy a business
+|		└── Looking after existing employees
+|
+|
+├── Choose and set up your workplace
+|	|
+│   ├── Choose the right type of premises
+|	|
+│   ├── Rent or buy premises
+|	|
+│   ├── Manage workplace health and safety
+|	|
+│   ├── Set up your business at home
+|	|
+│   ├── Starting a business from home
+|	|	|
+|	|	├── Introduction
+|	|	├── Is starting a home-based business right for you?
+|	|	├── Popular home business ideas
+|	|	├── Start-up costs and financing your home-based business
+|	|	├── Record keeping
+|	|	├── IT and home business
+|	|	├── Your work environment
+|	|	├── Managing your home-based business
+|	|	└── Your growth options
+|	|
+│   └── Environmental responsibilities
+|		|
+|		├── Introduction
+|		├── Comply with key environmental legislation
+|		├── Does my business need a permit or licence?
+|		├── Hazardous substances covered by environmental legislation
+|		├── Conservation and biodiversity issues for businesses
+|		├── Environmental issues in specific business sectors
+|		├── Who enforces environmental legislation?
+|		├── Prevent and remedy pollution incidents
+|		└── The business benefits of good environmental and sustainable practices
+|
+|
+├── Get to grips with business taxes
+|
+|
+|
+├── Tax and National Insurance for self-employed or partners
+|	|
+│   ├── Get started with Income Tax and National Insurance
+|	|
+│   ├── Find out about Self Assessment and your tax return
+|	|
+│   └── Get to grips with expenses and records if you're self-employed
+|
+|
+├── Corporation Tax
+|	|
+│   ├── Who is liable for Corporation Tax
+|	|	|
+|	|	├── Introduction
+|	|	├── Who is subject to Corporation Tax requirements?
+|	|	├── Who is not subject to Corporation Tax requirements?
+|	|	├── What activities are exempt from Corporation Tax?
+|	|	└── What you must do if your company or organisation is liable for Corporation Tax
+|	|
+│   └── Get started with Corporation Tax
+|
+|
+├── VAT
+|	|
+│   ├── Introduction to VAT
+|	|	|
+|	|	├── Introduction
+|	|	├── What is VAT?
+|	|	├── Who charges VAT and what VAT is charged on
+|	|	├── Rates of VAT
+|	|	├── Items not covered by VAT
+|	|	├── The difference between exempt and zero-rated
+|	|	├── Find out more about VAT
+|	|	├── VAT glossary
+|	|	├── Here's how I got to grips with VAT
+|	|	└── More Useful Links
+|	|
+│   ├── Get to grips with VAT and your business
+|	|
+│   ├── VAT registration: how to apply and when
+|	|
+│   ├── Understand VAT invoices and receipts
+|	|
+│   ├── Run and manage your VAT account
+|	|
+│   ├── How to complete your VAT Return box by box
+|	|	|
+|	|	├── Introduction
+|	|	├── How to complete your VAT Return
+|	|	├── How to complete Box 1 to Box 5
+|	|	├── How to complete Box 6 and Box 7
+|	|	├── How to complete Box 8 and Box 9
+|	|	├── VAT rate changes
+|	|	└── Here's how I got to grips with VAT
+|	|
+│   └── When to register for VAT
+|		|
+|		├── Introduction
+|		└── Do I need to register for VAT?
+|
+|
+├── Tax and payroll for employers
+|	|
+│   ├── Find out how PAYE works
+|	|
+│   ├── Find out if you need to operate PAYE
+|	|
+│   ├── Decide whether you need to register as an employer
+|	|
+│   ├── PAYE when taking on a new employee
+|	|
+│   ├── Keep PAYE records
+|	|
+│   ├── Set up a payroll system
+|	|
+│   ├── Make PAYE payments to HMRC
+|	|
+│   └── Find out what to do for PAYE when an employee leaves
+|
+|
+├── Become an employer for the first time
+|	|
+│   ├── Take on staff
+|	|
+│   ├── Ensuring your workers are eligible to work in the UK
+|	|	|
+|	|	├── Introduction
+|	|	├── Checking a prospective worker's entitlement to work in the UK
+|	|	├── Copying and retaining workers' records
+|	|	├── Compliance checks and penalties for immigration offences
+|	|	├── Here's how migrant workers contribute to our workforce
+|	|	└── Here's how we check the entitlement of our staff to work in the UK
+|	|
+│   ├── Create a written statement of employment
+|	|
+│   └── Find out if you need to operate PAYE
+|
+|
+├── Sales and marketing
+|	|
+│   ├── Learn how to describe your business to customers
+|	|
+│   ├── Understand your market
+|	|
+│   ├── Build your brand
+|	|
+│   ├── Get your pricing right
+|	|
+│   ├── Sell your product or service
+|	|
+│   ├── Promote your business
+|	|
+│   └── Comply with the law in the provision of goods, facilities and services
+|		|
+|		├── Introduction
+|		├── Supplying satisfactory and safe goods and services
+|		├── How equality law applies to the provision of goods, facilities and services
+|		├── Customers and data protection
+|		├── Getting paid on time
+|		├── Rules for businesses that don't sell to customers face to face
+|		├── Special rules for businesses that sell to customers in their home or workplace
+|		├── Special rules for businesses that sell electronic and electrical goods
+|		└── The Proof of Age Standards Scheme
+|
+|
+├── IT and e-commerce for start ups
+|	|
+│   ├── Choose the right IT for your business
+|	|
+│   ├── Create your first website
+|	|
+│   ├── Get started with e-commerce
+|	|
+│   ├── Choose and manage your IT supplier
+|	|	|
+|	|	├── Introduction
+|	|	├── The different types of IT suppliers
+|	|	├── Identifying and contacting potential IT suppliers
+|	|	├── Selecting the right IT supplier
+|	|	├── IT system maintenance
+|	|	├── IT support services
+|	|	├── IT system cost evaluation
+|	|	├── Negotiating the contract for your IT system
+|	|	├── Benefits of an effective IT supplier relationship
+|	|	└── Checklist: choosing an IT supplier
+|	|
+│   └── Computer software: the basics
+|		|
+|		├── Introduction
+|		├── Business benefits of new software
+|		├── Types of software
+|		├── Open source and proprietary software
+|		├── Licences for proprietary software
+|		├── Cloud computing - software as a service
+|		├── Choosing and buying software
+|		├── Software installation, activation and upgrades
+|		└── Software support
+|
+|
+├── Trade with other countries
+|	|
+│   ├── Trade with other European Union countries
+|	|
+│   ├── Trade with other countries using the internet
+|	|
+│   ├── Trade with countries outside the European Union
+|	|
+│   ├── Find out about excise duty
+|	|
+│   ├── Are you ready to import?
+|	|	|
+|	|	├── Introduction
+|	|	├── Plan your import objectives
+|	|	├── Understand what importing involves
+|	|	├── Assess your skills and resources for importing
+|	|	├── Decide your approach to importing
+|	|	├── Negotiate the right import deal
+|	|	└── Review your import readiness
+|	|
+│   ├── Exporting - an overview
+|	|	|
+|	|	├── Introduction
+|	|	├── Planning to export?
+|	|	├── Selling and distribution in overseas markets
+|	|	├── Marketing your product or service overseas
+|	|	├── Your legal responsibilities as an exporter
+|	|	├── Transport considerations
+|	|	├── Financial considerations
+|	|	├── Working effectively with different cultures
+|	|	├── Helping your business grow internationally
+|	|	├── Ten key steps to successful exporting
+|	|	├── Here's how I developed a strong export market
+|	|	└── Here's how I kept my business profitable by exporting my products abroad (Flash video)
+|	|
+│   └── Preparing to export
+|		|
+|		├── Introduction
+|		├── Understand the challenges of exporting
+|		├── Assess your skills and resources for exporting
+|		├── Assess export market opportunities
+|		├── Choose which export markets to enter
+|		├── Plan your export market entry strategy
+|		├── Manage export contracts and logistics
+|		├── Use the right export support services
+|		└── Review your export readiness
+|
+|
+├── Protect your business ideas
+|	|
+│   ├── Protect your business and premises
+|	|
+│   ├── Intellectual property: the basics
+|	|	|
+|	|	├── Introduction
+|	|	├── What is intellectual property?
+|	|	├── How you can protect your intellectual property
+|	|	├── Patents
+|	|	├── Copyright
+|	|	├── Trade marks
+|	|	├── Designs
+|	|	└── A start-up intellectual property checklist
+|	|
+│   ├── Find out how to protect your ideas
+|	|	|
+|	|	├── Introduction
+|	|	└── How can I protect my ideas?
+|	|
+│   └── Non-disclosure agreements
+|		|
+|		├── Introduction
+|		├── What is a non-disclosure agreement?
+|		├── Types of non-disclosure agreement
+|		├── Ways to prepare a non-disclosure agreement
+|		├── Key non-disclosure agreement terms
+|		├── Creating a non-disclosure agreement
+|		├── Issues when signing a non-disclosure agreement
+|		└── Here's how I use NDAs in my business
+|
+|
+├── Further support for your business
+|	|
+│   ├── Find out about business mentoring
+|	|
+│   ├── Get tips on how to network
+|	|
+│   ├── Find the right support for your new business
+|	|
+│   ├── Business Advice Open Days
+|	|	|
+|	|	├── Introduction
+|	|	├── Who should attend a Business Advice Open Day and why
+|	|	├── Organisations you can meet at Business Advice Open Days
+|	|	├── Booking your place at a Business Advice Open Day
+|	|	├── Questions about attending a Business Advice Open Day
+|	|	├── Where to go for advice if you cannot attend a Business Advice Open Day
+|	|	└── How to contact the event organisers
+|	|
+│   ├── The benefits of business mentoring
+|	|	|
+|	|	├── Introduction
+|	|	├── What is business mentoring?
+|	|	├── Why business mentoring is important
+|	|	├── Face-to-face business mentoring
+|	|	├── Online business mentoring
+|	|	├── Business mentoring and other types of advice
+|	|	├── Becoming a business mentor
+|	|	└── Further information for finding or becoming a business mentor
+|	|
+│   ├── Extra help and support available for your start up
+|	|	|
+|	|	├── Introduction
+|	|	├── Mentoring, networking, finance and training
+|	|	├── Support for female entrepreneurs
+|	|	├── Support for mature entrepreneurs
+|	|	├── Support for disabled people
+|	|	├── Support for black, Asian and minority ethnic start ups
+|	|	├── Support for entrepreneurs on low incomes
+|	|	└── Sources of support for young entrepreneurs
+|	|
+│   └── Standards explained on the British Standards Institution website
+|
+|
+└── Take the next steps
+	|
+    ├── Work out if your business is ready to grow
+ 	|
+    └── Take the next steps in your business journey
+
