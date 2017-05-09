@@ -1,0 +1,1575 @@
+Finance and grants
+|
+├── Finance options
+|	|
+│   ├── Choose the right finance options
+|	|	|
+|	|	├── Choose the right finance when starting up
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Work out your financial requirements when starting up
+|	|	|	├── Finance options for new businesses
+|	|	|	├── Use your own money to set up your business
+|	|	|	├── Other sources of finance
+|	|	|	└── Here's how I found the right sort of finance for my new business
+|	|	|
+|	|	├── Identify the right finance options for your business
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	└── Which types of finance are right for my business?
+|	|	|
+|	|	└── Decide whether to lease or buy assets
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── How to acquire assets for your business
+|	|	|	├── Types of leasing
+|	|	|	├── Leasing or renting business equipment
+|	|	|	├── Buying equipment outright
+|	|	|	├── Understanding depreciation of assets
+|	|	|	└── Choosing a leasing company
+|	|
+│   ├── Borrowing
+|	|	|
+|	|	├── Non-bank finance
+|	|	|	├── Introduction
+|	|	|	├── Types of non-bank financial support
+|	|	|	├── Social and community lenders
+|	|	|	├── Non-bank funding for short and long-term use
+|	|	|	├── Securing non-bank investment
+|	|	|	└── Avoiding loan sharks
+|	|	|
+|	|	├── Raise long-term funding through debt capital markets
+|	|	|	├── Introduction
+|	|	|	├── How bond finance works
+|	|	|	├── Raising finance by issuing corporate bonds
+|	|	|	├── Raising finance through private placements
+|	|	|	└── Raising finance through asset securitisation
+|	|	|
+|	|	├── Government guaranteed lending schemes
+|	|	|	├── Introduction
+|	|	|	└── Assess your eligibility for government guaranteed lending schemes
+|	|	|
+|	|	├── Financing from friends and family
+|	|	|	├── Introduction
+|	|	|	├── Loan or investment?
+|	|	|	├── Benefits and pitfalls of friends and family finance
+|	|	|	├── Setting up a loan or investment with friends or family
+|	|	|	├── Legal agreements
+|	|	|	└── Tax and finance from friends and family
+|	|	|
+|	|	├── Factoring and invoice discounting: the basics
+|	|	|	├── Introduction
+|	|	|	├── How factoring works
+|	|	|	├── Advantages and disadvantages of factoring
+|	|	|	├── What makes a business suitable for factoring?
+|	|	|	├── Recourse factoring and non-recourse factoring
+|	|	|	├── Invoice discounting
+|	|	|	├── The cost of factoring and invoice discounting
+|	|	|	├── Export factoring
+|	|	|	├── How to choose a factor or invoice discounter
+|	|	|	├── Supplier finance
+|	|	|	└── Here's how debt factoring improved my cashflow
+|	|	|
+|	|	├── Commercial mortgages and lenders
+|	|	|	├── Introduction
+|	|	|	├── An overview of the commercial mortgage
+|	|	|	├── Pros and cons of buying business premises
+|	|	|	├── What lenders need to know
+|	|	|	├── Different types of lender
+|	|	|	├── Finding a lender
+|	|	|	├── Repaying a commercial mortgage
+|	|	|	├── Commercial mortgage fees and costs
+|	|	|	└── Here's how I took out a commercial mortgage to buy a pub
+|	|	|
+|	|	├── Acquire assets and borrow money tax efficiently
+|	|	|	├── Introduction
+|	|	|	├── Tax relief for buying or leasing assets
+|	|	|	├── Calculating tax relief when acquiring an asset
+|	|	|	├── Borrow money for capital investment from pension schemes
+|	|	|	└── Claim loan interest against tax
+|	|	|
+|	|	└── Bank finance
+|	|		├── Introduction
+|	|		├── Types of bank finance for businesses
+|	|		├── Loans
+|	|		├── Overdrafts
+|	|		├── Where to look for a bank loan
+|	|		├── Choosing the right bank
+|	|		├── Obtaining a loan and offering security
+|	|		├── Providing a guarantee for your loan
+|	|		├── European Investment Bank funding for small and medium-sized businesses
+|	|		├── Here's how my business benefited from taking out a loan (Flash video)
+|	|		└── Here's how securing the right loan helped my business develop
+|	|
+|	|
+│   ├── Shares and equity finance
+|	|	|
+|	|	├── Equity finance
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── What is equity finance and is it right for your business?
+|	|	|	├── Sources of equity finance
+|	|	|	├── The equity gap
+|	|	|	├── Advantages and disadvantages of equity finance
+|	|	|	├── Alternatives to equity finance
+|	|	|	└── Here's how I found a business angel to invest in my business
+|	|	|
+|	|	├── Venture capital
+|	|	|	├── Introduction
+|	|	|	├── What is private equity and venture capital?
+|	|	|	├── Is private equity right for your business?
+|	|	|	├── Finding and approaching venture capital investors
+|	|	|	├── Negotiating a venture capital investment deal
+|	|	|	├── How venture capital investors work with and exit from companies
+|	|	|	└── Communicating with investors
+|	|	|
+|	|	├── Business angels
+|	|	|	├── Introduction
+|	|	|	├── Business angels and how they operate
+|	|	|	├── Advantages and disadvantages of business angel funding
+|	|	|	├── Securing business angel investment
+|	|	|	├── Business angel networks
+|	|	|	└── Here's how I found a business angel to invest in my business
+|	|	|
+|	|	├── Secure equity investment
+|	|	|	├── Introduction
+|	|	|	├── Is private equity investment what your business needs?
+|	|	|	├── Finding the right private equity investor
+|	|	|	├── Value your business accurately
+|	|	|	├── Securing equity finance - preparation
+|	|	|	└── Securing equity finance - the pitch
+|	|	|
+|	|	├── Shares and shareholders
+|	|	|	├── Introduction
+|	|	|	├── What are shares and why are they issued?
+|	|	|	├── How are shares issued?
+|	|	|	├── Types of shares
+|	|	|	├── Sale and transfer of shares
+|	|	|	├── Paying dividends and paying tax
+|	|	|	├── Making changes to share capital
+|	|	|	└── Here's how I managed the shareholders in my business
+|	|	|
+|	|	├── Floating on the stock market
+|	|	|	├── Introduction
+|	|	|	├── Is your business suitable to be a public company?
+|	|	|	├── Advantages and disadvantages of stock market flotation
+|	|	|	├── The process of floating on a stock market
+|	|	|	├── Appoint your advisers
+|	|	|	└── Here's how we prepared our business for flotation
+|	|	|
+|	|	├── London Stock Exchange: Main Market
+|	|	|	├── Introduction
+|	|	|	├── What is the London Stock Exchange Main Market?
+|	|	|	├── Is the London Stock Exchange Main Market right for your business?
+|	|	|	├── The benefits and considerations of joining the London Stock Exchange Main Market
+|	|	|	├── Eligibility requirements when joining the London Stock Exchange Main Market
+|	|	|	└── How to list your business on the London Stock Exchange Main Market
+|	|	|
+|	|	└── London Stock Exchange: AIM
+|	|		├── Introduction
+|	|		├── What is AIM
+|	|		├── Considerations when joining AIM
+|	|		├── Is AIM right for your business?
+|	|		├── The requirements for joining AIM
+|	|		└── The role of the Nominated Adviser and other advisers
+|	|
+|	|
+│   ├── Grants and government support
+|	|	|
+|	|	├── Grants: the basics
+|	|	|	├── Introduction
+|	|	|	├── Government grants and support
+|	|	|	├── What kind of grants are available?
+|	|	|	├── Grant eligibility
+|	|	|	├── How to apply for a government grant
+|	|	|	├── Why a grant application might be turned down
+|	|	|	├── Identify finance options for your business (Flash video)
+|	|	|	├── Preparing to attract investment (Flash video)
+|	|	|	└── Pitching to potential investors (Flash video)
+|	|	|
+|	|	├── Government support for businesses
+|	|	|	├── Introduction
+|	|	|	├── Financial support for businesses
+|	|	|	├── Coaching and networks
+|	|	|	├── Business expertise
+|	|	|	├── Support for innovation
+|	|	|	├── Skills and training for better business performance
+|	|	|	├── Support for exporting and overseas investment
+|	|	|	└── Support to help the environment and reduce costs
+|	|	|
+|	|	├── Business support finder
+|	|	|
+|	|	├── Government guaranteed lending schemes
+|	|	|	├── Introduction
+|	|	|	└── Assess your eligibility for government guaranteed lending schemes
+|	|	|
+|	|	├── Innovation, research and development grants
+|	|	|	├── Introduction
+|	|	|	├── Government funding and other support
+|	|	|	├── The Smart programme
+|	|	|	├── Collaborative research and development
+|	|	|	├── Other sources of funding
+|	|	|	├── R&D tax credits
+|	|	|	├── The EU Framework Programme
+|	|	|	└── EUREKA
+|	|	|
+|	|	├── Support networks and facilities for innovation and R&D
+|	|	|	├── Introduction
+|	|	|	├── Knowledge Transfer Support
+|	|	|	├── Virtual support networks
+|	|	|	├── The Enterprise Europe Network
+|	|	|	├── Business innovation centres
+|	|	|	├── Science parks
+|	|	|	├── Chambers of Commerce
+|	|	|	├── Assisted areas
+|	|	|	├── Business clusters
+|	|	|	└── The Small Business Research Initiative
+|	|	|
+|	|	├── Find support for inventors
+|	|	|	├── Introduction
+|	|	|	├── Help in establishing your invention's originality
+|	|	|	├── Help to ensure products are safe
+|	|	|	├── Get legal help on intellectual property
+|	|	|	├── Take your invention to market
+|	|	|	├── Get support from other inventors
+|	|	|	├── Help developing your idea
+|	|	|	├── Find manufacturers to build a prototype
+|	|	|	├── Attract funding for your invention
+|	|	|	└── Here's how I got support for my invention
+|	|	|
+|	|	└── Work with UK universities and colleges
+|	|		├── Introduction
+|	|		├── Delivering innovation through collaboration and networking
+|	|		├── Research councils and government help
+|	|		├── Knowledge Transfer Partnerships
+|	|		├── Knowledge Transfer Networks
+|	|		├── University Innovation Centres
+|	|		├── Collaborative Research & Development
+|	|		├── The Step Programme
+|	|		└── Here's how I used a Knowledge Transfer Partnership and worked with a university
+|	|
+|	|
+│   └── Capital allowances
+|		|
+|		├── Capital allowances: the basics
+|		|	├── Introduction
+|		|	├── What you can claim capital allowances for
+|		|	├── Research and development allowances
+|		|	└── Claiming capital allowances
+|		|
+|		├── Research and Development (R&D) Relief for Corporation Tax
+|		|	├── Introduction
+|		|	├── R&D Relief schemes
+|		|	├── The Small and Medium-sized Enterprise Scheme
+|		|	├── The Large Company Scheme
+|		|	├── Which R&D projects might qualify for Relief?
+|		|	├── Which costs qualify for R&D Relief?
+|		|	├── How much R&D Relief SMEs can claim
+|		|	├── How and when to claim R&D Relief
+|		|	├── Capital allowances and R&D Relief
+|		|	├── Record keeping for R&D Relief
+|		|	├── Answers to your R&D Relief questions
+|		|	├── R&D Consultative Committee
+|		|	└── Voluntary advance assurance pilot
+|		|
+|		├── Tax advantages for those starting up in business
+|		|	├── Introduction
+|		|	├── Details of tax advantages for new businesses
+|		|	└── Here's how the tax authorities helped me start my business
+|		|
+|		└── First-year allowances: the basics
+|			├── Introduction
+|			├── What you can claim first-year allowances for
+|			└── First-year allowances: non-qualifying items
+|
+|
+├── Prepare to raise finance
+|	|
+│   ├── How to attract investment
+|	|	|
+|	|	├── Use your business plan to get funding
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── The essential elements of a business plan
+|	|	|	├── Tailor your business plan to the target audience
+|	|	|	├── Demonstrate your commitment to the business
+|	|	|	├── Getting the best from your business plan - key considerations
+|	|	|	├── Identify finance options for your business (Flash video)
+|	|	|	├── Preparing to attract investment (Flash video)
+|	|	|	└── Pitching to potential investors (Flash video)
+|	|	|
+|	|	├── Obtaining bank financing
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Deciding whether you're ready for financing
+|	|	|	├── What banks look for in a business
+|	|	|	├── Preparing for a loan or overdraft
+|	|	|	├── Credit rating and scoring
+|	|	|	└── Applying for bank finance
+|	|	|
+|	|	└── Secure equity investment
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Is private equity investment what your business needs?
+|	|	|	├── Finding the right private equity investor
+|	|	|	├── Value your business accurately
+|	|	|	├── Securing equity finance - preparation
+|	|	|	└── Securing equity finance - the pitch
+|	|
+|	|
+│   ├── Manage your cashflow
+|	|	|
+|	|	├── Cashflow management: the basics
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── How to measure cash in your business
+|	|	|	├── How to measure and improve your cashflow
+|	|	|	├── Cashflow forecasts
+|	|	|	├── Manage your income and expenditure
+|	|	|	├── How to avoid problems in your cashflow
+|	|	|	├── Using your cashflow forecast to avoid overtrading
+|	|	|	├── Cash management in action
+|	|	|	├── Here's how I manage my business finances (Flash video)
+|	|	|	└── Here's how I manage my cashflow
+|	|	|
+|	|	├── Decide whether to lease or buy assets
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── How to acquire assets for your business
+|	|	|	├── Types of leasing
+|	|	|	├── Leasing or renting business equipment
+|	|	|	├── Buying equipment outright
+|	|	|	├── Understanding depreciation of assets
+|	|	|	└── Choosing a leasing company
+|	|	|
+|	|	├── Identify potential cashflow problems
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Keep business forecasts up to date
+|	|	|	├── How changing market conditions can affect your business
+|	|	|	├── Working with banks and other lenders
+|	|	|	└── How to know when your customers are in trouble
+|	|	|
+|	|	├── Invoicing and payment terms
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Information that invoices must contain
+|	|	|	├── VAT details to include on invoices
+|	|	|	├── Setting terms and conditions
+|	|	|	├── Setting suitable payment terms for your customers
+|	|	|	├── Commonly used invoice payment terms and their meanings
+|	|	|	└── Here's how setting the right payment terms improved my business' cashflow
+|	|	|
+|	|	├── Factoring and invoice discounting: the basics
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── How factoring works
+|	|	|	├── Advantages and disadvantages of factoring
+|	|	|	├── What makes a business suitable for factoring?
+|	|	|	├── Recourse factoring and non-recourse factoring
+|	|	|	├── Invoice discounting
+|	|	|	├── The cost of factoring and invoice discounting
+|	|	|	├── Export factoring
+|	|	|	├── How to choose a factor or invoice discounter
+|	|	|	├── Supplier finance
+|	|	|	└── Here's how debt factoring improved my cashflow
+|	|	|
+|	|	├── Credit checking your customers and setting credit limits
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Credit checking potential customers
+|	|	|	├── Credit checking new customers
+|	|	|	└── Setting levels of credit
+|	|	|
+|	|	└── Assess and improve your business cashflow
+|	|		|
+|	|		├── Introduction
+|	|		└── Assess and improve your business cashflow
+|	|
+|	|
+│   ├── Improve your cashflow and business performance
+|	|	|
+|	|	├── Assess your business' performance
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	└── Assess your business' performance
+|	|	|
+|	|	├── Assess and improve your business cashflow
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	└── Assess and improve your business cashflow
+|	|	|
+|	|	├── Ensuring customers pay you on time
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── When does a payment become late?
+|	|	|	├── Reducing the risk of late or non-payment
+|	|	|	├── When to charge interest on late payments
+|	|	|	├── Claiming debt recovery costs on debts and payments
+|	|	|	├── Taking non-court action to collect debts
+|	|	|	└── Taking court action to collect debts
+|	|	|
+|	|	├── Recover your debts
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	└── How can I get customers to pay what they owe me?
+|	|	|
+|	|	├── Avoid insolvency
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Improve cashflow
+|	|	|	├── Negotiate with creditors
+|	|	|	├── Reduce overheads
+|	|	|	├── Importance of advice when avoiding insolvency
+|	|	|	├── Possible outcomes for limited companies
+|	|	|	└── Insolvency outcomes for partnerships and sole traders
+|	|	|
+|	|	└── How to turn your business around
+|	|		|
+|	|		├── Introduction
+|	|		├── How to assess your business and plan for improvement
+|	|		├── How to improve your cashflow
+|	|		├── How to respond to changes in the market
+|	|		├── How to make your business more efficient
+|	|		├── How you can improve your profitability
+|	|		├── How to close down your business
+|	|		└── Here's how I turned my business around in difficult circumstances (Flash video)
+|	|
+|	|
+│   └── Expert financial advice
+|		|
+|		├── Choose and work with an accountant
+|		|	|
+|		|	├── Introduction
+|		|	├── How an accountant can help your business
+|		|	├── Choosing an accountant
+|		|	├── Checklist: ten things to ask your prospective accountant
+|		|	├── Managing the relationship with your accountant
+|		|	└── Here's how I used an accountant to help me in my business
+|		|
+|		└── Get help and advice about your debt problems
+|			|
+|			├── Introduction
+|			├── When and how to seek debt help
+|			├── Where to find advice on debt
+|			└── Where to find advice on insolvency
+|
+|
+|
+├── Financial planning and accounts
+|	|
+│   ├── Business budgeting
+|	|	|
+|	|	├── Introduction
+|	|	├── Budgets and business planning
+|	|	├── Creating a budget
+|	|	├── Key steps in drawing up a budget
+|	|	├── What your budget should cover
+|	|	├── Using your budget to measure performance
+|	|	├── Reviewing your budget regularly
+|	|	└── Here's how budgeting and business planning helped my business grow
+|	|
+│   ├── Financial and management accounts: the basics
+|	|	|
+|	|	├── Introduction
+|	|	├── Financial accounts
+|	|	├── Filing financial accounts
+|	|	├── Management accounts
+|	|	├── Uses of management accounting
+|	|	├── The importance of maintaining accurate accounts
+|	|	└── False accounting
+|	|
+│   ├── Set up a simple profit and loss account for your business
+|	|	|
+|	|	├── Introduction
+|	|	├── Do all businesses have to produce formal profit and loss accounts?
+|	|	├── Profit reporting: how, when and where?
+|	|	├── Records required for producing a profit and loss account or completing a tax return
+|	|	├── Business income: sales
+|	|	├── Business income: other
+|	|	├── Recording business expenditure
+|	|	├── Cost of sales
+|	|	├── Business expenses
+|	|	├── Cost of equipment
+|	|	└── Profit and loss accounting periods and tax
+|	|
+│   ├── Balance sheets: the basics
+|	|	|
+|	|	├── Introduction
+|	|	├── Balance sheet reporting - who, when and where?
+|	|	├── Contents of the balance sheet
+|	|	├── Interpreting balance sheet figures
+|	|	├── The relationship between balance sheets and profit and loss accounts
+|	|	├── Compare balance sheets to assess business performance
+|	|	├── Use accounting ratios to assess business performance
+|	|	├── Accounting periods
+|	|	└── Here's how a good balance sheet helped me to improve my business
+|	|
+│   ├── Set up a basic record-keeping system
+|	|	|
+|	|	├── Introduction
+|	|	├── What should my system include?
+|	|	├── The cash sales and purchases/expenses books
+|	|	├── The sales ledger
+|	|	├── The purchase ledger
+|	|	├── The wages book
+|	|	├── Computerising financial records
+|	|	├── Hints and tips
+|	|	└── Here's how I established an effective record-keeping system
+|	|
+│   ├── Investment appraisal techniques
+|	|	|
+|	|	├── Introduction
+|	|	├── Financial aspects of investment appraisal
+|	|	├── Strategic issues for investment appraisal
+|	|	├── Accounting rate of return
+|	|	├── Payback period
+|	|	├── Discounting future cashflow
+|	|	├── Net present value and internal rate of return
+|	|	├── Investment risk and sensitivity analysis
+|	|	├── Help with investment appraisal
+|	|	└── Non-financial factors for investment appraisal
+|	|
+│   ├── Identify which VAT scheme your business is eligible to use
+|	|	|
+|	|	├── Introduction
+|	|	├── Which VAT scheme is right for my business?
+|	|	└── Here's how I got to grips with VAT
+|	|
+│   ├── Avoid the problems of overtrading
+|	|	|
+|	|	├── Introduction
+|	|	├── What is overtrading?
+|	|	├── Matching sales and production cycles
+|	|	├── Assessing your cash needs: assets and liabilities
+|	|	├── Assessing your cash needs: creditors and debtors
+|	|	├── Avoid the problems of overtrading: debts
+|	|	├── Avoid the problems of overtrading: assets
+|	|	├── An example of overtrading
+|	|	├── An example of avoiding overtrading
+|	|	└── Here's how I avoided the pitfalls of overtrading
+|	|
+│   ├── Advice for seasonal businesses
+|	|	├── Introduction
+|	|	├── How seasonal businesses can manage cashflow
+|	|	├── Finding suitable finance
+|	|	├── Getting the right staffing levels
+|	|	├── Boost your business all year round
+|	|	├── Make the best use of quieter periods
+|	|	├── Tax and benefits issues for seasonal businesses
+|	|	└── Here's how I made my seasonal business successful
+|	|
+│   ├── Assess your business' performance
+|	|	|
+|	|	├── Introduction
+|	|	└── Assess your business' performance
+|	|
+│   ├── Pension planning for the self-employed
+|	|	|
+|	|	├── Introduction
+|	|	├── Assessing your pension needs
+|	|	├── How a personal pension works
+|	|	├── When to cash in your personal pension
+|	|	├── The basic state pension
+|	|	├── Stakeholder pensions
+|	|	├── Other pension products
+|	|	├── Other tax-efficient savings - ISAs
+|	|	├── Transferring your pension
+|	|	└── Keeping track of your pension
+|	|
+│   ├── Consider your exit strategy when starting up
+|	|	|
+|	|	├── Introduction
+|	|	├── Why you need an exit strategy
+|	|	├── What do you want from your business?
+|	|	├── Decisions that could affect your eventual exit
+|	|	├── Exit option: family succession
+|	|	├── Exit option: selling your business
+|	|	├── Exit option: float your business
+|	|	├── Exit option: close your business
+|	|	├── The exit process
+|	|	└── Here's how I planned an exit strategy
+|	|
+│   └── Choose and work with an accountant
+|		|
+|		├── Introduction
+|		├── How an accountant can help your business
+|		├── Choosing an accountant
+|		├── Checklist: ten things to ask your prospective accountant
+|		├── Managing the relationship with your accountant
+|		└── Here's how I used an accountant to help me in my business
+|
+|
+├── Manage your cashflow
+|	|
+│   ├── Cashflow management: the basics
+|	|	|
+|	|	├── Introduction
+|	|	├── How to measure cash in your business
+|	|	├── How to measure and improve your cashflow
+|	|	├── Cashflow forecasts
+|	|	├── Manage your income and expenditure
+|	|	├── How to avoid problems in your cashflow
+|	|	├── Using your cashflow forecast to avoid overtrading
+|	|	├── Cash management in action
+|	|	├── Here's how I manage my business finances (Flash video)
+|	|	└── Here's how I manage my cashflow
+|	|
+│   ├── Decide whether to lease or buy assets
+|	|	|
+|	|	├── Introduction
+|	|	├── How to acquire assets for your business
+|	|	├── Types of leasing
+|	|	├── Leasing or renting business equipment
+|	|	├── Buying equipment outright
+|	|	├── Understanding depreciation of assets
+|	|	└── Choosing a leasing company
+|	|
+│   ├── Identify potential cashflow problems
+|	|	|
+|	|	├── Introduction
+|	|	├── Keep business forecasts up to date
+|	|	├── How changing market conditions can affect your business
+|	|	├── Working with banks and other lenders
+|	|	└── How to know when your customers are in trouble
+|	|
+│   ├── Invoicing and payment terms
+|	|	|
+|	|	├── Introduction
+|	|	├── Information that invoices must contain
+|	|	├── VAT details to include on invoices
+|	|	├── Setting terms and conditions
+|	|	├── Setting suitable payment terms for your customers
+|	|	├── Commonly used invoice payment terms and their meanings
+|	|	└── Here's how setting the right payment terms improved my business' cashflow
+|	|
+│   ├── Factoring and invoice discounting: the basics
+|	|	|
+|	|	├── Introduction
+|	|	├── How factoring works
+|	|	├── Advantages and disadvantages of factoring
+|	|	├── What makes a business suitable for factoring?
+|	|	├── Recourse factoring and non-recourse factoring
+|	|	├── Invoice discounting
+|	|	├── The cost of factoring and invoice discounting
+|	|	├── Export factoring
+|	|	├── How to choose a factor or invoice discounter
+|	|	├── Supplier finance
+|	|	└── Here's how debt factoring improved my cashflow
+|	|
+│   ├── Credit checking your customers and setting credit limits
+|	|	|
+|	|	├── Introduction
+|	|	├── Credit checking potential customers
+|	|	├── Credit checking new customers
+|	|	└── Setting levels of credit
+|	|
+│   └── Assess and improve your business cashflow
+|		|
+|		├── Introduction
+|		└── Assess and improve your business cashflow
+|
+|
+├── Improve your cashflow and business performance
+|	|
+│   ├── Assess your business' performance
+|	|	|
+|	|	├── Introduction
+|	|	└── Assess your business' performance
+|	|
+│   ├── Assess and improve your business cashflow
+|	|	|
+|	|	├── Introduction
+|	|	└── Assess and improve your business cashflow
+|	|
+│   ├── Ensuring customers pay you on time
+|	|	|
+|	|	├── Introduction
+|	|	├── When does a payment become late?
+|	|	├── Reducing the risk of late or non-payment
+|	|	├── When to charge interest on late payments
+|	|	├── Claiming debt recovery costs on debts and payments
+|	|	├── Taking non-court action to collect debts
+|	|	└── Taking court action to collect debts
+|	|
+│   ├── Recover your debts
+|	|	|
+|	|	├── Introduction
+|	|	└── How can I get customers to pay what they owe me?
+|	|
+│   ├── Avoid insolvency
+|	|	|
+|	|	├── Introduction
+|	|	├── Improve cashflow
+|	|	├── Negotiate with creditors
+|	|	├── Reduce overheads
+|	|	├── Importance of advice when avoiding insolvency
+|	|	├── Possible outcomes for limited companies
+|	|	└── Insolvency outcomes for partnerships and sole traders
+|	|
+│   └── How to turn your business around
+|		|
+|		├── Introduction
+|		├── How to assess your business and plan for improvement
+|		├── How to improve your cashflow
+|		├── How to respond to changes in the market
+|		├── How to make your business more efficient
+|		├── How you can improve your profitability
+|		├── How to close down your business
+|		└── Here's how I turned my business around in difficult circumstances (Flash video)
+|
+|
+├── Managing a business when economic conditions are tough
+|	|
+|	├── Introduction
+|	├── Analyse the health of your business
+|	├── Minimise cost and maximise efficiency
+|	├── Keep your cashflow healthy
+|	├── Limit the risks your business faces
+|	├── Develop an effective survival strategy
+|	├── Access sources of business support
+|	├── Checklist - key tasks when economic conditions are tough
+|	├── Here's how my business survived adverse trading conditions
+|	└── Here's how I grew my business during a recession
+|
+|
+├── Managing suppliers and payments
+|	|
+│   ├── Manage your suppliers
+|	|	|
+|	|	├── Introduction
+|	|	├── Getting quality service from your suppliers
+|	|	├── Building good relationships with suppliers
+|	|	├── Paying your suppliers on time
+|	|	├── Using technology to improve your supply chain efficiency
+|	|	├── Drawing up service level agreements with suppliers
+|	|	├── Reviewing your suppliers' performance
+|	|	├── Ending supplier contracts
+|	|	└── Here's how I reduced supplier costs
+|	|
+│   ├── Invoicing and payment terms
+|	|	|
+|	|	├── Introduction
+|	|	├── Information that invoices must contain
+|	|	├── VAT details to include on invoices
+|	|	├── Setting terms and conditions
+|	|	├── Setting suitable payment terms for your customers
+|	|	├── Commonly used invoice payment terms and their meanings
+|	|	└── Here's how setting the right payment terms improved my business' cashflow
+|	|
+│   ├── Getting paid when selling overseas
+|	|	|
+|	|	├── Introduction
+|	|	├── Research overseas customers' and markets' creditworthiness
+|	|	├── Payment terms for overseas customers
+|	|	├── Receiving payments from overseas customers
+|	|	├── Assess the risk level for overseas payments
+|	|	├── Managing your overseas customers' payment performance
+|	|	└── Insurance against non-payment by overseas customers
+|	|
+│   ├── Credit checking your customers and setting credit limits
+|	|	|
+|	|	├── Introduction
+|	|	├── Credit checking potential customers
+|	|	├── Credit checking new customers
+|	|	└── Setting levels of credit
+|	|
+│   ├── Factoring and invoice discounting: the basics
+|	|	|
+|	|	├── Introduction
+|	|	├── How factoring works
+|	|	├── Advantages and disadvantages of factoring
+|	|	├── What makes a business suitable for factoring?
+|	|	├── Recourse factoring and non-recourse factoring
+|	|	├── Invoice discounting
+|	|	├── The cost of factoring and invoice discounting
+|	|	├── Export factoring
+|	|	├── How to choose a factor or invoice discounter
+|	|	├── Supplier finance
+|	|	└── Here's how debt factoring improved my cashflow
+|	|
+│   └── Ensuring customers pay you on time
+|		|
+|		├── Introduction
+|		├── When does a payment become late?
+|		├── Reducing the risk of late or non-payment
+|		├── When to charge interest on late payments
+|		├── Claiming debt recovery costs on debts and payments
+|		├── Taking non-court action to collect debts
+|		└── Taking court action to collect debts
+|
+|
+├── Debt recovery
+|	|
+│   ├── Ensuring customers pay you on time
+|	|	|
+|	|	├── Introduction
+|	|	├── When does a payment become late?
+|	|	├── Reducing the risk of late or non-payment
+|	|	├── When to charge interest on late payments
+|	|	├── Claiming debt recovery costs on debts and payments
+|	|	├── Taking non-court action to collect debts
+|	|	└── Taking court action to collect debts
+|	|
+│   ├── Recover your debts
+|	|	|
+|	|	├── Introduction
+|	|	└── How can I get customers to pay what they owe me?
+|	|
+│   ├── Dissolved company assets: the basics
+|	|	|
+|	|	├── Introduction
+|	|	├── Bona vacantia assets
+|	|	├── Assets of a dissolved company
+|	|	├── Discretionary payments for dissolved companies
+|	|	├── Bona vacantia rules and regulations for the Treasury Solicitor
+|	|	└── How to contact the Treasury Solicitor's Bona Vacantia Division
+|	|
+│   ├── Calculate the interest due on an unpaid debt
+|	|	|
+|	|	├── Introduction
+|	|	└── How much interest should I charge?
+|	|
+│   ├── Formal requests for payment: statutory demands
+|	|	|
+|	|	├── Introduction
+|	|	├── What is a statutory demand?
+|	|	├── Serving a statutory demand
+|	|	├── Information a statutory demand should contain
+|	|	├── Proof of serving a statutory demand
+|	|	└── What to do if you are served with a statutory demand
+|	|
+│   ├── Get help and advice about your debt problems
+|	|	|
+|	|	├── Introduction
+|	|	├── When and how to seek debt help
+|	|	├── Where to find advice on debt
+|	|	└── Where to find advice on insolvency
+|	|
+│   ├── Recover debt through court
+|	|	|
+|	|	├── Introduction
+|	|	├── Deciding whether to take your debt claim to court
+|	|	├── Choosing the right legal route for your debt claim
+|	|	├── Using solicitors and debt recovery agents
+|	|	├── Issuing your debt claim
+|	|	├── What happens after your debt claim has been served
+|	|	├── What happens if your debt claim is contested
+|	|	├── Recovering interest on unpaid debts
+|	|	├── Enforcing the judgment on your debt claim
+|	|	├── Winding up and bankruptcy petitions
+|	|	├── Recovering debt from elsewhere in the European Union
+|	|	└── Here's how I recovered a debt using the law
+|	|
+│   ├── Recover your debt through court: Money Claim Online
+|	|	|
+|	|	├── Introduction
+|	|	├── Information to consider before making a Money Claim Online claim
+|	|	├── Alternative dispute resolution (ADR)
+|	|	├── Who can and cannot use Money Claim Online
+|	|	├── Is Money Claim Online secure?
+|	|	└── Using Money Claim Online to issue or respond to a claim
+|	|
+│   ├── Recover your debt through court: Possession Claim Online
+|	|	|
+|	|	├── Introduction
+|	|	├── Information to consider before making a Possession Claim Online claim
+|	|	├── Who can and cannot use Possession Claim Online?
+|	|	├── Is Possession Claim Online secure?
+|	|	├── How to use Possession Claim Online
+|	|	└── Useful links for Possession Claim Online
+|	|
+│   ├── Owed money from a bankrupt or a company in liquidation
+|	|	|
+|	|	├── Introduction
+|	|	├── Who deals with bankruptcy and company liquidation claims?
+|	|	├── Ensuring you are registered as a creditor
+|	|	├── Making a claim and the order of repayment
+|	|	├── Creditors' meetings and creditors'/liquidation committees
+|	|	├── Conduct and voting at creditors' meetings
+|	|	└── Completion of bankruptcy and company liquidation cases
+|	|
+│   ├── Make someone who owes you money bankrupt
+|	|	|
+|	|	├── Introduction
+|	|	├── The bankruptcy order process
+|	|	├── Courts that deal with bankruptcy petitions
+|	|	├── Presenting a bankruptcy petition
+|	|	└── What happens after someone is declared bankrupt
+|	|
+│   ├── How to wind up a company that owes you money
+|	|	|
+|	|	├── Introduction
+|	|	├── What is compulsory winding up?
+|	|	├── How do I wind up a company?
+|	|	├── Completing the winding-up petition
+|	|	├── How to serve the petition
+|	|	├── After serving the petition
+|	|	├── What happens at the hearing?
+|	|	├── What happens after the winding-up order is made?
+|	|	└── Sources of further information about company winding-up proceedings
+|	|
+│   └── Avoid insolvency
+|		|
+|		├── Introduction
+|		├── Improve cashflow
+|		├── Negotiate with creditors
+|		├── Reduce overheads
+|		├── Importance of advice when avoiding insolvency
+|		├── Possible outcomes for limited companies
+|		└── Insolvency outcomes for partnerships and sole traders
+|
+|
+├── Business banking
+|	|
+│   ├── How to choose and manage a business bank account
+|	|	|
+|	|	├── Introduction
+|	|	├── Choosing a business bank account
+|	|	├── Open a business bank account
+|	|	├── Manage a business account
+|	|	├── How to switch banks
+|	|	├── Online banking
+|	|	└── Bank charges
+|	|
+│   ├── Debit and credit cards for your business
+|	|	|
+|	|	├── Introduction
+|	|	├── Types of card available
+|	|	├── Business benefits of debit and credit cards
+|	|	├── Drawbacks of debit and credit cards
+|	|	├── Choosing a card provider
+|	|	└── Risks of financing a business with a personal credit card
+|	|
+│   ├── Using payment cards to buy and sell goods or services
+|	|	|
+|	|	├── Introduction
+|	|	├── Types of payment cards available
+|	|	├── Pros and cons of using payment cards for purchases
+|	|	├── Choosing a payment card provider
+|	|	├── Risks of financing a business with a personal credit card
+|	|	├── Pros and cons of accepting payment cards for sales
+|	|	├── Accepting card payments: the key steps to take
+|	|	├── Setting up a merchant account
+|	|	├── How the card payment process works
+|	|	├── The costs of accepting card payments
+|	|	├── Your liability for disputed card payments
+|	|	└── Payment card security measures
+|	|
+│   ├── Accepting online payments
+|	|	|
+|	|	├── Introduction
+|	|	├── Online payment jargon
+|	|	├── Payment Card Industry Data Security Standard compliance
+|	|	├── Selecting the best online payment option
+|	|	├── Setting up an internet merchant account
+|	|	├── Find a bank to process your online payments
+|	|	├── Checklist: applying for an internet merchant account
+|	|	├── Using a payment-processing company
+|	|	├── Selling through an online shopping mall
+|	|	└── Here's how I set up an online payment system for my website
+|	|
+│   ├── Foreign currency and exchange risks
+|	|	|
+|	|	├── Introduction
+|	|	├── Foreign currency issues when importing or exporting
+|	|	├── Identify foreign exchange risks
+|	|	├── Forward foreign exchange contracts
+|	|	├── Banking overseas and UK-based foreign currency accounts
+|	|	├── Buying currency options
+|	|	└── Foreign currency transactions and your bookkeeping
+|	|
+│   └── Understanding European banking services
+|		|
+|		├── Introduction
+|		├── Business banking services offered by European banks
+|		├── What you will need to set up your business account in Europe
+|		├── Accessibility of European banks
+|		├── UK bank business accounts for Europe
+|		├── Writing a business plan for a European bank
+|		├── Credit checks in Europe
+|		└── Single European Payment Area
+|
+|
+├── Insurance
+|	|
+│   ├── Get the right insurance for your business
+|	|	|
+|	|	├── Introduction
+|	|	└── What insurance does my business need?
+|	|
+│   ├── Insure your business and assets - general insurances
+|	|	|
+|	|	├── Introduction
+|	|	├── Insuring your business premises
+|	|	├── Contents insurance
+|	|	├── Specialist insurance
+|	|	├── Motor insurance
+|	|	├── Business insurance if you work from home
+|	|	├── Getting the right insurance cover
+|	|	├── Making an insurance claim
+|	|	└── Reducing the risk to cut premiums
+|	|
+│   ├── Insure your business - people, life and health
+|	|	|
+|	|	├── Introduction
+|	|	├── Identifying risks and insuring against them
+|	|	├── Basic types of life and health insurance
+|	|	├── Protecting the business - loss of a key person
+|	|	├── Protecting the business - loss of a partner or key shareholder
+|	|	├── Insurance protection for the owner-manager or the self-employed
+|	|	└── Insurance as an employee benefit
+|	|
+│   ├── Liability insurance
+|	|	|
+|	|	├── Introduction
+|	|	├── How liability insurance works
+|	|	├── Employers' liability insurance
+|	|	├── Public liability insurance
+|	|	├── Product liability insurance
+|	|	├── Insurance against pollution damages
+|	|	├── Property owners' liability insurance
+|	|	├── Professional indemnity insurance
+|	|	├── Directors' and officers' liability insurance
+|	|	├── Seek specialist advice
+|	|	└── Here's how I checked what insurance I need
+|	|
+│   ├── Insurance for international trade
+|	|	|
+|	|	├── Introduction
+|	|	├── Weighing up import and export risks
+|	|	├── Insuring goods in transit
+|	|	├── Product liability insurance
+|	|	├── Insuring against non-payment
+|	|	├── Find an export credit insurer
+|	|	├── Export finance and insurance
+|	|	└── Trade Facilitation Programme for certain regions
+|	|
+│   └── Choose an insurance adviser and present your risk
+|		|
+|		├── Introduction
+|		├── Who to consult and how insurance works
+|		├── Minimise your risks and your costs
+|		├── Presenting your risk details
+|		├── Where to get advice on choosing a broker
+|		├── Where to get advice on choosing an independent financial adviser
+|		├── Manage the relationship with your insurance adviser
+|		└── Where to go if you have problems with your broker or insurer
+|
+|
+├── Expert financial advice
+|	|
+│   ├── Choose and work with an accountant
+|	|	|
+|	|	├── Introduction
+|	|	├── How an accountant can help your business
+|	|	├── Choosing an accountant
+|	|	├── Checklist: ten things to ask your prospective accountant
+|	|	├── Managing the relationship with your accountant
+|	|	└── Here's how I used an accountant to help me in my business
+|	|
+│   ├── Get help and advice about your debt problems
+|	|	|
+|	|	├── Introduction
+|	|	├── When and how to seek debt help
+|	|	├── Where to find advice on debt
+|	|	└── Where to find advice on insolvency
+|	|
+│   ├── Choose an insurance adviser and present your risk
+|	|	|
+|	|	├── Introduction
+|	|	├── Who to consult and how insurance works
+|	|	├── Minimise your risks and your costs
+|	|	├── Presenting your risk details
+|	|	├── Where to get advice on choosing a broker
+|	|	├── Where to get advice on choosing an independent financial adviser
+|	|	├── Manage the relationship with your insurance adviser
+|	|	└── Where to go if you have problems with your broker or insurer
+|	|
+│   └── Choose and work with a solicitor
+|		|
+|		├── Introduction
+|		├── When will I need legal advice?
+|		├── Find a solicitor
+|		├── Choose a solicitor
+|		├── Ten questions you should ask your prospective solicitor
+|		├── Manage the relationship with your solicitor
+|		└── What to do if things go wrong
+|
+|
+├── Introduction to insolvency
+|	|
+│   ├── Avoid insolvency
+|	|	|
+|	|	├── Introduction
+|	|	├── Improve cashflow
+|	|	├── Negotiate with creditors
+|	|	├── Reduce overheads
+|	|	├── Importance of advice when avoiding insolvency
+|	|	├── Possible outcomes for limited companies
+|	|	└── Insolvency outcomes for partnerships and sole traders
+|	|
+│   └── Insolvency: the basics
+|		|
+|		├── Introduction
+|		├── Avoiding bankruptcy and winding up
+|		├── Insolvency of limited companies
+|		├── Insolvency of partnerships
+|		├── Insolvency of individuals
+|		├── Official receiver and insolvency practitioners
+|		├── Effect of insolvency on employees
+|		└── Long-term effects of insolvency
+|
+|
+├── Insolvency information for limited companies
+|	|
+│   ├── Liquidation and alternatives for companies and limited liability partnerships
+|	|	|
+|	|	├── Introduction
+|	|	├── Understanding liquidation
+|	|	├── Alternatives to liquidation
+|	|	├── Members' and creditors' voluntary liquidation
+|	|	├── Consequences of voluntary liquidation
+|	|	├── Compulsory liquidation for companies and limited liability partnerships
+|	|	└── Restrictions on insolvency proceedings for companies and limited liability partnerships
+|	|
+│   ├── Compulsory liquidation for companies and limited liability partnerships: the process
+|	|	|
+|	|	├── Introduction
+|	|	├── Compulsory liquidations
+|	|	├── The winding-up procedure
+|	|	├── Winding-up orders
+|	|	├── Preparing for an interview with the official receiver
+|	|	├── What happens at the interview with the official receiver
+|	|	├── What happens after the interview with the official receiver
+|	|	├── How long the liquidation process takes
+|	|	├── Acting as the director of another company or member of an LLP during liquidation
+|	|	├── Criminal proceedings in compulsory winding up
+|	|	└── What to do if you are dissatisfied with the handling of the liquidation
+|	|
+│   ├── Director disqualification
+|	|	|
+|	|	├── Introduction
+|	|	├── Disqualification of unfit directors of insolvent companies
+|	|	├── Disqualification proceedings
+|	|	├── The effects of disqualification
+|	|	├── Criminal proceedings for breaches of a disqualification order
+|	|	└── Sources of further information about director disqualification orders
+|	|
+│   ├── Reuse of a company name after liquidation
+|	|	|
+|	|	├── Introduction
+|	|	├── Prohibited names and restrictions
+|	|	├── Penalties for breaching rules on the use of prohibited names
+|	|	└── Exceptions to the restrictions on the reuse of a prohibited name
+|	|
+│   └── Being interviewed by the official receiver
+|		|
+|		├── Introduction
+|		├── Background to your meeting with the official receiver
+|		├── What you should do before the interview
+|		├── What happens at the office or telephone interview
+|		├── What happens after the interview
+|		└── How long the process takes
+|
+|
+├── Insolvency information for partnerships
+|	|
+│   ├── Liquidation and alternatives for partnerships
+|	|	|
+|	|	├── Introduction
+|	|	├── What a partnership is, and how to wind up a partnership that owes money
+|	|	└── How to wind up your own partnership
+|	|
+│   └── Director disqualification
+|		|
+|		├── Introduction
+|		├── Disqualification of unfit directors of insolvent companies
+|		├── Disqualification proceedings
+|		├── The effects of disqualification
+|		├── Criminal proceedings for breaches of a disqualification order
+|		└── Sources of further information about director disqualification orders
+|
+|
+├── Insolvency information for sole traders and individuals
+|	|
+│   ├── Alternatives to bankruptcy
+|	|	|
+|	|	├── Insolvency options for individuals
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	└── What other options do I have when considering bankruptcy?
+|	|	|
+|	|	├── Insolvency options for individuals: Debt Relief Orders
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── What are Debt Relief Orders?
+|	|	|	├── Applying for a Debt Relief Order
+|	|	|	├── Who deals with your Debt Relief Order case?
+|	|	|	├── Your duties when considering a Debt Relief Order
+|	|	|	├── How will a Debt Relief Order affect you?
+|	|	|	└── The restrictions of a Debt Relief Order
+|	|	|
+|	|	└── Individual insolvency: find out your options for dealing with debt
+|	|		|
+|	|		├── Introduction
+|	|		├── What to consider when thinking about alternatives to bankruptcy
+|	|		├── Negotiated agreement with creditors
+|	|		├── Debt reorganisation or consolidation plan
+|	|		├── Debt management plan
+|	|		├── County Court Administration Order
+|	|		├── Individual Voluntary Arrangement
+|	|		├── Debt Relief Order
+|	|		└── Bankruptcy
+|	|
+|	|
+│   ├── The bankruptcy process
+|	|	|
+|	|	├── Bankruptcy: the basics
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── An introduction to bankruptcy
+|	|	|	├── The effects and restrictions of bankruptcy
+|	|	|	├── How long does bankruptcy last?
+|	|	|	├── Becoming free from bankruptcy
+|	|	|	├── How an individual is made bankrupt for personal debts
+|	|	|	├── Bankruptcy orders
+|	|	|	├── The official receiver's role in bankruptcy proceedings
+|	|	|	├── What you must do when you become bankrupt
+|	|	|	├── Preparing for an interview with the official receiver
+|	|	|	├── Your interview with the official receiver
+|	|	|	└── How long the interview process takes
+|	|	|
+|	|	├── How to make yourself bankrupt
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Where to get advice about bankruptcy
+|	|	|	├── How to petition for your own bankruptcy
+|	|	|	├── Which court you should use for bankruptcy
+|	|	|	├── The costs involved in making yourself bankrupt
+|	|	|	├── How the court can deal with your bankruptcy petition
+|	|	|	└── Your duties as a bankrupt
+|	|	|
+|	|	├── Being interviewed by the official receiver
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Background to your meeting with the official receiver
+|	|	|	├── What you should do before the interview
+|	|	|	├── What happens at the office or telephone interview
+|	|	|	├── What happens after the interview
+|	|	|	└── How long the process takes
+|	|	|
+|	|	├── Income Payments Agreements and Income Payments Orders
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── What is an Income Payments Agreement?
+|	|	|	├── What is an Income Payments Order?
+|	|	|	├── How Income Payments Orders and Income Payments Agreements payments are calculated
+|	|	|	├── Reasonable domestic expenses
+|	|	|	├── Things you can include in your income
+|	|	|	├── Missing a payment
+|	|	|	└── Applying for a nil tax code
+|	|	|
+|	|	├── Fast Track Voluntary Arrangements
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Fast Track Voluntary Arrangements explained
+|	|	|	├── The Fast Track Voluntary Arrangement process
+|	|	|	├── Cost and compliance with your Fast Track Voluntary Arrangement
+|	|	|	├── Proposing a Fast Track Voluntary Arrangement
+|	|	|	└── Official receivers as Fast Track Voluntary Arrangement nominee
+|	|	|
+|	|	└── How to wind up a company that owes you money
+|	|		|
+|	|		├── Introduction
+|	|		├── What is compulsory winding up?
+|	|		├── How do I wind up a company?
+|	|		├── Completing the winding-up petition
+|	|		├── How to serve the petition
+|	|		├── After serving the petition
+|	|		├── What happens at the hearing?
+|	|		├── What happens after the winding-up order is made?
+|	|		└── Sources of further information about company winding-up proceedings
+|	|
+|	|
+│   ├── How bankruptcy affects you and your business
+|	|	|
+|	|	├── The effects of bankruptcy
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── What happens to your business when you go bankrupt?
+|	|	|	├── Your assets and bankruptcy
+|	|	|	├── Your home if you are made bankrupt
+|	|	|	├── Your pension and bankruptcy
+|	|	|	├── Life insurance policies and your bankruptcy
+|	|	|	├── Work-related registrations, licences and permissions and bankruptcy
+|	|	|	├── Pay and other income during bankruptcy
+|	|	|	├── Bankruptcy, you and your creditors
+|	|	|	└── Bank and building society accounts if you're made bankrupt
+|	|	|
+|	|	├── Bankruptcy: what happens to your home
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Will my property be sold?
+|	|	|	├── Selling your property - beneficial interest
+|	|	|	├── Bankruptcy restriction notices and Form J restrictions
+|	|	|	├── Buying the beneficial interest
+|	|	|	└── If no one buys the beneficial interest
+|	|	|
+|	|	├── Bankruptcy: what happens to your bank account
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── What does the official receiver do?
+|	|	|	├── Bank and building society accounts
+|	|	|	└── Opening a new bank account as a bankrupt
+|	|	|
+|	|	├── Bankruptcy: what happens to your pension
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── How bankruptcy will affect your pension
+|	|	|	├── Information about your pension for the official receiver and your trustee
+|	|	|	├── What are approved pension schemes?
+|	|	|	└── If you were made bankrupt before 29 May 2000
+|	|	|
+|	|	├── Ending bankruptcy: discharge, early discharge and annulment
+|	|	|	|
+|	|	|	├── Introduction
+|	|	|	├── Discharge from bankruptcy
+|	|	|	├── Early discharge from bankruptcy
+|	|	|	├── The effect of a discharge from bankruptcy
+|	|	|	├── What happens to public records of your bankruptcy
+|	|	|	├── Annulment of bankruptcy
+|	|	|	├── Applying for an annulment
+|	|	|	├── Can I stop the bankruptcy order being advertised?
+|	|	|	└── The effect of annulment
+|	|	|
+|	|	└── Sanctions on behaviour in event of a bankruptcy
+|	|		|
+|	|		├── Introduction
+|	|		├── Conditions placed upon you by a bankruptcy restrictions order or undertaking
+|	|		├── Behaviour that could cause the official receiver to apply for a bankruptcy restrictions order against you?
+|	|		├── Applications for a bankruptcy restrictions order by the official receiver
+|	|		├── Bankruptcy restrictions undertakings
+|	|		└── If your bankruptcy is annulled
+|	|
+|	|
+│   └── Individual Insolvency Register
+|		|
+|		├── Introduction
+|		├── The Individual Insolvency Register
+|		├── How to search the register
+|		├── How long do records stay on the register?
+|		└── Where to get more information
+|
+|
+├── Complain against an insolvency practitioner or The Insolvency Service
+|	|
+|	├── Introduction
+|	├── Complaints against The Insolvency Service
+|	├── Dealing with unresolved Insolvency Service complaints after the initial response
+|	├── Taking your case to the Ombudsman
+|	├── How The Insolvency Service responds to complaints
+|	├── How to complain about an insolvency practitioner
+|	├── What to consider before making a complaint
+|	├── How to make a complaint about an authorised insolvency practitioner
+|	└── Directory of authorised professional bodies
+|
+|
+├── How to complain against a company or limited liability partnership
+|	|
+|	├── Introduction
+|	├── What a company investigation involves
+|	├── How to complain to Corporate Complaints
+|	├── Investigations by Company Investigations
+|	└── Possible outcomes after an investigation by Company Investigations
+|
+|
+└── Recover assets
+	|
+	├── Dissolved company assets: the basics
+	|	|
+	|	├── Introduction
+	|	├── Bona vacantia assets
+	|	├── Assets of a dissolved company
+	|	├── Discretionary payments for dissolved companies
+	|	├── Bona vacantia rules and regulations for the Treasury Solicitor
+	|	└── How to contact the Treasury Solicitor's Bona Vacantia Division
+	|
+	├── What happens to assets owned by a dissolved company
+	|	|
+	|	├── Introduction
+	|	├── What a dissolved company is and how its assets are dealt with
+	|	├── The role of the Treasury Solicitor in dealing with bona vacantia
+	|	├── What happens to bank accounts of dissolved companies
+	|	├── What happens to domain names owned by dissolved companies
+	|	├── The statutory power of disclaimer
+	|	├── Jurisdiction for dealing with assets of dissolved companies
+	|	├── Assets of clubs and societies in bona vacantia
+	|	└── Information required for assets of dissolved societies
+	|
+	├── Discretionary grants for dissolved companies that can be restored
+	|	|
+	|	├── Introduction
+	|	├── Role of the Treasury Solicitor in the discretionary grant process for dissolved companies that can be restored
+	|	├── Applying for a discretionary grant where a dissolved company can be restored
+	|	├── How the Treasury Solicitor determines who receives discretionary grants
+	|	├── Statutory Declarations and what to include for companies that can be restored
+	|	├── Proof of identity needed for grant applications where a dissolved company can be restored
+	|	├── What happens when the Treasury Solicitor makes a discretionary grant where a dissolved company can be restored
+	|	└── Information required for applying for a discretionary grant
+	|
+	├── Discretionary grants for dissolved companies that cannot be restored
+	|	|
+	|	├── Introduction
+	|	├── Role of the Treasury Solicitor in the discretionary grant process for dissolved companies that cannot be restored
+	|	├── Applying for a discretionary grant where a dissolved company cannot be restored
+	|	├── How the Treasury Solicitor determines who receives discretionary grants
+	|	├── Statutory Declarations and what to include for companies that cannot be restored
+	|	├── Proof of identity for grant applications where a dissolved company cannot be restored
+	|	├── What happens when the Treasury Solicitor makes a discretionary grant where a dissolved company cannot be restored
+	|	└── Information required when applying for a discretionary grant
+	|
+	├── Shares owned by a dissolved company
+	|	|
+	|	├── Introduction
+	|	├── The role of the Treasury Solicitor in the sale of shares vested in the Crown as 'ownerless property'
+	|	├── Dealing with the Treasury Solicitor for selling shares owned by a dissolved company
+	|	├── Treasury Solicitor's legal costs when selling shares
+	|	├── Taking professional advice on bona vacantia
+	|	└── Information required by the Treasury Solicitor for dissolved company's shares
+	|
+	├── Vacant land and buildings owned by a dissolved company
+	|	|
+	|	├── Introduction
+	|	├── Role of Treasury Solicitor's department in the sale of 'ownerless' land and buildings
+	|	├── Conditions of sale for 'ownerless' land and buildings
+	|	├── Other people's rights over 'ownerless' land or buildings
+	|	├── Valuing the 'ownerless' land or buildings
+	|	├── How to buy 'ownerless' land or buildings
+	|	├── What happens when the Treasury Solicitor disclaims 'ownerless' land and buildings
+	|	└── Information required by the Treasury Solicitor for the purchase of 'ownerless' land and buildings
+	|
+	├── Residential freehold property owned by a dissolved company
+	|	|
+	|	├── Introduction
+	|	├── Role of the Treasury Solicitor in the sale of residential freehold property subject to leases
+	|	├── Conditions of sale for ownerless freehold property subject to leases
+	|	├── Applying to buy a residential freehold property, subject to leases owned by a dissolved company
+	|	├── How freehold title purchase prices are calculated
+	|	├── What happens when the Treasury Solicitor gives up its right to freehold property
+	|	└── Information required when buying a freehold reversion
+	|
+	├── Headleases of property owned by a dissolved company
+	|	|
+	|	├── Introduction
+	|	├── Role of Treasury Solicitor's department in the sale of headleases of property subject to under-leases
+	|	├── Conditions of sale for the headlease of property vested in the Crown
+	|	├── Applying to buy a headlease for a property owned by a dissolved company
+	|	├── How headlease title purchase prices are calculated
+	|	├── What happens when the Treasury Solicitor gives up its claim to the headlease of a residential property
+	|	└── Information required for buying a headlease
+	|
+	├── Disclaiming property vested in the Crown as bona vacantia
+	|	|
+	|	├── Introduction
+	|	├── The role of the Treasury Solicitor in disclaiming property
+	|	├── Treasury Solicitor's powers to deal with dissolved company property
+	|	├── Properties that the Treasury Solicitor can disclaim
+	|	└── Information required by the Treasury Solicitor for disclaiming property
+	|
+	├── Mortgages and charges owned by a dissolved company
+	|	|
+	|	├── Introduction
+	|	├── The role of the Treasury Solicitor in dealing with mortgages and charges of a dissolved company
+	|	├── How bona vacantia affects mortgages
+	|	├── How bona vacantia affects charging orders
+	|	├── How the lender's ability to pursue recovery may be limited
+	|	└── Information required by the Treasury Solicitor
+	|
+	├── Intellectual property and rights owned by a dissolved company
+	|	|
+	|	├── Introduction
+	|	├── The role of the Treasury Solicitor in dealing with ownerless intellectual property and rights
+	|	├── How the Treasury Solicitor deals with intellectual property and rights of a dissolved company
+	|	├── The legal costs of purchasing intellectual property and rights from the Treasury Solicitor
+	|	└── Information required by the Treasury Solicitor for dissolved company's intellectual property rights
+	|
+	├── Trade marks owned by a dissolved company
+	|	|
+	|	├── Introduction
+	|	├── Role of the Treasury Solicitor in the sale of trade marks
+	|	├── How the Treasury Solicitor deals with a dissolved company's trade mark
+	|	├── The Treasury Solicitor's legal costs for dealing with ownerless trade marks
+	|	├── Professional advice for dealing with ownerless trade marks
+	|	└── Information required by the Treasury Solicitor for a dissolved company's trade marks
+	|
+	├── Repaying funds to restored companies
+	|	|
+	|	├── Introduction
+	|	├── The role of the Treasury Solicitor in company restoration
+	|	├── Applying for the repayment of assets to a restored company
+	|	└── How the Treasury Solicitor repays a restored company's assets
+	|
+	├── Adverse possession of land and buildings where the Title is not registered
+	|	|
+	|	├── Introduction
+	|	├── Role of the Treasury Solicitor in adverse possession of land and buildings where the title is unregistered
+	|	├── How adverse possession works
+	|	└── How to become a registered owner if you have adverse possession of a property
+	|
+	├── Adverse possession of land and buildings where the Title is registered
+	|	|
+	|	├── Introduction
+	|	├── Role of the Treasury Solicitor in adverse possession of land and buildings where the title is registered
+	|	├── How adverse possession works and applying for ownership
+	|	└── How to apply to be the registered owner of property in adverse possession
+	|
+	├── Sale by a mortgagee of land and buildings vested in the Crown as bona vacantia
+	|	|
+	|	├── Introduction
+	|	├── Role of the Treasury Solicitor in property vested in the Crown as bona vacantia
+	|	├── How a sale by a mortgagee works
+	|	├── How to sell bona vacantia property as a mortgagee
+	|	└── Information required for selling bona vacantia as a mortgagee
+	|
+	├── How to calculate purchase prices and legal costs for bona vacantia assets
+	|	|
+	|	├── Introduction
+	|	├── Sale of ownerless residential freehold land and buildings to the occupying tenants
+	|	├── Sale of ownerless residential head leasehold land and buildings to the occupying tenants
+	|	├── Sale of ownerless vacant and commercial land, buildings and other leasehold property
+	|	├── Sale of ownerless intellectual property and rights
+	|	├── Sale of ownerless shares
+	|	└── The Treasury Solicitor's legal costs, disbursements and fixed charges
+	|
+	├── Guidelines to financial institutions about cash balances owned by a dissolved company
+	|	|
+	|	├── Introduction
+	|	├── Discretionary payments from cash balances
+	|	├── What you should consider when referring a credit balance to the Treasury Solicitor
+	|	└── What to send the Treasury Solicitor when dealing with dissolved companies' cash balances
+	|
+	├── The distribution of a dissolved company's share capital
+	|	|
+	|	├── Introduction
+	|	├── The effects of dissolution on a company's assets
+	|	├── Dissolved company shares and maintaining share capital
+	|	├── The distribution of share capital for dissolved companies
+	|	└── Share capital distribution limit for dissolved companies
+	|
+	├── Copyright owned by a dissolved company
+	|	|
+	|	├── Introduction
+	|	├── The role of the Treasury Solicitor in the sale of copyright of dissolved companies
+	|	├── When the Treasury Solicitor can sell a copyright
+	|	├── Buying ownerless copyright from the Treasury Solicitor
+	|	└── Information required for the sale of copyright as bona vacantia
+	|
+	└── Treasury Solicitor consent for administrative restoration
+		|
+		├── Introduction
+		├── The role of the Treasury Solicitor in administrative restoration of a company
+		├── Preconditions for applying for an administrative restoration waiver letter
+		├── How to apply for a waiver letter to restore a dissolved company
+		└── How long does the application for a waiver letter take?
+
