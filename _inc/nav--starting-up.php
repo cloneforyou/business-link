@@ -149,6 +149,38 @@
 		</li>
 		<li data-accordion-item>
 			<a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a>
+			<!-- 
+			|
+			├── Use your own money to start up
+			|	|
+			│   ├── Understand how much money you need to start up
+			|	|
+			│   ├── Raise finance from outside investors or other sources to get started
+			|	|
+			│   ├── Raise finance from family and friends
+			|	|
+			│   ├── Understand the basics of business banking
+			|	|
+			│   ├── Explore your finance options when starting up
+			|	|
+			│   ├── Decide if you need an accountant or an adviser
+			|	|
+			│   ├── Meet your financial commitments
+			|	|
+			│   ├── Find out what to do if you're refused finance
+			|	|
+			│   ├── Understand how to set up a record-keeping system
+			|	|
+			│   ├── Financial and management accounts: the basics
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── Financial accounts
+			|	|	├── Filing financial accounts
+			|	|	├── Management accounts
+			|	|	├── Uses of management accounting
+			|	|	├── The importance of maintaining accurate accounts
+			|	|	└── False accounting
+			// -->
 			<ul>
 				<li>
 					<a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory.php">Stock control and inventory</a>
@@ -171,6 +203,18 @@
 		</li>
 		<li>
 			<a href="/starting-up/business-structures.php">Business structures</a>
+			<!-- 
+			|
+			├── Business structures
+			|	|
+			│   ├── Understand the different business types
+			|	|
+			│   ├── Choose the right business model and legal structure
+			|	|
+			│   ├── Register with Companies House
+			|	|
+			│   ├── Incorporate your company online
+			// -->
 			<ul>
 				<li><a href="/starting-up/business-structures.php" title="Business structures">Introduction</a></li>
 				<li>
@@ -364,16 +408,347 @@
 			</ul>
 		</li>
 		<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">Get to grips with business taxes</a></li>
-		<li><a href="/starting-up/tax-and-national-insurance-for-self-employed-and-partners.php">Tax and National Insurance for self-employed or partners</a></li>
-		<li><a href="/starting-up/corporation-tax.php">Corporation Tax</a></li>
-		<li><a href="/starting-up/vat.php">VAT</a></li>
-		<li><a href="/starting-up/tax-and-payroll-for-employers.php">Tax and payroll for employers</a></li>
-		<li><a href="/starting-up/become-an-employer-for-the-first-time.php">Become an employer for the first time</a></li>
-		<li><a href="/starting-up/sales-and-marketing.php">Sales and marketing</a></li>
-		<li><a href="/starting-up/it-and-ecommerce-for-startups.php">IT and e-commerce for start ups</a></li>
-		<li><a href="/starting-up/trade-with-other-countries.php">Trade with other countries</a></li>
-		<li><a href="/starting-up/protect-your-business-ideas.php">Protect your business ideas</a></li>
-		<li><a href="/starting-up/further-support-for-your-business.php">Further support for your business</a></li>
-		<li><a href="/starting-up/take-the-next-steps.php">Take the next steps</a></li>
+		<li>
+			<a href="/starting-up/tax-and-national-insurance-for-self-employed-and-partners.php">Tax and National Insurance for self-employed or partners</a>
+			<!-- 
+			|
+			├── Tax and National Insurance for self-employed or partners
+			|	|
+			│   ├── Get started with Income Tax and National Insurance
+			|	|
+			│   ├── Find out about Self Assessment and your tax return
+			|	|
+			│   └── Get to grips with expenses and records if you're self-employed
+			// -->
+		</li>
+		<li>
+			<a href="/starting-up/corporation-tax.php">Corporation Tax</a>
+			<!-- 
+			|
+			├── Corporation Tax
+			|	|
+			│   ├── Who is liable for Corporation Tax
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── Who is subject to Corporation Tax requirements?
+			|	|	├── Who is not subject to Corporation Tax requirements?
+			|	|	├── What activities are exempt from Corporation Tax?
+			|	|	└── What you must do if your company or organisation is liable for Corporation Tax
+			|	|
+			│   └── Get started with Corporation Tax
+			|
+			// -->
+		</li>
+		<li>
+			<a href="/starting-up/vat.php">VAT</a>
+			<!-- 
+			|
+			├── VAT
+			|	|
+			│   ├── Introduction to VAT
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── What is VAT?
+			|	|	├── Who charges VAT and what VAT is charged on
+			|	|	├── Rates of VAT
+			|	|	├── Items not covered by VAT
+			|	|	├── The difference between exempt and zero-rated
+			|	|	├── Find out more about VAT
+			|	|	├── VAT glossary
+			|	|	├── Here's how I got to grips with VAT
+			|	|	└── More Useful Links
+			|	|
+			│   ├── Get to grips with VAT and your business
+			|	|
+			│   ├── VAT registration: how to apply and when
+			|	|
+			│   ├── Understand VAT invoices and receipts
+			|	|
+			│   ├── Run and manage your VAT account
+			|	|
+			│   ├── How to complete your VAT Return box by box
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── How to complete your VAT Return
+			|	|	├── How to complete Box 1 to Box 5
+			|	|	├── How to complete Box 6 and Box 7
+			|	|	├── How to complete Box 8 and Box 9
+			|	|	├── VAT rate changes
+			|	|	└── Here's how I got to grips with VAT
+			|	|
+			│   └── When to register for VAT
+			|		|
+			|		├── Introduction
+			|		└── Do I need to register for VAT?
+			|
+			// -->
+		</li>
+		<li>
+			<a href="/starting-up/tax-and-payroll-for-employers.php">Tax and payroll for employers</a>
+			<!-- 
+			|
+			├── Tax and payroll for employers
+			|	|
+			│   ├── Find out how PAYE works
+			|	|
+			│   ├── Find out if you need to operate PAYE
+			|	|
+			│   ├── Decide whether you need to register as an employer
+			|	|
+			│   ├── PAYE when taking on a new employee
+			|	|
+			│   ├── Keep PAYE records
+			|	|
+			│   ├── Set up a payroll system
+			|	|
+			│   ├── Make PAYE payments to HMRC
+			|	|
+			│   └── Find out what to do for PAYE when an employee leaves
+			|
+			// -->
+		</li>
+		<li>
+			<a href="/starting-up/become-an-employer-for-the-first-time.php">Become an employer for the first time</a>
+			<!-- 
+			|
+			├── Become an employer for the first time
+			|	|
+			│   ├── Take on staff
+			|	|
+			│   ├── Ensuring your workers are eligible to work in the UK
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── Checking a prospective worker's entitlement to work in the UK
+			|	|	├── Copying and retaining workers' records
+			|	|	├── Compliance checks and penalties for immigration offences
+			|	|	├── Here's how migrant workers contribute to our workforce
+			|	|	└── Here's how we check the entitlement of our staff to work in the UK
+			|	|
+			│   ├── Create a written statement of employment
+			|	|
+			│   └── Find out if you need to operate PAYE
+			|
+			// -->
+		</li>
+		<li>
+			<a href="/starting-up/sales-and-marketing.php">Sales and marketing</a>
+			<!-- 
+			|
+			├── Sales and marketing
+			|	|
+			│   ├── Learn how to describe your business to customers
+			|	|
+			│   ├── Understand your market
+			|	|
+			│   ├── Build your brand
+			|	|
+			│   ├── Get your pricing right
+			|	|
+			│   ├── Sell your product or service
+			|	|
+			│   ├── Promote your business
+			|	|
+			│   └── Comply with the law in the provision of goods, facilities and services
+			|		|
+			|		├── Introduction
+			|		├── Supplying satisfactory and safe goods and services
+			|		├── How equality law applies to the provision of goods, facilities and services
+			|		├── Customers and data protection
+			|		├── Getting paid on time
+			|		├── Rules for businesses that don't sell to customers face to face
+			|		├── Special rules for businesses that sell to customers in their home or workplace
+			|		├── Special rules for businesses that sell electronic and electrical goods
+			|		└── The Proof of Age Standards Scheme
+			|
+			// -->
+		</li>
+		<li>
+			<a href="/starting-up/it-and-ecommerce-for-startups.php">IT and e-commerce for start ups</a>
+			<!-- 
+			|
+			├── IT and e-commerce for start ups
+			|	|
+			│   ├── Choose the right IT for your business
+			|	|
+			│   ├── Create your first website
+			|	|
+			│   ├── Get started with e-commerce
+			|	|
+			│   ├── Choose and manage your IT supplier
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── The different types of IT suppliers
+			|	|	├── Identifying and contacting potential IT suppliers
+			|	|	├── Selecting the right IT supplier
+			|	|	├── IT system maintenance
+			|	|	├── IT support services
+			|	|	├── IT system cost evaluation
+			|	|	├── Negotiating the contract for your IT system
+			|	|	├── Benefits of an effective IT supplier relationship
+			|	|	└── Checklist: choosing an IT supplier
+			|	|
+			│   └── Computer software: the basics
+			|		|
+			|		├── Introduction
+			|		├── Business benefits of new software
+			|		├── Types of software
+			|		├── Open source and proprietary software
+			|		├── Licences for proprietary software
+			|		├── Cloud computing - software as a service
+			|		├── Choosing and buying software
+			|		├── Software installation, activation and upgrades
+			|		└── Software support
+			|
+			// -->
+		</li>
+		<li>
+			<a href="/starting-up/trade-with-other-countries.php">Trade with other countries</a>
+			<!-- 
+			|
+			├── Trade with other countries
+			|	|
+			│   ├── Trade with other European Union countries
+			|	|
+			│   ├── Trade with other countries using the internet
+			|	|
+			│   ├── Trade with countries outside the European Union
+			|	|
+			│   ├── Find out about excise duty
+			|	|
+			│   ├── Are you ready to import?
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── Plan your import objectives
+			|	|	├── Understand what importing involves
+			|	|	├── Assess your skills and resources for importing
+			|	|	├── Decide your approach to importing
+			|	|	├── Negotiate the right import deal
+			|	|	└── Review your import readiness
+			|	|
+			│   ├── Exporting - an overview
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── Planning to export?
+			|	|	├── Selling and distribution in overseas markets
+			|	|	├── Marketing your product or service overseas
+			|	|	├── Your legal responsibilities as an exporter
+			|	|	├── Transport considerations
+			|	|	├── Financial considerations
+			|	|	├── Working effectively with different cultures
+			|	|	├── Helping your business grow internationally
+			|	|	├── Ten key steps to successful exporting
+			|	|	├── Here's how I developed a strong export market
+			|	|	└── Here's how I kept my business profitable by exporting my products abroad (Flash video)
+			|	|
+			│   └── Preparing to export
+			|		|
+			|		├── Introduction
+			|		├── Understand the challenges of exporting
+			|		├── Assess your skills and resources for exporting
+			|		├── Assess export market opportunities
+			|		├── Choose which export markets to enter
+			|		├── Plan your export market entry strategy
+			|		├── Manage export contracts and logistics
+			|		├── Use the right export support services
+			|		└── Review your export readiness
+			|
+			// -->
+		</li>
+		<li>
+			<a href="/starting-up/protect-your-business-ideas.php">Protect your business ideas</a>
+			<!-- 
+			|
+			├── Protect your business ideas
+			|	|
+			│   ├── Protect your business and premises
+			|	|
+			│   ├── Intellectual property: the basics
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── What is intellectual property?
+			|	|	├── How you can protect your intellectual property
+			|	|	├── Patents
+			|	|	├── Copyright
+			|	|	├── Trade marks
+			|	|	├── Designs
+			|	|	└── A start-up intellectual property checklist
+			|	|
+			│   ├── Find out how to protect your ideas
+			|	|	|
+			|	|	├── Introduction
+			|	|	└── How can I protect my ideas?
+			|	|
+			│   └── Non-disclosure agreements
+			|		|
+			|		├── Introduction
+			|		├── What is a non-disclosure agreement?
+			|		├── Types of non-disclosure agreement
+			|		├── Ways to prepare a non-disclosure agreement
+			|		├── Key non-disclosure agreement terms
+			|		├── Creating a non-disclosure agreement
+			|		├── Issues when signing a non-disclosure agreement
+			|		└── Here's how I use NDAs in my business
+			|
+			// -->
+		</li>
+		<li>
+			<a href="/starting-up/further-support-for-your-business.php">Further support for your business</a>
+			<!-- 
+			|
+			├── Further support for your business
+			|	|
+			│   ├── Find out about business mentoring
+			|	|
+			│   ├── Get tips on how to network
+			|	|
+			│   ├── Find the right support for your new business
+			|	|
+			│   ├── Business Advice Open Days
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── Who should attend a Business Advice Open Day and why
+			|	|	├── Organisations you can meet at Business Advice Open Days
+			|	|	├── Booking your place at a Business Advice Open Day
+			|	|	├── Questions about attending a Business Advice Open Day
+			|	|	├── Where to go for advice if you cannot attend a Business Advice Open Day
+			|	|	└── How to contact the event organisers
+			|	|
+			│   ├── The benefits of business mentoring
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── What is business mentoring?
+			|	|	├── Why business mentoring is important
+			|	|	├── Face-to-face business mentoring
+			|	|	├── Online business mentoring
+			|	|	├── Business mentoring and other types of advice
+			|	|	├── Becoming a business mentor
+			|	|	└── Further information for finding or becoming a business mentor
+			|	|
+			│   ├── Extra help and support available for your start up
+			|	|	|
+			|	|	├── Introduction
+			|	|	├── Mentoring, networking, finance and training
+			|	|	├── Support for female entrepreneurs
+			|	|	├── Support for mature entrepreneurs
+			|	|	├── Support for disabled people
+			|	|	├── Support for black, Asian and minority ethnic start ups
+			|	|	├── Support for entrepreneurs on low incomes
+			|	|	└── Sources of support for young entrepreneurs
+			|	|
+			│   └── Standards explained on the British Standards Institution website
+			|
+			// -->
+		</li>
+		<li>
+			<a href="/starting-up/take-the-next-steps.php">Take the next steps</a>
+			<!--
+			|
+			└── Take the next steps
+			|
+		    ├── Work out if your business is ready to grow
+		 	|
+		    └── Take the next steps in your business journey
+			// -->
+		</li>
 	</ul>
 </li>
