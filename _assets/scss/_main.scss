@@ -8,7 +8,7 @@ Stylesheet: Main Stylesheet
 GENERAL STYLES
 *********************/
 .label {
-	padding: 5px 5px 2px 5px; 
+	padding: rem-calc(5px 5px 2px 5px); 
 	font-weight: bold; 
 }
 
@@ -21,7 +21,7 @@ hr {
 	clear: both; 
 	margin: 2rem 0; 
 	border: 0; 
-	border-top: 1px dotted; 
+	border-top: rem-calc(1px) dotted; 
 }
 
 /*********************
@@ -32,10 +32,10 @@ a:visited {
 	color: darken($primary-color, 20%); 
 
 	// Mobile tap color
-	&:link {
+	// &:link {
 		//Highlight links on iOS, Similar to :hover for mobile devices.
 		// -webkit-tap-highlight-color : rgba( 0, 0, 0, 0.3 );
-	}
+	// }
 }
 
 /* Add a external link icon */
@@ -43,7 +43,7 @@ a[target="_blank"]:after {
 	font-family: "FontAwesome"; 
 	content: "\f08e"; 
 	display: inline-block; 
-	padding-left: 5px; 
+	padding-left: rem-calc(5px); 
 	// stop the accordion styles overwritng		
 	float: none!important; 		
 	right: 0!important; 		
@@ -57,7 +57,7 @@ a[target="_blank"]:after {
 			font-family: "FontAwesome"; 
 			content: "\f08e"; 
 			display: inline-block; 
-			padding-right: 5px; 
+			padding-right: rem-calc(5px); 
 			// stop the accordion styles overwritng		
 			float: none!important; 		
 			right: 0!important; 		
@@ -80,7 +80,7 @@ a[href="#"]:after {
 	content: "\f057"; 
 	display: inline-block; 
 	color: red; 
-	padding-left: 5px; 
+	padding-left: rem-calc(5px); 
 }
 
 /* Change the colour of telephone links */
@@ -92,7 +92,7 @@ a[href^="tel:"] {
 /* add a unicode telephone icon */
 a[href^="tel:"]:before {
   content: "\260e";
-  padding-right: 5px;
+  padding-right: rem-calc(5px);
 }
 
 /* Links containing an image then text */
@@ -107,11 +107,11 @@ a[href^="tel:"]:before {
 /*********************
 H1, H2, H3, H4, H5 P STYLES
 *********************/
-h1, .h1, 
-h2, .h2, 
-h3, .h3, 
-h4, .h4, 
-h5, .h5 {}
+// h1, .h1, 
+// h2, .h2, 
+// h3, .h3, 
+// h4, .h4, 
+// h5, .h5 {}
 
 p {
 	font-size: 1.188rem; // 19px 
@@ -121,20 +121,20 @@ p {
 HEADER STYLES
 *********************/
 header {
-	margin-bottom: 30px; 
+	margin-bottom: rem-calc(30px); 
 }
 
 header, 
 .breadcrumbs, 
 footer {
 	padding: 1rem; // 16px
-	border: 1px solid #eee; 
+	border: rem-calc(1px) solid #eee; 
 }
 
 .branding {
 
 	.top-logo {
-		max-width: 250px; 
+		max-width: rem-calc(250px); 
 
 		@include breakpoint(medium) {
 			float: left; 
@@ -144,15 +144,15 @@ footer {
 }
 
 .strapline {
-	margin-top: 10px;
-	font-size: 21px;
+	margin-top: rem-calc(10px);
+	font-size: rem-calc(21px);
 	color: #3276AD; 
 
 	@include breakpoint(medium) {
 		float: right; 
-		margin-top: 51px; 
-		margin-left: 30px; 
-		font-size: 30px;
+		margin-top: rem-calc(51px); 
+		margin-left: rem-calc(30px); 
+		font-size: rem-calc(30px);
 	}
 }
 
@@ -181,11 +181,11 @@ accordion arrows
 *********************/
 .is-accordion-submenu-parent > a {
 	display: block; 
-	padding-right: 23px; //stop the text crashing into the down arrows
+	padding-right: rem-calc(23px); //stop the text crashing into the down arrows
 }
 .is-accordion-submenu-parent > a:after { 
-	top: 11px;		
-    right: 10px;		
+	top: rem-calc(11px);		
+    right: rem-calc(10px);		
     float: right;		
     position: absolute; 		
     margin-top: 0; 		
@@ -194,17 +194,14 @@ accordion arrows
 /* level 0 */
 .is-accordion-submenu-parent > a:after {
 	// see above
-	// outline: 1px solid red; 
 }
 /* level 1 */
 li ul .is-accordion-submenu-parent > a:after {
-	right: 1px; 
-	// outline: 1px solid blue; 
+	right: rem-calc(1px); 
 }
 /* level 2 */
 li ul li ul .is-accordion-submenu-parent > a:after {
-	right: -11px; 
-	// outline: 1px solid green; 
+	right: rem-calc(-11px); 
 }
 
  
@@ -220,10 +217,9 @@ NAVIGATION STYLES
 MAIN CONTENT
 *********************/
 .small-12.large-8.large-push-4.columns {
-	padding-bottom: 50px; 
+	padding-bottom: rem-calc(50px); 
 	// outline: 1px solid red;
 }
-
 
 
 /*********************
@@ -233,13 +229,12 @@ SIDEBARS & ASIDES
 /*** Side bar master navigation ***/
 
 .categories {
-	border: 1px solid #eee; 
+	border: rem-calc(1px) solid #eee; 
 
 	.fa {		
 		position: relative; 		
-		top: -3px; 		
+		top: rem-calc(-3px); 
 	}
-	.vertical.menu {}
 
 	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up'		
 	ul li ul {		
@@ -251,7 +246,7 @@ SIDEBARS & ASIDES
 	}		
 	.submenu.is-accordion-submenu {		
 		margin: 0; 
-		padding: 10px 20px; 
+		padding: rem-calc(10px 20px); 
 		list-style: none; 
 	}		
 	// .vertical menu container > level [1] parent category 'Starting Up' > level [2] child UL 'Considering Starting Up' > level [3] grandchild 'Starting a business: the basics' > level [4] great-grandchild 'What to do before you start your business'		
@@ -260,25 +255,25 @@ SIDEBARS & ASIDES
 	}		
 }
 .submenu.is-accordion-submenu {
-	margin-left: 33px; 
+	margin-left: rem-calc(33px); 
 }
 
 .service-provider {
-	padding: 20px; 
+	padding: rem-calc(20px); 
 }
 
 
 /*********************
 FOOTER STYLES
 *********************/
-footer {}
+// footer {}
 
 .sub-links {
-	font-size: 15px; 
+	font-size: rem-calc(15px); 
 }
 
 .copyright {
-	padding: 0 15px; 
+	padding: rem-calc(0 15px); 
 }
 
 	
