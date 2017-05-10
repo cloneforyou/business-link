@@ -181,6 +181,7 @@ accordion arrows
 *********************/
 .is-accordion-submenu-parent > a {
 	display: block; 
+	padding-right: 23px; //stop the text crashing into the down arrows
 }
 .is-accordion-submenu-parent > a:after { 
 	top: 11px;		
