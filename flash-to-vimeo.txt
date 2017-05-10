@@ -1,4 +1,8 @@
-/*** Going from Flash to Vimeo ***/
+/*************************************************************************
+
+	Going from Flash to Vimeo
+	
+*************************************************************************/
 
 1. Login to Vimeo account (cmurphy....)
 
@@ -17,7 +21,12 @@
 
 
 
-/*** Brightcove working code, however video may no longer be available ***/
+/*************************************************************************
+
+	Brightcove working code, however video may no longer be available
+	- check source for param, as Inspect doesn't always show them
+
+*************************************************************************/
 
 <!-- Start of Brightcove Player -->
 
