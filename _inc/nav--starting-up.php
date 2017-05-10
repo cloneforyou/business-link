@@ -149,39 +149,30 @@
 		</li>
 		<li data-accordion-item>
 			<a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a>
-			<!-- 
-			|
-			├── Use your own money to start up
-			|	|
-			│   ├── Understand how much money you need to start up
-			|	|
-			│   ├── Raise finance from outside investors or other sources to get started
-			|	|
-			│   ├── Raise finance from family and friends
-			|	|
-			│   ├── Understand the basics of business banking
-			|	|
-			│   ├── Explore your finance options when starting up
-			|	|
-			│   ├── Decide if you need an accountant or an adviser
-			|	|
-			│   ├── Meet your financial commitments
-			|	|
-			│   ├── Find out what to do if you're refused finance
-			|	|
-			│   ├── Understand how to set up a record-keeping system
-			|	|
-			│   ├── Financial and management accounts: the basics
-			|	|	|
-			|	|	├── Introduction
-			|	|	├── Financial accounts
-			|	|	├── Filing financial accounts
-			|	|	├── Management accounts
-			|	|	├── Uses of management accounting
-			|	|	├── The importance of maintaining accurate accounts
-			|	|	└── False accounting
-			// -->
 			<ul>
+				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Use your own money to start up</a></li>
+				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Understand how much money you need to start up</a></li>
+				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Raise finance from outside investors or other sources to get started</a></li>
+				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Raise finance from family and friends</a></li>
+				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Understand the basics of business banking</a></li>
+				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Explore your finance options when starting up</a></li>
+				<li><a href="https://www.gov.uk/appoint-tax-agent" target="_blank" rel="noopener noreferrer">Decide if you need an accountant or an adviser</a></li>
+				<li><a href="https://www.gov.uk/write-business-plan" target="_blank" rel="noopener noreferrer">Meet your financial commitments</a></li>
+				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Find out what to do if you're refused finance</a></li>
+				<li><a href="https://www.gov.uk/keeping-your-pay-tax-records" target="_blank" rel="noopener noreferrer">Understand how to set up a record-keeping system</a></li>
+				<li><a href="/finance-and-grants/financial-planning-and-accounts/financial-and-management-accounts-the-basics.php">Financial and management accounts: the basics</a>
+					<ul>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/financial-and-management-accounts-the-basics.php" title="Financial and management accounts: the basics">Introduction</a></li>
+						<!--
+						<li>Financial accounts</li>
+						<li>Filing financial accounts</li>
+						<li>Management accounts</li>
+						<li>Uses of management accounting</li>
+						<li>The importance of maintaining accurate accounts</li>
+						<li>False accounting</li>
+						// -->
+					</ul>
+				</li>
 				<li>
 					<a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory.php">Stock control and inventory</a>
 					<ul>
@@ -198,24 +189,15 @@
 						<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 					</ul>
 				</li>
-
 			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/business-structures.php">Business structures</a>
-			<!-- 
-			|
-			├── Business structures
-			|	|
-			│   ├── Understand the different business types
-			|	|
-			│   ├── Choose the right business model and legal structure
-			|	|
-			│   ├── Register with Companies House
-			|	|
-			│   ├── Incorporate your company online
-			// -->
 			<ul>
+				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Understand the different business types</a></li>
+				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure</a></li>
+				<li><a href="https://www.gov.uk/limited-company-formation/register-your-company" target="_blank" rel="noopener noreferrer">Register with Companies House</a></li>
+				<li><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your company online</a></li>
 				<li><a href="/starting-up/business-structures.php" title="Business structures">Introduction</a></li>
 				<li>
 					<a href="/starting-up/business-structures/legal-structures-the-basics.php">Legal structures: the basics</a>
