@@ -392,16 +392,11 @@
 		<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">Get to grips with business taxes</a></li>
 		<li>
 			<a href="/starting-up/tax-and-national-insurance-for-self-employed-and-partners.php">Tax and National Insurance for self-employed or partners</a>
-			<!-- 
-			|
-			├── Tax and National Insurance for self-employed or partners
-			|	|
-			│   ├── Get started with Income Tax and National Insurance
-			|	|
-			│   ├── Find out about Self Assessment and your tax return
-			|	|
-			│   └── Get to grips with expenses and records if you're self-employed
-			// -->
+			<ul>
+				<li><a href="https://www.gov.uk/browse/tax/income-tax" target="_blank" rel="noopener noreferrer">Get started with Income Tax and National Insurance</a></li>
+				<li><a href="https://www.gov.uk/self-assessment-tax-returns" target="_blank" rel="noopener noreferrer">Find out about Self Assessment and your tax return</a></li>
+				<li><a href="https://www.gov.uk/expenses-if-youre-self-employed" target="_blank" rel="noopener noreferrer">Get to grips with expenses and records if you're self-employed</a></li>
+			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/corporation-tax.php">Corporation Tax</a>
