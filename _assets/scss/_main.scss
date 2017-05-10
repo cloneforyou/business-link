@@ -50,6 +50,27 @@ a[target="_blank"]:after {
 	top: 2px!important; 
 }
 
+/* if in the menu, move external icon to the left */
+.categories {
+	.menu {
+		a[target="_blank"]:before {
+			font-family: "FontAwesome"; 
+			content: "\f08e"; 
+			display: inline-block; 
+			padding-right: 5px; 
+			// stop the accordion styles overwritng		
+			float: none!important; 		
+			right: 0!important; 		
+			top: 2px!important; 
+			vertical-align: middle; 
+		}
+		a[target="_blank"]:after {
+			content: ''; 
+			display: none; 
+		}
+	}
+}
+
 /* show links which are dead */
 a[href="#"] {
 	color: red; 
