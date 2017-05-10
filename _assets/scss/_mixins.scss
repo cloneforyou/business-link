@@ -13,16 +13,16 @@ Mixins & Constants.
 $startingup: #cc9999; // rose
 a[href^="/starting-up"], 
 a[href^="../starting-up"] {
-	padding-left: 5px; 
-	border-left: 3px solid $startingup; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $startingup; 
 }
 
 // Finance and Grants
 $financegrants: #3399cc; // sea blue
 a[href^="/finance-and-grants"], 
 a[href^="../finance-and-grants"] {
-	padding-left: 5px; 
-	border-left: 3px solid $financegrants; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $financegrants; 
 }
 
 // Tax, Payroll and Company Information
@@ -30,8 +30,8 @@ $taxpayroll: #99cc99; // light green
 
 a[href^="/tax-payroll-and-company-information"], 
 a[href^="../tax-payroll-and-company-information"] {
-	padding-left: 5px; 
-	border-left: 3px solid $taxpayroll; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $taxpayroll; 
 }
 
 // Employment and Skills
@@ -39,8 +39,8 @@ $employment: #99cccc; // mint green
 
 a[href^="/employment-and-skills"], 
 a[href^="../employment-and-skills"] {
-	padding-left: 5px; 
-	border-left: 3px solid $employment; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $employment; 
 }
 
 // Workplace Health & Safety
@@ -48,8 +48,8 @@ $workplacehs: #cc99cc; // mauve
 
 a[href^="/workplace-health-and-safety"], 
 a[href^="../workplace-health-and-safety"] {
-	padding-left: 5px; 
-	border-left: 3px solid $workplacehs; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $workplacehs; 
 }
 
 // Environment & efficiency
@@ -57,8 +57,8 @@ $environment: #96cc4a; // juice green
 
 a[href^="/environment-and-efficiency"], 
 a[href^="../environment-and-efficiency"] {
-	padding-left: 5px; 
-	border-left: 3px solid $environment; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $environment; 
 }
 
 // Premises and property
@@ -66,8 +66,8 @@ $premises: #cc99cc; // juice green
 
 a[href^="/premises-and-property"], 
 a[href^="../premises-and-property"] {
-	padding-left: 5px; 
-	border-left: 3px solid $premises; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $premises; 
 }
 
 // Create Innovate and Protect
@@ -75,8 +75,8 @@ $createinnovate: #cccc66; // mustard green/yellow
 
 a[href^="/create-innovate-and-protect"], 
 a[href^="../create-innovate-and-protect"] {
-	padding-left: 5px; 
-	border-left: 3px solid $createinnovate; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $createinnovate; 
 }
 
 // IT & e-commerce
@@ -84,8 +84,8 @@ $itecommerce: #cc6666; // dusky red
 
 a[href^="/it-and-ecommerce"], 
 a[href^="../it-and-ecommerce"] {
-	padding-left: 5px; 
-	border-left: 3px solid $itecommerce; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $itecommerce; 
 }
 
 // Sales & Marketing
@@ -93,8 +93,8 @@ $marketing: #6666cc; // royal purple
 
 a[href^="/sales-and-marketing"], 
 a[href^="../sales-and-marketing"] {
-	padding-left: 5px; 
-	border-left: 3px solid $marketing; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $marketing; 
 }
 
 // International Trade
@@ -102,8 +102,8 @@ $inttrade: #66cccc; // sea blue
 
 a[href^="/international-trade"], 
 a[href^="../international-trade"] {
-	padding-left: 5px; 
-	border-left: 3px solid $inttrade; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $inttrade; 
 }
 
 // Grow your business
@@ -111,16 +111,16 @@ $growbiz: #cccc99; // khaki
 
 a[href^="/grow-your-business"], 
 a[href^="../grow-your-business"] {
-	padding-left: 5px; 
-	border-left: 3px solid $growbiz; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $growbiz; 
 }
 
 // Buy or sell a business
 $buysell: #cc9999; // rose
 a[href^="/buy-or-sell-a-business"], 
 a[href^="../buy-or-sell-a-business"] {
-	padding-left: 5px; 
-	border-left: 3px solid $buysell; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $buysell; 
 }
 
 // For professional advisers
@@ -128,8 +128,8 @@ $proadviser: #666699; // dusky purple
 
 a[href^="/for-professional-advisers"], 
 a[href^="../for-professional-advisers"] {
-	padding-left: 5px; 
-	border-left: 3px solid $proadviser; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $proadviser; 
 }
 
 // Your business sector
@@ -137,61 +137,7 @@ $yoursector: #ff9933; // orange
 
 a[href^="/your-business-sector"], 
 a[href^="../your-business-sector"] {
-	padding-left: 5px; 
-	border-left: 3px solid $yoursector; 
+	padding-left: rem-calc(5px); 
+	border-left: rem-calc(3px) solid $yoursector; 
 }
-
-
-/*********************
-TOOLS
-*********************/
-
-// http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/
-// .image-replacement {
-// 	text-indent: 100%;
-// 	white-space: nowrap;
-// 	overflow: hidden;
-// }
-
-
-/*********************
-COLORS
-*********************/
-
-
-/*********************
-TYPOGRAPHY
-*********************/
-/*	@font-face {
-    	font-family: 'Font Name';
-    	src: url('_assets/fonts/font-name.eot');
-    	src: url('_assets/fonts/font-name.eot?#iefix') format('embedded-opentype'),
-             url('_assets/fonts/font-name.woff') format('woff'),
-             url('_assets/fonts/font-name.ttf') format('truetype'),
-             url('_assets/fonts/font-name.svg#font-name') format('svg');
-    	font-weight: normal;
-    	font-style: normal;
-	}
-*/
-
-//Use the best ampersand - http://simplebits.com/notebook/2008/08/14/ampersands-2/
-// span.amp {
-//   font-family: Baskerville,'Goudy Old Style',Palatino,'Book Antiqua',serif !important;
-//   font-style: italic;
-// }
-
-/*********************
-CSS3 GRADIENTS.
-*********************/
-
-/* @include css-gradient(#dfdfdf,#f8f8f8); */
-// @mixin css-gradient($from: #dfdfdf, $to: #f8f8f8) {
-// 	background-color: $to;
-// 	background-image: -webkit-gradient(linear, left top, left bottom, from($from), to($to));
-// 	background-image: -webkit-linear-gradient(top, $from, $to);
-// 	background-image: -moz-linear-gradient(top, $from, $to);
-// 	background-image: -o-linear-gradient(top, $from, $to);
-// 	background-image: linear-gradient(to bottom, $from, $to);
-// }
-
 
