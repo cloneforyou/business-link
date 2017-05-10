@@ -5,9 +5,19 @@
 		<li>
 			<a href="/starting-up/considering-starting-up.php">Considering starting up?</a>
 			<ul>
+				<li><a href="/starting-up/considering-starting-up.php" title="Considering starting up?">Introduction</a></li>
 				<li><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Find out whether you can work for yourself</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102014&r.l1=1073858805&r.l2=1073859137&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Decide if you've got what it takes to be your own boss</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101796&r.l1=1073858805&r.l2=1073859137&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/starting-up-a-business" target="_blank" rel="noopener noreferrer">Develop your business idea</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101799&r.l1=1073858805&r.l2=1073859137&r.s=e&type=HUBCHASSIS
+				//-->
 				<li>
 					<a href="/starting-up/considering-starting-up/starting-a-business-the-basics.php">Starting a business: the basics</a>
 					<ul>
@@ -127,6 +137,7 @@
 		<li data-accordion-item>
 			<a href="/starting-up/business-planning.php">Business planning</a>
 			<ul>
+				<li><a href="/starting-up/business-planning.php" title="Business planning">Introduction</a></li>
 				<li>
 					<a href="/starting-up/business-planning/prepare-a-business-plan.php">Prepare a business plan</a>
 					<ul>
@@ -150,16 +161,47 @@
 		<li data-accordion-item>
 			<a href="/starting-up/find-and-manage-the-money.php">Find and manage the money</a>
 			<ul>
+				<li><a href="/starting-up/find-and-manage-the-money.php" title="Find and manage the money">Introduction</a></li>
 				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Use your own money to start up</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102232&r.l1=1073858805&r.l2=1073859146&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Understand how much money you need to start up</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101999&r.l1=1073858805&r.l2=1073859146&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Raise finance from outside investors or other sources to get started</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101999&r.l1=1073858805&r.l2=1073859146&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Raise finance from family and friends</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102047&r.l1=1073858805&r.l2=1073859146&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Understand the basics of business banking</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102226&r.l1=1073858805&r.l2=1073859146&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Explore your finance options when starting up</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101802&r.l1=1073858805&r.l2=1073859146&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/appoint-tax-agent" target="_blank" rel="noopener noreferrer">Decide if you need an accountant or an adviser</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101947&r.l1=1073858805&r.l2=1073859146&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/write-business-plan" target="_blank" rel="noopener noreferrer">Meet your financial commitments</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102038&r.l1=1073858805&r.l2=1073859146&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Find out what to do if you're refused finance</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101965&r.l1=1073858805&r.l2=1073859146&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/keeping-your-pay-tax-records" target="_blank" rel="noopener noreferrer">Understand how to set up a record-keeping system</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102008&r.l1=1073858805&r.l2=1073859146&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="/finance-and-grants/financial-planning-and-accounts/financial-and-management-accounts-the-basics.php">Financial and management accounts: the basics</a>
 					<ul>
 						<li><a href="/finance-and-grants/financial-planning-and-accounts/financial-and-management-accounts-the-basics.php" title="Financial and management accounts: the basics">Introduction</a></li>
@@ -194,11 +236,20 @@
 		<li>
 			<a href="/starting-up/business-structures.php">Business structures</a>
 			<ul>
-				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Understand the different business types</a></li>
-				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure</a></li>
-				<li><a href="https://www.gov.uk/limited-company-formation/register-your-company" target="_blank" rel="noopener noreferrer">Register with Companies House</a></li>
-				<li><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your company online</a></li>
 				<li><a href="/starting-up/business-structures.php" title="Business structures">Introduction</a></li>
+				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Understand the different business types</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102076&r.l1=1073858805&r.l2=1085161962&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101941&r.l1=1073858805&r.l2=1085161962&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/limited-company-formation/register-your-company" target="_blank" rel="noopener noreferrer">Register with Companies House</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102050&r.l1=1073858805&r.l2=1085161962&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your company online</a></li>
 				<li>
 					<a href="/starting-up/business-structures/legal-structures-the-basics.php">Legal structures: the basics</a>
 					<ul>
@@ -293,6 +344,9 @@
 			<ul>
 				<li><a href="/starting-up/name-your-business.php" title="Name your business">Introduction</a></li>
 				<li><a href="https://www.gov.uk/set-up-business" title="Set up a business" target="_blank" rel="noopener noreferrer">Name your business</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101990&r.l1=1073858805&r.l2=1085151439&r.s=e&type=HUBCHASSIS
+				//-->
 				<li>
 					<a href="/starting-up/name-your-business/choose-the-right-name-for-your-business.php">Choose the right name for your business</a>
 					<ul>
@@ -316,11 +370,15 @@
 					</ul>
 				</li>
 				<li><a href="https://www.gov.uk/get-information-about-a-company" title="Get information about a company" target="_blank" rel="noopener noreferrer">Search for an available company name or trade mark</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/cntc?r.l1=1073858805&r.l2=1085151439&r.s=tl
+				//-->
 			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/buy-a-business.php">Buy a business</a>
 			<ul>
+				<li><a href="/starting-up/buy-a-business.php" title="Buy a business">Introduction</a></li>
 				<li>
 					<a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php">Buy a franchise</a>
 					<ul>
@@ -356,9 +414,21 @@
 			<ul>
 				<li><a href="/starting-up/choose-and-set-up-your-workplace.php" title="Choose and set up your workplace">Introduction</a></li>
 				<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Choose the right type of premises</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101790&r.l1=1073858805&r.l2=1073859128&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Rent or buy premises</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102002&r.l1=1073858805&r.l2=1073859128&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Manage workplace health and safety</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101987&r.l1=1073858805&r.l2=1073859128&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/browse/business/premises-rates" title="Business premises and business rates" target="_blank" rel="noopener noreferrer">Set up your business at home</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102058&r.l1=1073858805&r.l2=1073859128&r.s=e&type=HUBCHASSIS
+				//-->
 				<li>
 					<a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home.php">Starting a business from home</a>
 					<ul>
@@ -390,39 +460,53 @@
 			</ul>
 		</li>
 		<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">Get to grips with business taxes</a></li>
+		<!--//
+		http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101977&r.l1=1073858805&r.l2=1074454203&r.s=m&type=HUBCHASSIS
+		//-->
 		<li>
 			<a href="/starting-up/tax-and-national-insurance-for-self-employed-and-partners.php">Tax and National Insurance for self-employed or partners</a>
 			<ul>
+				<li><a href="/starting-up/tax-and-national-insurance-for-self-employed-and-partners.php" title="Tax and National Insurance for self-employed or partners">Introduction</a></li>
 				<li><a href="https://www.gov.uk/browse/tax/income-tax" target="_blank" rel="noopener noreferrer">Get started with Income Tax and National Insurance</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101971&r.l1=1073858805&r.l2=1074454203&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/self-assessment-tax-returns" target="_blank" rel="noopener noreferrer">Find out about Self Assessment and your tax return</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101956&r.l1=1073858805&r.l2=1074454203&r.s=e&type=HUBCHASSIS
+				//-->
 				<li><a href="https://www.gov.uk/expenses-if-youre-self-employed" target="_blank" rel="noopener noreferrer">Get to grips with expenses and records if you're self-employed</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102026&r.l1=1073858805&r.l2=1074454203&r.s=e&type=HUBCHASSIS
+				//-->
 			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/corporation-tax.php">Corporation Tax</a>
-			<!-- 
-			|
-			├── Corporation Tax
-			|	|
-			│   ├── Who is liable for Corporation Tax
-			|	|	|
-			|	|	├── Introduction
-			|	|	├── Who is subject to Corporation Tax requirements?
-			|	|	├── Who is not subject to Corporation Tax requirements?
-			|	|	├── What activities are exempt from Corporation Tax?
-			|	|	└── What you must do if your company or organisation is liable for Corporation Tax
-			|	|
-			│   └── Get started with Corporation Tax
-			|
-			// -->
+			<ul>
+				<li><a href="/starting-up/corporation-tax.php" title="Corporation Tax<">Introduction</a></li>
+				<li>
+					<a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/who-is-liable-for-corporation-tax.php">Who is liable for Corporation Tax</a>
+					<ul>
+						<li><a href="/tax-payroll-and-company-information/corporation-tax/corporation-tax-for-new-companies-and-organisations/who-is-liable-for-corporation-tax.php" title="Who is liable for Corporation Tax">Introduction</a></li>
+						<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/who-is-subject-to-corporation-tax-requirements.php">Who is subject to Corporation Tax requirements?</a></li>
+						<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/who-is-not-subject-to-corporation-tax-requirements.php">Who is not subject to Corporation Tax requirements?</a></li>
+						<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/what-activities-are-exempt-from-corporation-tax.php">What activities are exempt from Corporation Tax?</a></li>
+						<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/what-you-must-do-if-your-company-or-organisation-is-liable-for-corporation-tax.php">What you must do if your company or organisation is liable for Corporation Tax</a></li>
+					</ul>
+				</li>
+				<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">Get started with Corporation Tax</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102017&r.l1=1073858805&r.l2=1085541869&r.s=e&type=HUBCHASSIS
+				//-->
+			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/vat.php">VAT</a>
-			<!-- 
-			|
-			├── VAT
-			|	|
-			│   ├── Introduction to VAT
+			<ul>
+				<li><a href="/starting-up/vat.php" title="VAT">Introduction</a></li>
+				<li><a href="/tax-payroll-and-company-information/vat/introduction-to-vat.php">Introduction to VAT</a>
+			<!--
 			|	|	|
 			|	|	├── Introduction
 			|	|	├── What is VAT?
@@ -434,16 +518,26 @@
 			|	|	├── VAT glossary
 			|	|	├── Here's how I got to grips with VAT
 			|	|	└── More Useful Links
-			|	|
-			│   ├── Get to grips with VAT and your business
-			|	|
-			│   ├── VAT registration: how to apply and when
-			|	|
-			│   ├── Understand VAT invoices and receipts
-			|	|
-			│   ├── Run and manage your VAT account
-			|	|
-			│   ├── How to complete your VAT Return box by box
+			//-->
+				</li>
+				<li><a href="https://www.gov.uk/vat-businesses" target="_blank" rel="noopener noreferrer">Get to grips with VAT and your business</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102023&r.l1=1073858805&r.l2=1073859188&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/vat-businesses" target="_blank" rel="noopener noreferrer">VAT registration: how to apply and when</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102029&r.l1=1073858805&r.l2=1073859188&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/vat-businesses" target="_blank" rel="noopener noreferrer">Understand VAT invoices and receipts</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102070&r.l1=1073858805&r.l2=1073859188&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/vat-businesses" target="_blank" rel="noopener noreferrer">Run and manage your VAT account</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102052&r.l1=1073858805&r.l2=1073859188&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts/how-to-complete-your-vat-return-box-by-box.php">How to complete your VAT Return box by box</a>
+			<!--
 			|	|	|
 			|	|	├── Introduction
 			|	|	├── How to complete your VAT Return
@@ -452,81 +546,103 @@
 			|	|	├── How to complete Box 8 and Box 9
 			|	|	├── VAT rate changes
 			|	|	└── Here's how I got to grips with VAT
-			|	|
-			│   └── When to register for VAT
+			// -->
+				</li>
+				<li><a href="/tax-payroll-and-company-information/vat/when-to-register-for-vat.php">When to register for VAT</a>
+			<!--
 			|		|
 			|		├── Introduction
 			|		└── Do I need to register for VAT?
-			|
 			// -->
+				</li>
+			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/tax-and-payroll-for-employers.php">Tax and payroll for employers</a>
-			<!-- 
-			|
-			├── Tax and payroll for employers
-			|	|
-			│   ├── Find out how PAYE works
-			|	|
-			│   ├── Find out if you need to operate PAYE
-			|	|
-			│   ├── Decide whether you need to register as an employer
-			|	|
-			│   ├── PAYE when taking on a new employee
-			|	|
-			│   ├── Keep PAYE records
-			|	|
-			│   ├── Set up a payroll system
-			|	|
-			│   ├── Make PAYE payments to HMRC
-			|	|
-			│   └── Find out what to do for PAYE when an employee leaves
-			|
-			// -->
+			<ul>
+				<li><a href="/starting-up/tax-and-payroll-for-employers.php" title-"Tax and payroll for employers">Introduction</a></li>
+				<li><a href="https://www.gov.uk/topic/business-tax/paye" target="_blank" rel="noopener noreferrer">Find out how PAYE works</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101808&r.l1=1073858805&r.l2=1073859167&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/topic/business-tax/paye" target="_blank" rel="noopener noreferrer">Find out if you need to operate PAYE</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101962&r.l1=1073858805&r.l2=1073859167&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/topic/business-tax/paye" target="_blank" rel="noopener noreferrer">Decide whether you need to register as an employer</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101950&r.l1=1073858805&r.l2=1073859167&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/topic/business-tax/paye" target="_blank" rel="noopener noreferrer">PAYE when taking on a new employee</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102041&r.l1=1073858805&r.l2=1073859167&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/topic/business-tax/paye" target="_blank" rel="noopener noreferrer">Keep PAYE records</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101983&r.l1=1073858805&r.l2=1073859167&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/topic/business-tax/paye" target="_blank" rel="noopener noreferrer">Set up a payroll system</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102055&r.l1=1073858805&r.l2=1073859167&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/pay-paye-tax" target="_blank" rel="noopener noreferrer">Make PAYE payments to HMRC</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102035&r.l1=1073858805&r.l2=1073859167&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/topic/business-tax/paye" target="_blank" rel="noopener noreferrer">Find out what to do for PAYE when an employee leaves</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101811&r.l1=1073858805&r.l2=1073859167&r.s=e&type=HUBCHASSIS
+				//-->
+			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/become-an-employer-for-the-first-time.php">Become an employer for the first time</a>
-			<!-- 
-			|
-			├── Become an employer for the first time
-			|	|
-			│   ├── Take on staff
-			|	|
-			│   ├── Ensuring your workers are eligible to work in the UK
-			|	|	|
+			<ul>
+				<li><a href="/starting-up/become-an-employer-for-the-first-time.php" title="Become an employer for the first time">Introduction</a></li>
+				<li><a href="https://www.gov.uk/employing-staff" target="_blank" rel="noopener noreferrer">Take on staff</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102011&r.l1=1073858805&r.l2=1073859176&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk.php">Ensuring your workers are eligible to work in the UK</a>
+			<!--
 			|	|	├── Introduction
 			|	|	├── Checking a prospective worker's entitlement to work in the UK
 			|	|	├── Copying and retaining workers' records
 			|	|	├── Compliance checks and penalties for immigration offences
 			|	|	├── Here's how migrant workers contribute to our workforce
 			|	|	└── Here's how we check the entitlement of our staff to work in the UK
-			|	|
-			│   ├── Create a written statement of employment
-			|	|
-			│   └── Find out if you need to operate PAYE
-			|
-			// -->
+			//-->
+				</li>
+				<li><a href="https://www.gov.uk/employment-contracts-and-conditions" target="_blank" rel="noopener noreferrer">Create a written statement of employment</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/stmtEmpLanding?r.l1=1073858805&r.l2=1073859176&r.s=tl&topicId=1075225309
+				//-->
+				<li><a href="https://www.gov.uk/topic/business-tax/paye" target="_blank" rel="noopener noreferrer">Find out if you need to operate PAYE</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101962&r.l1=1073858805&r.l2=1073859176&r.s=e&type=HUBCHASSIS
+				//-->
+			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/sales-and-marketing.php">Sales and marketing</a>
-			<!-- 
-			|
-			├── Sales and marketing
-			|	|
-			│   ├── Learn how to describe your business to customers
-			|	|
-			│   ├── Understand your market
-			|	|
-			│   ├── Build your brand
-			|	|
-			│   ├── Get your pricing right
-			|	|
-			│   ├── Sell your product or service
-			|	|
-			│   ├── Promote your business
-			|	|
-			│   └── Comply with the law in the provision of goods, facilities and services
-			|		|
+			<ul>
+				<li><a href="/starting-up/sales-and-marketing.php" title="Sales and marketing">Introduction</a></li>
+				<li><a href="#">Learn how to describe your business to customers</a></li>
+				<!-- http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102032&r.l1=1073858805&r.l2=1073859164&r.s=e&type=HUBCHASSIS -->
+				<li><a href="https://www.gov.uk/browse/business/sale-goods-services-data" target="_blank" rel="noopener noreferrer">Understand your market</a></li>
+				<!-- http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102079&r.l1=1073858805&r.l2=1073859164&r.s=e&type=HUBCHASSIS -->
+				<li><a href="#">Build your brand</a></li>
+				<!-- http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101938&r.l1=1073858805&r.l2=1073859164&r.s=e&type=HUBCHASSIS -->
+				<li><a href="https://www.gov.uk/browse/business/sale-goods-services-data" target="_blank" rel="noopener noreferrer">Get your pricing right</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101980&r.l1=1073858805&r.l2=1073859164&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="#">Sell your product or service</a></li>
+				<!-- http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102005&r.l1=1073858805&r.l2=1073859164&r.s=e&type=HUBCHASSIS -->
+				<li><a href="#">Promote your business</a></li>
+				<!-- http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102044&r.l1=1073858805&r.l2=1073859164&r.s=e&type=HUBCHASSIS -->
+				<li><a href="/sales-and-marketing/selling-and-the-law/comply-with-the-law-in-the-provision-of-goods-facilities-and-services.php">Comply with the law in the provision of goods, facilities and services</a>
+			<!--
 			|		├── Introduction
 			|		├── Supplying satisfactory and safe goods and services
 			|		├── How equality law applies to the provision of goods, facilities and services
@@ -536,23 +652,28 @@
 			|		├── Special rules for businesses that sell to customers in their home or workplace
 			|		├── Special rules for businesses that sell electronic and electrical goods
 			|		└── The Proof of Age Standards Scheme
-			|
 			// -->
+				</li>
+			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/it-and-ecommerce-for-startups.php">IT and e-commerce for start ups</a>
-			<!-- 
-			|
-			├── IT and e-commerce for start ups
-			|	|
-			│   ├── Choose the right IT for your business
-			|	|
-			│   ├── Create your first website
-			|	|
-			│   ├── Get started with e-commerce
-			|	|
-			│   ├── Choose and manage your IT supplier
-			|	|	|
+			<ul>
+				<li><a href="/starting-up/it-and-ecommerce-for-startups.php" title="IT and e-commerce for start ups">Introduction</a></li>
+				<li><a href="https://www.gov.uk/business-support-helpline" target="_blank" rel="noopener noreferrer">Choose the right IT for your business</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101787&r.l1=1073858805&r.l2=1073859155&r.s=e&type=HUBCHASSIS
+				-->
+				<li><a href="#">Create your first website</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101793&r.l1=1073858805&r.l2=1073859155&r.s=e&type=HUBCHASSIS 
+				//-->
+				<li><a href="#">Get started with e-commerce</a></li>
+				<!--// 
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102020&r.l1=1073858805&r.l2=1073859155&r.s=e&type=HUBCHASSIS 
+				//-->
+				<li><a href="/it-and-ecommerce/suppliers/choose-and-manage-your-it-supplier.php">Choose and manage your IT supplier</a>
+			<!--
 			|	|	├── Introduction
 			|	|	├── The different types of IT suppliers
 			|	|	├── Identifying and contacting potential IT suppliers
@@ -563,9 +684,10 @@
 			|	|	├── Negotiating the contract for your IT system
 			|	|	├── Benefits of an effective IT supplier relationship
 			|	|	└── Checklist: choosing an IT supplier
-			|	|
-			│   └── Computer software: the basics
-			|		|
+			//-->
+				</li>
+				<li><a href="/it-and-ecommerce/introduction-to-it/computer-software-the-basics.php">Computer software: the basics</a>
+			<!--
 			|		├── Introduction
 			|		├── Business benefits of new software
 			|		├── Types of software
@@ -575,25 +697,32 @@
 			|		├── Choosing and buying software
 			|		├── Software installation, activation and upgrades
 			|		└── Software support
-			|
 			// -->
+				</li>
+			</ul>
 		</li>
 		<li>
-			<a href="/starting-up/trade-with-other-countries.php">Trade with other countries</a>
-			<!-- 
-			|
-			├── Trade with other countries
-			|	|
-			│   ├── Trade with other European Union countries
-			|	|
-			│   ├── Trade with other countries using the internet
-			|	|
-			│   ├── Trade with countries outside the European Union
-			|	|
-			│   ├── Find out about excise duty
-			|	|
-			│   ├── Are you ready to import?
-			|	|	|
+			<a href="/starting-up/trade-with-other-countries.php">Trade with other countries</a></a>
+			<ul>
+				<li><a href="/starting-up/trade-with-other-countries.php" title="Trade with other countries">Introduction</a></a></li>
+				<li><a href="https://www.gov.uk/browse/business" target="_blank" rel="noopener noreferrer">Trade with other European Union countries</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102067&r.l1=1073858805&r.l2=1073859152&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/browse/business" target="_blank" rel="noopener noreferrer">Trade with other countries using the internet</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102220&r.l1=1073858805&r.l2=1073859152&r.s=e&type=HUBCHASSIS
+				-->
+				<li><a href="https://www.gov.uk/browse/business" target="_blank" rel="noopener noreferrer">Trade with countries outside the European Union</a></li>
+				<!--// 
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102217&r.l1=1073858805&r.l2=1073859152&r.s=e&type=HUBCHASSIS 
+				//-->
+				<li><a href="https://www.gov.uk/browse/business" target="_blank" rel="noopener noreferrer">Find out about excise duty</a></li>
+				<!--// 
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101959&r.l1=1073858805&r.l2=1073859152&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/are-you-ready-to-import.php">Are you ready to import?</a>
+			<!--
 			|	|	├── Introduction
 			|	|	├── Plan your import objectives
 			|	|	├── Understand what importing involves
@@ -601,9 +730,10 @@
 			|	|	├── Decide your approach to importing
 			|	|	├── Negotiate the right import deal
 			|	|	└── Review your import readiness
-			|	|
-			│   ├── Exporting - an overview
-			|	|	|
+			//-->
+				</li>
+				<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/exporting-an-overview.php">Exporting - an overview</a>
+			<!--
 			|	|	├── Introduction
 			|	|	├── Planning to export?
 			|	|	├── Selling and distribution in overseas markets
@@ -616,9 +746,10 @@
 			|	|	├── Ten key steps to successful exporting
 			|	|	├── Here's how I developed a strong export market
 			|	|	└── Here's how I kept my business profitable by exporting my products abroad (Flash video)
-			|	|
-			│   └── Preparing to export
-			|		|
+			//-->
+				</li>
+				<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/preparing-to-export.php">Preparing to export</a>
+			<!--
 			|		├── Introduction
 			|		├── Understand the challenges of exporting
 			|		├── Assess your skills and resources for exporting
@@ -628,19 +759,20 @@
 			|		├── Manage export contracts and logistics
 			|		├── Use the right export support services
 			|		└── Review your export readiness
-			|
 			// -->
+				</li>
+			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/protect-your-business-ideas.php">Protect your business ideas</a>
-			<!-- 
-			|
-			├── Protect your business ideas
-			|	|
-			│   ├── Protect your business and premises
-			|	|
-			│   ├── Intellectual property: the basics
-			|	|	|
+			<ul>
+				<li><a href="/starting-up/protect-your-business-ideas.php" title="Protect your business ideas">Introduction</a></li>
+				<li><a href="https://www.gov.uk/browse/business/intellectual-property" target="_blank" rel="noopener noreferrer">Protect your business and premises</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101996&r.l1=1073858805&r.l2=1073859173&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/intellectual-property-the-basics.php">Intellectual property: the basics</a>
+			<!--
 			|	|	├── Introduction
 			|	|	├── What is intellectual property?
 			|	|	├── How you can protect your intellectual property
@@ -649,14 +781,16 @@
 			|	|	├── Trade marks
 			|	|	├── Designs
 			|	|	└── A start-up intellectual property checklist
-			|	|
-			│   ├── Find out how to protect your ideas
-			|	|	|
+			//-->
+				</li>
+				<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/find-value-you-didnt-know-existed-in-your-business/find-out-how-to-protect-your-ideas.php">Find out how to protect your ideas</a>
+			<!--
 			|	|	├── Introduction
 			|	|	└── How can I protect my ideas?
-			|	|
-			│   └── Non-disclosure agreements
-			|		|
+			//-->
+				</li>
+				<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/non-disclosure-agreements.php">Non-disclosure agreements</a>
+			<!--
 			|		├── Introduction
 			|		├── What is a non-disclosure agreement?
 			|		├── Types of non-disclosure agreement
@@ -665,23 +799,28 @@
 			|		├── Creating a non-disclosure agreement
 			|		├── Issues when signing a non-disclosure agreement
 			|		└── Here's how I use NDAs in my business
-			|
 			// -->
+				</li>
+			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/further-support-for-your-business.php">Further support for your business</a>
-			<!-- 
-			|
-			├── Further support for your business
-			|	|
-			│   ├── Find out about business mentoring
-			|	|
-			│   ├── Get tips on how to network
-			|	|
-			│   ├── Find the right support for your new business
-			|	|
-			│   ├── Business Advice Open Days
-			|	|	|
+			<ul>
+				<li><a href="/starting-up/further-support-for-your-business.php" title="Further support for your business">Introduction</a></li>
+				<li><a href="#">Find out about business mentoring</a></li>
+				<!--// 
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101805&r.l1=1073858805&r.l2=1073859125&r.s=e&type=HUBCHASSIS 
+				//-->
+				<li><a href="#">Get tips on how to network</a></li>
+				<!--// 
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101974&r.l1=1073858805&r.l2=1073859125&r.s=e&type=HUBCHASSIS 
+				//-->
+				<li><a href="https://www.gov.uk/business-finance-support" target="_blank" rel="noopener noreferrer">Find the right support for your new business</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101968&r.l1=1073858805&r.l2=1073859125&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="/starting-up/further-support-for-your-business/business-advice-open-days.php">Business Advice Open Days</a>
+			<!--
 			|	|	├── Introduction
 			|	|	├── Who should attend a Business Advice Open Day and why
 			|	|	├── Organisations you can meet at Business Advice Open Days
@@ -689,9 +828,10 @@
 			|	|	├── Questions about attending a Business Advice Open Day
 			|	|	├── Where to go for advice if you cannot attend a Business Advice Open Day
 			|	|	└── How to contact the event organisers
-			|	|
-			│   ├── The benefits of business mentoring
-			|	|	|
+			//-->
+				</li>
+				<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring.php">The benefits of business mentoring</a>
+			<!--
 			|	|	├── Introduction
 			|	|	├── What is business mentoring?
 			|	|	├── Why business mentoring is important
@@ -700,9 +840,10 @@
 			|	|	├── Business mentoring and other types of advice
 			|	|	├── Becoming a business mentor
 			|	|	└── Further information for finding or becoming a business mentor
-			|	|
-			│   ├── Extra help and support available for your start up
-			|	|	|
+			//-->
+				</li>
+				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up.php">Extra help and support available for your start up</a>
+			<!--
 			|	|	├── Introduction
 			|	|	├── Mentoring, networking, finance and training
 			|	|	├── Support for female entrepreneurs
@@ -711,21 +852,24 @@
 			|	|	├── Support for black, Asian and minority ethnic start ups
 			|	|	├── Support for entrepreneurs on low incomes
 			|	|	└── Sources of support for young entrepreneurs
-			|	|
-			│   └── Standards explained on the British Standards Institution website
-			|
-			// -->
+			//-->
+				</li>
+				<li><a href="http://shop.bsigroup.com/BusinessLinks/BusinessLinkLP/" target="_blank" rel="noopener noreferrer">Standards explained on the British Standards Institution website</a></li>
+			</ul>
 		</li>
 		<li>
 			<a href="/starting-up/take-the-next-steps.php">Take the next steps</a>
-			<!--
-			|
-			└── Take the next steps
-			|
-		    ├── Work out if your business is ready to grow
-		 	|
-		    └── Take the next steps in your business journey
-			// -->
+			<ul>
+				<li><a href="/starting-up/take-the-next-steps.php" title="Take the next steps">Introduction</a></li>
+				<li><a href="https://www.gov.uk/business-finance-support" target="_blank" rel="noopener noreferrer">Work out if your business is ready to grow</a></li>
+				<!--// 
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102082&r.l1=1073858805&r.l2=1097138353&r.s=e&type=HUBCHASSIS
+				//-->
+				<li><a href="https://www.gov.uk/business-finance-support" target="_blank" rel="noopener noreferrer">Take the next steps in your business journey</a></li>
+				<!--//
+				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102061&r.l1=1073858805&r.l2=1097138353&r.s=e&type=HUBCHASSIS
+				-->
+			</ul>
 		</li>
 	</ul>
 </li>
