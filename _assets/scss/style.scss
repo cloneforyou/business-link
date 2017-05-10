@@ -11,9 +11,6 @@ CSS file.
 // Import custom font
 @import "font-nta";
 
-// Import custom mixins
-@import "mixins";
-
 // Import local Foundation overrides - Don't link to Bower version as it will be overwritten whenever updated
 @import "settings";
 
@@ -66,6 +63,8 @@ CSS file.
 @include foundation-visibility-classes;
 @include foundation-float-classes;
 
+// Import custom mixins
+@import "mixins";
 
 // Import your custom styles
 @import "main";

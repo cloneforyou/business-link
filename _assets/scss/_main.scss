@@ -50,7 +50,19 @@ a[target="_blank"]:after {
 	top: 2px!important; 
 }
 
-/* if in the menu, move external icon to the left */
+/* show links which are dead */
+a[href="#"] {
+	color: red; 
+}
+a[href="#"]:after {
+	font-family: "FontAwesome"; 
+	content: "\f057"; 
+	display: inline-block; 
+	color: red; 
+	padding-left: rem-calc(5px); 
+}
+
+/* if in the menu, move icons to the left */
 .categories {
 	.menu {
 		a[target="_blank"]:before {
@@ -68,20 +80,22 @@ a[target="_blank"]:after {
 			content: ''; 
 			display: none; 
 		}
+		a[href="#"]:before {
+			font-family: "FontAwesome"; 
+			content: "\f057"; 
+			display: inline-block; 
+			color: red; 
+			padding-right: rem-calc(5px); 
+			vertical-align: middle; 
+		}
+		a[href="#"]:after {
+			content: ''; 
+			display: none; 
+		}
 	}
 }
 
-/* show links which are dead */
-a[href="#"] {
-	color: red; 
-}
-a[href="#"]:after {
-	font-family: "FontAwesome"; 
-	content: "\f057"; 
-	display: inline-block; 
-	color: red; 
-	padding-left: rem-calc(5px); 
-}
+
 
 /* Change the colour of telephone links */
 a[href^="tel:"] {

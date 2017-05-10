@@ -31,90 +31,6 @@ CSS file.
   font-weight: bold; }
 
 /********************************************************************
-
-Stylesheet: Mixins & Constants Stylesheet
-
-This is where you can take advantage of Sass' great features:
-Mixins & Constants.
-
-********************************************************************/
-/*** Variables ***/
-a[href^="/starting-up"],
-a[href^="../starting-up"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #cc9999; }
-
-a[href^="/finance-and-grants"],
-a[href^="../finance-and-grants"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #3399cc; }
-
-a[href^="/tax-payroll-and-company-information"],
-a[href^="../tax-payroll-and-company-information"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #99cc99; }
-
-a[href^="/employment-and-skills"],
-a[href^="../employment-and-skills"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #99cccc; }
-
-a[href^="/workplace-health-and-safety"],
-a[href^="../workplace-health-and-safety"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #cc99cc; }
-
-a[href^="/environment-and-efficiency"],
-a[href^="../environment-and-efficiency"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #96cc4a; }
-
-a[href^="/premises-and-property"],
-a[href^="../premises-and-property"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #cc99cc; }
-
-a[href^="/create-innovate-and-protect"],
-a[href^="../create-innovate-and-protect"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #cccc66; }
-
-a[href^="/it-and-ecommerce"],
-a[href^="../it-and-ecommerce"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #cc6666; }
-
-a[href^="/sales-and-marketing"],
-a[href^="../sales-and-marketing"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #6666cc; }
-
-a[href^="/international-trade"],
-a[href^="../international-trade"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #66cccc; }
-
-a[href^="/grow-your-business"],
-a[href^="../grow-your-business"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #cccc99; }
-
-a[href^="/buy-or-sell-a-business"],
-a[href^="../buy-or-sell-a-business"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #cc9999; }
-
-a[href^="/for-professional-advisers"],
-a[href^="../for-professional-advisers"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #666699; }
-
-a[href^="/your-business-sector"],
-a[href^="../your-business-sector"] {
-  padding-left: rem-calc(5px);
-  border-left: rem-calc(3px) solid #ff9933; }
-
-/********************************************************************
 //  Foundation for Sites Settings
 //  -----------------------------
 //
@@ -4033,6 +3949,90 @@ a.thumbnail {
 
 /********************************************************************
 
+Stylesheet: Mixins & Constants Stylesheet
+
+This is where you can take advantage of Sass' great features:
+Mixins & Constants.
+
+********************************************************************/
+/*** Variables ***/
+a[href^="/starting-up"],
+a[href^="../starting-up"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #cc9999; }
+
+a[href^="/finance-and-grants"],
+a[href^="../finance-and-grants"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #3399cc; }
+
+a[href^="/tax-payroll-and-company-information"],
+a[href^="../tax-payroll-and-company-information"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #99cc99; }
+
+a[href^="/employment-and-skills"],
+a[href^="../employment-and-skills"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #99cccc; }
+
+a[href^="/workplace-health-and-safety"],
+a[href^="../workplace-health-and-safety"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #cc99cc; }
+
+a[href^="/environment-and-efficiency"],
+a[href^="../environment-and-efficiency"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #96cc4a; }
+
+a[href^="/premises-and-property"],
+a[href^="../premises-and-property"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #cc99cc; }
+
+a[href^="/create-innovate-and-protect"],
+a[href^="../create-innovate-and-protect"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #cccc66; }
+
+a[href^="/it-and-ecommerce"],
+a[href^="../it-and-ecommerce"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #cc6666; }
+
+a[href^="/sales-and-marketing"],
+a[href^="../sales-and-marketing"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #6666cc; }
+
+a[href^="/international-trade"],
+a[href^="../international-trade"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #66cccc; }
+
+a[href^="/grow-your-business"],
+a[href^="../grow-your-business"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #cccc99; }
+
+a[href^="/buy-or-sell-a-business"],
+a[href^="../buy-or-sell-a-business"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #cc9999; }
+
+a[href^="/for-professional-advisers"],
+a[href^="../for-professional-advisers"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #666699; }
+
+a[href^="/your-business-sector"],
+a[href^="../your-business-sector"] {
+  padding-left: 0.3125rem;
+  border-left: 0.1875rem solid #ff9933; }
+
+/********************************************************************
+
 Stylesheet: Main Stylesheet
 
 ********************************************************************/
@@ -4069,7 +4069,18 @@ a[target="_blank"]:after {
   right: 0 !important;
   top: 2px !important; }
 
-/* if in the menu, move external icon to the left */
+/* show links which are dead */
+a[href="#"] {
+  color: red; }
+
+a[href="#"]:after {
+  font-family: "FontAwesome";
+  content: "\f057";
+  display: inline-block;
+  color: red;
+  padding-left: 0.3125rem; }
+
+/* if in the menu, move icons to the left */
 .categories .menu a[target="_blank"]:before {
   font-family: "FontAwesome";
   content: "\f08e";
@@ -4084,16 +4095,17 @@ a[target="_blank"]:after {
   content: '';
   display: none; }
 
-/* show links which are dead */
-a[href="#"] {
-  color: red; }
-
-a[href="#"]:after {
+.categories .menu a[href="#"]:before {
   font-family: "FontAwesome";
   content: "\f057";
   display: inline-block;
   color: red;
-  padding-left: 0.3125rem; }
+  padding-right: 0.3125rem;
+  vertical-align: middle; }
+
+.categories .menu a[href="#"]:after {
+  content: '';
+  display: none; }
 
 /* Change the colour of telephone links */
 a[href^="tel:"] {
