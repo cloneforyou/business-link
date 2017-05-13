@@ -13,9 +13,10 @@ var gulp  = require('gulp'),
 	concat = require('gulp-concat'),
 	rename = require('gulp-rename'),
 	plumber = require('gulp-plumber'),
-	bower = require('gulp-bower'),
+	// bower = require('gulp-bower'),
 	babel = require('gulp-babel'),
 	browserSync = require('browser-sync').create();
+
 
 // Added gulp-imagemin
 gulp.task('imagemin', function() {
@@ -26,6 +27,7 @@ gulp.task('imagemin', function() {
 		}))
 	.pipe(gulp.dest('./_img/'))
 });
+
 
 // Compile Sass, Autoprefix and minify
 gulp.task('styles', function() {
@@ -47,6 +49,7 @@ gulp.task('styles', function() {
 		.pipe(gulp.dest('./assets/css/'))
 });
 	
+
 // JSHint, concat, and minify JavaScript
 gulp.task('site-js', function() {
   return gulp.src([	
@@ -66,6 +69,7 @@ gulp.task('site-js', function() {
 	.pipe(sourcemaps.write('.')) // Creates sourcemap for minified JS
 	.pipe(gulp.dest('./assets/js'))
 });    
+
 
 // JSHint, concat, and minify Foundation JavaScript
 gulp.task('foundation-js', function() {
@@ -109,11 +113,13 @@ gulp.task('foundation-js', function() {
 	.pipe(gulp.dest('./assets/js'))
 }); 
 
+
 // Update Foundation with Bower and save to /vendor
-gulp.task('bower', function() {
-  return bower({ cmd: 'update'})
-	.pipe(gulp.dest('_vendor/'))
-});  
+// gulp.task('bower', function() {
+//   return bower({ cmd: 'update'})
+// 	.pipe(gulp.dest('_vendor/'))
+// });  
+
 
 // Browser-Sync watch files and inject changes
 gulp.task('browsersync', function() {
@@ -136,6 +142,7 @@ gulp.task('browsersync', function() {
 });
 gulp.task('sync', ['browsersync']);
 
+
 // Watch files for changes (without Browser-Sync)
 gulp.task('watch', function() {
 
@@ -152,6 +159,7 @@ gulp.task('watch', function() {
   gulp.watch('./_vendor/foundation-sites/js/*.js', ['foundation-js']);
 
 }); 
+
 
 // Run styles, site-js and foundation-js
 gulp.task('default', function() {
