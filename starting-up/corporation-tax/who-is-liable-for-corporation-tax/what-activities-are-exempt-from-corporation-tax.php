@@ -39,7 +39,7 @@
 
 		<ul>
 			<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/who-is-not-subject-to-corporation-tax-requirements.php" title="Who is not subject to Corporation Tax requirements?">Prev</a></li>
-			<li><a href="detail01ca.html?itemId=1082183519&amp;type=RESOURCES" title="What you must do if your company or organisation is liable for Corporation Tax">Next</a></li>
+			<li><a href="/starting-up/corporation-tax/who-is-liable-for-corporation-tax/what-you-must-do-if-your-company-or-organisation-is-liable-for-corporation-tax.php" title="What you must do if your company or organisation is liable for Corporation Tax">Next</a></li>
 		</ul>
 
 		<h3>Subjects covered in this guide</h3>
