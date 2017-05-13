@@ -57,7 +57,7 @@
 
 		<h3>Also on this site</h3>
 		<ul>
-			<li><a href="https://www.gov.uk/browse/tax" title="What is Corporation Tax, who does it apply to, how to manage it online and other tax responsiblities if you're a company director">Get started with Corporation Tax</a></li>
+			<li><a href="https://www.gov.uk/browse/tax" target="_blank" rel="noopener noreferrer">Get started with Corporation Tax</a></li>
 		</ul>
 
 		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
