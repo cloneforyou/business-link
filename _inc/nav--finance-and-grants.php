@@ -8,6 +8,19 @@
 			<a href="/finance-and-grants/financial-planning-and-accounts.php">Financial planning and accounts</a>
 			<ul>
 				<li>
+					<a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php">Business budgeting</a>
+					<ul>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php" title="Business budgeting">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting/budgets-and-business-planning.php">Budgets and business planning</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting/creating-a-budget.php">Creating a budget</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting/key-steps-in-drawing-up-a-budget.php">Key steps in drawing up a budget</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting/what-your-budget-should-cover.php">What your budget should cover</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting/using-your-budget-to-measure-performance.php">Using your budget to measure performance</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting/reviewing-your-budget-regularly.php">Reviewing your budget regularly</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting/here-is-how-budgeting-and-business-planning-helped-my-business-grow.php">Here's how budgeting and business planning helped my business grow </a></li>
+					</ul>
+				</li>
+				<li>
 					<a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php">Choose and work with an accountant</a>
 					<ul>
 						<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php" title="Choose and work with an accountant">Introduction</a></li>
