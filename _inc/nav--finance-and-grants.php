@@ -8,6 +8,16 @@
 			<a href="/finance-and-grants/financial-planning-and-accounts.php">Financial planning and accounts</a>
 			<ul>
 				<li>
+					<a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php">Choose and work with an accountant</a>
+					<ul>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php" title="Choose and work with an accountant">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant/how-an-accountant-can-help-your-business.php">How an accountant can help your business</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant/choosing-an-accountant.php">Choosing an accountant</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant/checklist-ten-things-to-ask-your-prospective-accountant.php">Checklist: ten things to ask your prospective accountant</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant/managing-the-relationship-with-your-accountant.php">Managing the relationship with your accountant</a></li>
+					</ul>
+				</li>
+				<li>
 					<a href="/finance-and-grants/financial-planning-and-accounts/financial-and-management-accounts-the-basics.php">Financial and management accounts: the basics</a>
 					<ul>
 						<li><a href="/finance-and-grants/financial-planning-and-accounts/financial-and-management-accounts-the-basics.php" title="Financial and management accounts: the basics">Introduction</a></li>
