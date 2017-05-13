@@ -19,6 +19,22 @@
 						<li><a href="/finance-and-grants/financial-planning-and-accounts/financial-and-management-accounts-the-basics/false-accounting.php">False accounting</a></li>
 					</ul>
 				</li>
+				<li>
+					<a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business.php">Set up a simple profit and loss account for your business</a>
+					<ul>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business.php" title="Set up a simple profit and loss account for your business">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business/do-all-businesses-have-to-produce-formal-profit-and-loss-accounts.php">Do all businesses have to produce formal profit and loss accounts?</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business/profit-reporting-how-when-and-where.php">Profit reporting: how, when and where?</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business/records-required-for-producing-a-profit-and-loss-account-or-completing-a-tax-return.php">Records required for producing a profit and loss account or completing a tax return</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business/business-income-sales.php">Business income: sales</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business/business-income-other.php">Business income: other</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business/recording-business-expenditure.php">Recording business expenditure</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business/cost-of-sales.php">Cost of sales</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business/business-expenses.php">Business expenses</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business/cost-of-equipment.php">Cost of equipment</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/set-up-a-simple-profit-and-loss-account-for-your-business/profit-and-loss-accounting-periods-and-tax.php">Profit and loss accounting periods and tax</a></li>
+					</ul>
+				</li>
 			</ul>
 		</li>
 	</ul>
