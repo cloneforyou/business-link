@@ -52,96 +52,12 @@
 		</ul>
 		
 		<p>Developed with:<br />
-			<a href="http://www.icaew.com/" target="bgExternalwwwbusinesslinkgovuk" title="Institute of Chartered Accountants in England and Wales - Opens in a new window">
+			<a href="http://www.icaew.com/" target="_blank" rel="noopener noreferrer">
 				<img src="../../_img/icaew_solus_logo_19x35px.JPG" width="19" height="35" alt="" /> Institute of Chartered Accountants in England and Wales
 			</a>
 		</p>
 		
 		<img src="../../../_img/px_finance.gif" alt="" width="181" height="5" />
-
-		<table cellpadding="0" cellspacing="0" width="100%">
-				<tr>
-					<td rowspan="12"><img src="../../../_img/px_white.gif" alt="" width="5" height="6" /></td>
-					<td colspan="2">
-						<p>
-							<a href="layere2de.html?topicId=1073858790" title="Find and manage money for your business">Finance and grants</a>
-						</p>
-						<p><img src="../../../_img/leftnav_sub_hr.gif" alt="" /></p>
-					</td>
-				</tr>
-				<tr>
-					<td colspan="2">
-						<p><a href="layer69e1.html?topicId=1073858944">Financial planning and accounts</a>
-						</p>
-						<p><img src="../../../_img/leftnav_sub_hr.gif" alt="" /></p>
-					</td>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-					<td>
-						<p><strong>Financial and management accounts: the basics</strong></p>
-					</td>
-				</tr>
-				<tr>
-					<td width="10">&nbsp;</td>
-					<td>
-						<p><img src="../../../_img/leftnav_sub_sub_hr.gif" alt="" /></p>
-					</td>
-				</tr>
-				<tr>
-					<td width="10"><img src="../../../_img/px_finance.gif" alt="Current section" width="5" height="5" /></td>
-					<td>
-						<p><strong>Introduction</strong></p>
-					</td>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-					<td>
-						<p>
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-					<td>
-						<p>
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-					<td>
-						<p>
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-					<td>
-						<p>
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-					<td>
-						<p>
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-					<td>
-						<p>
-						</p>
-					</td>
-				</tr>
-				<tr>
-					<td colspan="2">
-						<p>&nbsp;</p>
-					</td>
-				</tr>
-			</table>
 		
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
