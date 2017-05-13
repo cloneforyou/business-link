@@ -548,12 +548,11 @@
 			|	|	└── Here's how I got to grips with VAT
 			// -->
 				</li>
-				<li><a href="/tax-payroll-and-company-information/vat/when-to-register-for-vat.php">When to register for VAT</a>
-			<!--
-			|		|
-			|		├── Introduction
-			|		└── Do I need to register for VAT?
-			// -->
+				<li><a href="/starting-up/vat/when-to-register-for-vat.php">When to register for VAT</a>
+					<ul>
+						<li><a href="/starting-up/vat/when-to-register-for-vat.php" title="When to register for VAT">Introduction</a></li>
+						<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077722988&r.l1=1073858805&r.l2=1073859188&r.l3=1073863071&r.s=sc&type=BLTTOOL" target="_blank" rel="noopener noreferrer">Do I need to register for VAT?</a></li></li>
+					</ul>
 				</li>
 			</ul>
 		</li>
