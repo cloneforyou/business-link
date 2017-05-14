@@ -22,6 +22,13 @@
 						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk/here-is-how-we-check-the-entitlement-of-our-staff-to-work-in-the-uk.php">Here's how we check the entitlement of our staff to work in the UK</a></li>
 					</ul>
 				</li>
+				<li>
+					<a href="/employment-and-skills/employment-checks/check-the-eligibility-of-your-workers.php">Check the eligibility of your workers</a>
+					<ul>
+						<li><a href="/employment-and-skills/employment-checks/check-the-eligibility-of-your-workers.php" title="Check the eligibility of your workers">Introduction</a></li>
+						<li><a href="https://www.gov.uk/legal-right-work-uk" target="_blank" rel="noopener noreferrer">Am I employing workers legally?</a></li>
+					</ul>
+				</li>
 			</ul>
 		</li>
 		<li><a href="/employment-and-skills/staff-documents-and-employment-policies.php">Staff documents and employment policies</a></li>
