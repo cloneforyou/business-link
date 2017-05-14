@@ -23,6 +23,27 @@
 					</ul>
 				</li>
 				<li>
+					<a href="/tax-payroll-and-company-information/vat/how-and-when-to-register-for-vat.php">How and when to register for VAT</a>
+					<ul>
+						<li><a href="/tax-payroll-and-company-information/vat/how-and-when-to-register-for-vat.php" title="How and when to register for VAT">Introduction</a></li>
+						<li>
+							<a href="/tax-payroll-and-company-information/vat/how-and-when-to-register-for-vat/when-to-register-for-uk-vat.php">When to register for UK VAT</a>
+							<ul>
+								<li>
+									<a href="/tax-payroll-and-company-information/vat/how-and-when-to-register-for-vat/when-to-register-for-uk-vat.php" title="When to register for UK VAT">Introduction</a>
+								</li>
+								<li><a href="/tax-payroll-and-company-information/vat/how-and-when-to-register-for-vat/when-to-register-for-uk-vat/who-can-and-cannot-register-for-vat.php">Who can and cannot register for VAT</a></li>
+								<li><a href="/tax-payroll-and-company-information/vat/how-and-when-to-register-for-vat/when-to-register-for-uk-vat/you-are-doing-business-in-the-uk-or-intend-to-start.php">You're doing business in the UK, or intend to start</a></li>
+								<li><a href="/tax-payroll-and-company-information/vat/how-and-when-to-register-for-vat/when-to-register-for-uk-vat/you-supply-goods-to-the-uk-from-abroad-or-intend-to-start.php">You supply goods to the UK from abroad, or intend to start</a></li>
+								<li><a href="/tax-payroll-and-company-information/vat/how-and-when-to-register-for-vat/when-to-register-for-uk-vat/you-supply-goods-or-services-from-the-uk-to-other-countries.php">You supply goods or services from the UK to other countries</a></li>
+								<li><a href="/tax-payroll-and-company-information/vat/how-and-when-to-register-for-vat/when-to-register-for-uk-vat/voluntary-registration.php">Voluntary registration</a></li>
+								<li><a href="/tax-payroll-and-company-information/vat/how-and-when-to-register-for-vat/when-to-register-for-uk-vat/calculating-your-vat-taxable-turnover.php">Calculating your VAT taxable turnover</a></li>
+								<li><a href="/tax-payroll-and-company-information/vat/how-and-when-to-register-for-vat/when-to-register-for-uk-vat/do-not-avoid-registering-for-vat-by-artificially-separating-business-activities.php">Do not avoid registering for VAT by artificially separating business activities</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>
 					<a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts.php">VAT Returns and accounts</a>
 					<ul>
 						<li><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts.php" title="VAT Returns and accounts">Introduction</a></li>
