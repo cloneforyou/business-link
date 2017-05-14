@@ -44,6 +44,22 @@
 					</ul>
 				</li>
 				<li>
+					<a href="/tax-payroll-and-company-information/vat/changing-or-cancelling-your-vat-registration.php">Changing or cancelling your VAT registration</a>
+					<ul>
+						<li><a href="/tax-payroll-and-company-information/vat/changing-or-cancelling-your-vat-registration.php" title="Changing or cancelling your VAT registration">Introduction</a></li>
+						<li>
+							<a href="/tax-payroll-and-company-information/vat/changing-or-cancelling-your-vat-registration/closing-or-selling-your-business-and-vat-registration.php">Closing or selling your business and VAT registration</a>
+							<ul>
+								<li>
+									<a href="/tax-payroll-and-company-information/vat/changing-or-cancelling-your-vat-registration/closing-or-selling-your-business-and-vat-registration.php" title="Closing or selling your business and VAT registration">Introduction</a>
+								</li>
+								<li><a href="/tax-payroll-and-company-information/vat/changing-or-cancelling-your-vat-registration/closing-or-selling-your-business-and-VAT-registration/closing-your-business.php">Closing your business</a></li>
+								<li><a href="/tax-payroll-and-company-information/vat/changing-or-cancelling-your-vat-registration/closing-or-selling-your-business-and-VAT-registration/selling-your-business.php">Selling your business</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>
 					<a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts.php">VAT Returns and accounts</a>
 					<ul>
 						<li><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts.php" title="VAT Returns and accounts">Introduction</a></li>
