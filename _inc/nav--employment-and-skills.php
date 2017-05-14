@@ -7,7 +7,23 @@
 		<li><a href="/employment-and-skills/advertise-a-job.php">Advertise a job</a></li>
 		<li><a href="/employment-and-skills/take-on-staff.php">Take on staff</a></li>
 		<li><a href="/employment-and-skills/different-types-of-worker.php">Different types of worker</a></li>
-		<li><a href="/employment-and-skills/employment-checks.php">Employment checks</a></li>
+		<li>
+			<a href="/employment-and-skills/employment-checks.php">Employment checks</a>
+			<ul>
+				<li><a href="/employment-and-skills/employment-checks.php" title="Employment checks">Introduction</a></li>
+				<li>
+					<a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk.php">Ensuring your workers are eligible to work in the UK</a>
+					<ul>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk.php" title="Ensuring your workers are eligible to work in the UK">Introduction</a></li>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk/checking-a-prospective-workers-entitlement-to-work-in-the-uk.php">Checking a prospective worker's entitlement to work in the UK</a></li>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk/copying-and-retaining-workers-records.php">Copying and retaining workers' records</a></li>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk/compliance-checks-and-penalties-for-immigration-offences.php">Compliance checks and penalties for immigration offences</a></li>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk/here-is-how-migrant-workers-contribute-to-our-workforce.php">Here's how migrant workers contribute to our workforce</a></li>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk/here-is-how-we-check-the-entitlement-of-our-staff-to-work-in-the-uk.php">Here's how we check the entitlement of our staff to work in the UK</a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
 		<li><a href="/employment-and-skills/staff-documents-and-employment-policies.php">Staff documents and employment policies</a></li>
 		<li>
 			<a href="/employment-and-skills/pay-and-pensions.php">Pay and pensions</a>
