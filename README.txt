@@ -11,7 +11,19 @@ Updates
 
 I've thought it an idea to update this when a section is completed to show progression.
 
-04 May 17 : Tax, Payroll and Company Information > Corporation Tax > > Claiming losses allowances and reliefs > Research and Development (R&D) Relief for Corporation Tax (top-level)
+15 May 17 : Finance and grants > Financial planning and accounts > Financial and management accounts the basics > *section
+14 May 17 : Employment and skills > Employment checks > Ensuring your workers are eligible to work in the UK
+			Employment and skills > Employment checks > Check the eligibility of your workers
+			Tax, Payroll and Company Information > VAT > How and when to register for VAT > When to register for UK VAT
+			Tax, Payroll and Company Information > VAT > Changing or cancelling your VAT registration > Closing or selling your business and VAT registration
+13 May 17 : Starting up > Corporation Tax > Who is liable for corporation tax > *section
+			Tax, Payroll and Company Information > VAT > Introduction to VAT
+			Finance and grants > Financial planning and accounts > Financial and management accounts: the basics
+			Finance and grants > Financial planning and accounts > Set up a simple profit and loss account for your business
+			Finance and grants > Financial planning and accounts > Choose and work with an accountant
+			Finance and grants > Financial planning and accounts > Business budgeting
+			Tax, Payroll and Company Information > VAT > VAT returns and accounts > How to complete your VAT return box by box
+04 May 17 : Tax, Payroll and Company Information > Corporation Tax > Claiming losses allowances and reliefs > Research and Development (R&D) Relief for Corporation Tax (top-level)
 
 03 May 17 : Tax, Payroll and Company Information > Corporation Tax > Who is liable for corporation tax (top-level)
 			Tax, Payroll and Company Information > Corporation Tax > Starting a company or organisation and corporation tax (top-level)
