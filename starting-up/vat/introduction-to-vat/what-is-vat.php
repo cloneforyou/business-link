@@ -49,8 +49,6 @@
 			<li><a href="/starting-up/vat/introduction-to-vat/more-useful-links.php">More Useful Links</a></li>
 		</ul>
 
-		
-		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<p>
