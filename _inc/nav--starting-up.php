@@ -506,19 +506,18 @@
 			<ul>
 				<li><a href="/starting-up/vat.php" title="VAT">Introduction</a></li>
 				<li><a href="/tax-payroll-and-company-information/vat/introduction-to-vat.php">Introduction to VAT</a>
-			<!--
-			|	|	|
-			|	|	├── Introduction
-			|	|	├── What is VAT?
-			|	|	├── Who charges VAT and what VAT is charged on
-			|	|	├── Rates of VAT
-			|	|	├── Items not covered by VAT
-			|	|	├── The difference between exempt and zero-rated
-			|	|	├── Find out more about VAT
-			|	|	├── VAT glossary
-			|	|	├── Here's how I got to grips with VAT
-			|	|	└── More Useful Links
-			//-->
+					<ul>
+						<li><a href="/tax-payroll-and-company-information/vat/introduction-to-vat.php" title="Introduction to VAT">Introduction</a></li>
+						<li><a href="/starting-up/vat/introduction-to-vat/what-is-vat.php">What is VAT?</a></li>
+						<li><a href="/starting-up/vat/introduction-to-vat/who-charges-vat-and-what-vat-is-charged-on.php">Who charges VAT and what VAT is charged on</a></li>
+						<li><a href="/starting-up/vat/introduction-to-vat/rates-of-vat.php">Rates of VAT</a></li>
+						<li><a href="/starting-up/vat/introduction-to-vat/items-not-covered-by-vat.php">Items not covered by VAT</a></li>
+						<li><a href="/starting-up/vat/introduction-to-vat/the-difference-between-exempt-and-zero-rated.php">The difference between exempt and zero-rated</a></li>
+						<li><a href="/starting-up/vat/introduction-to-vat/find-out-more-about-vat.php">Find out more about VAT</a></li>
+						<li><a href="/starting-up/vat/introduction-to-vat/vat-glossary.php">VAT glossary</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/identify-which-vat-scheme-your-business-is-eligible-to-use/here-is-how-I-got-to-grips-with-vat.php">Here's how I got to grips with VAT</a></li>
+						<li><a href="/starting-up/vat/introduction-to-vat/more-useful-links.php">More Useful Links</a></li>
+					</ul>
 				</li>
 				<li><a href="https://www.gov.uk/vat-businesses" target="_blank" rel="noopener noreferrer">Get to grips with VAT and your business</a></li>
 				<!--//
