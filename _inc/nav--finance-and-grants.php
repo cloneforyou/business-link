@@ -8,6 +8,15 @@
 			<a href="/finance-and-grants/financial-planning-and-accounts.php">Financial planning and accounts</a>
 			<ul>
 				<li>
+					<a href="/finance-and-grants/financial-planning-and-accounts/identify-which-vat-scheme-your-business-is-eligible-to-use.php">Identify which VAT scheme your business is eligible to use</a>
+					<!-- why is this link, not the same as below? -->
+					<ul>
+						<li><a href="/tax-payroll-and-company-information/vat/accounting-schemes-to-simplify-your-vat/identify-which-vat-scheme-your-business-is-eligible-to-use.php" title="Identify which VAT scheme your business is eligible to use">Introduction</a></li>
+						<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077486757&r.i=1082356353&r.l1=1073858790&r.l2=1073858944&r.l3=1074419970&r.s=sc&r.t=CASE%20STUDIES&type=BLTTOOL" target="_blank" rel="noopener noreferrer">Which VAT scheme is right for my business?</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/identify-which-vat-scheme-your-business-is-eligible-to-use/here-is-how-I-got-to-grips-with-vat.php">Here's how I got to grips with VAT</a></li>
+					</ul>
+				</li>
+				<li>
 					<a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php">Business budgeting</a>
 					<ul>
 						<li><a href="/finance-and-grants/financial-planning-and-accounts/business-budgeting.php" title="Business budgeting">Introduction</a></li>
