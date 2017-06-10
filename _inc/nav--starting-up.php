@@ -534,16 +534,15 @@
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102052&r.l1=1073858805&r.l2=1073859188&r.s=e&type=HUBCHASSIS
 				//-->
 				<li><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts/how-to-complete-your-vat-return-box-by-box.php">How to complete your VAT Return box by box</a>
-			<!--
-			|	|	|
-			|	|	├── Introduction
-			|	|	├── How to complete your VAT Return
-			|	|	├── How to complete Box 1 to Box 5
-			|	|	├── How to complete Box 6 and Box 7
-			|	|	├── How to complete Box 8 and Box 9
-			|	|	├── VAT rate changes
-			|	|	└── Here's how I got to grips with VAT
-			// -->
+					<ul>
+						<li><a href="/tax-payroll-and-company-information/vat/vat-returns-and-accounts/how-to-complete-your-vat-return-box-by-box.php" title="How to calculate the figures for your VAT Return and what you have to include in each box">Introduction</a></li>
+						<li><a href="/starting-up/vat/how-to-complete-your-vat-return-box-by-box/how-to-complete-your-vat-return.php">How to complete your VAT Return</a></li>
+						<li><a href="/starting-up/vat/how-to-complete-your-vat-return-box-by-box/how-to-complete-box-1-to-box-5.php">How to complete Box 1 to Box 5</a></li>
+						<li><a href="/starting-up/vat/how-to-complete-your-vat-return-box-by-box/how-to-complete-box-6-and-box-7.php">How to complete Box 6 and Box 7</a></li>
+						<li><a href="/starting-up/vat/how-to-complete-your-vat-return-box-by-box/how-to-complete-box-8-and-box-9.php">How to complete Box 8 and Box 9</a></li>
+						<li><a href="/starting-up/vat/how-to-complete-your-vat-return-box-by-box/vat-rate-changes.php">VAT rate changes</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/identify-which-vat-scheme-your-business-is-eligible-to-use/here-is-how-I-got-to-grips-with-vat.php">Here's how I got to grips with VAT</a></li>
+					</ul>
 				</li>
 				<li><a href="/starting-up/vat/when-to-register-for-vat.php">When to register for VAT</a>
 					<ul>
