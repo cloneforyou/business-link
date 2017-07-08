@@ -599,14 +599,14 @@
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102011&r.l1=1073858805&r.l2=1073859176&r.s=e&type=HUBCHASSIS
 				//-->
 				<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk.php">Ensuring your workers are eligible to work in the UK</a>
-			<!--
-			|	|	├── Introduction
-			|	|	├── Checking a prospective worker's entitlement to work in the UK
-			|	|	├── Copying and retaining workers' records
-			|	|	├── Compliance checks and penalties for immigration offences
-			|	|	├── Here's how migrant workers contribute to our workforce
-			|	|	└── Here's how we check the entitlement of our staff to work in the UK
-			//-->
+					<ul>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk.php" title="Checking a worker's right to work in the UK and how to employ workers from outside the EEA and Switzerland">Introduction</a></li>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk/checking-a-prospective-workers-entitlement-to-work-in-the-uk.php">Checking a prospective worker's entitlement to work in the UK</a></li>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk/copying-and-retaining-workers-records.php">Copying and retaining workers' records</a></li>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk/compliance-checks-and-penalties-for-immigration-offences.php">Compliance checks and penalties for immigration offences</a></li>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk/here-is-how-migrant-workers-contribute-to-our-workforce.php">Here's how migrant workers contribute to our workforce</a></li>
+						<li><a href="/employment-and-skills/employment-checks/ensuring-your-workers-are-eligible-to-work-in-the-uk/here-is-how-we-check-the-entitlement-of-our-staff-to-work-in-the-uk.php">Here's how we check the entitlement of our staff to work in the UK</a></li>
+					</ul>
 				</li>
 				<li><a href="https://www.gov.uk/employment-contracts-and-conditions" target="_blank" rel="noopener noreferrer">Create a written statement of employment</a></li>
 				<!--//
