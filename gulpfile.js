@@ -13,9 +13,21 @@ var gulp  = require('gulp'),
 	concat = require('gulp-concat'),
 	rename = require('gulp-rename'),
 	plumber = require('gulp-plumber'),
-	// bower = require('gulp-bower'),
+	// bower = require('gulp-bower'), 
+	// sitemap = require('gulp-sitemap'), 
 	babel = require('gulp-babel'),
 	browserSync = require('browser-sync').create();
+
+
+// gulp.task('sitemap', function () {
+//     gulp.src('/*.php', {
+//             read: false
+//         })
+//         .pipe(sitemap({
+//             siteUrl: 'http://alpha.venturelabs.org.uk'
+//         }))
+//         .pipe(gulp.dest('./build'));
+// });
 
 
 // Added gulp-imagemin
