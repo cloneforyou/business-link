@@ -11,6 +11,7 @@ Updates
 
 I've thought it an idea to update this when a section is completed to show progression.
 
+13 Jul 17 : Employment and skills > Employment checks > Ensuring your workers are eligible to work in the UK *section
 10 Jun 17 : Starting up VAT How to complete your vat return box by box *section
 02 Jun 17 : Starting up > VAT > Introduction to VAT *section
 15 May 17 : Finance and grants > Financial planning and accounts > Financial and management accounts the basics > *section
