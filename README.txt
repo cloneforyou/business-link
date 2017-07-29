@@ -2,7 +2,7 @@ So, I've been working on this is my spare time for many years. Ever since the go
 
 I'm now at a point where it is becoming readable, so you can view the live development link at http://blink.caroline-murphy.co.uk/
 
-The content is (c) Crown Copyright - all code is my own.
+The content is (c) Crown Copyright - all code and design is my own.
 
 ---------------------------------------
 
@@ -11,6 +11,8 @@ Updates
 
 I've thought it an idea to update this when a section is completed to show progression.
 
+29 Jul 17 : Completed sales-and-marketing > selling-and-the-law > Comply with the law in the provision of goods facilities and services > top-level and *section.
+			Began updating links globally to speed-up development
 13 Jul 17 : Employment and skills > Employment checks > Ensuring your workers are eligible to work in the UK *section
 10 Jun 17 : Starting up VAT How to complete your vat return box by box *section
 02 Jun 17 : Starting up > VAT > Introduction to VAT *section
