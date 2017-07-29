@@ -1,8 +1,16 @@
-So, I've been working on this is my spare time for many years. Ever since the government ditched the great resource Business Link, I've strived to bring it back to it's former glory.
+So, I've been working on this is my spare time for many years. Ever since the government ditched the great resource that was Business Link - just after a £million re-design - I've strived to bring it back to it's former glory.
 
-I'm now at a point where it is becoming readable, so you can view the live development link at http://blink.caroline-murphy.co.uk/
+I'm now at a point where it is becoming more useable and readable, so you can view the live development link at http://alpha.venturelabs.org.uk
 
-The content is (c) Crown Copyright - all code and design is my own.
+-- How you can help --
+
+- I need the ability to search the website; I've tried to avoid using Wordpress at this point
+- I need fresh imagery for sections
+- I need someone to ensure the information given is accurate and up-to-date
+- I need the ability to create an XML file for SEO purposes
+
+
+_The content is (c) Crown Copyright - all code and design is my own._
 
 ---------------------------------------
 
