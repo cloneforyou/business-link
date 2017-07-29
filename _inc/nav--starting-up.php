@@ -668,19 +668,20 @@
 				<!--// 
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102020&r.l1=1073858805&r.l2=1073859155&r.s=e&type=HUBCHASSIS 
 				//-->
-				<li><a href="/it-and-ecommerce/suppliers/choose-and-manage-your-it-supplier.php">Choose and manage your IT supplier</a>
-			<!--
-			|	|	├── Introduction
-			|	|	├── The different types of IT suppliers
-			|	|	├── Identifying and contacting potential IT suppliers
-			|	|	├── Selecting the right IT supplier
-			|	|	├── IT system maintenance
-			|	|	├── IT support services
-			|	|	├── IT system cost evaluation
-			|	|	├── Negotiating the contract for your IT system
-			|	|	├── Benefits of an effective IT supplier relationship
-			|	|	└── Checklist: choosing an IT supplier
-			//-->
+				<li>
+					<a href="/it-and-ecommerce/suppliers/choose-and-manage-your-it-supplier.php">Choose and manage your IT supplier</a>
+					<ul>
+						<li><a href="/it-and-ecommerce/suppliers/choose-and-manage-your-it-supplier.php" title="Choose and manage your IT supplier">Introduction</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/choose-and-manage-your-it-supplier/the-different-types-of-it-suppliers.php">The different types of IT suppliers</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/choose-and-manage-your-it-supplier/identifying-and-contacting-potential-it-suppliers.php">Identifying and contacting potential IT suppliers</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/choose-and-manage-your-it-supplier/selecting-the-right-it-supplier.php">Selecting the right IT supplier</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/choose-and-manage-your-it-supplier/it-system-maintenance.php">IT system maintenance</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/choose-and-manage-your-it-supplier/it-support-services.php">IT support services</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/choose-and-manage-your-it-supplier/it-system-cost-evaluation.php">IT system cost evaluation</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/choose-and-manage-your-it-supplier/negotiating-the-contract-for-your-it-system.php">Negotiating the contract for your IT system</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/choose-and-manage-your-it-supplier/benefits-of-an-effective-it-supplier-relationship.php">Benefits of an effective IT supplier relationship</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/choose-and-manage-your-it-supplier/checklist-choosing-an-it-supplier.php">Checklist: choosing an IT supplier</a></li>
+					</ul>
 				</li>
 				<li><a href="/it-and-ecommerce/introduction-to-it/computer-software-the-basics.php">Computer software: the basics</a>
 			<!--
