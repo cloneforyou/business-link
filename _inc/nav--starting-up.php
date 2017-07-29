@@ -636,18 +636,18 @@
 				<!-- http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102005&r.l1=1073858805&r.l2=1073859164&r.s=e&type=HUBCHASSIS -->
 				<li><a href="#">Promote your business</a></li>
 				<!-- http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102044&r.l1=1073858805&r.l2=1073859164&r.s=e&type=HUBCHASSIS -->
-				<li><a href="/sales-and-marketing/selling-and-the-law/comply-with-the-law-in-the-provision-of-goods-facilities-and-services.php">Comply with the law in the provision of goods, facilities and services</a>
-			<!--
-			|		├── Introduction
-			|		├── Supplying satisfactory and safe goods and services
-			|		├── How equality law applies to the provision of goods, facilities and services
-			|		├── Customers and data protection
-			|		├── Getting paid on time
-			|		├── Rules for businesses that don't sell to customers face to face
-			|		├── Special rules for businesses that sell to customers in their home or workplace
-			|		├── Special rules for businesses that sell electronic and electrical goods
-			|		└── The Proof of Age Standards Scheme
-			// -->
+				<li>
+					<a href="/sales-and-marketing/selling-and-the-law/comply-with-the-law-in-the-provision-of-goods-facilities-and-services.php">Comply with the law in the provision of goods, facilities and services</a>
+					<ul>
+						<li><a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/supplying-satisfactory-and-safe-goods-and-services.php">Supplying satisfactory and safe goods and services</a></li>
+						<li><a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/how-equality-law-applies-to-the-provision-of-goods-facilities-and-services.php">How equality law applies to the provision of goods, facilities and services</a></li>
+						<li><a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/customers-and-data-protection.php">Customers and data protection</a></li>
+						<li><a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/getting-paid-on-time.php">Getting paid on time</a></li>
+						<li><a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/rules-for-businesses-that-dont-sell-to-customers-face-to-face.php">Rules for businesses that don't sell to customers face to face</a></li>
+						<li><a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/special-rules-for-businesses-that-sell-to-customers-in-their-home-or-workplace.php">Special rules for businesses that sell to customers in their home or workplace</a></li>
+						<li><a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/special-rules-for-businesses-that-sell-electronic-and-electrical-goods.php">Special rules for businesses that sell electronic and electrical goods</a></li>
+						<li><a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/the-proof-of-age-standards-scheme.php">The Proof of Age Standards Scheme</a></li>
+					</ul>
 				</li>
 			</ul>
 		</li>
