@@ -639,6 +639,7 @@
 				<li>
 					<a href="/sales-and-marketing/selling-and-the-law/comply-with-the-law-in-the-provision-of-goods-facilities-and-services.php">Comply with the law in the provision of goods, facilities and services</a>
 					<ul>
+					<li><a href="/sales-and-marketing/selling-and-the-law/comply-with-the-law-in-the-provision-of-goods-facilities-and-services.php" title="Comply with the law in the provision of goods, facilities and services">Introduction</a></li>
 						<li><a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/supplying-satisfactory-and-safe-goods-and-services.php">Supplying satisfactory and safe goods and services</a></li>
 						<li><a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/how-equality-law-applies-to-the-provision-of-goods-facilities-and-services.php">How equality law applies to the provision of goods, facilities and services</a></li>
 						<li><a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/customers-and-data-protection.php">Customers and data protection</a></li>

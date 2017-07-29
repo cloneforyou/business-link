@@ -48,17 +48,17 @@
 		<ul>
 			<li><a href="https://www.gov.uk/government/organisations/office-of-fair-trading" target="_blank" rel="noopener noreferrer">The Sale of Goods Act on the Office of Fair Trading website</a></li>
 			<!-- http://webarchive.nationalarchives.gov.uk/20130402200025tf_/http://www.oft.gov.uk/business-advice/treating-customers-fairly/saleofgoodsact/ -->
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20111006195104/http://www.tradingstandards.gov.uk/advice/advice-business.cfm" title="Business guidance and Trading Standards office search on the Trading Standards Institute website" target="_blank" rel="noopener noreferrer">Business guidance and Trading Standards office search on the Trading Standards Institute website</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20111006195104/http://webarchive.nationalarchives.gov.uk/20111006195104/https://www.businesscompanion.info/advice/advice-business.cfm" title="Business guidance and Trading Standards office search on the Trading Standards Institute website" target="_blank" rel="noopener noreferrer">Business guidance and Trading Standards office search on the Trading Standards Institute website</a></li>
 			<li><a href="https://www.gov.uk/government/topics/consumer-rights-and-issues" title="Regulations covering sales to consumers without a face-to-face meeting and online sales to businesses or consumers" target="_blank" rel="noopener noreferrer">Distance selling and e-commerce rules on the Department for Business, Innovation &amp; Skills website</a></li>
 		</ul>
 	
 		<p>
 			Developed with:<br />
-			<a href="http://www.oft.gov.uk/default.htm" target="bgExternalwwwbusinesslinkgovuk" title="Office of Fair Trading - Opens in a new window">
+			<a href="http://webarchive.nationalarchives.gov.uk/20130403014324/http://oft.gov.uk/" target="_blank" rel="noopener noreferrer" title="Office of Fair Trading - Opens in a new window">
 				<img src="../../_img/OFT_unagreed.gif" width="130" height="32"  alt="" /> Office of Fair Trading
 			</a>
 			<br />
-			<a href="http://www.tradingstandards.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" title="Trading Standards - Opens in a new window">
+			<a href="https://www.businesscompanion.info/" target="_blank" rel="noopener noreferrer" title="Trading Standards - Opens in a new window">
 				<img src="../../_img/TS_unagreed.gif" width="24" height="32"  alt="" /> Trading Standards
 			</a>
 		</p>
