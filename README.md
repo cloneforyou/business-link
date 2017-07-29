@@ -2,7 +2,7 @@ So, I've been working on this is my spare time for many years. Ever since the go
 
 I'm now at a point where it is becoming more useable and readable, so you can view the live development link at http://alpha.venturelabs.org.uk
 
--- How you can help --
+### How you can help
 
 - I need the ability to search the website; I've tried to avoid using Wordpress at this point
 - I need fresh imagery for sections
@@ -12,10 +12,9 @@ I'm now at a point where it is becoming more useable and readable, so you can vi
 
 _The content is (c) Crown Copyright - all code and design is my own._
 
----------------------------------------
+---
 
-Updates
--------------
+### Updates
 
 I've thought it an idea to update this when a section is completed to show progression.
 
