@@ -20,7 +20,7 @@ I've thought it an idea to update this when a section is completed to show progr
 
 | Date      | Progression                                                                                                                                           |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 29 Jul 17 | Completed sales-and-marketing > selling-and-the-law > Comply with the law in the provision of goods facilities and services > top-level and *section. |
+| 29/0717 | Completed sales-and-marketing > selling-and-the-law > Comply with the law in the provision of goods facilities and services > top-level and *section. |
 |           | Began updating links globally to speed-up development                                                                                                 |
 | 13 Jul 17 | Employment and skills > Employment checks > Ensuring your workers are eligible to work in the UK *section                                             |
 | 10 Jun 17 | Starting up VAT How to complete your vat return box by box *section                                                                                   |
