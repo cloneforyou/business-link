@@ -51,7 +51,7 @@
 			<dl>
 				<dt></dt>
 				<dd>
-					 <a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer"><img src="../../../_img/HMRC_logo.gif" width="134" height="35" border="0" alt="" />HM Revenue &amp; Customs</a>
+					 <a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer"><img src="../../../_img/HMRC_logo.gif" width="134" height="35"  alt="" />HM Revenue &amp; Customs</a>
 				</dd>
 			</dl>
 
