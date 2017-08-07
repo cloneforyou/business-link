@@ -22,6 +22,7 @@ I've thought it an idea to update this when a section is completed to show progr
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 29/07/17 | Completed sales-and-marketing > selling-and-the-law > Comply with the law in the provision of goods facilities and services > top-level and *section.                   |
 |          | Began updating links globally to speed-up development                                                                                                                   |
+|		   | Completed it-and-ecommerce > suppliers > Choose and manage your IT supplier (top-level) 																				 |
 | 13/07/17 | Employment and skills > Employment checks > Ensuring your workers are eligible to work in the UK *section                                                               |
 | 10/06/17 | Starting up VAT How to complete your vat return box by box *section                                                                                                     |
 | 02/06/17 | Starting up > VAT > Introduction to VAT *section                                                                                                                        |
