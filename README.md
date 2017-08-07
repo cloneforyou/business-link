@@ -20,6 +20,7 @@ I've thought it an idea to update this when a section is completed to show progr
 
 | Date     | Progression                                                                                                                                                             |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 07/08/17 | Completed starting-up > it-and-ecommerce-for-startups > choose-and-manage-your-it-supplier > Checklist: choosing an IT supplier, *section.                              |
 | 29/07/17 | Completed sales-and-marketing > selling-and-the-law > Comply with the law in the provision of goods facilities and services > top-level and *section.                   |
 |          | Began updating links globally to speed-up development                                                                                                                   |
 |		   | Completed it-and-ecommerce > suppliers > Choose and manage your IT supplier (top-level) 																				 |
