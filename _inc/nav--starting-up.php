@@ -683,18 +683,19 @@
 						<li><a href="/starting-up/it-and-ecommerce-for-startups/choose-and-manage-your-it-supplier/checklist-choosing-an-it-supplier.php">Checklist: choosing an IT supplier</a></li>
 					</ul>
 				</li>
-				<li><a href="/it-and-ecommerce/introduction-to-it/computer-software-the-basics.php">Computer software: the basics</a>
-			<!--
-			|		├── Introduction
-			|		├── Business benefits of new software
-			|		├── Types of software
-			|		├── Open source and proprietary software
-			|		├── Licences for proprietary software
-			|		├── Cloud computing - software as a service
-			|		├── Choosing and buying software
-			|		├── Software installation, activation and upgrades
-			|		└── Software support
-			// -->
+				<li>
+					<a href="/it-and-ecommerce/introduction-to-it/computer-software-the-basics.php">Computer software: the basics</a>
+					<ul>
+						<li><a href="/it-and-ecommerce/introduction-to-it/computer-software-the-basics.php" title="Computer software: the basics">Introduction</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/business-benefits-of-new-software.php">Business benefits of new software</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/types-of-software.php">Types of software</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/open-source-and-proprietary-software.php">Open source and proprietary software</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/licences-for-proprietary-software.php">Licences for proprietary software</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/cloud-computing-software-as-a-service.php" title="Cloud computing - software as a service ">Cloud computing - software as a service</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/choosing-and-buying-software.php">Choosing and buying software</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/software-installation-activation-and-upgrades.php">Software installation, activation and upgrades</a></li>
+						<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/software-support.php">Software support</a></li>
+					</ul>
 				</li>
 			</ul>
 		</li>
