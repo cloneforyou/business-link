@@ -37,7 +37,7 @@
 		<ul>
 			<li><a href="/it-and-ecommerce/introduction-to-it/computer-software-the-basics.php" title="Computer software: the basics">Introduction</a></li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/business-benefits-of-new-software.php">Business benefits of new software</a></li>
-			<li><a href="detaile107.html?itemId=1073791276&amp;type=RESOURCES">Types of software</a></li>
+			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/types-of-software.php">Types of software</a></li>
 			<li><a href="detail2575.html?itemId=1073791277&amp;type=RESOURCES">Open source and proprietary software</a></li>
 			<li>Licences for proprietary software</li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/cloud-computing-software-as-a-service.php" title="Cloud computing - software as a service ">Cloud computing - software as a service </a></li>

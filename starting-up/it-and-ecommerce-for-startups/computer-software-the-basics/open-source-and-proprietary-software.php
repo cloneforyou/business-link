@@ -43,10 +43,10 @@
 			<li>some proprietary formats such as Microsoft Word's '.doc' format are so widely used that other formats may be less acceptable for business</li>
 		</ul>
 
-		<p>See our guide on <a href="/it-and-ecommerce/software-and-business-applications/open-source-software.php" title="Introduction to what open source software is and why you might consider using it in your business">open source software</a>.</p>
+		<p>See our guide on <a href="/it-and-ecommerce/software-and-business-applications/open-source-software.php">open source software</a>.</p>
 		
 		<ul>
-			<li><a href="detaile107.html?itemId=1073791276&amp;type=RESOURCES" title="Types of software">Prev</a></li>
+			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/types-of-software.php" title="Types of software">Prev</a></li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/licences-for-proprietary-software.php" title="Licences for proprietary software">Next</a></li>
 		</ul>
 
@@ -54,45 +54,42 @@
 		<ul>
 			<li><a href="/it-and-ecommerce/introduction-to-it/computer-software-the-basics.php" title="Computer software: the basics">Introduction</a></li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/business-benefits-of-new-software.php">Business benefits of new software</a></li>
-			<li><a href="detaile107.html?itemId=1073791276&amp;type=RESOURCES">Types of software</a></li>
+			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/types-of-software.php">Types of software</a></li>
 			<li>Open source and proprietary software</li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/licences-for-proprietary-software.php">Licences for proprietary software</a></li>
-			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/cloud-computing-software-as-a-service.php" title="Cloud computing - software as a service ">Cloud computing - software as a service </a></li>
+			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/cloud-computing-software-as-a-service.php">Cloud computing - software as a service</a></li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/choosing-and-buying-software.php">Choosing and buying software</a></li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/software-installation-activation-and-upgrades.php">Software installation, activation and upgrades</a></li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/software-support.php">Software support</a></li>
 		</ul>
 
-		<p><img src="../../../_img/hr_325px_global.gif" alt="" /></p>
-		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.opensource.org/" target="bgExternalonlinebusinesslinkgovuk" title="A non-profit website that supports and gives advice on the open source model for distributing software">Open source software information on the Open Source Initiative (OSI) website</a></li>
-			<li><a href="http://www.fsf.org/" target="bgExternalonlinebusinesslinkgovuk" title="A non-profit campaign group with a searchable directory of over 5,000 free software packages">Free software information on the Free Software Foundation site</a></li>
-			<li><a href="http://www.oss-watch.ac.uk/resources/tips.xml" target="bgExternalonlinebusinesslinkgovuk" title="Including top ten tips for selecting open source software">Open source software guidance on the OSS Watch website</a></li>
-			<li><a href="http://www.opensource.org/licenses/alphabetical" target="bgExternalonlinebusinesslinkgovuk" title="Check the list of approved open source licences">Approved open source licences on the OSI website</a></li>
+			<li><a href="https://opensource.org/" target="_blank" rel="noopener noreferrer">Open source software information on the Open Source Initiative (OSI) website</a></li>
+			<li><a href="http://www.fsf.org/" target="_blank" rel="noopener noreferrer">Free software information on the Free Software Foundation site</a></li>
+			<li><a href="http://oss-watch.ac.uk/resources/tips" target="_blank" rel="noopener noreferrer">Open source software guidance on the OSS Watch website</a></li>
+			<li><a href="https://opensource.org/licenses/alphabetical" target="_blank" rel="noopener noreferrer">Approved open source licences on the OSI website</a></li>
 		</ul>
-		
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-		
+				
 		<h3>Also on this site</h3>
 		<ul>
-			<li><a href="/it-and-ecommerce/software-and-business-applications/open-source-software.php" title="Introduction to what open source software is and why you might consider using it in your business">Open source software</a></li>
-			<li><a href="http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101787&amp;type=HUBCHASSIS" title="How to choose the right IT for your business">Choose the right IT for your business</a></li>
-			<li><a href="http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101793&amp;type=HUBCHASSIS" title="Find information on how to create your first website">Create your first website</a></li>
-			<li><a href="http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102020&amp;type=HUBCHASSIS" title="Learn how to create an online shop and trade successfully on the internet">Get started with e-commerce </a></li>
+			<li><a href="/it-and-ecommerce/software-and-business-applications/open-source-software.php">Open source software</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20111219163006/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101787&r.i=1073792238&r.l1=1073861197&r.l2=1073858975&r.l3=1074003275&r.t=RESOURCES&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Choose the right IT for your business</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20111219163008/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101793&r.i=1073792238&r.l1=1073861197&r.l2=1073858975&r.l3=1074003275&r.t=RESOURCES&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Create your first website</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20111219163009/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102020&r.i=1073792238&r.l1=1073861197&r.l2=1073858975&r.l3=1074003275&r.t=RESOURCES&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Get started with e-commerce</a></li>
 		</ul>
 
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-		
 		<p>
 			Developed with:<br />
 			<a href="https://www.nb2bc.co.uk/" title="The National B2B Centre - Opens in a new window" target="_blank" rel="noopener noreferrer">
-				<img src="../../_img/logo_b2b.gif" width="60" height="35"  alt="" /> The National B2B Centre
+				<img src="../../../_img/logo_b2b.gif" width="60" height="35"  alt="" /> The National B2B Centre
 			</a>
 		</p>
+
+		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
