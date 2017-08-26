@@ -38,10 +38,10 @@
 		<p>You also need to consider if software will still be suitable as your business evolves - your software system must be able to accommodate an increased load should your customer base grow.</p>
 		
 		<h3>Licensing</h3>
-		<p>Make sure you buy licensed software and keep safe your proof of ownership, such as the original distribution CDs or hologrammed certificate of authenticity. See the page in this guide on <a href="detail12c1.html?itemId=1073791278&amp;type=RESOURCES" title="Shrink-wrap, per-user and site licences and the implications for your business of abusing software copyright">licences for proprietary software</a>.</p>
+		<p>Make sure you buy licensed software and keep safe your proof of ownership, such as the original distribution CDs or hologrammed certificate of authenticity. See the page in this guide on <a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/licences-for-proprietary-software.php">licences for proprietary software</a>.</p>
 		
 		<ul>
-			<li><a href="detailccf0.html?itemId=1084673576&amp;type=RESOURCES" title="Cloud computing - software as a service ">Prev</a></li>
+			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/cloud-computing-software-as-a-service.php" title="Cloud computing - software as a service">Prev</a></li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/software-installation-activation-and-upgrades.php" title="Software installation, activation and upgrades">Next</a></li>
 		</ul>
 		
@@ -50,42 +50,38 @@
 			<li><a href="/it-and-ecommerce/introduction-to-it/computer-software-the-basics.php" title="Computer software: the basics">Introduction</a></li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/business-benefits-of-new-software.php">Business benefits of new software</a></li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/types-of-software.php">Types of software</a></li>
-			<li><a href="detail2575.html?itemId=1073791277&amp;type=RESOURCES">Open source and proprietary software</a></li>
-			<li><a href="detail12c1.html?itemId=1073791278&amp;type=RESOURCES">Licences for proprietary software</a></li>
-			<li><a href="detailccf0.html?itemId=1084673576&amp;type=RESOURCES" title="Cloud computing - software as a service ">Cloud computing - software as a service </a></li>
+			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/open-source-and-proprietary-software.php">Open source and proprietary software</a></li>
+			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/licences-for-proprietary-software.php">Licences for proprietary software</a></li>
+			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/cloud-computing-software-as-a-service.php">Cloud computing - software as a service</a></li>
 			<li>Choosing and buying software</li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/software-installation-activation-and-upgrades.php">Software installation, activation and upgrades</a></li>
 			<li><a href="/starting-up/it-and-ecommerce-for-startups/computer-software-the-basics/software-support.php">Software support</a></li>
 		</ul>
 
-		<p><img src="../../../_img/hr_325px_global.gif" alt="" /></p>
-		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.microsoft.com/resources/howtotell/windows/quiz.aspx?method=oem_coa&amp;acq=1&amp;type=coa&amp;displaylang=en" target="bgExternalonlinebusinesslinkgovuk" title="Gives you examples of what to look for when checking your Microsoft software for authenticity">Recognising Microsoft's certificate of authenticity guidance on the Microsoft website</a></li>
-			<li><a href="http://www.computerweekly.com/Home/Default.aspx" target="bgExternalonlinebusinesslinkgovuk" title="News and opinion on the latest computer-related issues from Computer Weekly">Computer news and updates on the Computer Weekly website</a></li>
+			<li><a href="https://www.microsoft.com/en-us/howtotell/Software.aspx?tab=PackagedSoftwareTab" target="_blank" rel="noopener noreferrer">Recognising Microsoft's certificate of authenticity guidance on the Microsoft website</a></li>
+			<li><a href="http://www.computerweekly.com/" target="_blank" rel="noopener noreferrer">Computer news and updates on the Computer Weekly website</a></li>
 		</ul>
-		
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-		
+				
 		<h3>Also on this site</h3>
 		<ul>
-			<li><a href="layer1a6f.html?topicId=1074003275" title="The importance of choosing the right IT supplier and developing an effective working relationship with them">Choose and manage your IT supplier</a></li>
+			<li><a href="/it-and-ecommerce/suppliers/choose-and-manage-your-it-supplier.php" title="The importance of choosing the right IT supplier and developing an effective working relationship with them">Choose and manage your IT supplier</a></li>
 			<li><a href="/it-and-ecommerce/software-and-business-applications/accounting-software.php" title="Selecting and implementing a financial records package to help your business">Accounting software</a></li>
 			<li><a href="/it-and-ecommerce/software-and-business-applications/benefits-of-databases.php" title="How businesses can make use of database technology to control and manage information more effectively">Benefits of databases</a></li>
 			<li><a href="/it-and-ecommerce/software-and-business-applications/payroll-software.php" title="How to select and implement the right payroll software for your business">Payroll software</a></li>
-			<li><a href="http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101787&amp;type=HUBCHASSIS" title="How to choose the right IT for your business">Choose the right IT for your business</a></li>
-			<li><a href="http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101793&amp;type=HUBCHASSIS" title="Find information on how to create your first website">Create your first website</a></li>
-			<li><a href="http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102020&amp;type=HUBCHASSIS" title="Learn how to create an online shop and trade successfully on the internet">Get started with e-commerce </a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20111219163006/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101787&r.i=1073792238&r.l1=1073861197&r.l2=1073858975&r.l3=1074003275&r.t=RESOURCES&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Choose the right IT for your business</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20111219163008/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101793&r.i=1073792238&r.l1=1073861197&r.l2=1073858975&r.l3=1074003275&r.t=RESOURCES&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Create your first website</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20111219163009/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097102020&r.i=1073792238&r.l1=1073861197&r.l2=1073858975&r.l3=1074003275&r.t=RESOURCES&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Get started with e-commerce</a></li>
 		</ul>
 		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 		
 		<p>
 			Developed with:<br />
 			<a href="https://www.nb2bc.co.uk/" title="The National B2B Centre - Opens in a new window" target="_blank" rel="noopener noreferrer">
-				<img src="../../_img/logo_b2b.gif" width="60" height="35"  alt="" /> The National B2B Centre
+				<img src="../../../_img/logo_b2b.gif" width="60" height="35" alt="" /> The National B2B Centre
 			</a>
 		</p>
 
