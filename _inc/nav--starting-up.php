@@ -781,11 +781,13 @@
 			|	|	└── A start-up intellectual property checklist
 			//-->
 				</li>
-				<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/find-value-you-didnt-know-existed-in-your-business/find-out-how-to-protect-your-ideas.php">Find out how to protect your ideas</a>
-			<!--
-			|	|	├── Introduction
-			|	|	└── How can I protect my ideas?
-			//-->
+				<li>
+					<a href="/create-innovate-and-protect/protecting-your-intellectual-property/find-value-you-didnt-know-existed-in-your-business/find-out-how-to-protect-your-ideas.php">Find out how to protect your ideas</a>
+					<ul>
+						<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/find-value-you-didnt-know-existed-in-your-business/find-out-how-to-protect-your-ideas.php" title="Find out how to protect your ideas">Introduction</a></li>
+						<li><a href="#">How can I protect my ideas?</a></li>
+						<!-- http://webarchive.nationalarchives.gov.uk/20120405153706/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077840105&r.l1=1073858796&r.l2=1086109554&r.l3=1086084986&r.l4=1075197656&r.s=sc&type=BLTTOOL -->
+					</ul>
 				</li>
 				<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/non-disclosure-agreements.php">Non-disclosure agreements</a>
 			<!--
