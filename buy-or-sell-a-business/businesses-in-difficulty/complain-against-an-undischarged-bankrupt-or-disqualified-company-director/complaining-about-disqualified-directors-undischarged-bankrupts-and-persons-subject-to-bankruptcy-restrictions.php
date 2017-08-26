@@ -58,7 +58,7 @@
 			<li><a href="how-to-check-if-a-director-has-been-disqualified-or-if-an-individual-is-an-undischarged-bankrupt-or-subject-to-bankruptcy-restrictions.php">How to check if a director has been disqualified or if an individual is an undischarged bankrupt or subject to bankruptcy restrictions</a></li>
 			<li>Complaining about disqualified directors, undischarged bankrupts and persons subject to bankruptcy restrictions</li>
 		</ul>
-		<p><img src="../../../_img/hr_325px_global.gif" alt="" /></p>
+		
 		
 		<h3>Insolvency Service Enforcement Hotline</h3>
 		<p>0845 601 3546</p>

@@ -45,7 +45,7 @@
 			<li>Streamline your business operations</li>
 			<li><a href="here-is-how-i-prepared-my-business-for-sale.php">Here's how I prepared my business for sale</a></li>
 		</ul>
-		<p><img src="../../../_img/hr_325px_global.gif" alt="" /></p>
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="#">Download succession planning guidance from the Deloitte website (PDF, 120K)</a></li>

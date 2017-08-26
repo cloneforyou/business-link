@@ -42,7 +42,7 @@
 			<li><a href="streamline-your-business-operations.php">Streamline your business operations</a></li>
 			<li><a href="here-is-how-i-prepared-my-business-for-sale.php">Here's how I prepared my business for sale</a></li>
 		</ul>
-		<p><img src="../../../_img/hr_325px_global.gif" alt="" /></p>
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.lucasweston.com/top-ten-business-seller-mistakes.htm" target="_blank">Common mistakes in business sales explained on the Lucas &amp; Weston website<span> - Opens in a new window</span></a></li>

@@ -45,7 +45,7 @@
 			<li><a href="streamline-your-business-operations.php">Streamline your business operations</a></li>
 			<li>Here's how I prepared my business for sale</li>
 		</ul>
-		<p><img src="../../../_img/hr_325px_global.gif" alt="" /></p>
+		
 		<img src="../../../_img/CS0014.jpg" width="181" height="121" border="0" alt="Julian Harley, Harley West" />
 		<img src="../../../_img/px_sellingabusiness.gif" width="181" height="5" alt="" />
 		<h3>Julian Harley<br>

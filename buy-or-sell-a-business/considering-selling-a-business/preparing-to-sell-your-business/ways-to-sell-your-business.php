@@ -49,7 +49,7 @@
 			<li><a href="streamline-your-business-operations.php">Streamline your business operations</a></li>
 			<li>Here's how I prepared my business for sale</li>
 		</ul>
-		<p><img src="../../../_img/hr_325px_global.gif" alt="" /></p>
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://livingstonepartners.com/uk/" target="_blank">Business selling advice on the Livingstone website<span> - Opens in a new window</span></a></li>
