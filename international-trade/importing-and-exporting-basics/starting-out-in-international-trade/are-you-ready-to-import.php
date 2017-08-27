@@ -45,18 +45,6 @@
 
 			<img src="../../../_img/px_internationaltrade.gif" alt="" width="181" height="5" />
 			
-			
-			
-							</p>
-						</td>
-					</tr>
-					<tr>
-						<td colspan="2">
-							<p> </p>
-						</td>
-					</tr>
-				</table>
-		
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->
 
