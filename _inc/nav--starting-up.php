@@ -748,18 +748,19 @@
 						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/here-is-how-I-kept-my-business-profitable-by-exporting-my-products-abroad_flash-video.php">Here's how I kept my business profitable by exporting my products abroad (Flash video)</a></li>
 					</ul>
 				</li>
-				<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/preparing-to-export.php">Preparing to export</a>
-			<!--
-			|		├── Introduction
-			|		├── Understand the challenges of exporting
-			|		├── Assess your skills and resources for exporting
-			|		├── Assess export market opportunities
-			|		├── Choose which export markets to enter
-			|		├── Plan your export market entry strategy
-			|		├── Manage export contracts and logistics
-			|		├── Use the right export support services
-			|		└── Review your export readiness
-			// -->
+				<li>
+					<a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/preparing-to-export.php">Preparing to export</a>
+					<ul>
+						<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/preparing-to-export.php" title="Preparing to export">Introduction</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/preparing-to-export/understand-the-challenges-of-exporting.php">Understand the challenges of exporting</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/preparing-to-export/assess-your-skills-and-resources-for-exporting.php">Assess your skills and resources for exporting</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/preparing-to-export/assess-export-market-opportunities.php">Assess export market opportunities</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/preparing-to-export/choose-which-export-markets-to-enter.php">Choose which export markets to enter</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/preparing-to-export/plan-your-export-market-entry-strategy.php">Plan your export market entry strategy</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/preparing-to-export/manage-export-contracts-and-logistics.php">Manage export contracts and logistics</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/preparing-to-export/use-the-right-export-support-services.php">Use the right export support services</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/preparing-to-export/review-your-export-readiness.php">Review your export readiness</a></li>
+					</ul>
 				</li>
 			</ul>
 		</li>
