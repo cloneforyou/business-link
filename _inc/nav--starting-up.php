@@ -789,17 +789,18 @@
 						<!-- http://webarchive.nationalarchives.gov.uk/20120405153706/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077840105&r.l1=1073858796&r.l2=1086109554&r.l3=1086084986&r.l4=1075197656&r.s=sc&type=BLTTOOL -->
 					</ul>
 				</li>
-				<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/non-disclosure-agreements.php">Non-disclosure agreements</a>
-			<!--
-			|		├── Introduction
-			|		├── What is a non-disclosure agreement?
-			|		├── Types of non-disclosure agreement
-			|		├── Ways to prepare a non-disclosure agreement
-			|		├── Key non-disclosure agreement terms
-			|		├── Creating a non-disclosure agreement
-			|		├── Issues when signing a non-disclosure agreement
-			|		└── Here's how I use NDAs in my business
-			// -->
+				<li>
+					<a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/non-disclosure-agreements.php">Non-disclosure agreements</a>
+					<ul>
+						<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/non-disclosure-agreements.php" title="Non-disclosure agreements">Introduction</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/what-is-a-non-disclosure-agreement.php">What is a non-disclosure agreement?</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/types-of-non-disclosure-agreement.php">Types of non-disclosure agreement</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/ways-to-prepare-a-non-disclosure-agreement.php">Ways to prepare a non-disclosure agreement</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/key-non-disclosure-agreement-terms.php">Key non-disclosure agreement terms</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/creating-a-non-disclosure-agreement.php">Creating a non-disclosure agreement</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/issues-when-signing-a-non-disclosure-agreement.php">Issues when signing a non-disclosure agreement</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/non-disclosure-agreements/here-is-how-I-use-ndas-in-my-business.php"  >Here's how I use NDAs in my business</a></li>
+					</ul>
 				</li>
 			</ul>
 		</li>

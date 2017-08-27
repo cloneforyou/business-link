@@ -44,7 +44,7 @@
 		<ul>
 			<li><a href="../protecting-your-intellectual-property/find-value-you-didnt-know-existed-in-your-business/find-out-how-to-protect-your-ideas.php">Use our interactive tool to find out the best ways to protect your intellectual property</a></li>
 			<li><a href="../../grow-your-business/growth-through-product-and-service-development.php">Growth through product and service development</a></li>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20140603093549/http://www.ipo.gov.uk/design/d-applying/d-apply.htm" target="_blank">Find out how to apply to register a design on the Intellectual Property Office<span> - Opens in a new window</span></a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20140603093549/https://www.gov.uk/government/organisations/intellectual-property-officedesign/d-applying/d-apply.htm" target="_blank">Find out how to apply to register a design on the Intellectual Property Office<span> - Opens in a new window</span></a></li>
 			<li><a href="http://www.britishdesigninnovation.org/" target="_blank">Search for a product designer on the BDI website<span> - Opens in a new window</span></a></li>
 		</ul>
 		</ul>
