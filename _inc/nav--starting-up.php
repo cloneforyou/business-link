@@ -769,17 +769,18 @@
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101996&r.l1=1073858805&r.l2=1073859173&r.s=e&type=HUBCHASSIS
 				//-->
-				<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/intellectual-property-the-basics.php">Intellectual property: the basics</a>
-			<!--
-			|	|	├── Introduction
-			|	|	├── What is intellectual property?
-			|	|	├── How you can protect your intellectual property
-			|	|	├── Patents
-			|	|	├── Copyright
-			|	|	├── Trade marks
-			|	|	├── Designs
-			|	|	└── A start-up intellectual property checklist
-			//-->
+				<li>
+					<a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/intellectual-property-the-basics.php">Intellectual property: the basics</a>
+					<ul>
+						<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/intellectual-property-the-basics.php" title="Intellectual property: the basics">Introduction</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/what-is-intellectual-property.php">What is intellectual property?</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/how-you-can-protect-your-intellectual-property.php">How you can protect your intellectual property</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/patents.php">Patents</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/copyright.php">Copyright</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/trade-marks.php">Trade marks</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/designs.php">Designs</a></li>
+						<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/a-start-up-intellectual-property-checklist.php">A start-up intellectual property checklist</a></li>
+					</ul>
 				</li>
 				<li>
 					<a href="/create-innovate-and-protect/protecting-your-intellectual-property/find-value-you-didnt-know-existed-in-your-business/find-out-how-to-protect-your-ideas.php">Find out how to protect your ideas</a>
