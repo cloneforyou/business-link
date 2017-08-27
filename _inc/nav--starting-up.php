@@ -730,21 +730,22 @@
 			|	|	└── Review your import readiness
 			//-->
 				</li>
-				<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/exporting-an-overview.php">Exporting - an overview</a>
-			<!--
-			|	|	├── Introduction
-			|	|	├── Planning to export?
-			|	|	├── Selling and distribution in overseas markets
-			|	|	├── Marketing your product or service overseas
-			|	|	├── Your legal responsibilities as an exporter
-			|	|	├── Transport considerations
-			|	|	├── Financial considerations
-			|	|	├── Working effectively with different cultures
-			|	|	├── Helping your business grow internationally
-			|	|	├── Ten key steps to successful exporting
-			|	|	├── Here's how I developed a strong export market
-			|	|	└── Here's how I kept my business profitable by exporting my products abroad (Flash video)
-			//-->
+				<li>
+					<a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/exporting-an-overview.php">Exporting - an overview</a>
+					<ul>
+						<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/exporting-an-overview.php" title="Exporting - an overview">Introduction</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/planning-to-export.php">Planning to export?</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/selling-and-distribution-in-overseas-markets.php">Selling and distribution in overseas markets</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/marketing-your-product-or-service-overseas.php">Marketing your product or service overseas</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/your-legal-responsibilities-as-an-exporter.php">Your legal responsibilities as an exporter</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/transport-considerations.php">Transport considerations</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/financial-considerations.php">Financial considerations</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/working-effectively-with-different-cultures.php">Working effectively with different cultures</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/helping-your-business-grow-internationally.php">Helping your business grow internationally</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/ten-key-steps-to-successful-exporting.php">Ten key steps to successful exporting</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/here-is-how-I-developed-a-strong-export-market.php">Here's how I developed a strong export market</a></li>
+						<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/here-is-how-I-kept-my-business-profitable-by-exporting-my-products-abroad_flash-video.php">Here's how I kept my business profitable by exporting my products abroad (Flash video)</a></li>
+					</ul>
 				</li>
 				<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/preparing-to-export.php">Preparing to export</a>
 			<!--
