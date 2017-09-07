@@ -836,17 +836,19 @@
 						<li><a href="/starting-up/further-support-for-your-business/business-advice-open-days/how-to-contact-the-event-organisers.php">How to contact the event organisers</a></li>
 					</ul>
 				</li>
-				<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring.php">The benefits of business mentoring</a>
-			<!--
-			|	|	├── Introduction
-			|	|	├── What is business mentoring?
-			|	|	├── Why business mentoring is important
-			|	|	├── Face-to-face business mentoring
-			|	|	├── Online business mentoring
-			|	|	├── Business mentoring and other types of advice
-			|	|	├── Becoming a business mentor
-			|	|	└── Further information for finding or becoming a business mentor
-			//-->
+				<li>
+					<a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring.php">The benefits of business mentoring</a>
+					<ul>
+						<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring.php" title="The benefits of business mentoring">Introduction</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring/what-is-business-mentoring.php">What is business mentoring?</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring/why-business-mentoring-is-important.php">Why business mentoring is important</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring/face-to-face-business-mentoring.php">Face-to-face business mentoring</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring/online-business-mentoring.php">Online business mentoring</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring/business-mentoring-and-other-types-of-advice.php">Business mentoring and other types of advice</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring/business-mentoring-and-other-types-of-advice.php">Business mentoring and other types of advice</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring/becoming-a-business-mentor.php">Becoming a business mentor</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring/further-information-for-finding-or-becoming-a-business-mentor.php">Further information for finding or becoming a business mentor</a></li>
+					</ul>
 				</li>
 				<li>
 					<a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up.php">Extra help and support available for your start up</a>
