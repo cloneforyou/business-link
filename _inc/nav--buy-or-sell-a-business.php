@@ -11,15 +11,17 @@
 					<a href="" title="Considering buying a business">Introduction</a>
 				</li>
 				<li>
-					<a href="">Obtaining information on a business you are thinking of buying</a>
+					<a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying.php">Obtaining information on a business you are thinking of buying</a>
 					<ul>
-						<li><a href="" title="Obtaining information on a business you are thinking of buying">Introduction</a></li>
-						<li><a href="">Assess a company's assets</a></li>
-						<li><a href="">Legal and financial checks</a></li>
-						<li><a href="">Employment, IT and environment checks</a></li>
-						<li><a href="">Operating within the law</a></li>
-						<li><a href="">Where to get help and advice</a></li>
-						<li><a href="">Here's how I obtained the right information about a business before buying it</a></li>
+						<li>
+							<a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying.php" title="Obtaining information on a business you are thinking of buying">Introduction</a>
+						</li>
+						<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/assess-a-companys-assets.php">Assess a company's assets</a></li>
+						<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/legal-and-financial-checks.php">Legal and financial checks</a></li>
+						<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/employment-it-and-environment-checks.php">Employment, IT and environment checks</a></li>
+						<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/operating-within-the-law.php">Operating within the law</a></li>
+						<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/where-to-get-help-and-advice.php">Where to get help and advice</a></li>
+						<li><a href="/buy-or-sell-a-business/considering-selling-a-business/here-is-how-i-obtained-the-right-information-about-a-business-before-buying-it.php">Here's how I obtained the right information about a business before buying it</a></li>
 					</ul>
 				</li>
 				<li>
@@ -606,17 +608,3 @@
 		</li>
 	</ul>
 </li>
-<!-- Not sure where this belongs? <li>
-	<a>Obtaining information on a business you are thinking of buying</a>
-	<ul>
-		<li>
-			<a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying.php" title="Obtaining information on a business you are thinking of buying">Introduction</a>
-		</li>
-		<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/assess-a-companys-assets.php">Assess a company's assets</a></li>
-		<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/legal-and-financial-checks.php">Legal and financial checks</a></li>
-		<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/employment-it-and-environment-checks.php">Employment, IT and environment checks</a></li>
-		<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/operating-within-the-law.php">Operating within the law</a></li>
-		<li><a href="/buy-or-sell-a-business/considering-selling-a-business/obtaining-information-on-a-business-you-are-thinking-of-buying/where-to-get-help-and-advice.php">Where to get help and advice</a></li>
-		<li><a href="/buy-or-sell-a-business/considering-selling-a-business/here-is-how-i-obtained-the-right-information-about-a-business-before-buying-it.php">Here's how I obtained the right information about a business before buying it</a></li>
-	</ul>
-</li> -->
