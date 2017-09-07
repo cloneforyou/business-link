@@ -82,7 +82,7 @@
 				<tbody>
 					<tr>
 						<td>
-							<a href="http://www.berr.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" onclick="p=window.open('http://www.berr.gov.uk/', 'bgExternalwwwbusinesslinkgovuk');p.focus();" title="Department for Business, Innovation & Skills - Opens in a new window"><img src="../../Taxes_and_Returns_images/logo_primary_bis.gif" width="160" height="32" border="0" alt="" />
+							<a href="http://www.berr.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" onclick="p=window.open('http://www.berr.gov.uk/', 'bgExternalwwwbusinesslinkgovuk');p.focus();" title="Department for Business, Innovation & Skills - Opens in a new window"><img src="../../_img/logo_primary_bis.gif" width="160" height="32" border="0" alt="" />
 								<br/>Department for Business, Innovation &amp; Skills</a>
 						</td>
 					</tr>

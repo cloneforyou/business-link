@@ -824,16 +824,17 @@
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101968&r.l1=1073858805&r.l2=1073859125&r.s=e&type=HUBCHASSIS
 				//-->
-				<li><a href="/starting-up/further-support-for-your-business/business-advice-open-days.php">Business Advice Open Days</a>
-			<!--
-			|	|	├── Introduction
-			|	|	├── Who should attend a Business Advice Open Day and why
-			|	|	├── Organisations you can meet at Business Advice Open Days
-			|	|	├── Booking your place at a Business Advice Open Day
-			|	|	├── Questions about attending a Business Advice Open Day
-			|	|	├── Where to go for advice if you cannot attend a Business Advice Open Day
-			|	|	└── How to contact the event organisers
-			//-->
+				<li>
+					<a href="/starting-up/further-support-for-your-business/business-advice-open-days.php">Business Advice Open Days</a>
+					<ul>
+						<li><a href="/starting-up/further-support-for-your-business/business-advice-open-days.php" title="Business Advice Open Days">Introduction</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/business-advice-open-days/who-should-attend-a-business-advice-open-day-and-why.php">Who should attend a Business Advice Open Day and why</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/business-advice-open-days/organisations-you-can-meet-at-business-advice-open-days.php">Organisations you can meet at Business Advice Open Days</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/business-advice-open-days/booking-your-place-at-a-business-advice-open-day.php">Booking your place at a Business Advice Open Day</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/business-advice-open-days/questions-about-attending-a-business-advice-open-day.php">Questions about attending a Business Advice Open Day</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/business-advice-open-days/where-to-go-for-advice-if-you-cannot-attend-a-business-advice-open-day.php">Where to go for advice if you cannot attend a Business Advice Open Day</a></li>
+						<li><a href="/starting-up/further-support-for-your-business/business-advice-open-days/how-to-contact-the-event-organisers.php">How to contact the event organisers</a></li>
+					</ul>
 				</li>
 				<li><a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring.php">The benefits of business mentoring</a>
 			<!--
