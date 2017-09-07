@@ -20,6 +20,15 @@ I've thought it an idea to update this when a section is completed to show progr
 
 | Date     | Progression                                                                                                                                                             |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 07/09/17 | Added missing navigational links to "Buy or sell a business" and "Create, innovate and protect"																         |
+|		   | Completed “starting-up > further-support-for-your-business > Business Advice Open Days” (top-level) 																	 |
+|		   | Completed “starting-up > further-support-for-your-business > Extra help and support available for your start up” (top-level) 											 |
+|		   | Completed “starting-up > further-support-for-your-business > The benefits of business mentoring” (top-level) 															 |
+| 27/08/17 | Completed "create-innovate-and-protect > protecting-your-intellectual-property > patent-protection-and-your-business > Non-disclosure agreements" (top-level)           |
+|          | Completed "create-innovate-and-protect > protecting-your-intellectual-property > patent-protection-and-your-business > Intellectual property: the basics" (top-level)   |
+|          | Completed "international-trade > importing-and-exporting-basics > starting-out-in-international-trade > Exporting - an overview" (top-level).							 |
+|          | Completed "international-trade > importing-and-exporting-basics > starting-out-in-international-trade > Are you ready to import?" (top-level). 						 |
+|          | Completed "international-trade > importing-and-exporting-basics > starting-out-in-international-trade > Preparing to export" (top-level). 								 |
 | 26/08/17 | Completed starting-up > it-and-ecommerce-for-startups > computer-software-the-basics > Software support *section.										                 |
 | 08/08/17 | Completed it-and-ecommerce > introduction-to-it > “Computer software: the basics” top-level page.										                                 |
 | 07/08/17 | Completed starting-up > it-and-ecommerce-for-startups > choose-and-manage-your-it-supplier > Checklist: choosing an IT supplier, *section.                              |
