@@ -2,7 +2,7 @@
 <html class="no-js">
 
 <head>
-	<title>Support for female entrepreneurs | Business Link</title>
+	<title>Support for mature entrepreneurs | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -15,30 +15,21 @@
 		<div class="small-12 large-8 large-push-4 columns">
 
 			<h1>Extra help and support available for your start up</h1>
-			<h2>Support for female entrepreneurs</h2>
-			<p>There are lots of business organisations aimed specifically at women - at both local and national levels.</p>
-			<p>These include:</p>
-			<p>
-				<ul>
-					<li>the Women in Business Network</li>
-					<li>everywoman</li>
-					<li>Prowess 2.0</li>
-					<li>Prince's Trust - offers mentoring services for young women</li>
-				</ul>
-			</p>
-			<p>However, there are many more who may offer face-to-face networking events and the opportunity to network online.</p>
+			<h2>Support for mature entrepreneurs</h2>
+			<p>If you are over 50 and wanting to start up a new business, there could be support available to you.</p>
+			<p>PRIME is the main non-governmental business support group for over-50s and will be able to advise on any events or networks targeted at mature entrepreneurs in your area.</p>
 			
 			<ul>
-				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/mentoring-networking-finance-and-training.php" title="Mentoring, networking, finance and training">Prev</a></li>
-				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/support-for-mature-entrepreneurs.php" title="Support for mature entrepreneurs">Next</a></li>
+				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/support-for-mature-entrepreneurs.php" title="Support for female entrepreneurs">Prev</a></li>
+				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/support-for-disabled-people.php" title="Support for disabled people">Next</a></li>
 			</ul>
 			
 			<h3>Subjects covered in this guide</h3>
 			<ul>
 				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up.php" title="Extra help and support available for your start up">Introduction</a></li>
 				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/mentoring-networking-finance-and-training.php">Mentoring, networking, finance and training</a></li>
-				<li>Support for female entrepreneurs</li>
-				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/support-for-mature-entrepreneurs.php">Support for mature entrepreneurs</a></li>
+				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/support-for-mature-entrepreneurs.php">Support for female entrepreneurs</a></li>
+				<li>Support for mature entrepreneurs</li>
 				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/support-for-disabled-people.php">Support for disabled people</a></li>
 				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/support-for-black-asian-and-minority-ethnic-start-ups.php">Support for black, Asian and minority ethnic start ups</a></li>
 				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/support-for-entrepreneurs-on-low-incomes.php">Support for entrepreneurs on low incomes</a></li>
@@ -47,16 +38,16 @@
 			
 			<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 			
-			<h3>HMRC Newly Self-Employed Helpline</h3>
-			<p>0845 915 4515</p>
+			<h3>PRIME Helpline</h3>
+			<p>0800 783 1904</p>
 
 			<hr />
 			
 			<h3>Actions</h3>
 			<ul>
-				<li><a href="http://www.wibn.co.uk/" target="_blank" rel="noopener noreferrer">Business support for women on the Women in Business Network website</a></li>
-				<li><a href="https://www.everywoman.com/" target="_blank" rel="noopener noreferrer">Business support for women on the everywoman website</a></li>
-				<li><a href="http://www.prowess.org.uk/" target="_blank" rel="noopener noreferrer">Business support for women on the Prowess website</a></li>
+				<li><a href="http://webarchive.nationalarchives.gov.uk/20120419064455/http://www.direct.gov.uk/en/Pensionsandretirementplanning/Working/WorkingToSuitYou/DG_10027003" target="_blank" rel="noopener noreferrer">Self-employment guidance for the over 50s on the Directgov website</a></li>
+				<li><a href="https://web.archive.org/web/20130222115907/http://www.prime.org.uk/" target="_blank" rel="noopener noreferrer">Business support for over 50s on the PRIME website</a></li>
+				<li><a href="https://web.archive.org/web/20120410223500/http://prime.org.uk/beneficiaries/" target="_blank" rel="noopener noreferrer">Mature entrepreneur case studies on the PRIME website</a></li>
 				<li><a href="http://www.horsesmouth.co.uk/publisha.content/Work/topics.publisha?topic=Starting+a+business" target="_blank" rel="noopener noreferrer">Online business mentoring explained on the horsesmouth website</a></li>
 			</ul>
 			
@@ -75,7 +66,7 @@ Business, Energy &amp; Industrial Strategy <del datetime="2016-07-01">Department
 			</p>
 
 			<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
-			
+
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->
 
