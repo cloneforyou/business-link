@@ -72,7 +72,7 @@
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.bis.gov.uk/policies/enterprise-and-business-support/access-to-finance/enterprise-finance-guarantee" target="_blank" rel="noopener noreferrer">Enterprise Finance Guarantee information on the BIS website </a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20120419053132/http://www.bis.gov.uk/policies/enterprise-and-business-support/access-to-finance/enterprise-finance-guarantee" target="_blank" rel="noopener noreferrer">Enterprise Finance Guarantee information on the BIS website </a></li>
 			<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">Use our interactive tool to identify the right finance options for your business</a></li>
 		</ul>
 		

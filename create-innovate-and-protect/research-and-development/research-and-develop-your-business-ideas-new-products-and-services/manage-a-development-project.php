@@ -62,7 +62,7 @@
 		<h3>Business Link Helpline</h3>
 		<p>0845 600 9 006</p>
 
-		<p><img src="../../../_img/hr_140px_global.gif" alt="" /></p>
+		<hr />
 
 		<h3>Actions</h3>
 		<ul>

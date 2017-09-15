@@ -69,7 +69,7 @@
 			</a>
 		</p>
 
-		<img src="../../syntegra/images/px_startingabusiness.gif" alt="" width="181" height="5" />
+		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 		
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

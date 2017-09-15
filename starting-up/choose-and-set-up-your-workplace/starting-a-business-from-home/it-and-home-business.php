@@ -62,7 +62,7 @@
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.enterprisenation.com/" target="_blank" rel="noopener noreferrer">Home working advice on the Enterprise Nation website</a></li>
-			<li><a href="http://www.horsesmouth.co.uk/publisha.content/work/topics.publisha?topic=Starting%20a%20business" target="_blank" rel="noopener noreferrer">Online business mentoring on the horsesmouth website</a></li>
+			<li><a href="http://www.horsesmouth.co.uk/publisha.content/Work/topics.publisha?topic=Starting+a+business" target="_blank" rel="noopener noreferrer">Online business mentoring on the horsesmouth website</a></li>
 			<li><a href="/it-and-ecommerce/introduction-to-it/setting-up-a-basic-it-system.php">Use our interactive tool to find out which computer equipment you should buy for your business</a></li>
 			<li><a href="/it-and-ecommerce/create-and-manage-a-website/get-the-right-website-for-your-business.php">Use our interactive tool to investigate what kind of website is best for your business</a></li>
 		</ul>

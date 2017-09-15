@@ -44,7 +44,7 @@
 			<ul>
 				<li><a href="http://startups.co.uk/mentoring/" target="_blank" rel="noopener noreferrer">Mentoring explained on the Startups website</a></li>
 				<li><a href="http://www.mentorsme.co.uk/" target="_blank" rel="noopener noreferrer">Business mentors on the Mentorsme.co.uk website</a></li>
-				<li><a href="http://www.horsesmouth.co.uk/publisha.content/work/topics.publisha?topic=Starting%20a%20business" target="_blank" rel="noopener noreferrer">Online business mentoring information on the horsesmouth website</a></li>
+				<li><a href="http://www.horsesmouth.co.uk/publisha.content/Work/topics.publisha?topic=Starting+a+business" target="_blank" rel="noopener noreferrer">Online business mentoring information on the horsesmouth website</a></li>
 			</ul>
 
 			<p>Developed with:<br />

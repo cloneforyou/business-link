@@ -35,7 +35,7 @@
 		<p>0845 601 3546</p>
 		<h3>Insolvency Service Enquiry Line</h3>
 		<p>0845 602 9848</p>
-		<p><img src="../../../_img/hr_140px_global.gif" alt="" /></p>
+		<hr />
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="../../../do-it-online/search-the-individual-insolvency-register.php">Search the Individual Insolvency Register with The Insolvency Service</a></li>

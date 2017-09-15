@@ -43,7 +43,7 @@
 			<p>0845 602 9848</p>
 			<h3>Companies House Contact Centre</h3>
 			<p>0303 1234 500</p>
-			<p><img src="../../../_img/hr_140px_global.gif" alt="" /></p>
+			<hr />
 		</div>
 		<h3>Actions</h3>
 		<ul>

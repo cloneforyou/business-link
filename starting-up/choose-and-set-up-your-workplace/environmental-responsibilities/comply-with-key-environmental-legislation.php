@@ -52,7 +52,7 @@
 			<h3>Environment Agency Helpline</h3>
 			<p>03708 506 506</p>
 			
-			<p><img src="../../../_img/hr_140px_global.gif" alt="" /></p>
+			<hr />
 			
 			<h3>Actions</h3>
 			<ul>

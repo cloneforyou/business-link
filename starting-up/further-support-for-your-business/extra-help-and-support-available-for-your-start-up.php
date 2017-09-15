@@ -47,7 +47,7 @@
 				<li><a href="http://www.acareerchange.co.uk/" target="_blank" rel="noopener noreferrer">Career change guidance on the ACareerChange website</a></li>
 				<li><a href="https://www.gov.uk/career-development-loans" target="_blank" rel="noopener noreferrer">Professional and Career Development Loans explained on the Directgov website</a></li>
 				<li><a href="http://webarchive.nationalarchives.gov.uk/20120405092504/http://www.improve.businesslink.gov.uk///resources/business-support-finder" target="_blank" rel="noopener noreferrer">Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</a></li>
-				<li><a href="http://www.horsesmouth.co.uk/publisha.content/work/topics.publisha?topic=Starting%20a%20business" target="_blank" rel="noopener noreferrer">Online business mentoring explained on the horsesmouth website</a></li>
+				<li><a href="http://www.horsesmouth.co.uk/publisha.content/Work/topics.publisha?topic=Starting+a+business" target="_blank" rel="noopener noreferrer">Online business mentoring explained on the horsesmouth website</a></li>
 			</ul>
 
 			<p>Developed with:<br />
