@@ -133,6 +133,7 @@ gulp.task('browsersync', function() {
 	browserSync.init(files, {
 		// Replace with URL of your local site
 		proxy: "http://business-link-github.dev/",
+		port: 5000
 	});
 	
 	gulp.watch('./_assets/scss/**/*.scss', ['styles']);
