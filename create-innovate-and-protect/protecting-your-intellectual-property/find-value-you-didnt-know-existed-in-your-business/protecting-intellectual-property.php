@@ -56,7 +56,7 @@
 		<p>0300 300 2000</p>
 		<p><img src="/_img/hr_140px_global.gif" alt="" /></p>
 			
-		<!--Helplines-->
+		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="/do-it-online/look-up-patents.php">Search the patents directory with the Intellectual Property Office</a></li>

@@ -37,7 +37,7 @@
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.icaew.com/en/about-icaew/find-a-chartered-accountant/help-with-your-business" target="bgExternalonlinebusinesslinkgovuk" title="How and why a chartered accountant can help you start or grow your business">Business help and advice on the Institute of Chartered Accountants in England and Wales website</a></li>
-			<li><a href="layer00da.html?topicId=1085697567" title="Use our interactive tool to find out the records you must keep as a business and assess how well you are keeping them">Use our interactive tool to find out the business records you must keep</a></li>
+			<li><a href="/tax-payroll-and-company-information/find-out-what-records-you-should-be-keeping.php">Use our interactive tool to find out the business records you must keep</a></li>
 		</ul>
 		
 		<p>Developed with:<br />
