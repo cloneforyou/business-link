@@ -861,6 +861,10 @@
 						<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/support-for-black-asian-and-minority-ethnic-start-ups.php">Support for black, Asian and minority ethnic start ups</a></li>
 						<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/support-for-entrepreneurs-on-low-incomes.php">Support for entrepreneurs on low incomes</a></li>
 						<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up/sources-of-support-for-young-entrepreneurs.php">Sources of support for young entrepreneurs</a></li>
+						<!-- //
+							Here's how I set up a business when I was 23
+							http://webarchive.nationalarchives.gov.uk/20120422064005/http://www.businesslink.gov.uk/bdotg/action/detail?itemId=1075390802&r.i=1097215659&r.l1=1073858805&r.l2=1073859125&r.l3=1097203554&r.s=sc&r.t=RESOURCES&type=CASE%20STUDIES
+						//-->
 					</ul>
 				</li>
 				<li><a href="http://shop.bsigroup.com/BusinessLinks/BusinessLinkLP/" target="_blank" rel="noopener noreferrer">Standards explained on the British Standards Institution website</a></li>
