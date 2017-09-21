@@ -35,7 +35,7 @@
 			<p>The Shell LiveWIRE website offers discussion forums where young entrepreneurs can share their experiences, and offer solutions to business problems.</p>
 			<p>Shell LiveWIRE is aimed specifically at young entrepreneurs aged between 16 and 30. It allows you to utilise a pool of experts with specialised knowledge. <a href="https://www.shell-livewire.org/" target="_blank" rel="noopener noreferrer">Find help and advice from the Shell LiveWIRE community on the Shell LiveWIRE website (registration required)</a>.</p>
 			<p>Shell LiveWIRE Grand Ideas Awards offer up to five &pound;1,000 prizes a month to the most innovative and unusual ideas submitted by young entrepreneurs aged 16-30 with new businesses in their first 12 months of trading.</p>
-			<p><a href="http://www.shell-livewire.org/listing/awards" target="_blank" rel="noopener noreferrer">Find out about criteria and how to apply for the Grand Idea Awards on the Shell LiveWIRE website</a>.</p>
+			<p><a href="https://www.shell-livewire.org/listing/awards" target="_blank" rel="noopener noreferrer">Find out about criteria and how to apply for the Grand Idea Awards on the Shell LiveWIRE website</a>.</p>
 			
 			<h3>Young Enterprise</h3>
 			<p>Young Enterprise has several programmes aimed at giving young people an understanding of how business works through running their own businesses. <a href="https://www.young-enterprise.org.uk/what-we-do/our-programmes-new/" target="_blank" rel="noopener noreferrer">Find details of Young Enterprise programmes on the Young Enterprise website</a>.</p>
