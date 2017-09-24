@@ -47,7 +47,7 @@
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102847/http://www.hmrc.gov.uk/demo/organisation/register-and-enrol-VAT/" target="_blank" rel="noopener noreferrer">Online demonstrator from HMRC</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102847/https://www.gov.uk/vat-registration" target="_blank" rel="noopener noreferrer">Online demonstrator from HMRC</a></li>
 		</ul>
 		
 

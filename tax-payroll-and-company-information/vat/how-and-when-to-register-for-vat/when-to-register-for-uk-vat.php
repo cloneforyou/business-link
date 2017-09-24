@@ -44,18 +44,18 @@
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<p>Developed with:<br />
-			<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer">
-				<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" /> HM Revenue &amp; Customs
-			</a>
-		</p>
-		
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/government/organisations/hm-revenue-customs/contact" target="_blank" rel="noopener noreferrer">VAT Helpline and other contact details</a></li>
 			<li><a href="https://www.gov.uk/government/publications/vat-returns-and-ec-sales-list-commercial-software-suppliers/vat-commercial-software-suppliers" target="_blank" rel="noopener noreferrer">VAT Return software providers from HMRC</a></li>
 			<li><a href="https://www.gov.uk/vat-registration" target="_blank" rel="noopener noreferrer">Online demonstrator from HMRC</a></li>
 		</ul>
+
+		<p>Developed with:<br />
+			<a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer">
+				<img src="../../../_img/HMRC_logo.gif" width="134" height="35" alt="" /> HM Revenue &amp; Customs
+			</a>
+		</p>
 		
 		<img src="../../../_img/px_taxandreporting.gif" alt="" width="181" height="5" />
 
