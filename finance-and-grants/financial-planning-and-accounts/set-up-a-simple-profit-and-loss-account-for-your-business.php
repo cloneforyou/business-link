@@ -10,7 +10,6 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/breadcrumbs.php'; ?>
 <div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
-			
 
 		<h1>Set up a simple profit and loss account for your business</h1>
 		<h2>Introduction</h2>
