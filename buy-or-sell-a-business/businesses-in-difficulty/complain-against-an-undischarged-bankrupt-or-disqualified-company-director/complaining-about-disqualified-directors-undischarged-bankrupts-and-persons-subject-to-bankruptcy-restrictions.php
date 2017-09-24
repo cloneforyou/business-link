@@ -26,8 +26,9 @@
 			<li>how you found out this information</li>
 			<li>others who can confirm this information</li>
 		</ul>
+
 		<p>You can pass on this information over the telephone by calling the Insolvency Service Enforcement Hotline on Tel 0845 601 3546. The Insolvency Service Enforcement Hotline is open 24 hours a day, every day.</p>
-		<p><a href="../../../do-it-online/use-the-enforcement-hotline.php">Complete the Enforcement Hotline questionnaire online with The Insolvency Service</a>.</p>
+		<p><a href="/do-it-online/use-the-enforcement-hotline.php">Complete the Enforcement Hotline questionnaire online with The Insolvency Service</a>.</p>
 		<p>You can also pass on information by submitting the Enforcement Hotline questionnaire online or by post. Once you have submitted the questionnaire with the relevant information, The Insolvency Service will investigate the complaint.</p>
 		<p>If you submit the questionnaire by post, you should send it to the following address:</p>
 		<p>The Insolvency Service<br />
@@ -38,9 +39,11 @@
 		Birmingham<br />
 		B4 6FD<br />
 		DX 713901</p>
-		<p>You can also send the form to The Insolvency Service by email to <a href="mailto:enforcement.hotline@insolvency.gsi.gov.uk">enforcement.hotline@insolvency.gsi.gov.uk</a>.</p>
+		<p>You can also send the form to The Insolvency Service by email to <a href="mailto:insolvency.enquiryline@insolvency.gsi.gov.uk">insolvency.enquiryline@insolvency.gsi.gov.uk</a>.</p>
+		
 		<h3>Completing the questionnaire</h3>
 		<p>You should complete the questionnaire to the best of your ability so that The Insolvency Service can consider the complaint further. You may not be able to provide all the information requested, but by providing as much information as possible you will help the enquiries into your allegations.</p>
+		
 		<h3>Process after reporting a bankrupt or a director</h3>
 		<p>When you have submitted the questionnaire, The Insolvency Service will acknowledge your completed questionnaire and conduct enquiries into the allegations.</p>
 		<p>Initial enquiries into all complaints will be undertaken by the Enforcement Hotline Conduct and Complaints team.</p>
@@ -48,38 +51,41 @@
 		<p>If you wish to submit an anonymous complaint, The Insolvency Service may be able to pass the matter to the relevant prosecuting authority. However, you should note that they may not be able to proceed in the absence of suitable evidence and/or an appropriate witness.</p>
 		
 		<ul>
-			<li><a href="how-to-check-if-a-director-has-been-disqualified-or-if-an-individual-is-an-undischarged-bankrupt-or-subject-to-bankruptcy-restrictions.php">Prev</a></li>
+			<li><a href="/buy-or-sell-a-business/businesses-in-difficulty/complain-against-an-undischarged-bankrupt-or-disqualified-company-director/how-to-check-if-a-director-has-been-disqualified-or-if-an-individual-is-an-undischarged-bankrupt-or-subject-to-bankruptcy-restrictions.php">Prev</a></li>
 		</ul>
 		
 		<h3>Subjects covered in this guide</h3>
 		<ul>
-			<li><a href="../complain-against-an-undischarged-bankrupt-or-disqualified-company-director.php">Introduction</a></li>
-			<li><a href="what-undischarged-bankrupts-and-persons-subject-to-bankruptcy-restrictions-are-not-allowed-to-do.php">What undischarged bankrupts and persons subject to bankruptcy restrictions are not allowed to do</a></li>
-			<li><a href="how-to-check-if-a-director-has-been-disqualified-or-if-an-individual-is-an-undischarged-bankrupt-or-subject-to-bankruptcy-restrictions.php">How to check if a director has been disqualified or if an individual is an undischarged bankrupt or subject to bankruptcy restrictions</a></li>
+			<li><a href="/buy-or-sell-a-business/businesses-in-difficulty/complain-against-an-undischarged-bankrupt-or-disqualified-company-director.php">Introduction</a></li>
+			<li><a href="/buy-or-sell-a-business/businesses-in-difficulty/complain-against-an-undischarged-bankrupt-or-disqualified-company-director/what-undischarged-bankrupts-and-persons-subject-to-bankruptcy-restrictions-are-not-allowed-to-do.php">What undischarged bankrupts and persons subject to bankruptcy restrictions are not allowed to do</a></li>
+			<li><a href="/buy-or-sell-a-business/businesses-in-difficulty/complain-against-an-undischarged-bankrupt-or-disqualified-company-director/how-to-check-if-a-director-has-been-disqualified-or-if-an-individual-is-an-undischarged-bankrupt-or-subject-to-bankruptcy-restrictions.php">How to check if a director has been disqualified or if an individual is an undischarged bankrupt or subject to bankruptcy restrictions</a></li>
 			<li>Complaining about disqualified directors, undischarged bankrupts and persons subject to bankruptcy restrictions</li>
 		</ul>
-		
+
+		<hr />
 		
 		<h3>Insolvency Service Enforcement Hotline</h3>
 		<p>0845 601 3546</p>
 		<h3>Insolvency Service Enquiry Line</h3>
 		<p>0845 602 9848</p>
+		
 		<hr />
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="https://www.gov.uk/government/organisations/insolvency-service" target="_blank">Disqualification information for directors on the Insolvency Service website<span> - Opens in a new window</span></a></li>
+			<li><a href="https://www.gov.uk/government/organisations/insolvency-service" target="_blank" rel="noopener noreferrer">Disqualification information for directors on the Insolvency Service website</a></li>
 		</ul>
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="1" height="1" />
 		
 		<h3>Also on this site</h3>
 		<ul>
-			<li><a href="../../../finance-and-grants/insolvency-information-for-sole-traders-and-individuals/how-bankruptcy-affects-you-and-your-business/bankruptcy-what-happens-to-your-bank-account.php">Bankruptcy: what happens to your bank account</a></li>
-			<li><a href="../../../finance-and-grants/insolvency-information-for-limited-companies/director-disqualification.php">Director disqualification</a></li>
-			<li><a href="../../../finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership.php">How to complain against a company or limited liability partnership</a></li>
-			<li><a href="../../../finance-and-grants/introduction-to-insolvency/insolvency-the-basics.php">Insolvency: the basics</a></li>
+			<li><a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/how-bankruptcy-affects-you-and-your-business/bankruptcy-what-happens-to-your-bank-account.php">Bankruptcy: what happens to your bank account</a></li>
+			<li><a href="/finance-and-grants/insolvency-information-for-limited-companies/director-disqualification.php">Director disqualification</a></li>
+			<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership.php">How to complain against a company or limited liability partnership</a></li>
+			<li><a href="/finance-and-grants/introduction-to-insolvency/insolvency-the-basics.php">Insolvency: the basics</a></li>
 		</ul>
+
 		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="1" height="1" />
+
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

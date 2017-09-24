@@ -40,22 +40,12 @@
 			<li><a href="/it-and-ecommerce/data-protection-and-legal-issues/respect-other-peoples-intellectual-property.php">Respect other people's intellectual property</a></li>
 		</ul>
 
-		<p><img src="/_img/hr_325px_global.gif" alt="" /></p>
-		<p><strong>Print options</strong> - <span><a href="#">What are my print options <img src="/_img/whatisthis.gif" width="9" height="11" alt="" /></a></span></p>
-		<ul>
-			<li><a href="#">Print guide now</a></li>
-			<li><a href="#">Add guide to my print portfolio (print later as PDF)</a></li>
-		</ul>
-		<p><strong>Email options</strong> - <span><a href="#">What are my email options <img src="/_img/whatisthis.gif" width="9" height="11" alt="" /></a></span></p>
-		<ul>
-			<li><a href="#">Tell a friend about this page</a></li>
-			<li><a href="#">Send me an email alert when this guide changes</a></li>
-		</ul>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 		
 		<h3>Intellectual Property Office Information Centre</h3>
 		<p>0300 300 2000</p>
-		<p><img src="/_img/hr_140px_global.gif" alt="" /></p>
-			
+		
+		<hr />
 		
 		<h3>Actions</h3>
 		<ul>
@@ -66,7 +56,9 @@
 			<li><a href="#">Download guidance on IP from the Intellectual Property Office website (PDF, 1.01MB)</a></li>
 			<li><a href="http://www.lawdonut.co.uk/business/blog/2013/04/how-protect-your-intellectual-property" target="_blank" rel="noopener noreferrer">Intellectual property disputes guidance on the Law Donut website</a></li>
 		</ul>
+
 		<img src="/_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
+		
  
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 

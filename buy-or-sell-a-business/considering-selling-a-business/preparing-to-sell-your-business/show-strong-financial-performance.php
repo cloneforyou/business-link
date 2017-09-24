@@ -22,38 +22,44 @@
 		<p>It's important that buyers believe your accounts. For example, you should make realistic provisions for bad debts. Buyers and their advisers will usually see through any quick fixes you try to use to boost profits.</p>
 		<p>To maximise short-term profits you can reduce longer-term investment. For example, you might avoid expenses like advertising heavily or taking on new staff. But <strong>avoid excessive cost-cutting</strong> - you need to maintain spending in essential areas, otherwise the business suffers and so does the price buyers will be prepared to offer.</p>
 		<p>For advice on these and other options, consult your accountant and your corporate finance adviser.</p>
+		
 		<ul>
-			<li><a href="choosing-advisers-when-selling-your-business.php">Prev</a></li>
-			<li><a href="streamline-your-business-operations.php">Next</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/choosing-advisers-when-selling-your-business.php" title="Choosing advisers when selling your business">Prev</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/streamline-your-business-operations.php" title="Streamline your business operations">Next</a></li>
 		</ul>
+		
 		<h3>Subjects covered in this guide</h3>
 		<ul>
-			<li><a href="../preparing-to-sell-your-business.php">Introduction</a></li>
-			<li><a href="is-selling-my-business-the-right-option.php">Is selling my business the right option?</a></li>
-			<li><a href="ways-to-sell-your-business.php">Ways to sell your business</a></li>
-			<li><a href="is-a-sale-realistic.php">Is a sale realistic?</a></li>
-			<li><a href="when-to-sell-your-business.php">When to sell your business</a></li>
-			<li><a href="choosing-advisers-when-selling-your-business.php">Choosing advisers when selling your business</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business.php" title="Preparing to sell your business">Introduction</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/is-selling-my-business-the-right-option.php">Is selling my business the right option?</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/ways-to-sell-your-business.php">Ways to sell your business</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/is-a-sale-realistic.php">Is a sale realistic?</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/when-to-sell-your-business.php">When to sell your business</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/choosing-advisers-when-selling-your-business.php">Choosing advisers when selling your business</a></li>
 			<li>Show strong financial performance</li>
-			<li><a href="streamline-your-business-operations.php">Streamline your business operations</a></li>
-			<li><a href="here-is-how-i-prepared-my-business-for-sale.php">Here's how I prepared my business for sale</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/streamline-your-business-operations.php">Streamline your business operations</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/here-is-how-i-prepared-my-business-for-sale.php">Here's how I prepared my business for sale</a></li>
 		</ul>
+
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.lucasweston.com/top-ten-business-seller-mistakes.htm" target="_blank">Common mistakes in business sales explained on the Lucas &amp; Weston website<span> - Opens in a new window</span></a></li>
+			<li><a href="http://www.lucasweston.com/top-ten-business-seller-mistakes.htm" target="_blank" rel="noopener noreferrer">Common mistakes in business sales explained on the Lucas &amp; Weston website</a></li>
 			<li><a href="#">Download succession planning guidance from the Deloitte website (PDF, 120K)</a></li>
-			<li><a href="../../../tax-payroll-and-company-information/selling-or-closing-your-business/check-tax-and-legal-issues-when-selling-a-business.php">Use our interactive tool to investigate the tax and legal issues when selling or closing your business</a></li>
+			<li><a href="/tax-payroll-and-company-information/selling-or-closing-your-business/check-tax-and-legal-issues-when-selling-a-business.php">Use our interactive tool to investigate the tax and legal issues when selling or closing your business</a></li>
 		</ul>
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" /></div>
+		
 		<h3>Also on this site</h3>
 		<ul>
-			<li><a href="../consider-your-exit-strategy-when-starting-up.php">Consider your exit strategy when starting up</a></li>
-			<li><a href="../../transferring-your-business/selling-or-passing-a-business-to-a-family-member.php">Selling or passing a business to a family member</a></li>
-			<li><a href="../value-and-market-your-business.php">Value and market your business</a></li>
-			<li><a href="../../selling/complete-the-sale-of-your-business.php">Complete the sale of your business</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/consider-your-exit-strategy-when-starting-up.php">Consider your exit strategy when starting up</a></li>
+			<li><a href="/buy-or-sell-a-business/transferring-your-business/selling-or-passing-a-business-to-a-family-member.php">Selling or passing a business to a family member</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/value-and-market-your-business.php">Value and market your business</a></li>
+			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/choosing-advisers-when-selling-your-business.php">Complete the sale of your business</a></li>
 		</ul>
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" /></div>
+
+		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
+		
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
