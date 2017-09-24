@@ -585,14 +585,13 @@
 					<a href="">Expert financial advice</a>
 					<ul>
 						<li>
-							<a href="">Choose and work with an accountant</a>
+							<a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php">Choose and work with an accountant</a>
 							<ul>
-								<li><a href="" title="Choose and work with an accountant">Introduction</a></li>
-								<li>How an accountant can help your business</li>
-								<li>Choosing an accountant</li>
-								<li>Checklist: ten things to ask your prospective accountant</li>
-								<li>Managing the relationship with your accountant</li>
-								<li>Here's how I used an accountant to help me in my business</li>
+								<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php" title="Choose and work with an accountant">Introduction</a></li>
+								<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant/how-an-accountant-can-help-your-business.php">How an accountant can help your business</a></li>
+								<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant/choosing-an-accountant.php">Choosing an accountant</a></li>
+								<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant/checklist-ten-things-to-ask-your-prospective-accountant.php">Checklist: ten things to ask your prospective accountant</a></li>
+								<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant/managing-the-relationship-with-your-accountant.php">Managing the relationship with your accountant</a></li>
 							</ul>
 						</li>
 						<li>
