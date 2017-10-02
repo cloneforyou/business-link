@@ -14,7 +14,6 @@
 <div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
 
-
 		<h1>Choose the right name for your business</h1>
 		<h2>Introduction</h2>
 		<img src="../../_img/SU0200.gif" width="78" height="118" border="0" alt="" />
@@ -38,19 +37,15 @@
 			<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/here-is-how-i-chose-the-name-for-my-business.php">Here's how I chose the name for my business</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Companies House Contact Centre</h3>
-		<p>0303 1234 500
-		</p>
+		<p>0303 1234 500</p>
 		
 		<h3>Business Link Helpline</h3>
-		<p>0845 600 9 006
-		</p>
+		<p>0845 600 9 006</p>
 		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
+		<hr />
 		
 		<h3>Actions</h3>
 		<ul>
@@ -58,6 +53,7 @@
 			<li><a href="https://www.gov.uk/get-information-about-a-company" target="_blank" rel="noopener noreferrer">Use our interactive tool to search for an available company name and trade mark</a></li>
 			<li><a href="http://www.nominet.uk/domains/about-domain-names/">Choosing a domain name advice from Nominet</a></li>
 		</ul>
+		
 		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
