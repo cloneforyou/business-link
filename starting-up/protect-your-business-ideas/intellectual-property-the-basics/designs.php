@@ -2,7 +2,7 @@
 <html class="no-js">
 
 <head>
-	<title>Trade marks | Business Link</title>
+	<title>Designs | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
@@ -13,13 +13,15 @@
 		<div class="small-12 large-8 large-push-4 columns">
 			
 			<h1>Intellectual property: the basics</h1>
-			<h2>Trade marks</h2>
-			<p>Trade marks set apart your products and services as different from other suppliers. They can be signs, logos, words and names, and there are rules on what can and cannot be registered as a trade mark. Trade marks are highly valuable and can be a major influence on your marketing and your recognition in the market place.</p>
-			<p>It's important to protect your own trade marks and also to avoid infringing those of other users. For more information, see our guide on how to <a href="/create-innovate-and-protect/protecting-your-intellectual-property/trade-marks-protecting-your-brand/use-trade-marks-in-your-business.php">use trade marks in your business</a>.</p>
+			<h2>Designs</h2>
+			<p>You can protect the shape or arrangement of three-dimensional objects in two ways. You will automatically be granted <strong>design right</strong>, and in the UK this gives you protection from copying or misuse by other people or businesses.</p>
+			<p>You can also <strong>register a design</strong>. This may give stronger protection and allow you to extend your design right to other countries. For more information, see our guide on <a href="/create-innovate-and-protect/protecting-your-intellectual-property/copyright-design-and-protecting-your-ideas/design-right-and-registration.php">design right and registration</a>.</p>
+			<p>You must avoid infringing another owner's design right. If you want to use someone else's design, you may be able to come to an arrangement with the rights owner.</p>
+			<p>You cannot register two-dimensional designs such as textile patterns, wallpaper designs, or graphic design and they do not have automatic design right. If you want to protect them, you should use copyright. See the page in this guide on <a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/copyright.php" title="Guidance on what copyright is and how it is granted">copyright</a>.</p>
 
 			<ul>
-				<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/copyright.php" title="Copyright">Prev</a></li>
-				<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/designs.php" title="Designs">Next</a></li>
+				<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/trade-marks.php" title="Trade marks">Prev</a></li>
+				<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/a-start-up-intellectual-property-checklist.php" title="A start-up intellectual property checklist">Next</a></li>
 			</ul>
 			
 			<h3>Subjects covered in this guide</h3>
@@ -29,8 +31,8 @@
 				<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/how-you-can-protect-your-intellectual-property.php">How you can protect your intellectual property</a></li>
 				<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/patents.php">Patents</a></li>
 				<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/copyright.php">Copyright</a></li>
-				<li>Trade marks</li>
-				<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/designs.php">Designs</a></li>
+				<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/trade-marks.php">Trade marks</a></li>
+				<li>Designs</li>
 				<li><a href="/starting-up/protect-your-business-ideas/intellectual-property-the-basics/a-start-up-intellectual-property-checklist.php">A start-up intellectual property checklist</a></li>
 			</ul>
 			
@@ -43,7 +45,7 @@
 			
 			<h3>Also on this site</h3>
 			<ul>
-				<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/trade-marks-protecting-your-brand/use-trade-marks-in-your-business.php">Use trade marks in your business</a></li>
+				<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/copyright-design-and-protecting-your-ideas/design-right-and-registration.php">Design right and registration</a></li>
 				<li><a href="http://webarchive.nationalarchives.gov.uk/20120729181630/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101996&r.i=1087060130&r.l1=1073858805&r.l2=1073859173&r.l3=1087059738&r.t=RESOURCES&type=HUBCHASSIS" target="_blank" rel="noopener noreferrer">Protect your business and premises</a></li>
 			</ul>
 
