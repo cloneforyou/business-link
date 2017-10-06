@@ -100,7 +100,7 @@
 					<td rowspan="14"><img src="../../_img/px_white.gif" alt="" width="5" height="6" /></td>
 					<td colspan="2">
 						<p>
-							<a href="layer068f.html?topicId=1073858805" title="From first thoughts to a firm footing">Starting up</a>
+							<a href="/starting-up.php" title="From first thoughts to a firm footing">Starting up</a>
 						</p>
 						<p><img src="../../_img/leftnav_sub_hr.gif" alt="" /></p>
 					</td>
