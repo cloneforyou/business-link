@@ -51,7 +51,7 @@
 		<p><a href="/international-trade/doing-business-in-the-eu/getting-ready-to-export-to-individual-countries.php">Use our interactive tool to identify what you need to know to export to your target country</a>.</p>
 
 		<ul>
-			<li><a href="detail091f.html?itemId=1075078368&amp;type=RESOURCES" title="Helping your business grow internationally">Prev</a></li>
+			<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/helping-your-business-grow-internationally.php" title="Helping your business grow internationally">Prev</a></li>
 			<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/here-is-how-I-developed-a-strong-export-market.php" title="Here's how I developed a strong export market">Next</a></li>
 		</ul>
 		
@@ -65,7 +65,7 @@
 			<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/transport-considerations.php">Transport considerations</a></li>
 			<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/financial-considerations.php">Financial considerations</a></li>
 			<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/working-effectively-with-different-cultures.php">Working effectively with different cultures</a></li>
-			<li><a href="detail091f.html?itemId=1075078368&amp;type=RESOURCES">Helping your business grow internationally</a></li>
+			<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/helping-your-business-grow-internationally.php">Helping your business grow internationally</a></li>
 			<li>Ten key steps to successful exporting</li>
 			<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/here-is-how-I-developed-a-strong-export-market.php">Here's how I developed a strong export market</a></li>
 			<li><a href="/starting-up/trade-with-other-countries/exporting-an-overview/here-is-how-I-kept-my-business-profitable-by-exporting-my-products-abroad_flash-video.php">Here's how I kept my business profitable by exporting my products abroad (Flash video)</a></li>
