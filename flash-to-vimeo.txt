@@ -4,21 +4,39 @@
 	
 *************************************************************************/
 
-1. Login to Vimeo account (cmurphy....)
+1. You'd need to get the .FLV first ideally, or .SWF, from either the folder, the internet, the time machine...
 
-2. Upload video, assign tag of 'blink'
+2. Login to Vimeo account (cmurphy....)
 
-3. Paste in the following code:
+3. Upload video, assign tag of 'blink'
+
+4. Paste in the following code:
 
 <div class="flex-video widescreen vimeo">
 	<iframe src="http://player.vimeo.com/video/192278297?badge=0&byline=0&portrait=0&title=0" width="720" height="540" allowfullscreen style="border:0"></iframe>
 </div>
 
-4. change the video link to the one you wish to use.
+5. change the video link to the one you wish to use.
 
-5. Move the flash file to the unused folder
+6. Move the flash file to the unused folder
 
+For transcripts;
 
+1. Visit the site on National Archives
+
+2. Copy the text from the popup. Paste in a new file, add H1, P tags etc.
+
+3. Add code for opening the modal: <a class="open-modal" data-open="modal">Read transcript</a> data-open must match the ID
+
+4. Add modal div, and paste in your new HTML content:
+
+<div class="large reveal" id="modal" data-reveal>
+      <button class="close-button" data-close aria-label="Close modal" type="button">
+        <span aria-hidden="true">&times;</span>
+      </button>
+
+      <!-- your text here -->
+</div><!-- // modal -->
 
 
 /*************************************************************************

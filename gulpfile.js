@@ -92,7 +92,7 @@ gulp.task('foundation-js', function() {
 		// './_vendor/foundation-sites/js/foundation.orbit.js',
 		'./_vendor/foundation-sites/js/foundation.responsiveMenu.js',
 		'./_vendor/foundation-sites/js/foundation.responsiveToggle.js',
-		// './_vendor/foundation-sites/js/foundation.reveal.js',
+		'./_vendor/foundation-sites/js/foundation.reveal.js',
 		'./_vendor/foundation-sites/js/foundation.slider.js',
 		// './_vendor/foundation-sites/js/foundation.sticky.js',
 		// './_vendor/foundation-sites/js/foundation.tabs.js',
