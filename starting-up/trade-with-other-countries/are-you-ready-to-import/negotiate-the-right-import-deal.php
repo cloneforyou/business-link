@@ -3,7 +3,7 @@
 <head>
 	<title>Negotiate the right import deal | Business Link</title>
 
-	<!-- ref: xxx || /detail?itemId=1077722868&type=RESOURCES -->
+	<!-- ref: detail936c.html || /detail?itemId=1077722868&type=RESOURCES -->
 
 	<meta lang="en" content="Negotiating the right import terms, planning ahead and reaching a clear agreement" />
 	<meta lang="en" content="import readiness assessment;trade;trading;import;importing;paperwork;documentation;overseas;abroad;foreign;market research;international;strategy;plan;planning;supplier contract terms;supply chain management;logistics;customs;freight;shipping;agents;licenses;credit;incoterms;payment terms" />
