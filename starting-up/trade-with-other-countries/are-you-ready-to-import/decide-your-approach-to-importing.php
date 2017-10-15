@@ -3,7 +3,7 @@
 <head>
 	<title>Decide your approach to importing | Business Link</title>
 
-	<!-- ref: xxx || /detail?itemId=1077722868&type=RESOURCES -->
+	<!-- ref: detail2320.html || /detail?itemId=1077722868&type=RESOURCES -->
 
 	<meta lang="en" content="Keeping importing simple by dealing with experienced exporters in developed countries and using agents " />
 	<meta lang="en" content="import readiness assessment;trade;trading;import;importing;paperwork;documentation;overseas;abroad;foreign;market research;international;strategy;plan;planning;supplier contract terms;supply chain management;logistics;customs;freight;shipping;agents;licenses;credit;incoterms;payment terms" />
