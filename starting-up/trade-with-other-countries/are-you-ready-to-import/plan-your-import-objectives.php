@@ -3,7 +3,7 @@
 <head>
 	<title>Plan your import objectives | Business Link </title>
 
-	<!-- ref: xxx || /detail?itemId=1077722868&type=RESOURCES -->
+	<!-- ref: detail2b31.html || /detail?itemId=1077722868&type=RESOURCES -->
 
 	<meta lang="en" content="Setting goals and deciding how involved in importing you want to be" />
 	<meta lang="en" content="import readiness assessment;trade;trading;import;importing;paperwork;documentation;overseas;abroad;foreign;market research;international;strategy;plan;planning;supplier contract terms;supply chain management;logistics;customs;freight;shipping;agents;licenses;credit;incoterms;payment terms" />
