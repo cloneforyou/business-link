@@ -3,6 +3,10 @@
 <head>
 	<title>Your operations | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail914b.html || /detail?itemId=1073791234&type=RESOURCES -->
+	<meta name="description" lang="en" content="Information to include about how you will source, procure, create and deliver the goods or services you will be selling" />
+	<meta name="keywords" lang="en" content="Business plans; planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a business plan; prepare a business plan; business; Business practice and regulation; Small businesses" />
 </head>
 
 <body>
