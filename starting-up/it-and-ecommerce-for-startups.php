@@ -3,6 +3,8 @@
 <head>
 	<title>IT and E-Commerce For Startups | Starting Up | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layerd5eb.html || /layer?topicId=1073859155 -->
 </head>
 
 <body>

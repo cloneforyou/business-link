@@ -2,6 +2,12 @@
 <html class="no-js">
 <head>
 	<title>Your business, its products and services | Business Link</title>
+
+	<!-- ref: detailed3a.html || /detail?itemId=1073791231&type=RESOURCES -->
+
+	<meta name="description" lang="en" content="Outlining what your company does, what you can offer, the market needs you address and why your idea is viable" />
+	<meta name="keywords" lang="en" content="Business plans; planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a businessplan; prepare a business plan; business; Business practice and regulation; Small businesses" />
+
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

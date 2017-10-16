@@ -2,6 +2,12 @@
 <html class="no-js">
 <head>
 	<title>Here's how having an up-to-date business plan helped my business | Business Link</title>
+
+	<!-- ref: detail68fa.html || /detail?itemId=1075061418&type=CASE STUDIES -->
+
+	<meta name="description" lang="en" content="Darren Jones wrote a business plan when he launched his care business - our case study explains how it helped" />
+	<meta name="keywords" lang="en" content="Business plans; planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a businessplan; prepare a business plan; business;  Business practice and regulation; Small businesses" />
+
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
