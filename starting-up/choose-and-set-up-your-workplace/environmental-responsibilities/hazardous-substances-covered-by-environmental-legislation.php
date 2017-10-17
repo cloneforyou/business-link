@@ -4,6 +4,8 @@
 <head>
 	<title>Hazardous substances covered by environmental legislation | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: xx || xx -->
 </head>
 
 <body>

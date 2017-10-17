@@ -2,10 +2,9 @@
 <html>
 <head>
 	<title>Work on your business idea | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
 	<!-- ref: xx || xx -->
-	
-	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

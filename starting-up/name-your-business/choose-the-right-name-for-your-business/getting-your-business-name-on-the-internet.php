@@ -3,6 +3,8 @@
 <head>
 	<title>Getting your business name on the internet | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: xx || xx -->
 </head>
 
 <body>
