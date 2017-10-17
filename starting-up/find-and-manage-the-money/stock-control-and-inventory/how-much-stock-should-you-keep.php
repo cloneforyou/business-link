@@ -3,6 +3,10 @@
 <head>
 	<title>How much stock should you keep? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail418e.html || /detail?itemId=1073792658&type=RESOURCES -->
+	<meta name="description" lang="en" content="Advantages and disadvantages of keeping either plenty of stock or very little" />
+	<meta name="keywords" lang="en" content="Stock control and Inventory;  spreadsheet; bookkeeping; book-keeping; itemising and recording; inventory control; register of goods; inventory management; stock take; stocktaking; stocktake; stock control methods; batch control; coding; stock tracking; barcode; just in time; just in case; JIT; re-order level; batch control; rolling stocktake; Business management; Radio Frequency Identification; RFID; tagging; Business management" />
 </head>
 
 <body>

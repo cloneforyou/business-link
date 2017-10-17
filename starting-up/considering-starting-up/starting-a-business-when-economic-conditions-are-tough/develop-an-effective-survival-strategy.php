@@ -3,6 +3,10 @@
 <head>
 	<title>Develop an effective survival strategy | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaildbf9.html || /detail?itemId=1081904954&type=RESOURCES -->
+	<meta name="description" lang="en" content="Plan early for the survival and future success of your business " />
+	<meta name="keywords" lang="en" content="Starting a business during a recession; recession; Starting up; economic downturn; credit crunch; funding; grants; loans; new business; buying; franchises; setting up; value engineering; business plan; starting your own business; small firms loan guarantee; cashflow, cashflow management; cash flow; starting your own business; support; Professional and Career Development Loan" />
 </head>
 
 <body>

@@ -3,6 +3,10 @@
 <head>
 	<title>Benefits of an effective IT supplier relationship | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaile2d6.html || /detail?itemId=1073792231&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to build a successful relationship with your IT supplier and the benefits it can deliver" />
+	<meta name="keywords" lang="en" content="Choosing an IT supplier; ICT; information technology; finding internet expertise; applications technology support; bespoke software; customised software; best available technology; ISP; Internet service provider; ASP; application service provider; outsource; broadband; dial-up; system maintenance; IT support; computer support; service level agreement; SLA; cloud computing; Information technology" />
 </head>
 
 <body>

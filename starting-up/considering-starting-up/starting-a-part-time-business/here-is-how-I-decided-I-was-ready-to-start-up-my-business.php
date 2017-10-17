@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I decided I was ready to start up my business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail4c57.html || /detail?itemId=1075407433&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="This case study explains how the Ales By Mail business was developed and how it got off the ground" />
+	<meta name="keywords" lang="en" content="Part-time business;  Business; start-up; part-time; viable; job-sharing; parents; finance; entrepreneur; acumen; legal structure; tax; health; safety; security; work from home; accountant; bookkeeper; marketing; IT; tax; National Insurance; mentoring; advice; networking" />
 </head>
 
 <body>

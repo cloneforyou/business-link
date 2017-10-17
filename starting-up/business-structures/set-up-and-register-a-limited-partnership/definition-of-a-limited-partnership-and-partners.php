@@ -4,6 +4,10 @@
 <head>
 	<title>Definition of a limited partnership and partners | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailcd36.html || /detail?itemId=1086166566&type=RESOURCES -->
+	<meta name="description" lang="en" content="What a limited partnership is and the differences between limited and general partners" />
+	<meta name="keywords" lang="en" content="Limited Partnerships; limited partnership; general partners; limited partners; Companies House; Limited Partnership Act 1907; registration form LP5; LP; Companies House Regsitrar; form LP6; dissolution" />
 </head>
 
 <body>

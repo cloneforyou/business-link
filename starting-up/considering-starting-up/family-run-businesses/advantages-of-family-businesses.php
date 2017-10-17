@@ -3,6 +3,10 @@
 <head>
 	<title>Advantages of family businesses | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailea0d.html || /detail?itemId=1073792650&type=RESOURCES -->
+	<meta name="description" lang="en" content="Commitment, loyalty, stability, flexibility, pride and other characteristics that can benefit family businesses" />
+	<meta name="keywords" lang="en" content="Family businesses; family firm; family run business; family succession; family company; problems in family business; start up; new business; employing family members; family business rulebook; family remuneration strategy; succession planning; family business constitution;  Business management; family constitution; next generation; future generations; long-term family planning; Business management" />
 </head>
 
 <body>

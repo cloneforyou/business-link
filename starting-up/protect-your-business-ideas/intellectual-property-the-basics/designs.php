@@ -4,6 +4,10 @@
 <head>
 	<title>Designs | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail8266.html || /detail?itemId=1087060877&type=RESOURCES -->
+	<meta name="description" lang="en" content="Information on how to protect three-dimensional designs and how to register the rights" />
+	<meta name="keywords" lang="en" content="Intellectual property for start-ups; intellectual property; IP; asset; copyright; design; trademarks; patent; brands; inventions; software; songs; books; poems; paintings; photography; creative work; digital; IP audit; startup IP; new IP; starting up" />
 </head>
 
 <body>

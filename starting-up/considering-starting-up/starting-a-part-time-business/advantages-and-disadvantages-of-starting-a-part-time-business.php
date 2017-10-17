@@ -2,7 +2,12 @@
 <html>
 <head>
 	<title>Advantages and disadvantages of starting a part-time business | Business Link</title>
+
+	<!-- ref: detail0148.html || /detail?itemId=1087062104&type=RESOURCES -->
+	
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+	<meta name="description" lang="en" content="The benefits and potential problems of running a part-time business" />
+	<meta name="keywords" lang="en" content="Part-time business;  Business; start-up; part-time; viable; job-sharing; parents; finance; entrepreneur; acumen; legal structure; tax; health; safety; security; work from home; accountant; bookkeeper; marketing; IT; tax; National Insurance; mentoring; advice; networking" />
 </head>
 
 <body>

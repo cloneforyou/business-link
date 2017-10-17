@@ -3,6 +3,10 @@
 <head>
 	<title>Displaying and disclosing your business, company or limited liability partnership name | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3a6c.html || /detail?itemId=1073788946&type=RESOURCES -->
+	<meta name="description" lang="en" content="Information you must disclose about your business name and registration details" />
+	<meta name="keywords" lang="en" content="Choosing a business name; trading name; domain name; registering a business name; company name; sole trader name; limited company name; partnership name; protecting name; displaying name; Nominet; Companies Registry; Companies House; disclosure rules" />
 </head>
 
 <body>

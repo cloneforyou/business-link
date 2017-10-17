@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I control my stock | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail6267.html || /detail?itemId=1075399110&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="In this case study, the managing director of Systems (Telecoms) Limited explains how stock is controlled" />
+	<meta name="keywords" lang="en" content="Stock control and Inventory; spreadsheet; bookkeeping; book-keeping; itemising and recording; inventory control; register of goods; inventory management; stock take; stocktaking; stocktake; stock control methods; batch control; coding; stock tracking; barcode; just in time; just in case; JIT; re-order level; batch control; rolling stocktake; Business management; Radio Frequency Identification; RFID; tagging; Business management" />
 </head>
 
 <body>

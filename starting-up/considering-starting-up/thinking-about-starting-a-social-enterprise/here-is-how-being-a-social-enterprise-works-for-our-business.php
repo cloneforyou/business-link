@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how being a social enterprise works for our business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail56b5.html || /detail?itemId=1079875272&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="In this case study Tim Woolliscroft explains how being a social enterprise has benefited the Swamp Circus" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>

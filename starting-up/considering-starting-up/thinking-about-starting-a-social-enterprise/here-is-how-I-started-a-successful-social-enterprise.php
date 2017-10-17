@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I started a successful social enterprise | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf0a9.html || /detail?itemId=1087441924&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="In this case study Ian Glasscock explains how he set up a successful social enterprise to help children with ADHD" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>

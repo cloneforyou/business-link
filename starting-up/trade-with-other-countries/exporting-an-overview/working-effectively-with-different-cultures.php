@@ -2,6 +2,9 @@
 <html class="no-js">
 <head>
 	<title>Working effectively with different cultures | Business Link</title>
+
+	<!-- ref: xx || xx -->
+	
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

@@ -4,6 +4,10 @@
 <head>
 	<title>Dissolving a limited partnership | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaile01f.html || /detail?itemId=1086166727&type=RESOURCES -->
+	<meta name="description" lang="en" content="How you can end your partnership, the procedures you must follow, and when to notify Companies House" />
+	<meta name="keywords" lang="en" content="Limited Partnerships; limited partnership; general partners; limited partners; Companies House; Limited Partnership Act 1907; registration form LP5; LP; Companies House Regsitrar; form LP6; dissolution" />
 </head>
 
 <body>

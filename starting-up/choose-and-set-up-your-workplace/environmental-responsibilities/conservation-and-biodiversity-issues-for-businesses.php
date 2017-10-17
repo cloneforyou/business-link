@@ -4,6 +4,10 @@
 <head>
 	<title>Conservation and biodiversity issues for businesses | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailc2ce.html || /detail?itemId=1084012286&type=RESOURCES -->
+	<meta name="description" lang="en" content="Your responsibilities for conserving biodiversity around your business premises" />
+	<meta name="keywords" lang="en" content="Environmental responsibilities; environment; responsibilities; hazard; water; waste; chemicals; oils; animal by-products; solvents; noise; pollution; effluent; danger; work practices; working environment; waste; dangerous substances; environmental obligations;  environmental rules; waste management; statutory nuisance; trade effluent; packaging waste; REACH; RoHS; CHIP; Classification Labelling and Packaging of Substances and Mixtures; CLP Regulations; Globally Harmonised Systems" />
 </head>
 
 <body>
