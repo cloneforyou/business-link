@@ -2,13 +2,11 @@
 <html class="no-js">
 <head>
 	<title>Assess your skills and resources for exporting | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: xxx || /detail?itemId=1073792489&type=RESOURCES -->
-
+	<!-- ref: detail7f45.html || /detail?itemId=1073792489&type=RESOURCES -->
 	<meta name="description" content="Exporting demands extra time, money and skills" />
 	<meta name="keywords" content="export readiness assessment;trade;trading;export;exporting;paperwork;documentation;overseas;abroad;foreign;market research;international;strategy;plan;planning;competition;export market;export opportunities;overseas trade planning;overseas markets;international market;international trade;foreign trade; Exports" />
-	
-	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>
