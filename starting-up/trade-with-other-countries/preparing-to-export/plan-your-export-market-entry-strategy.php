@@ -3,7 +3,7 @@
 <head>
 	<title>Plan your export market entry strategy | Business Link</title>
 
-	<!-- ref: xxx || /detail?itemId=1073792492&type=RESOURCES -->
+	<!-- ref: detaildd6b.html || /detail?itemId=1073792492&type=RESOURCES -->
 
 	<meta name="description" content="Choosing the right distribution channels and ways of promoting your product in overseas markets" />
 	<meta name="keywords" content="export readiness assessment;trade;trading;export;exporting;paperwork;documentation;overseas;abroad;foreign;market research;international;strategy;plan;planning;competition;export market;export opportunities;overseas trade planning;overseas markets;international market;international trade;foreign trade; Exports" />
