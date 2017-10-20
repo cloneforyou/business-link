@@ -3,7 +3,7 @@
 <head>
 	<title>Use the right export support services | Business Link</title>
 
-	<!-- ref: xxx || /detail?itemId=1077758976&type=RESOURCES -->
+	<!-- ref: detaild243.html || /detail?itemId=1077758976&type=RESOURCES -->
 
 	<meta name="description" content="Government help for exporters and other sources of information and support" />
 	<meta name="keywords" content="export readiness assessment;trade;trading;export;exporting;paperwork;documentation;overseas;abroad;foreign;market research;international;strategy;plan;planning;competition;export market;export opportunities;overseas trade planning;overseas markets;international market;international trade;foreign trade; Exports" />
