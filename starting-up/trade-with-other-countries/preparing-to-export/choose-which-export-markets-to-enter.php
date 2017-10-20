@@ -3,7 +3,7 @@
 <head>
 	<title>Choose which export markets to enter | Business Link</title>
 
-	<!-- ref: xxx || /detail?itemId=1073792491&type=RESOURCES -->
+	<!-- ref: detail1156.html || /detail?itemId=1073792491&type=RESOURCES -->
 
 	<meta name="description" content="Focusing on export market opportunities that suit your strengths" />
 	<meta name="keywords" content="export readiness assessment;trade;trading;export;exporting;paperwork;documentation;overseas;abroad;foreign;market research;international;strategy;plan;planning;competition;export market;export opportunities;overseas trade planning;overseas markets;international market;international trade;foreign trade; Exports" />
