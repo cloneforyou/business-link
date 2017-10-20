@@ -5,7 +5,7 @@
 	<title>Issues when signing a non-disclosure agreement | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 	
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detailaeca.html || xx -->
 	<meta name="description" content="How to ensure your non-disclosure agreement protects you against conflict" />
 	<meta name="keywords" content="trade secrets; non-disclosure agreements;confidentiality agreements;non disclosure agreement;template;sample;NDA;secure information;confidential information;intellectual property;confidentiality clause;public domain;commercial relationship;contract;trade secrets;protecting;protection;Data security;intellectual property protection;patents;ideas;protecting ideas;collaboration;sharing ideas;secrets;information security;information breaches;security breaches;Data security;Freedom of Information Act; Data security" />
 </head>
