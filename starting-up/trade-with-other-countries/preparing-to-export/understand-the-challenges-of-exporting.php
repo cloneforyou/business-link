@@ -3,7 +3,7 @@
 <head>
 	<title>Understand the challenges of exporting | Business Link</title>
 
-	<!-- ref: xxx || /detail?itemId=1073792488&type=RESOURCES -->
+	<!-- ref: detail764c.html || /detail?itemId=1073792488&type=RESOURCES -->
 
 	<meta name="description" content="Market research, export paperwork, financing and other resource requirements" />
 	<meta name="keywords" content="export readiness assessment; trade; trading; export; exporting; paperwork; documentation; overseas; abroad; foreign; market research; international; strategy; plan; planning; competition; export market; export opportunities; overseas trade planning; overseas markets; international market; international trade; foreign trade; Exports" />
