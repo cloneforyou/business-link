@@ -3,7 +3,7 @@
 <head>
 	<title>Manage export contracts and logistics | Business Link</title>
 
-	<!-- ref: xxx || /detail?itemId=1077758916&type=RESOURCES -->
+	<!-- ref: detail1aad.html || /detail?itemId=1077758916&type=RESOURCES -->
 
 	<meta name="description" content="Understanding export contracts, delivery and payments" />
 	<meta name="keywords" content="export readiness assessment;trade;trading;export;exporting;paperwork;documentation;overseas;abroad;foreign;market research;international;strategy;plan;planning;competition;export market;export opportunities;overseas trade planning;overseas markets;international market;international trade;foreign trade; Exports" />
