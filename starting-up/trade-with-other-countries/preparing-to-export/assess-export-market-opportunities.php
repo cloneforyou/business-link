@@ -3,7 +3,7 @@
 <head>
 	<title>Assess export market opportunities | Business Link</title>
 
-	<!-- ref: xxx || /detail?itemId=1073792490&type=RESOURCES -->
+	<!-- ref: detail6385.html || /detail?itemId=1073792490&type=RESOURCES -->
 
 	<meta name="description" content="Researching and adapting to customer requirements and the business environment in overseas markets" />
 	<meta name="keywords" content="export readiness assessment;trade;trading;export;exporting;paperwork;documentation;overseas;abroad;foreign;market research;international;strategy;plan;planning;competition;export market;export opportunities;overseas trade planning;overseas markets;international market;international trade;foreign trade; Exports" />
