@@ -3,6 +3,10 @@
 <head>
 	<title>Starting a part-time business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer5919.html || /layer?topicId=1087061606 -->
+	<meta name="description" lang="en" content="Information on starting a part-time business" />
+	<meta name="keywords" lang="en" content="Part-time business; Business; start-up; part-time; viable; job-sharing; parents; finance; entrepreneur; acumen; legal structure; tax; health; safety; security; work from home; accountant; bookkeeper; marketing; IT; tax; National Insurance; mentoring; advice; networking" />
 </head>
 
 <body>
