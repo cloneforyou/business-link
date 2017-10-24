@@ -5,7 +5,9 @@
 	<title>Further information for finding or becoming a business mentor | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: xx || xx -->
+	<!-- ref: detail4b09.html || /detail?itemId=1084721841&type=RESOURCES -->
+	<meta name="description" lang="en" content="Business mentoring sources of support, advice and information" />
+	<meta name="keywords" lang="en" content="Business mentoring benefits; mentoring; business mentoring; benefits of business mentoring; online mentoring; online business networking; peer mentoring; online networking; networking; Shell LiveWIRE; Enterprise Nation; horsesmouth; Freelance Advisor; Solutions for Business; coaching; business mentor; becoming a business mentor; business advice; business support; mentorsme; national mentoring network; financial mentors" />
 </head>
 
 <body>

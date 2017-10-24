@@ -4,7 +4,9 @@
 	<title>Items not covered by VAT | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail8d44.html || /detail?itemId=1082374289&type=RESOURCES -->
+	<meta name="description" lang="en" content="Goods and services that are exempt or outside the scope of VAT" />
+	<meta name="keywords" lang="en" content="Introduction to VAT; VAT; vat rates; VAT Group; VAT exemption; exempt from VAT; outside the scope of VAT; input tax; output tax; registration; goods; services; import; export; HMRC; taxable person; standard rate; standard-rated; reduced rate; reduced-rated; zero rate; zero-rated; taxable supplies; taxable turnover; exempt; corporate body; exempt supplies; supply of goods; tax liability; tax point; transfer of a going concern; unincorporated body;" />
 </head>
 
 <body>

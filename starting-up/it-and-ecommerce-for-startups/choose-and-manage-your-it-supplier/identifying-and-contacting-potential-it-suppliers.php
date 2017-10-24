@@ -4,7 +4,9 @@
 	<title>Identifying and contacting potential IT suppliers | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail2de0.html || /detail?itemId=1073792237&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to identify potential IT suppliers and communicate your system requirements to them" />
+	<meta name="keywords" lang="en" content="Choosing an IT supplier; ICT; information technology; finding internet expertise; applications technology support; bespoke software; customised software; best available technology; ISP; Internet service provider; ASP; application service provider; outsource; broadband; dial-up; system maintenance; IT support; computer support; service level agreement; SLA; cloud computing; Information technology" />
 </head>
 
 <body>

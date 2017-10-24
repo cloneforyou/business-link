@@ -5,7 +5,9 @@
 	<title>Right to manage companies and commonhold associations | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail9693.html || /detail?itemId=1085065543&type=RESOURCES -->
+	<meta name="description" lang="en" content="Rules for incorporating companies which manage properties" />
+	<meta name="keywords" lang="en" content="Limited company registration; limited companies; ltd; ltd company; company formation; formation of a registered company; Form 10; Form 12; company incorporation; company registration; limited company tax; company directors; company secretaries; memorandum and articles of association; company limited by shares; company limited by guarantee; social enterprise companies; company names" />
 </head>
 
 <body>

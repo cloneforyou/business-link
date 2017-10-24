@@ -5,7 +5,9 @@
 	<title>Patents | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detaila6ce.html || /detail?itemId=1087060570&type=RESOURCES -->
+	<meta name="description" lang="en" content="Guidance on what patents are and how they are used" />
+	<meta name="keywords" lang="en" content="Intellectual property for start-ups; intellectual property; IP; asset; copyright; design; trademarks; patent; brands; inventions; software; songs; books; poems; paintings; photography; creative work; digital; IP audit; startup IP; new IP; starting up" />
 </head>
 
 <body>

@@ -5,7 +5,9 @@
 	<title>How to purchase a franchise | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail8ca8.html || /detail?itemId=1073791411&type=RESOURCES -->
+	<meta name="description" lang="en" content="Check these dos and don'ts before taking on a franchise" />
+	<meta name="keywords" lang="en" content="Franchising; british franchise association; partnership arrangement; franchising; franchiser; bfa; franchise cost; franchisor; franchisee; TUPE; business franchise; distributorship selling; dealership selling; agency selling; licensee selling; multi level marketing; pyramid scheme; pyramid marketing; franchising pro; franchising con; assess franchise; assess franchisor; become franchisee; choose franchise; find franchise; buy franchise; franchise agreement; franchise royalty; franchise fee; Business and industry" />
 </head>
 
 <body>

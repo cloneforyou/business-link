@@ -5,7 +5,9 @@
 	<title>Registration documents and forms | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail436d.html || /detail?itemId=1073789615&type=RESOURCES -->
+	<meta name="description" lang="en" content="The documents and forms you need to complete to set up as a limited company" />
+	<meta name="keywords" lang="en" content="Limited company registration; limited companies; ltd; ltd company; company formation; formation of a registered company; Form 10; Form 12; company incorporation; company registration; limited company tax; company directors; company secretaries; memorandum and articles of association; company limited by shares; company limited by guarantee; social enterprise companies; company names" />
 </head>
 
 <body>

@@ -4,7 +4,9 @@
 	<title>Popular home business ideas | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail02e5.html || /detail?itemId=1083765640&type=RESOURCES -->
+	<meta name="description" lang="en" content="Develop your home business idea and write a successful business plan" />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>

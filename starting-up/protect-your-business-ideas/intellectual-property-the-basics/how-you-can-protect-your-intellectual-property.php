@@ -5,7 +5,9 @@
 	<title>How you can protect your intellectual property | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detailfd46.html || /detail?itemId=1087060442&type=RESOURCES -->
+	<meta name="description" lang="en" content="Guidance on the different ways you can protect your intellectual property, depending on its type" />
+	<meta name="keywords" lang="en" content="Intellectual property for start-ups; intellectual property; IP; asset; copyright; design; trademarks; patent; brands; inventions; software; songs; books; poems; paintings; photography; creative work; digital; IP audit; startup IP; new IP; starting up" />
 </head>
 
 <body>

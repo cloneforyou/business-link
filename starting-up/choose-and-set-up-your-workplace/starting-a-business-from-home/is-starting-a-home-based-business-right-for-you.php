@@ -4,7 +4,9 @@
 	<title>Is starting a home-based business right for you? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail5978.html || /detail?itemId=1083765349&type=RESOURCES -->
+	<meta name="description" lang="en" content="Home-based businesses - the advantages and disadvantages and how to address them " />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>

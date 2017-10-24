@@ -4,7 +4,9 @@
 	<title>Negotiating the contract for your IT system | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail4494.html || /detail?itemId=1073792232&type=RESOURCES -->
+	<meta name="description" lang="en" content="The various aspects of system maintenance and support that your contract with an IT supplier might include" />
+	<meta name="keywords" lang="en" content="Choosing an IT supplier; ICT; information technology; finding internet expertise; applications technology support; bespoke software; customised software; best available technology; ISP; Internet service provider; ASP; application service provider; outsource; broadband; dial-up; system maintenance; IT support; computer support; service level agreement; SLA; cloud computing; Information technology" />
 </head>
 
 <body>

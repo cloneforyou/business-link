@@ -4,7 +4,9 @@
 	<title>Poor supplier and customer controls | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detailb226.html || /detail?itemId=1075219940&type=RESOURCES -->
+	<meta name="description" lang="en" content="Avoid cashflow problems related to starting up such as poor supplier contracts or customer credit arrangements" />
+	<meta name="keywords" lang="en" content="Common mistakes when starting up; starting up; start up; new business; entrepreneur; self-employment; becoming your own boss; startup; market research; finance; financial planning; capital; competition; competitors; sales forecasting;  stock control; credit; suppliers; customer research; business plan; overtrading; cashflow; recruitment; staff management" />
 </head>
 
 <body>

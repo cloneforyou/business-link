@@ -4,7 +4,9 @@
 	<title>Social enterprises and the public sector | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detaila2f4.html || /detail?itemId=1079874828&type=RESOURCES -->
+	<meta name="description" lang="en" content="Explores the particular relationship that social enterprises have formed with public sector service provision" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>

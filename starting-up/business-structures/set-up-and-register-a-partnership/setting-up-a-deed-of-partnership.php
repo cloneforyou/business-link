@@ -5,7 +5,9 @@
 	<title>Setting up a deed of partnership | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detaile595.html || /detail?itemId=1073789512&type=RESOURCES -->
+	<meta name="description" lang="en" content="A deed of partnership will usually cover capital, profits, working arrangements and changes to structure" />
+	<meta name="keywords" lang="en" content="Registering a partnership; self employed partner rules; deed of partnership; general partner; sleeping partner; general partnership; limited partnership; setting up a partnership; tax return; national insurance contributions; business name; partnership accounts; alternative dispute resolution; ADR; dispute resolution; Partnership Act 1890; withdrawal of partner; withdrawal of capital; Business practice and regulation" />
 </head>
 
 <body>

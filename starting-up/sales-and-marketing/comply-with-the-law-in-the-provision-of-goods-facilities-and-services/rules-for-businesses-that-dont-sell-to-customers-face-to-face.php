@@ -4,7 +4,9 @@
 	<title>Rules for businesses that don't sell to customers face to face | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail73fb.html || /detail?itemId=1073792518&type=RESOURCES -->
+	<meta name="description" lang="en" content="Trading rules for businesses that undertake distance selling" />
+	<meta name="keywords" lang="en" content="Selling legally; buying and selling legislation,retail regulation,selling legislation,buying legislation,retail legislation; selling online; late payment; data protection; customer information; distance selling; WEEE; Consumer affairs; Trading Standards; Sales of Goods Act; Supply of Goods and Services Act; data protection; consumer rights; customer rights; refunds; warranties; returns; cancellation rights; supplier; proof of age standards scheme; PASS; discrimination; equality; goods, facilities and services; Consumer affairs" />
 </head>
 
 <body>

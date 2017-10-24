@@ -5,7 +5,9 @@
 	<title>Prevent and remedy pollution incidents | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail8b34.html || /detail?itemId=1084010499&type=RESOURCES -->
+	<meta name="description" lang="en" content="Your responsibilities for reporting and preventing major environmental incidents" />
+	<meta name="keywords" lang="en" content="Environmental responsibilities; environment; responsibilities; hazard; water; waste; chemicals; oils; animal by-products; solvents; noise; pollution; effluent; danger; work practices; working environment; waste; dangerous substances; environmental obligations;  environmental rules; waste management; statutory nuisance; trade effluent; packaging waste; REACH; RoHS; CHIP; Classification Labelling and Packaging of Substances and Mixtures; CLP Regulations; Globally Harmonised Systems" />
 </head>
 
 <body>

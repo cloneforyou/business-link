@@ -4,7 +4,9 @@
 	<title>Set up a social enterprise | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: layer4f93.html || /layer?topicId=1077475650 -->
+	<meta name="description" lang="en" content="The various types of social enterprise and how you can set one up, with links to forms and further information" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>

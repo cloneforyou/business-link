@@ -4,7 +4,9 @@
 	<title>Finance for start-ups | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: xx || xx -->
+	<!-- ref: detail4993.html || /detail?itemId=1087079887&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to make sure you have the right finance in place for your new business" />
+	<meta name="keywords" lang="en" content="Starting a business; Start-up; new business; finance; registration; legal; cashflow; name; register; structure; company; partnership; sole trader; premises; business plan; IT; sales; marketing; tax; National Insurance; loan; overdraft; VAT" />
 </head>
 
 <body>

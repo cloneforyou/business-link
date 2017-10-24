@@ -5,7 +5,9 @@
 	<title>How to value a business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail1125.html || /detail?itemId=1073789141&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to find out whether the business you want to buy will be profitable and value for money" />
+	<meta name="keywords" lang="en" content="Buying a business; purchasing a business; takeover; take over; going concern; TUPE; transfer agents; due diligence; redundancy; valuation; valuing a business; business transfer agent;  ICE Regulations;  inform and consult employees; Unfair dismissal; business plan;  business assets; intangible assets; buy an existing business; buy a franchise; buy a going concern; businesses for sale; going into business;" />
 </head>
 
 <body>

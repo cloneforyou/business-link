@@ -5,7 +5,9 @@
 	<title>Make sure a business is worth buying: due diligence | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail9622.html || /detail?itemId=1073789146&type=RESOURCES -->
+	<meta name="description" lang="en" content="Research the new business to ensure it is right for you, use solicitors and accountants to help you" />
+	<meta name="keywords" lang="en" content="Buying a business; purchasing a business; takeover; take over; going concern; TUPE; transfer agents; due diligence; redundancy; valuation; valuing a business; business transfer agent;  ICE Regulations;  inform and consult employees; Unfair dismissal; business plan;  business assets; intangible assets; buy an existing business; buy a franchise; buy a going concern; businesses for sale; going into business;" />
 </head>
 
 <body>

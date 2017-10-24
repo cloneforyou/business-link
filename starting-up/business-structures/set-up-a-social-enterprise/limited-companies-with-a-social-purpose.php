@@ -5,7 +5,9 @@
 	<title>Limited companies with a social purpose | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detailf0a7.html || /detail?itemId=1077475767&type=RESOURCES -->
+	<meta name="description" lang="en" content="Companies limited by shares or guarantee, registration and applying for charitable status" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>

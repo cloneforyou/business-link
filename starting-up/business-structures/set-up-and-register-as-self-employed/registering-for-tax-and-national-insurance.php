@@ -5,7 +5,9 @@
 	<title>Registering for tax and National Insurance | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail4897.html || /detail?itemId=1083844795&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to register with HMRC for tax and National Insurance, VAT, CIS, and as an employer" />
+	<meta name="keywords" lang="en" content="Registering as self employed; working for myself; self-employment; sole trader regulations; registering as sole trader; setting up a new business; registering a new business; business name; working from home; income tax self-assessment; business rate; business accounts; record keeping; profit and loss; Business practice and regulation" />
 </head>
 
 <body>

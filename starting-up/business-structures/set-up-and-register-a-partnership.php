@@ -4,7 +4,9 @@
 	<title>Set up and register a partnership | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: layer07fa.html || /layer?topicId=1073864308 -->
+	<meta name="description" lang="en" content="The legal steps you have to take to form a partnership, including guidance about deeds of partnership" />
+	<meta name="keywords" lang="en" content="Registering a partnership; self employed partner rules; deed of partnership; general partner; sleeping partner; general partnership; limited partnership; setting up a partnership; tax return; national insurance contributions; business name; partnership accounts; alternative dispute resolution; ADR; dispute resolution; Partnership Act 1890; withdrawal of partner; withdrawal of capital; Business practice and regulation" />
 </head>
 
 <body>

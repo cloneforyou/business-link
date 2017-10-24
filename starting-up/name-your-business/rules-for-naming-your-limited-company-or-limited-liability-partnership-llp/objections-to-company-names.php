@@ -4,7 +4,9 @@
 	<title>Objections to company names | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detaile660.html || /detail?itemId=1085039456&type=RESOURCES -->
+	<meta name="description" lang="en" content="When you will need to change your registered company name due to an objection" />
+	<meta name="keywords" lang="en" content="Company and limited liability partnership naming rules; Limited company; registered company; PLC; limited liability partnership; LLP; Companies House; prescribed words; sensitive words; legislated words; same as; too like; Ltd; limited; objection; opportunistic registration; representative word; regulatory; regulation" />
 </head>
 
 <body>

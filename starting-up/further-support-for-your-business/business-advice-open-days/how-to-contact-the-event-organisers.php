@@ -5,7 +5,9 @@
 	<title>How to contact the event organisers | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detail6552.html || /detail?itemId=1081816291&type=RESOURCES -->
+	<meta name="description" lang="en" content="Give feedback and get additional information on Business Advice Open Days that you are attending" />
+	<meta name="keywords" lang="en" content="Business Advice Open Days; Business advice open day; business advice; open day programme; HMRC open day; start up advice; attending open days; starting your own business; business liaison team; tax advice; employment advice; upcoming events; business support roadshow; open day organisations; booking an open day; business seminar; business advice feedback; help for businesses; Tax help; new to business;" />
 </head>
 
 <body>

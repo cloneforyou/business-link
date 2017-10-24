@@ -4,7 +4,9 @@
 	<title>Poor or inadequate market research | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detaila22e.html || /detail?itemId=1075219539&type=RESOURCES -->
+	<meta name="description" lang="en" content="The importance of market research and getting to know your clients and marketplace" />
+	<meta name="keywords" lang="en" content="Common mistakes when starting up; starting up; start up; new business; entrepreneur; self-employment; becoming your own boss; startup; market research; finance; financial planning; capital; competition; competitors; sales forecasting;  stock control; credit; suppliers; customer research; business plan; overtrading; cashflow; recruitment; staff management" />
 </head>
 
 <body>

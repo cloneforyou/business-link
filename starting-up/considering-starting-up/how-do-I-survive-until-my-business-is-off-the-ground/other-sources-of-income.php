@@ -4,7 +4,9 @@
 	<title>Other sources of income | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: detaileed1.html || /detail?itemId=1074402049&type=RESOURCES -->
+	<meta name="description" lang="en" content="Find other sources of income during the early days of running your business" />
+	<meta name="keywords" lang="en" content="cashflow and budget management for startups; grants; budget; cost control; expenses; financial needs; cashflow management; source of income; financial planning; start up; new business; early growth; first year; keep afloat; business plans; business planning; financial management; start-up costs; start-up finance; financial management; Business practice and regulation" />
 </head>
 
 <body>
