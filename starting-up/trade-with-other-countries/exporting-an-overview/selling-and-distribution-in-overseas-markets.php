@@ -3,6 +3,10 @@
 <head>
 	<title>Selling and distribution in overseas markets | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail482e.html || /detail?itemId=1073792495&type=RESOURCES -->
+	<meta name="description" lang="en" content="Look at different ways of selling and distributing overseas" />
+	<meta name="keywords" lang="en" content="Exporting - overview; expand market; overseas market research; export regulations; export control organisation; eco; export tariffs; export  duties; export controls; export; exporting; passport to export; business abroad; export; controls; international sales; export; exporting; trading overseas; new markets; foreign markets; duties; marine insurance; export credits; Incoterms; Exports" />
 </head>
 
 <body>

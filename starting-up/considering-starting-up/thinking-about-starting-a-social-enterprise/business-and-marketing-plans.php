@@ -3,6 +3,10 @@
 <head>
 	<title>Business and marketing plans | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailcc79-2.html || /detail?itemId=1087386892&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to put together a business plan for your social enterprise and market it to customers" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>

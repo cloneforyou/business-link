@@ -4,6 +4,9 @@
 <head>
 	<title>Extra help and support available for your start up | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layerfdbd.html || /layer?topicId=1097203554 -->
+	<meta name="description" lang="en" content="How to find out if you are eligible for extra help and support for your new business" />
 </head>
 
 <body>

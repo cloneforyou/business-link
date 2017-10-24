@@ -3,6 +3,10 @@
 <head>
 	<title>Environmental responsibilities | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer8cd1.html || /layer?topicId=1079433025 -->
+	<meta name="description" lang="en" content="Complying with environmental legislation, and the business and cost benefits of protecting the environment" />
+	<meta name="keywords" lang="en" content="Environmental responsibilities; environment; responsibilities; hazard; water; waste; chemicals; oils; animal by-products; solvents; noise; pollution; effluent; danger; work practices; working environment; waste; dangerous substances; environmental obligations;  environmental rules; waste management; statutory nuisance; trade effluent; packaging waste; REACH; RoHS; CHIP; Classification Labelling and Packaging of Substances and Mixtures; CLP Regulations; Globally Harmonised Systems" />
 </head>
 
 <body>

@@ -3,6 +3,10 @@
 <head>
 	<title>Financial forecasts | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailcc85.html || /detail?itemId=1073791235&type=RESOURCES -->
+	<meta name="description" lang="en" content="Putting your business into numbers with sales, cashflow and profit and loss forecasts and reviewing possible risks" />
+	<meta name="keywords" lang="en" content="Business plans; planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a businessplan; prepare a business plan; business;  Business practice and regulation; Small businesses" />
 </head>
 
 <body>

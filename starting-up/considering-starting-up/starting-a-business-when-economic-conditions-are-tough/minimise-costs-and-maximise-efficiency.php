@@ -3,6 +3,10 @@
 <head>
 	<title>Minimise costs and maximise efficiency | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailb048.html || /detail?itemId=1081905023&type=RESOURCES -->
+	<meta name="description" lang="en" content="Choosing the right suppliers and lenders for your business can help to minimise expenditure and maximise efficiency" />
+	<meta name="keywords" lang="en" content="Starting a business during a recession; recession; Starting up; economic downturn; credit crunch; funding; grants; loans; new business; buying; franchises; setting up; value engineering; business plan; starting your own business; small firms loan guarantee; cashflow, cashflow management; cash flow; starting your own business; support; Professional and Career Development Loan" />
 </head>
 
 <body>

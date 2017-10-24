@@ -3,6 +3,10 @@
 <head>
 	<title>Prescribed and sensitive words | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailbc44.html || /detail?itemId=1085039680&type=RESOURCES -->
+	<meta name="description" lang="en" content="Which words are prescribed for use in a company or LLP name and require the prior consent of a relevant body" />
+	<meta name="keywords" lang="en" content="Company and limited liability partnership naming rules; Limited company; registered company; PLC; limited liability partnership; LLP; Companies House; prescribed words; sensitive words; legislated words; same as; too like; Ltd; limited; objection; opportunistic registration; representative word; regulatory; regulation" />
 </head>
 
 <body>

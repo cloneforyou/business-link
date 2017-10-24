@@ -3,6 +3,10 @@
 <head>
 	<title>Challenges facing social enterprises | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail6436.html || /detail?itemId=1087385971&type=RESOURCES -->
+	<meta name="description" lang="en" content="Difficulties you may encounter when running a social enterprise" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>

@@ -4,6 +4,10 @@
 <head>
 	<title>What is business mentoring? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail90b4.html || /detail?itemId=1084720616&type=RESOURCES -->
+	<meta name="description" lang="en" content="Business mentoring is a relationship that can be as informal or formal as you like" />
+	<meta name="keywords" lang="en" content="Business mentoring benefits; mentoring; business mentoring; benefits of business mentoring; online mentoring; online business networking; peer mentoring; online networking; networking; Shell LiveWIRE; Enterprise Nation; horsesmouth; Freelance Advisor; Solutions for Business; coaching; business mentor; becoming a business mentor; business advice; business support; mentorsme; national mentoring network; financial mentors" />
 </head>
 
 <body>

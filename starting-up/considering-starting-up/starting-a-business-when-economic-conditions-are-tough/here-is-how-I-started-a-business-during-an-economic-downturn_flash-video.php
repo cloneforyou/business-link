@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I started a business during an economic downturn (Flash video) | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailca3d.html || /detail?itemId=1081930005&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="In this case study Siggi Hesbacher talks about how he started a business during an economic downturn" />
+	<meta name="keywords" lang="en" content="Starting a business during a recession; recession; Starting up; economic downturn; credit crunch; funding; grants; loans; new business; buying; franchises; setting up; value engineering; business plan; starting your own business; small firms loan guarantee; cashflow, cashflow management; cash flow; starting your own business; support; Professional and Career Development Loan" />
 </head>
 
 <body>

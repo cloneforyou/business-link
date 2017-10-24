@@ -3,6 +3,10 @@
 <head>
 	<title>What to do before you start your business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailfe6a.html || /detail?itemId=1087079223&type=RESOURCES -->
+	<meta name="description" lang="en" content="Where to find guidance on starting a business" />
+	<meta name="keywords" lang="en" content="Starting a business; Start-up; new business; finance; registration; legal; cashflow; name; register; structure; company; partnership; sole trader; premises; business plan; IT; sales; marketing; tax; National Insurance; loan; overdraft; VAT" />
 </head>
 
 <body>

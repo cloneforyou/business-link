@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how having a family member in the business made a difference | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail30a1.html || /detail?itemId=1075070236&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="Vicky Trumper is the fifth generation to join the family business - our case study explains the benefits" />
+	<meta name="keywords" lang="en" content="Family businesses; family firm; family run business; family succession; family company; problems in family business; start up; new business; employing family members; family business rulebook; family remuneration strategy; succession planning; family business constitution;  Business management; family constitution; next generation; future generations; long-term family planning; Business management" />
 </head>
 
 <body>

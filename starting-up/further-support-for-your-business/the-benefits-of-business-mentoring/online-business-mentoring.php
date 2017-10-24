@@ -4,6 +4,10 @@
 <head>
 	<title>Online business mentoring | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail2a0b.html || /detail?itemId=1084721120&type=RESOURCES -->
+	<meta name="description" lang="en" content="Online business mentoring lets mentors and mentees work together wherever they are located" />
+	<meta name="keywords" lang="en" content="Business mentoring benefits; mentoring; business mentoring; benefits of business mentoring; online mentoring; online business networking; peer mentoring; online networking; networking; Shell LiveWIRE; Enterprise Nation; horsesmouth; Freelance Advisor; Solutions for Business; coaching; business mentor; becoming a business mentor; business advice; business support; mentorsme; national mentoring network; financial mentors" />
 </head>
 
 <body>

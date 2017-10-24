@@ -3,6 +3,10 @@
 <head>
 	<title>Pay and benefits for family members | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaild675.html || /detail?itemId=1073792654&type=RESOURCES -->
+	<meta name="description" lang="en" content="Applying fair, consistent and open principles to devise a remuneration strategy" />
+	<meta name="keywords" lang="en" content="Family businesses; family firm; family run business; family succession; family company; problems in family business; start up; new business; employing family members; family business rulebook; family remuneration strategy; succession planning; family business constitution;  Business management; family constitution; next generation; future generations; long-term family planning; Business management" />
 </head>
 
 <body>

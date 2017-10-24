@@ -3,6 +3,10 @@
 <head>
 	<title>Starting a business from home | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer04ff.html || /layer?topicId=1083764940 -->
+	<meta name="description" lang="en" content="Decide whether starting a business from home is right for you" />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>

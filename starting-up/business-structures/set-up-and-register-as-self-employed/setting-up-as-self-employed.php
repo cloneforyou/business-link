@@ -4,6 +4,10 @@
 <head>
 	<title>Setting up as self-employed | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailde3d.html || /detail?itemId=1073789946&type=RESOURCES -->
+	<meta name="description" lang="en" content="Who can be a sole trader, whether a licence may be required, working from home and sole trader names" />
+	<meta name="keywords" lang="en" content="Registering as self employed; working for myself; self-employment; sole trader regulations; registering as sole trader; setting up a new business; registering a new business; business name; working from home; income tax self-assessment; business rate; business accounts; record keeping; profit and loss; Business practice and regulation" />
 </head>
 
 <body>

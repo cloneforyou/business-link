@@ -3,6 +3,10 @@
 <head>
 	<title>How to complete Box 6 and Box 7 | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3da5.html || /detail?itemId=1082376546&type=RESOURCES -->
+	<meta name="description" lang="en" content="Completing Box 6 and 7 of your VAT Return - total sales and purchases excluding VAT " />
+	<meta name="keywords" lang="en" content="VAT; VAT; Value Added Tax; output tax; input tax; exports; imports; EU countries; adjustments; credit notes; payment; repayment; online registration; VAT adjustments; VAT corrections; VAT mistakes" />
 </head>
 
 <body>

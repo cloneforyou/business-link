@@ -4,6 +4,10 @@
 <head>
 	<title>Checking your self-employment status | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3b1c.html || /detail?itemId=1073789948&type=RESOURCES -->
+	<meta name="description" lang="en" content="Understand whether your work counts as self-employment" />
+	<meta name="keywords" lang="en" content="Registering as self employed; working for myself; self-employment; sole trader regulations; registering as sole trader; setting up a new business; registering a new business; business name; working from home; income tax self-assessment; business rate; business accounts; record keeping; profit and loss; Business practice and regulation" />
 </head>
 
 <body>

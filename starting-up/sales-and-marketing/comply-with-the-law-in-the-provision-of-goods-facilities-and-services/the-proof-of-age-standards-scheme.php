@@ -3,6 +3,10 @@
 <head>
 	<title>The Proof of Age Standards Scheme | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail03f5.html || /detail?itemId=1084113893&type=RESOURCES -->
+	<meta name="description" lang="en" content="Information on how the Proof of Age Standards Scheme helps retailers to comply with the law on age-restricted sales" />
+	<meta name="keywords" lang="en" content="Selling legally; buying and selling legislation,retail regulation,selling legislation,buying legislation,retail legislation; selling online; late payment; data protection; customer information; distance selling; WEEE; Consumer affairs; Trading Standards; Sales of Goods Act; Supply of Goods and Services Act; data protection; consumer rights; customer rights; refunds; warranties; returns; cancellation rights; supplier; proof of age standards scheme; PASS; discrimination; equality; goods, facilities and services; Consumer affairs" />
 </head>
 
 <body>

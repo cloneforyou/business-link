@@ -3,6 +3,10 @@
 <head>
 	<title>How to complete Box 8 and Box 9 | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail7775.html || /detail?itemId=1082399461&type=RESOURCES -->
+	<meta name="description" lang="en" content="Completing Box 8 and 9 of your VAT Return - goods supplied to and acquired from other EU countries" />
+	<meta name="keywords" lang="en" content="VAT; VAT; Value Added Tax; output tax; input tax; exports; imports; EU countries; adjustments; credit notes; payment; repayment; online registration; VAT adjustments; VAT corrections; VAT mistakes" />
 </head>
 
 <body>

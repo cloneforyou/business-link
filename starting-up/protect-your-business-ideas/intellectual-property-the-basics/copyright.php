@@ -4,6 +4,10 @@
 <head>
 	<title>Copyright | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3b15.html || /detail?itemId=1087060628&type=RESOURCES -->
+	<meta name="description" lang="en" content="Guidance on what copyright is and how it is granted" />
+	<meta name="keywords" lang="en" content="Intellectual property for start-ups; intellectual property; IP; asset; copyright; design; trademarks; patent; brands; inventions; software; songs; books; poems; paintings; photography; creative work; digital; IP audit; startup IP; new IP; starting up" />
 </head>
 
 <body>

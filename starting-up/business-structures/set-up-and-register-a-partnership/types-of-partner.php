@@ -4,6 +4,10 @@
 <head>
 	<title>Types of partner | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3f39.html || /detail?itemId=1073789504&type=RESOURCES -->
+	<meta name="description" lang="en" content="The role of the different types of partners, companies and LLPs in general and limited partnerships " />
+	<meta name="keywords" lang="en" content="Registering a partnership; self employed partner rules; deed of partnership; general partner; sleeping partner; general partnership; limited partnership; setting up a partnership; tax return; national insurance contributions; business name; partnership accounts; alternative dispute resolution; ADR; dispute resolution; Partnership Act 1890; withdrawal of partner; withdrawal of capital; Business practice and regulation" />
 </head>
 
 <body>

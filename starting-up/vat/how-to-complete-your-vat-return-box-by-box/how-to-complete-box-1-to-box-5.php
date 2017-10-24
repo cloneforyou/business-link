@@ -3,6 +3,10 @@
 <head>
 	<title>How to complete Box 1 to Box 5 | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail25ff.html || /detail?itemId=1081179337&type=RESOURCES -->
+	<meta name="description" lang="en" content="Completing Boxes 1 to 5 of your VAT Return - VAT due and reclaimable and payable VAT " />
+	<meta name="keywords" lang="en" content="VAT; VAT; Value Added Tax; output tax; input tax; exports; imports; EU countries; adjustments; credit notes; payment; repayment; online registration; VAT adjustments; VAT corrections; VAT mistakes" />
 </head>
 
 <body>

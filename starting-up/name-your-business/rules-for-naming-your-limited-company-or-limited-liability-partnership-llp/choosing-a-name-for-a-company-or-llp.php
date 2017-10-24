@@ -3,6 +3,10 @@
 <head>
 	<title>Choosing a name for a company or LLP | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail50c6.html || /detail?itemId=1085038756&type=RESOURCES -->
+	<meta name="description" lang="en" content="The name that you choose for your company or limited liability partnership must comply with various regulations" />
+	<meta name="keywords" lang="en" content="Company and limited liability partnership naming rules; Limited company; registered company; PLC; limited liability partnership; LLP; Companies House; prescribed words; sensitive words; legislated words; same as; too like; Ltd; limited; objection; opportunistic registration; representative word; regulatory; regulation" />
 </head>
 
 <body>

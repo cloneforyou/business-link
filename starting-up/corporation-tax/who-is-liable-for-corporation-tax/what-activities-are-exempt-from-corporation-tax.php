@@ -3,6 +3,10 @@
 <head>
 	<title>What activities are exempt from Corporation Tax? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail746e.html || /detail?itemId=1082183253&type=RESOURCES -->
+	<meta name="description" lang="en" content="Is your company or organisation - or any of its activities - exempt from Corporation Tax?" />
+	<meta name="keywords" lang="en" content="Corporation Tax; Corporation Tax; active; dormant; Corporation Tax deadlines;  Corporation Tax requirements; exemp; charities; voluntary organisations; Company Tax Return; CT41G; New company details; CT41G; Dormant company insert" />
 </head>
 
 <body>

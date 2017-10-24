@@ -3,6 +3,8 @@
 <head>
 	<title>Protect Your Business Ideas | Starting Up | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layerb9bc.html || /layer?topicId=1073859173 -->
 </head>
 
 <body>

@@ -3,6 +3,10 @@
 <head>
 	<title>Planning to export? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaild254.html || /detail?itemId=1073792494&type=RESOURCES -->
+	<meta name="description" lang="en" content="The key areas to research before you start exporting" />
+	<meta name="keywords" lang="en" content="Exporting - overview; expand market; overseas market research; export regulations; export control organisation; eco; export tariffs; export  duties; export controls; export; exporting; passport to export; business abroad; export; controls; international sales; export; exporting; trading overseas; new markets; foreign markets; duties; marine insurance; export credits; Incoterms; Exports" />
 </head>
 
 <body>

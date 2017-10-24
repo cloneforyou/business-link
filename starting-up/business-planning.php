@@ -3,6 +3,8 @@
 <head>
 	<title>Business Planning | Starting Up | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer1e2d.html || /layer?topicId=1085161962 -->
 </head>
 
 <body>

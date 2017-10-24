@@ -4,6 +4,10 @@
 <head>
 	<title>Step-by-step: how to buy a business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaild21f.html || /detail?itemId=1073789142&type=RESOURCES -->
+	<meta name="description" lang="en" content="All the steps you should take to find and buy a new business from research and advice to finance and completion" />
+	<meta name="keywords" lang="en" content="Buying a business; purchasing a business; takeover; take over; going concern; TUPE; transfer agents; due diligence; redundancy; valuation; valuing a business; business transfer agent;  ICE Regulations;  inform and consult employees; Unfair dismissal; business plan;  business assets; intangible assets; buy an existing business; buy a franchise; buy a going concern; businesses for sale; going into business;" />
 </head>
 
 <body>

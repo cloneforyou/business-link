@@ -3,6 +3,10 @@
 <head>
 	<title>Names for limited companies and LLPs | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail4748.html || /detail?itemId=1073788943&type=RESOURCES -->
+	<meta name="description" lang="en" content="Register a company or partnership name, rules on choosing names and how to  check a name is not trade marked" />
+	<meta name="keywords" lang="en" content="Choosing a business name; trading name; domain name; registering a business name; company name; sole trader name; limited company name; partnership name; protecting name; displaying name; Nominet; Companies Registry; Companies House; disclosure rules" />
 </head>
 
 <body>

@@ -3,6 +3,10 @@
 <head>
 	<title>Choosing a business name to create the right impression | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail8104-2.html || /detail?itemId=1073788942&type=RESOURCES -->
+	<meta name="description" lang="en" content="What you need to consider in order to attract customers to your business because of your business' name" />
+	<meta name="keywords" lang="en" content="Choosing a business name; trading name; domain name; registering a business name; company name; sole trader name; limited company name; partnership name; protecting name; displaying name; Nominet; Companies Registry; Companies House; disclosure rules" />
 </head>
 
 <body>

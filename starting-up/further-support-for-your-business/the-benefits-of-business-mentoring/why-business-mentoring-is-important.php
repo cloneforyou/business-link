@@ -4,6 +4,10 @@
 <head>
 	<title>Why business mentoring is important | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail09e2-2.html || /detail?itemId=1084720672&type=RESOURCES -->
+	<meta name="description" lang="en" content="Business mentoring provides many benefits for your business, including building your network of business contacts" />
+	<meta name="keywords" lang="en" content="Business mentoring benefits; mentoring; business mentoring; benefits of business mentoring; online mentoring; online business networking; peer mentoring; online networking; networking; Shell LiveWIRE; Enterprise Nation; horsesmouth; Freelance Advisor; Solutions for Business; coaching; business mentor; becoming a business mentor; business advice; business support; mentorsme; national mentoring network; financial mentors" />
 </head>
 
 <body>
