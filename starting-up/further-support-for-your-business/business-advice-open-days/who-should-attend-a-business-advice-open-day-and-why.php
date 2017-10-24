@@ -4,6 +4,10 @@
 <head>
 	<title>Who should attend a Business Advice Open Day and why | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail7d47-2.html || /detail?itemId=1081811784&type=RESOURCES -->
+	<meta name="description" lang="en" content="What information new and existing businesses can get at a Business Advice Open Day " />
+	<meta name="keywords" lang="en" content="Business Advice Open Days; Business advice open day; business advice; open day programme; HMRC open day; start up advice; attending open days; starting your own business; business liaison team; tax advice; employment advice; upcoming events; business support roadshow; open day organisations; booking an open day; business seminar; business advice feedback; help for businesses; Tax help; new to business;" />
 </head>
 
 <body>

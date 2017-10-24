@@ -3,6 +3,10 @@
 <head>
 	<title>Choose the right name for your business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer13f8.html || /layer?topicId=1073859929 -->
+	<meta name="description" lang="en" content="How to find the right name for your business and the rules and regulations involved in registering a name" />
+	<meta name="keywords" lang="en" content="Choosing a business name; trading name; domain name; registering a business name; company name; sole trader name; limited company name; partnership name; protecting name; displaying name; Nominet; Companies Registry; Companies House; disclosure rules" />
 </head>
 
 <body>

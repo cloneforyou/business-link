@@ -3,6 +3,10 @@
 <head>
 	<title>Cloud computing - software as a service | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailccf0.html || /detail?itemId=1084673576&type=RESOURCES -->
+	<meta name="description" lang="en" content="Information on cloud computing and how it can support your software requirements" />
+	<meta name="keywords" lang="en" content="Computer software; software buying; choosing software; upgrade software; bespoke software; system software; application software; operating system; microsoft windows; packaged software; download software; off the shelf; open source; proprietary software; software licence; shrink wrap; per user; site licence; cloud computing; software piracy; pirate software; software copyright; install software; software installation; activate software; software activation; upgrade software; software support; software help; information technology; it support; Information technology" />
 </head>
 
 <body>

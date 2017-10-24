@@ -4,6 +4,10 @@
 <head>
 	<title>Buying a franchise | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3c15.html || /detail?itemId=1073789614&type=RESOURCES -->
+	<meta name="description" lang="en" content="What you need to consider before starting your new business as a franchise" />
+	<meta name="keywords" lang="en" content="Business legal structure; start up; new business; legal structure; business structure; sole trader pros cons; partnership pros cons; limited company pros cons; legal framework for business; social enterprise; franchise; form of business; association; business type; company type; companies act; industrial and provident; community trust; community interest company; co-operative; charity; self-employment; self-employed; Self Assessment; designated member; companies house; Business practice and regulation" />
 </head>
 
 <body>

@@ -3,6 +3,10 @@
 <head>
 	<title>VAT rate changes | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaila7b6.html || /detail?itemId=1082399661&type=RESOURCES -->
+	<meta name="description" lang="en" content="How VAT rate changes affect the figures you should enter on your VAT Return" />
+	<meta name="keywords" lang="en" content="VAT; VAT; Value Added Tax; output tax; input tax; exports; imports; EU countries; adjustments; credit notes; payment; repayment; online registration; VAT adjustments; VAT corrections; VAT mistakes" />
 </head>
 
 <body>

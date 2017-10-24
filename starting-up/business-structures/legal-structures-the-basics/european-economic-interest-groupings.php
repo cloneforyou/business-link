@@ -4,6 +4,10 @@
 <head>
 	<title>European Economic Interest Groupings | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail561d.html || /detail?itemId=1087521924&type=RESOURCES -->
+	<meta name="description" lang="en" content="When you might consider registering an European Economic Interest Grouping in the UK" />
+	<meta name="keywords" lang="en" content="Business legal structure; start up; new business; legal structure; business structure; sole trader pros cons; partnership pros cons; limited company pros cons; legal framework for business; social enterprise; franchise; form of business; association; business type; company type; companies act; industrial and provident; community trust; community interest company; co-operative; charity; self-employment; self-employed; Self Assessment; designated member; companies house; Business practice and regulation" />
 </head>
 
 <body>

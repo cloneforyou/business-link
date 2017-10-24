@@ -3,6 +3,10 @@
 <head>
 	<title>Set up and register a limited liability partnership (LLP) | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layere3fb.html || /layer?topicId=1073865702 -->
+	<meta name="description" lang="en" content="The legal steps you need to take to form an LLP, including links to Companies House guidance" />
+	<meta name="keywords" lang="en" content="Limited liability partnership registration; two or more people; limited liability partnership; companies house partnership; llp; partnership agreement; incorporation; social enterprise; designated members; deed of partnership; partnership tax; llp2; business names; llp1; llp3; llp4; Business practice and regulation" />
 </head>
 
 <body>

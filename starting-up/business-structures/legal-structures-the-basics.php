@@ -3,6 +3,10 @@
 <head>
 	<title>Legal structures: the basics | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer4919.html || /layer?topicId=1073865730 -->
+	<meta name="description" lang="en" content="Company, partnership or sole trader - find the right structure for your new business" />
+	<meta name="keywords" lang="en" content="Business legal structure; start up; new business; legal structure; business structure; sole trader pros cons; partnership pros cons; limited company pros cons; legal framework for business; social enterprise; franchise; form of business; association; business type; company type; companies act; industrial and provident; community trust; community interest company; co-operative; charity; self-employment; self-employed; Self Assessment; designated member; companies house; Business practice and regulation" />
 </head>
 
 <body>

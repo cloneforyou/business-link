@@ -4,6 +4,10 @@
 <head>
 	<title>How to register a limited partnership | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail8b9a.html || /detail?itemId=1086166703&type=RESOURCES -->
+	<meta name="description" lang="en" content="Forms you must complete to start up your limited partnership, information you must include, and fees information" />
+	<meta name="keywords" lang="en" content="Limited Partnerships; limited partnership; general partners; limited partners; Companies House; Limited Partnership Act 1907; registration form LP5; LP; Companies House Regsitrar; form LP6; dissolution" />
 </head>
 
 <body>

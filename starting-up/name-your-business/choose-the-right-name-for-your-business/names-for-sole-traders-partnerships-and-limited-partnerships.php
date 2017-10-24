@@ -3,6 +3,10 @@
 <head>
 	<title>Names for sole traders, partnerships and limited partnerships | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail2cee.html || /detail?itemId=1073788944&type=RESOURCES -->
+	<meta name="description" lang="en" content="Rules about how you can name your business and where to check whether it is already being used" />
+	<meta name="keywords" lang="en" content="Choosing a business name; trading name; domain name; registering a business name; company name; sole trader name; limited company name; partnership name; protecting name; displaying name; Nominet; Companies Registry; Companies House; disclosure rules" />
 </head>
 
 <body>

@@ -4,6 +4,9 @@
 <head>
 	<title>Sources of support for young entrepreneurs | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail9fca.html || /detail?itemId=1097215659&type=RESOURCES -->
+	<meta name="description" lang="en" content="Support available for young people who set up a business, including business advice and specific organisations" />
 </head>
 
 <body>

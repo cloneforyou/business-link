@@ -3,6 +3,10 @@
 <head>
 	<title>How do I survive until my business is off the ground? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layerbd60.html || /layer?topicId=1074401788 -->
+	<meta name="description" lang="en" content="How to keep yourself afloat during the early months of your new business" />
+	<meta name="keywords" lang="en" content="cashflow and budget management for startups; grants; budget; cost control; expenses; financial needs; cashflow management; source of income; financial planning; start up; new business; early growth; first year; keep afloat; business plans; business planning; financial management; start-up costs; start-up finance; financial management; Business practice and regulation" />
 </head>
 
 <body>

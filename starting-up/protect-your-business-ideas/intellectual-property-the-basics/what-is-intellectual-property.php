@@ -4,6 +4,10 @@
 <head>
 	<title>What is intellectual property? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail0ab9.html || /detail?itemId=1087060130&type=RESOURCES -->
+	<meta name="description" lang="en" content="Guidance on what intellectual property is" />
+	<meta name="keywords" lang="en" content="Intellectual property for start-ups; intellectual property; IP; asset; copyright; design; trademarks; patent; brands; inventions; software; songs; books; poems; paintings; photography; creative work; digital; IP audit; startup IP; new IP; starting up" />
 </head>
 
 <body>

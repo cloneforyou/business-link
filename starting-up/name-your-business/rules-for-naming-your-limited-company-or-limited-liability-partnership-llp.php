@@ -3,6 +3,10 @@
 <head>
 	<title>Rules for naming your limited company or limited liability partnership (LLP) | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layerf2bb.html || /layer?topicId=1085038585 -->
+	<meta name="description" lang="en" content="Information on the regulations that affect the name of your limited company or limited liability partnership" />
+	<meta name="keywords" lang="en" content="Company and limited liability partnership naming rules; Limited company; registered company; PLC; limited liability partnership; LLP; Companies House; prescribed words; sensitive words; legislated words; same as; too like; Ltd; limited; objection; opportunistic registration; representative word; regulatory; regulation" />
 </head>
 
 <body>

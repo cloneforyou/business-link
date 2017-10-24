@@ -4,6 +4,9 @@
 <head>
 	<title>Support for female entrepreneurs | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail7f1d.html || /detail?itemId=1097205980&type=RESOURCES -->
+	<meta name="description" lang="en" content="Support available for women who set up a business, including specific business advice and specialist organisations" />
 </head>
 
 <body>

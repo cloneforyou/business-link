@@ -4,6 +4,10 @@
 <head>
 	<title>Checklist: setting up and registering a limited company (private or public) | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaile9ee.html || /detail?itemId=1073789621&type=RESOURCES -->
+	<meta name="description" lang="en" content="Displaying names, registration documents and tax matters with HM Revenue & Customs" />
+	<meta name="keywords" lang="en" content="Limited company registration; limited companies; ltd; ltd company; company formation; formation of a registered company; Form 10; Form 12; company incorporation; company registration; limited company tax; company directors; company secretaries; memorandum and articles of association; company limited by shares; company limited by guarantee; social enterprise companies; company names" />
 </head>
 
 <body>

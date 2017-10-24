@@ -4,6 +4,9 @@
 <head>
 	<title>Support for disabled people | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaila56c.html || /detail?itemId=1097206351&type=RESOURCES -->
+	<meta name="description" lang="en" content="Support available for disabled people who set up a business, including business advice and specialist organisations" />
 </head>
 
 <body>

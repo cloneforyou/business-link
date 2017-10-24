@@ -2,6 +2,12 @@
 <html class="no-js">
 <head>
 	<title>Presenting your business plan | Business Link</title>
+
+	<!-- ref: detailb271.html || /detail?itemId=1073791237&type=RESOURCES -->
+
+	<meta name="description" lang="en" content="Tips for presentation - such as appendices, proofreading and updates plus sources of further advice and support" />
+	<meta name="keywords" lang="en" content="Business plans;  planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a businessplan; prepare a business plan; business;  Business practice and regulation; Small businesses" />
+
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 

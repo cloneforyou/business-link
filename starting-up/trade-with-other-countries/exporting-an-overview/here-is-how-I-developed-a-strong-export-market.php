@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I developed a strong export market | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaila341.html || /detail?itemId=1076888388&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="A case study showing how Halifax Fan Ltd embarked on a joint venture with an Indian manufacturer to export to Asia" />
+	<meta name="keywords" lang="en" content="Exporting - overview; expand market; overseas market research; export regulations; export control organisation; eco; export tariffs; export  duties; export controls; export; exporting; passport to export; business abroad; export; controls; international sales; export; exporting; trading overseas; new markets; foreign markets; duties; marine insurance; export credits; Incoterms; Exports" />
 </head>
 
 <body>

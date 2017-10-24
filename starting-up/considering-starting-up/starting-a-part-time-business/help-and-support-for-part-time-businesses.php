@@ -3,6 +3,10 @@
 <head>
 	<title>Help and support for part-time businesses | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail9da5.html || /detail?itemId=1087062720&type=RESOURCES -->
+	<meta name="description" lang="en" content="Where to find further advice and support when setting up a part-time business" />
+	<meta name="keywords" lang="en" content="Part-time business; Business; start-up; part-time; viable; job-sharing; parents; finance; entrepreneur; acumen; legal structure; tax; health; safety; security; work from home; accountant; bookkeeper; marketing; IT; tax; National Insurance; mentoring; advice; networking" />
 </head>
 
 <body>

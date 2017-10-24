@@ -3,6 +3,10 @@
 <head>
 	<title>What to consider when starting your part-time business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailcdd1.html || /detail?itemId=1087061749&type=RESOURCES -->
+	<meta name="description" lang="en" content="Guidance on the important factors to consider before starting a part-time business" />
+	<meta name="keywords" lang="en" content="Part-time business; Business; start-up; part-time; viable; job-sharing; parents; finance; entrepreneur; acumen; legal structure; tax; health; safety; security; work from home; accountant; bookkeeper; marketing; IT; tax; National Insurance; mentoring; advice; networking" />
 </head>
 
 <body>

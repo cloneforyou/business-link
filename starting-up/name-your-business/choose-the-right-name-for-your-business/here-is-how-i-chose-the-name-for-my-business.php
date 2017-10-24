@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I chose the name for my business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaile156.html || /detail?itemId=1075340213&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="This case study explains how and why 'Moonpig' was chosen as a business name" />
+	<meta name="keywords" lang="en" content="Choosing a business name; trading name; domain name; registering a business name; company name; sole trader name; limited company name; partnership name; protecting name; displaying name; Nominet; Companies Registry; Companies House; disclosure rules" />
 </head>
 
 <body>

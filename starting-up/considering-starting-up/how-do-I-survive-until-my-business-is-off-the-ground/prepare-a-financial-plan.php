@@ -3,6 +3,10 @@
 <head>
 	<title>Prepare a financial plan | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail96a4.html || /detail?itemId=1074402054&type=RESOURCES -->
+	<meta name="description" lang="en" content="Preparing your financial plan and sticking to a budget" />
+	<meta name="keywords" lang="en" content="cashflow and budget management for startups; grants; budget; cost control; expenses; financial needs; cashflow management; source of income; financial planning; start up; new business; early growth; first year; keep afloat; business plans; business planning; financial management; start-up costs; start-up finance; financial management; Business practice and regulation" />
 </head>
 
 <body>

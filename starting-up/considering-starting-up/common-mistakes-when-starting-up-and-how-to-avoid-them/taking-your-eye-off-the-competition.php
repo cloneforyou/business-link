@@ -3,6 +3,10 @@
 <head>
 	<title>Taking your eye off the competition | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf94f.html || /detail?itemId=1075219871&type=RESOURCES -->
+	<meta name="description" lang="en" content="Failing to analyse the competition and diversifying your business too soon can mean problems for new businesses" />
+	<meta name="keywords" lang="en" content="Common mistakes when starting up; starting up; start up; new business; entrepreneur; self-employment; becoming your own boss; startup; market research; finance; financial planning; capital; competition; competitors; sales forecasting;  stock control; credit; suppliers; customer research; business plan; overtrading; cashflow; recruitment; staff management" />
 </head>
 
 <body>
