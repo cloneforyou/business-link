@@ -4,7 +4,9 @@
 	<title>Research and develop your business ideas, new products and services | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || xx -->
+	<!-- ref: layer7907.html || /layer?topicId=1074302123 -->
+	<meta name="description" lang="en" content="How to develop your idea into a viable business by investing in new products or services to meet customer needs" />
+	<meta name="keywords" lang="en" content="Developing business ideas; business plans; market research; market opportunities; product development; raising finance; raising capital; intellectual property; product testing; start up; new business; innovation; customer research; product design; prototyping; feasability study; business objectives; market testing; new idea; fresh idea; business idea; innovative idea; joint ventures;product testing; Business development" />
 </head>
 
 <body>
