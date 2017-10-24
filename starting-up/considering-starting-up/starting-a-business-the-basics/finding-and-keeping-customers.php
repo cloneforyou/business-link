@@ -3,6 +3,10 @@
 <head>
 	<title>Finding and keeping customers | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail6f1e.html || /detail?itemId=1087079816&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to reach new customers and manage existing customer relationships" />
+	<meta name="keywords" lang="en" content="Starting a business; Start-up; new business; finance; registration; legal; cashflow; name; register; structure; company; partnership; sole trader; premises; business plan; IT; sales; marketing; tax; National Insurance; loan; overdraft; VAT" />
 </head>
 
 <body>

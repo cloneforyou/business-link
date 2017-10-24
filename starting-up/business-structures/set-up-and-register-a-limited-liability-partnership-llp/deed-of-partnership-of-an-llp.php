@@ -4,6 +4,10 @@
 <head>
 	<title>Deed of partnership of an LLP | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail6ff9.html || /detail?itemId=1073789605&type=RESOURCES -->
+	<meta name="description" lang="en" content="A deed of partnership will usually cover capital, profits, working arrangements and changes to structure" />
+	<meta name="keywords" lang="en" content="Limited liability partnership registration; two or more people; limited liability partnership; companies house partnership; llp; partnership agreement; incorporation; social enterprise; designated members; deed of partnership; partnership tax; llp2; business names; llp1; llp3; llp4; Business practice and regulation" />
 </head>
 
 <body>

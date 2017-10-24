@@ -3,6 +3,10 @@
 <head>
 	<title>What is a social enterprise? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailb2a8.html || /detail?itemId=1087385462&type=RESOURCES -->
+	<meta name="description" lang="en" content="How social enterprises are different from other types of business" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>

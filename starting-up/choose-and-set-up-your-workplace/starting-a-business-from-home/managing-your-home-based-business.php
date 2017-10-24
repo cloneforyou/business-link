@@ -3,6 +3,10 @@
 <head>
 	<title>Managing your home-based business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailee1b.html || /detail?itemId=1083803353&type=RESOURCES -->
+	<meta name="description" lang="en" content="Keep your home business running smoothly, business development, customer care and admin " />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>

@@ -3,6 +3,10 @@
 <head>
 	<title>Hiring the wrong people | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaila69f.html || /detail?itemId=1075220062&type=RESOURCES -->
+	<meta name="description" lang="en" content="Employing unwisely can seriously undermine the success of your business" />
+	<meta name="keywords" lang="en" content="Common mistakes when starting up; starting up; start up; new business; entrepreneur; self-employment; becoming your own boss; startup; market research; finance; financial planning; capital; competition; competitors; sales forecasting;  stock control; credit; suppliers; customer research; business plan; overtrading; cashflow; recruitment; staff management" />
 </head>
 
 <body>

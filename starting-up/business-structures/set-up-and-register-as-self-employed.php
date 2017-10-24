@@ -3,6 +3,10 @@
 <head>
 	<title>Set up and register as self-employed | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer4ad0.html || /layer?topicId=1073875654 -->
+	<meta name="description" lang="en" content="How to meet your legal and tax responsibilities" />
+	<meta name="keywords" lang="en" content="Registering as self employed; working for myself; self-employment; sole trader regulations; registering as sole trader; setting up a new business; registering a new business; business name; working from home; income tax self-assessment; business rate; business accounts; record keeping; profit and loss; Business practice and regulation" />
 </head>
 
 <body>

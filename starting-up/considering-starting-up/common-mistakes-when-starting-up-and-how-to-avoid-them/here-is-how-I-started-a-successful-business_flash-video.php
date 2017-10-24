@@ -3,6 +3,10 @@
 <head>
 	<title>Here's how I started a successful business (Flash video) | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaile63f.html || /detail?itemId=1087157641&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="In this case study video, Will King explains how he started a successful business" />
+	<meta name="keywords" lang="en" content="Common mistakes when starting up; starting up; start up; new business; entrepreneur; self-employment; becoming your own boss; startup; market research; finance; financial planning; capital; competition; competitors; sales forecasting;  stock control; credit; suppliers; customer research; business plan; overtrading; cashflow; recruitment; staff management" />
 </head>
 
 <body>

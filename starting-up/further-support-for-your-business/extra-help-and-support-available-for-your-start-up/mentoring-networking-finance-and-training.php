@@ -4,6 +4,9 @@
 <head>
 	<title>Mentoring, networking, finance and training | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail087f.html || /detail?itemId=1097205410&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to find ongoing business advice through mentors or networks, and financial support available to new businesses" />
 </head>
 
 <body>

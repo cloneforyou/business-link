@@ -3,6 +3,10 @@
 <head>
 	<title>Tax and legal issues for start-ups | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf3be.html || /detail?itemId=1087080074&type=RESOURCES -->
+	<meta name="description" lang="en" content="Guidance on your legal requirements when starting a new business" />
+	<meta name="keywords" lang="en" content="Starting a business; Start-up; new business; finance; registration; legal; cashflow; name; register; structure; company; partnership; sole trader; premises; business plan; IT; sales; marketing; tax; National Insurance; loan; overdraft; VAT" />
 </head>
 
 <body>

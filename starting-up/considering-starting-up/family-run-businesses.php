@@ -3,6 +3,10 @@
 <head>
 	<title>Family-run businesses | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer0733.html || /layer?topicId=1074039321 -->
+	<meta name="description" lang="en" content="Understand the particular benefits and issues that affect family-run businesses" />
+	<meta name="keywords" lang="en" content="Family businesses; family firm; family run business; family succession; family company; problems in family business; start up; new business; employing family members; family business rulebook; family remuneration strategy; succession planning; family business constitution;  Business management; family constitution; next generation; future generations; long-term family planning; Business management" />
 </head>
 
 <body>

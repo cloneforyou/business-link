@@ -3,6 +3,10 @@
 <head>
 	<title>What you must do if your company or organisation is liable for Corporation Tax | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail01ca.html || /detail?itemId=1082183519&type=RESOURCES -->
+	<meta name="description" lang="en" content="Find out what you need to do to meet Corporation Tax requirements and how to file a Company Tax Return" />
+	<meta name="keywords" lang="en" content="Corporation Tax; Corporation Tax; active; dormant; Corporation Tax deadlines;  Corporation Tax requirements; exemp; charities; voluntary organisations; Company Tax Return; CT41G; New company details; CT41G; Dormant company insert" />
 </head>
 
 <body>

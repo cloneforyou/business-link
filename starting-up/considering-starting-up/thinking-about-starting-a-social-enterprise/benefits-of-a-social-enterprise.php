@@ -3,6 +3,10 @@
 <head>
 	<title>Benefits of a social enterprise | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaildf6a.html || /detail?itemId=1079871139&type=RESOURCES -->
+	<meta name="description" lang="en" content="Explains the possible outcomes of operating a social enterprise and how they can benefit the community" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>

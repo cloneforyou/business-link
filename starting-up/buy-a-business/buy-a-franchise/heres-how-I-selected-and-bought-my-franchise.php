@@ -4,6 +4,10 @@
 <head>
 	<title>Here's how I selected and bought my franchise | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf27f.html || /detail?itemId=1075062102&type=CASE STUDIES -->
+	<meta name="description" lang="en" content="Stephen Halpin selected and purchased a Boots Opticians franchise - our case study explains how he did it" />
+	<meta name="keywords" lang="en" content="Franchising; british franchise association; partnership arrangement; franchising; franchiser; bfa; franchise cost; franchisor; franchisee; TUPE; business franchise; distributorship selling; dealership selling; agency selling; licensee selling; multi level marketing; pyramid scheme; pyramid marketing; franchising pro; franchising con; assess franchise; assess franchisor; become franchisee; choose franchise; find franchise; buy franchise; franchise agreement; franchise royalty; franchise fee; Business and industry" />
 </head>
 
 <body>

@@ -3,6 +3,10 @@
 <head>
 	<title>Stock control and inventory | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer5793.html || /layer?topicId=1074039371 -->
+	<meta name="description" lang="en" content="Why stock control is important and the different methods of stock control available to you" />
+	<meta name="keywords" lang="en" content="Stock control and Inventory; spreadsheet; bookkeeping; book-keeping; itemising and recording; inventory control; register of goods; inventory management; stock take; stocktaking; stocktake; stock control methods; batch control; coding; stock tracking; barcode; just in time; just in case; JIT; re-order level; batch control; rolling stocktake; Business management; Radio Frequency Identification; RFID; tagging; Business management" />
 </head>
 
 <body>

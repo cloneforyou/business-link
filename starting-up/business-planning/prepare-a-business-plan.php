@@ -3,6 +3,10 @@
 <head>
 	<title>Prepare a business plan | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer5019.html || /layer?topicId=1073869162 -->
+	<meta name="description" lang="en" content="The essential role that creating and using a business plan plays in starting a successful new business" />
+	<meta name="keywords" lang="en" content="Business plans; planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a business plan; prepare a business plan; business; Business practice and regulation; Small businesses" />
 </head>
 
 <body>

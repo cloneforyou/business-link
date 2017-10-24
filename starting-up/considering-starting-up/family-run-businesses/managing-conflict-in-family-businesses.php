@@ -3,6 +3,10 @@
 <head>
 	<title>Managing conflict in family businesses | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail7c9d.html || /detail?itemId=1073792653&type=RESOURCES -->
+	<meta name="description" lang="en" content="Managing conflict using a family constitution and encouraging good communication - and channelling it as a driver for change" />
+	<meta name="keywords" lang="en" content="Family businesses; family firm; family run business; family succession; family company; problems in family business; start up; new business; employing family members; family business rulebook; family remuneration strategy; succession planning; family business constitution;  Business management; family constitution; next generation; future generations; long-term family planning; Business management" />
 </head>
 
 <body>

@@ -4,6 +4,10 @@
 <head>
 	<title>Trusts | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail985a.html || /detail?itemId=1077475743&type=RESOURCES -->
+	<meta name="description" lang="en" content="Trusts, charitable trusts, the trust deed, asset locks and development trusts" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>

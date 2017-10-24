@@ -3,6 +3,10 @@
 <head>
 	<title>Stock security | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3af6.html || /detail?itemId=1073792782&type=RESOURCES -->
+	<meta name="description" lang="en" content="Set up a security policy, prevent employee theft and ensure you comply with health and safety requirements" />
+	<meta name="keywords" lang="en" content="Stock control and Inventory; spreadsheet; bookkeeping; book-keeping; itemising and recording; inventory control; register of goods; inventory management; stock take; stocktaking; stocktake; stock control methods; batch control; coding; stock tracking; barcode; just in time; just in case; JIT; re-order level; batch control; rolling stocktake; Business management; Radio Frequency Identification; RFID; tagging; Business management" />
 </head>
 
 <body>

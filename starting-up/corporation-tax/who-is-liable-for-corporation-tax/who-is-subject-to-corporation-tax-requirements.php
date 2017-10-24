@@ -3,6 +3,10 @@
 <head>
 	<title>Who is subject to Corporation Tax requirements? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3869.html || /detail?itemId=1082182885&type=RESOURCES -->
+	<meta name="description" lang="en" content="Find out what limited companies and unincorporated organisations have to meet Corporation Tax deadlines and requirements" />
+	<meta name="keywords" lang="en" content="Corporation Tax; Corporation Tax; active; dormant; Corporation Tax deadlines;  Corporation Tax requirements; exemp; charities; voluntary organisations; Company Tax Return; CT41G; New company details; CT41G; Dormant company insert" />
 </head>
 
 <body>

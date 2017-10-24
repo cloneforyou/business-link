@@ -4,6 +4,9 @@
 <head>
 	<title>Support for entrepreneurs on low incomes | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailea88.html || /detail?itemId=1097214023&type=RESOURCES -->
+	<meta name="description" lang="en" content="Support available for people on low incomes who set up a business, including business advice and financial support" />
 </head>
 
 <body>

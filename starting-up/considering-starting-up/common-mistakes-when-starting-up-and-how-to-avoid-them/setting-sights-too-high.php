@@ -3,6 +3,10 @@
 <head>
 	<title>Setting sights too high | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail923b.html || /detail?itemId=1075219568&type=RESOURCES -->
+	<meta name="description" lang="en" content="Being over-optimistic about your market size and volume of business can be problematic for new businesses" />
+	<meta name="keywords" lang="en" content="Common mistakes when starting up; starting up; start up; new business; entrepreneur; self-employment; becoming your own boss; startup; market research; finance; financial planning; capital; competition; competitors; sales forecasting;  stock control; credit; suppliers; customer research; business plan; overtrading; cashflow; recruitment; staff management" />
 </head>
 
 <body>

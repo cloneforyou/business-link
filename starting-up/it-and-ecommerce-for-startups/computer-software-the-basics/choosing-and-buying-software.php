@@ -3,6 +3,10 @@
 <head>
 	<title>Choosing and buying software | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailbeeb.html || /detail?itemId=1073791279&type=RESOURCES -->
+	<meta name="description" lang="en" content="Advice on selecting the right software, how to document your business processes and purchasing considerations" />
+	<meta name="keywords" lang="en" content="Computer software; software buying; choosing software; upgrade software; bespoke software; system software; application software; operating system; microsoft windows; packaged software; download software; off the shelf; open source; proprietary software; software licence; shrink wrap; per user; site licence; cloud computing; software piracy; pirate software; software copyright; install software; software installation; activate software; software activation; upgrade software; software support; software help; information technology; it support; Information technology" />
 </head>
 
 <body>

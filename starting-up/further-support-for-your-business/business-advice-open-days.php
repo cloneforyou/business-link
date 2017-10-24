@@ -4,6 +4,10 @@
 <head>
 	<title>Business Advice Open Days | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer3c95.html || /layer?topicId=1081810647 -->
+	<meta name="description" lang="en" content="The advice and benefits of Business Advice Open Days, and how you can attend" />
+	<meta name="keywords" lang="en" content="Business Advice Open Days; Business advice open day; business advice; open day programme; HMRC open day; start up advice; attending open days; starting your own business; business liaison team; tax advice; employment advice; upcoming events; business support roadshow; open day organisations; booking an open day; business seminar; business advice feedback; help for businesses; Tax help; new to business; " />
 </head>
 
 <body>

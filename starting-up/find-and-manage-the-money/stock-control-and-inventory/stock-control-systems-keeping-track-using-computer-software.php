@@ -3,6 +3,10 @@
 <head>
 	<title>Stock control systems - keeping track using computer software | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail5998.html || /detail?itemId=1073792781&type=RESOURCES -->
+	<meta name="description" lang="en" content="Sales order processing, automatic stock monitoring and how to choose the right system" />
+	<meta name="keywords" lang="en" content="Stock control and Inventory; spreadsheet; bookkeeping; book-keeping; itemising and recording; inventory control; register of goods; inventory management; stock take; stocktaking; stocktake; stock control methods; batch control; coding; stock tracking; barcode; just in time; just in case; JIT; re-order level; batch control; rolling stocktake; Business management; Radio Frequency Identification; RFID; tagging; Business management" />
 </head>
 
 <body>

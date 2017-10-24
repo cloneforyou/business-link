@@ -3,6 +3,10 @@
 <head>
 	<title>Why set up a social enterprise? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail8b6c.html || /detail?itemId=1079870855&type=RESOURCES -->
+	<meta name="description" lang="en" content="The reasons you might consider setting up a social enterprise" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>

@@ -4,6 +4,10 @@
 <head>
 	<title>Organisations you can meet at Business Advice Open Days | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail39dd.html || /detail?itemId=1081815399&type=RESOURCES -->
+	<meta name="description" lang="en" content="Business Advice Open Days feature several organisations giving advice to new and existing businesses" />
+	<meta name="keywords" lang="en" content="Business Advice Open Days; Business advice open day; business advice; open day programme; HMRC open day; start up advice; attending open days; starting your own business; business liaison team; tax advice; employment advice; upcoming events; business support roadshow; open day organisations; booking an open day; business seminar; business advice feedback; help for businesses; Tax help; new to business;" />
 </head>
 
 <body>

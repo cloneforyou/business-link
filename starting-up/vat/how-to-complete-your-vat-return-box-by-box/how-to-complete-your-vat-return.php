@@ -3,6 +3,10 @@
 <head>
 	<title>How to complete your VAT Return | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailb079.html || /detail?itemId=1081175312&type=RESOURCES -->
+	<meta name="description" lang="en" content="Filling in your VAT Return electronically or on paper and the Flat Rate Scheme" />
+	<meta name="keywords" lang="en" content="VAT; VAT; Value Added Tax; output tax; input tax; exports; imports; EU countries; adjustments; credit notes; payment; repayment; online registration; VAT adjustments; VAT corrections; VAT mistakes" />
 </head>
 
 <body>

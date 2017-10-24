@@ -3,6 +3,10 @@
 <head>
 	<title>What are your start-up options? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail01f3.html || /detail?itemId=1087079537&type=RESOURCES -->
+	<meta name="description" lang="en" content="Decide whether you want to start your own business or make another choice such as buying a franchise" />
+	<meta name="keywords" lang="en" content="Starting a business; Start-up; new business; finance; registration; legal; cashflow; name; register; structure; company; partnership; sole trader; premises; business plan; IT; sales; marketing; tax; National Insurance; loan; overdraft; VAT" />
 </head>
 
 <body>

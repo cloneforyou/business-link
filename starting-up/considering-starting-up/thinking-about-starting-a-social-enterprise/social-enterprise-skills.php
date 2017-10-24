@@ -3,6 +3,10 @@
 <head>
 	<title>Social enterprise skills | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaild2c5.html || /detail?itemId=1087385845&type=RESOURCES -->
+	<meta name="description" lang="en" content="The qualities and skills you will need to run a successful social enterprise" />
+	<meta name="keywords" lang="en" content="Social enterprises; social enterprises; social enterprise funding; public sector; third sector; charities; trusts; cooperatives; mutual organisations; voluntary sector; social aims; environmental aims; sustainability; triple bottom line; not-for-profit; reinvest profits; ethical trading; corporate social responsibility; social entrepreneur" />
 </head>
 
 <body>

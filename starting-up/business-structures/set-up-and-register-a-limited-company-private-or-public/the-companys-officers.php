@@ -4,6 +4,10 @@
 <head>
 	<title>The company's officers | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail0eae.html || /detail?itemId=1073789608&type=RESOURCES -->
+	<meta name="description" lang="en" content="Understand the rules regarding company officers, and how many officers your company needs to have" />
+	<meta name="keywords" lang="en" content="Limited company registration; limited companies; ltd; ltd company; company formation; formation of a registered company; Form 10; Form 12; company incorporation; company registration; limited company tax; company directors; company secretaries; memorandum and articles of association; company limited by shares; company limited by guarantee; social enterprise companies; company names" />
 </head>
 
 <body>

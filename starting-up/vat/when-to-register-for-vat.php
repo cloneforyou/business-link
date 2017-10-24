@@ -3,6 +3,10 @@
 <head>
 	<title>When to register for VAT | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer21f6.html || /layer?topicId=1073863071 -->
+	<meta name="description" lang="en" content="Find out whether you need to register for VAT and how to do it" />
+	<meta name="keywords" lang="en" content="VAT registration: logic tool; registering for VAT; VAT schemes; VAT regulations" />
 </head>
 
 <body>

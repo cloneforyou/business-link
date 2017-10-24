@@ -3,6 +3,10 @@
 <head>
 	<title>Business benefits of new software | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailc80e.html || /detail?itemId=1073791275&type=RESOURCES -->
+	<meta name="description" lang="en" content="Assess the benefits you want to achieve for your business from computer applications" />
+	<meta name="keywords" lang="en" content="Computer software; software buying; choosing software; upgrade software; bespoke software; system software; application software; operating system; microsoft windows; packaged software; download software; off the shelf; open source; proprietary software; software licence; shrink wrap; per user; site licence; cloud computing; software piracy; pirate software; software copyright; install software; software installation; activate software; software activation; upgrade software; software support; software help; information technology; it support ; Information technology" />
 </head>
 
 <body>
