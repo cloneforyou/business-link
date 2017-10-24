@@ -5,7 +5,7 @@
 	<title>European Economic Interest Groupings | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: xx || xx -->
+	<!-- ref: x_x.html || xx -->
 </head>
 
 <body>

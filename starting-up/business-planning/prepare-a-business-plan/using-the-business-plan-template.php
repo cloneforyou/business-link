@@ -2,11 +2,9 @@
 <html class="no-js">
 <head>
 	<title>Using the business plan template | Business Link</title>
-
-	<!-- ref: detail223c.html || /detail?itemId=1087369151&type=RESOURCES -->
-
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
-
+	
+	<!-- ref: detail223c.html || /detail?itemId=1087369151&type=RESOURCES -->
 	<meta name="description" lang="en" content="How to use our downloadable business plan template, showing you everything you need to include" />
 	<meta name="keywords" lang="en" content="Business plans;  planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a businessplan; prepare a business plan; business;  Business practice and regulation; Small businesses" />
 </head>

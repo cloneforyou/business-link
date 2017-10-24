@@ -4,6 +4,10 @@
 <head>
 	<title>Unincorporated associations | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail763d.html || /detail?itemId=1077475675&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to operate and organise an unincorporated association, and decide whether it suits your needs" />
+	<meta name="keywords" lang="en" content="Set up a social enterprise; Social enterprises; unincorporated associations; development trusts; trustees; charities,charitable status; setting up a company; asset locks; co-operatives; cooperatives; articles of association; limited companies; limited by shares; limited by guarantee; plc; community interest companies; CICs; community benefit companies; bencom,industrial provident societies; legal structure; CIOs; incorporation; charitable incorporated organisations" />
 </head>
 
 <body>

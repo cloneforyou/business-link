@@ -3,6 +3,10 @@
 <head>
 	<title>Stock control systems - keeping track manually | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaileff6.html || /detail?itemId=1073792661&type=RESOURCES -->
+	<meta name="description" lang="en" content="Using inventory listing, stock codes, stock books and a simple re-order system to manage your stock" />
+	<meta name="keywords" lang="en" content="Stock control and Inventory; spreadsheet; bookkeeping; book-keeping; itemising and recording; inventory control; register of goods; inventory management; stock take; stocktaking; stocktake; stock control methods; batch control; coding; stock tracking; barcode; just in time; just in case; JIT; re-order level; batch control; rolling stocktake; Business management; Radio Frequency Identification; RFID; tagging; Business management" />
 </head>
 
 <body>

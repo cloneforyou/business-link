@@ -4,7 +4,9 @@
 	<title>Work on your business idea | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: xx || xx -->
+	<!-- ref: detailf519.html || /detail?itemId=1081896154&type=RESOURCES -->
+	<meta name="description" lang="en" content="Fine tune your business idea given what you know about the volatile financial climate " />
+	<meta name="keywords" lang="en" content="Starting a business during a recession; recession; Starting up; economic downturn; credit crunch; funding; grants; loans; new business; buying; franchises; setting up; value engineering; business plan; starting your own business; small firms loan guarantee; cashflow, cashflow management; cash flow; starting your own business; support; Professional and Career Development Loan" />
 </head>
 
 <body>

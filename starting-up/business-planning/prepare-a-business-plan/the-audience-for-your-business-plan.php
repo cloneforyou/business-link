@@ -2,13 +2,11 @@
 <html class="no-js">
 <head>
 	<title>The audience for your business plan | Business Link</title>
-
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+	
 	<!-- ref: detailb10b.html || /detail?itemId=1075193719&type=RESOURCES -->
-
 	<meta name="description" lang="en" content="Who will want to see your business plan and in what circumstances" />
 	<meta name="keywords" lang="en" content="Business plans;  planning; plan; strategy; forecast; funding; profit-and-loss; cashflow; sales; marketing; template; example; sample; executive summary; writing a business plan; start up; new business; busines plan; buisiness plan; business plan example; business plan sample; business plan template; business planning; write a business plan; write a businessplan; prepare a business plan; business;  Business practice and regulation; Small businesses" />
-
-	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 </head>
 
 <body>

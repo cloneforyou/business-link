@@ -3,6 +3,10 @@
 <head>
 	<title>Tax and legal implications of a part-time business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail76f2.html || /detail?itemId=1087062009&type=RESOURCES -->
+	<meta name="description" lang="en" content="The tax and legal issues you need to consider when running a part-time business" />
+	<meta name="keywords" lang="en" content="Part-time business;  Business; start-up; part-time; viable; job-sharing; parents; finance; entrepreneur; acumen; legal structure; tax; health; safety; security; work from home; accountant; bookkeeper; marketing; IT; tax; National Insurance; mentoring; advice; networking" />
 </head>
 
 <body>

@@ -3,6 +3,8 @@
 <head>
 	<title>Prescribed and sensitive words | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: x_x.html || xx -->
 </head>
 
 <body>

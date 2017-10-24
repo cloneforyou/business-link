@@ -4,6 +4,10 @@
 <head>
 	<title>The officers of a partnership | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailbb38.html || /detail?itemId=1073789502&type=RESOURCES -->
+	<meta name="description" lang="en" content="Who can form a partnership, the required number of officers and their responsibilities" />
+	<meta name="keywords" lang="en" content="Registering a partnership; self employed partner rules; deed of partnership; general partner; sleeping partner; general partnership; limited partnership; setting up a partnership; tax return; national insurance contributions; business name; partnership accounts; alternative dispute resolution; ADR; dispute resolution; Partnership Act 1890; withdrawal of partner; withdrawal of capital; Business practice and regulation" />
 </head>
 
 <body>

@@ -3,6 +3,8 @@
 <head>
 	<title>Research and develop your business ideas, new products and services | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: x_x.html || xx -->
 </head>
 
 <body>

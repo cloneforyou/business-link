@@ -3,6 +3,8 @@
 <head>
 	<title>Managing conflict in family businesses | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: x_x.html || xx -->
 </head>
 
 <body>

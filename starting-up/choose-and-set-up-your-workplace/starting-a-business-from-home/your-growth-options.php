@@ -2,10 +2,11 @@
 <html class="no-js">
 <head>
 	<title>Your growth options | Business Link</title>
-
-	<!-- ref: xx || xx -->
-
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail3f99.html || /detail?itemId=1083803490&type=RESOURCES -->
+	<meta name="description" lang="en" content="Managing the growth of your home business, employing people, outsourcing and meeting spaces" />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>

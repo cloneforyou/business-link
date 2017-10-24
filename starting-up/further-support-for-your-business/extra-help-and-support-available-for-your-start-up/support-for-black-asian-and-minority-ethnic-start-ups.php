@@ -4,6 +4,9 @@
 <head>
 	<title>Support for black, Asian and minority ethnic start ups | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detaildd54.html || /detail?itemId=1097213861&type=RESOURCES -->
+	<meta name="description" lang="en" content="Support available for ethnic minority people who set up a business, including advice and specialist organisations" />
 </head>
 
 <body>

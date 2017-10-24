@@ -3,6 +3,10 @@
 <head>
 	<title>Weak financial planning | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail29ce.html || /detail?itemId=1075219557&type=RESOURCES -->
+	<meta name="description" lang="en" content="Lack of capital, contingency plans and a reluctance to seek professional advice are all potential start up problems" />
+	<meta name="keywords" lang="en" content="Common mistakes when starting up; starting up; start up; new business; entrepreneur; self-employment; becoming your own boss; startup; market research; finance; financial planning; capital; competition; competitors; sales forecasting; stock control; credit; suppliers; customer research; business plan; overtrading; cashflow; recruitment; staff management" />
 </head>
 
 <body>

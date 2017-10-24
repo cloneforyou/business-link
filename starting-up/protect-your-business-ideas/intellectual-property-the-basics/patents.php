@@ -4,6 +4,8 @@
 <head>
 	<title>Patents | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: x_x.html || xx -->
 </head>
 
 <body>

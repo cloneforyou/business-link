@@ -2,10 +2,11 @@
 <html>
 <head>
 	<title>Your business structure and business plan | Business Link</title>
-
-	<!-- ref: xx || xx -->
-	
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail6ad7.html || /detail?itemId=1081896018&type=RESOURCES -->
+	<meta name="description" lang="en" content="How to create a good business plan and decide the best structure for your business" />
+	<meta name="keywords" lang="en" content="Starting a business during a recession; recession; Starting up; economic downturn; credit crunch; funding; grants; loans; new business; buying; franchises; setting up; value engineering; business plan; starting your own business; small firms loan guarantee; cashflow, cashflow management; cash flow; starting your own business; support; Professional and Career Development Loan" />
 </head>
 
 <body>

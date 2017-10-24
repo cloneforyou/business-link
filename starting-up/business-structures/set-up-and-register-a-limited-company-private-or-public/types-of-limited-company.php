@@ -4,6 +4,10 @@
 <head>
 	<title>Types of limited company | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail7e1b.html || /detail?itemId=1073789599&type=RESOURCES -->
+	<meta name="description" lang="en" content="Understand the differences between types of limited company" />
+	<meta name="keywords" lang="en" content="Limited company registration; limited companies; ltd; ltd company; company formation; formation of a registered company; Form 10; Form 12; company incorporation; company registration; limited company tax; company directors; company secretaries; memorandum and articles of association; company limited by shares; company limited by guarantee; social enterprise companies; company names" />
 </head>
 
 <body>

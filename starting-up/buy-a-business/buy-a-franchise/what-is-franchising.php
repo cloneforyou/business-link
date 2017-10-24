@@ -4,6 +4,10 @@
 <head>
 	<title>What is franchising? | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail1596.html || /detail?itemId=1073791407&type=RESOURCES -->
+	<meta name="description" lang="en" content="Different types of franchises and sales relationships - such as distribution and dealership, agencies and licensing" />
+	<meta name="keywords" lang="en" content="Franchising; british franchise association; partnership arrangement; franchising; franchiser; bfa; franchise cost; franchisor; franchisee; TUPE; business franchise; distributorship selling; dealership selling; agency selling; licensee selling; multi level marketing; pyramid scheme; pyramid marketing; franchising pro; franchising con; assess franchise; assess franchisor; become franchisee; choose franchise; find franchise; buy franchise; franchise agreement; franchise royalty; franchise fee; Business and industry" />
 </head>
 
 <body>

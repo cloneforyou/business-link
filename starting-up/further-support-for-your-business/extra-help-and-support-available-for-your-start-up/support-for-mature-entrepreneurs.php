@@ -4,6 +4,9 @@
 <head>
 	<title>Support for mature entrepreneurs | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail76bb.html || /detail?itemId=1097206307&type=RESOURCES -->
+	<meta name="description" lang="en" content="Support available for people over 50 to become self-employed or set up a business" />
 </head>
 
 <body>

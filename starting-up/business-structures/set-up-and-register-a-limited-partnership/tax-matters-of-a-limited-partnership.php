@@ -4,6 +4,10 @@
 <head>
 	<title>Tax matters of a limited partnership | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail93f3.html || /detail?itemId=1088131936&type=RESOURCES -->
+	<meta name="description" lang="en" content="Registering as a partner with HM Revenue and Customs, tax returns for limited partnerships" />
+	<meta name="keywords" lang="en" content="Limited Partnerships; limited partnership; general partners; limited partners; Companies House; Limited Partnership Act 1907; registration form LP5; LP; Companies House Regsitrar; form LP6; dissolution" />
 </head>
 
 <body>

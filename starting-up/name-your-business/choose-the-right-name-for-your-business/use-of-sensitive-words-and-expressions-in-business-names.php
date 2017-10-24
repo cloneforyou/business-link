@@ -3,6 +3,10 @@
 <head>
 	<title>Use of sensitive words and expressions in business names | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailf79c.html || /detail?itemId=1073788945&type=RESOURCES -->
+	<meta name="description" lang="en" content="Rules about using certain words and phrases in your business name and contacting Companies House for further advice" />
+	<meta name="keywords" lang="en" content="Choosing a business name; trading name; domain name; registering a business name; company name; sole trader name; limited company name; partnership name; protecting name; displaying name; Nominet; Companies Registry; Companies House; disclosure rules" />
 </head>
 
 <body>

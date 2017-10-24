@@ -3,6 +3,10 @@
 <head>
 	<title>Starting a business when economic conditions are tough | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer58a4.html || /layer?topicId=1081895212 -->
+	<meta name="description" lang="en" content="Assess the opportunities for starting a business during an economic downturn" />
+	<meta name="keywords" lang="en" content="Starting a business during a recession; recession; Starting up; economic downturn; credit crunch; funding; grants; loans; new business; buying; franchises; setting up; value engineering; business plan; starting your own business; small firms loan guarantee; cashflow, cashflow management; cash flow; starting your own business; support; Professional and Career Development Loan" />
 </head>
 
 <body>

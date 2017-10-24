@@ -3,6 +3,10 @@
 <head>
 	<title>Start-up costs and financing your home-based business | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailfeaf.html || /detail?itemId=1083765949&type=RESOURCES -->
+	<meta name="description" lang="en" content="Financial considerations for home businesses" />
+	<meta name="keywords" lang="en" content="starting a business from home; home business; home based business; working from home; self employment; starting up from home; starting up a home business; starting up a home based business" />
 </head>
 
 <body>

@@ -3,6 +3,8 @@
 <head>
 	<title>How to complete your VAT Return | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: x_x.html || xx -->
 </head>
 
 <body>
