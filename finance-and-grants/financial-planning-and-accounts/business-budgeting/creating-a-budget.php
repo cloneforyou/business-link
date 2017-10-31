@@ -89,6 +89,7 @@
 		
 		<img src="/_img/px_finance.gif" alt="" width="181" height="5" />
 		
+		
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
