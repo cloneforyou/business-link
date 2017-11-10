@@ -11,7 +11,17 @@
 					<a href="/premises-and-property/choosing-the-right-premises.php">Choosing the right premises</a>
 					<ul>
 						<li><a href="/premises-and-property/choosing-the-right-premises.php" title="Choosing the right premises">Introduction</a></li>
-						<li><a href="/premises-and-property/choosing-the-right-premises/choose-the-right-premises-for-your-business.php">Choose the right premises for your business</a></li>
+						<li>
+							<a href="/premises-and-property/choosing-the-right-premises/choose-the-right-premises-for-your-business.php">Choose the right premises for your business</a>
+							<ul>
+								<li><a href="/premises-and-property/choosing-the-right-premises/choose-the-right-premises-for-your-business.php" title="Choose the right premises for your business">Introduction</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/choose-the-right-premises-for-your-business/specifying-your-premises-requirements.php">Specifying your premises requirements</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/choose-the-right-premises-for-your-business/choose-the-right-location-for-your-business-premises.php">Choose the right location for your business premises</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/choose-the-right-premises-for-your-business/legal-considerations-when-choosing-business-premises.php">Legal considerations when choosing business premises</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/choose-the-right-premises-for-your-business/search-for-premises.php">Search for premises</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/choose-the-right-premises-for-your-business/here-is-how-I-chose-the-right-premises-for-my-business_flash-video.php">Here's how I chose the right premises for my business (Flash video)</a></li>
+							</ul>
+						</li>
 						<li><a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants.php">Commercial property: responsibilities of business tenants</a></li>
 					</ul>
 				</li>
