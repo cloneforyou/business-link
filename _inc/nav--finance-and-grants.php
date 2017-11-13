@@ -46,29 +46,14 @@
 					<a href="">Borrowing</a>
 					<ul>
 						<li>
-							<a href="">Bank finance</a>
-							<ul>
-								<li><a href="" title="Bank finance">Introduction</a></li>
-								<li>Types of bank finance for businesses</li>
-								<li>Loans</li>
-								<li>Overdrafts</li>
-								<li>Where to look for a bank loan</li>
-								<li>Choosing the right bank</li>
-								<li>Obtaining a loan and offering security</li>
-								<li>Credit scoring and rating</li>
-								<li>Providing a guarantee for your loan</li>
-								<li>European Investment Bank funding for small and medium-sized businesses</li>
-								<li>Here's how my business benefited from taking out a loan (Flash video)</li>
-								<li>Here's how securing the right loan helped my business develop</li>
-							</ul>
-						</li>
-						<li>
 							<a href="">Non-bank finance</a>
 							<ul>
 								<li><a href="" title="Non-bank finance">Introduction</a></li>
 								<li>Types of non-bank financial support</li>
-								<li>Use of non-bank funding for short and long-term purposes</li>
-								<li>How to secure non-bank investment and avoid loan sharks</li>
+								<li>Social and community lenders</li>
+								<li>Non-bank funding for short and long-term use</li>
+								<li>Securing non-bank investment</li>
+								<li>Avoiding loan sharks</li>
 							</ul>
 						</li>
 						<li>
@@ -139,6 +124,23 @@
 								<li>Claim loan interest against tax</li>
 							</ul>
 						</li>
+						<li>
+							<a href="">Bank finance</a>
+							<ul>
+								<li><a href="" title="Bank finance">Introduction</a></li>
+								<li>Types of bank finance for businesses</li>
+								<li>Loans</li>
+								<li>Overdrafts</li>
+								<li>Where to look for a bank loan</li>
+								<li>Choosing the right bank</li>
+								<li>Obtaining a loan and offering security</li>
+								<li>Credit scoring and rating</li>
+								<li>Providing a guarantee for your loan</li>
+								<li>European Investment Bank funding for small and medium-sized businesses</li>
+								<li>Here's how my business benefited from taking out a loan (Flash video)</li>
+								<li>Here's how securing the right loan helped my business develop</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
@@ -160,12 +162,12 @@
 							<a href="">Venture capital</a>
 							<ul>
 								<li><a href="" title="Equity finance">Introduction</a></li>
-								<li>What is equity finance and is it right for your business?</li>
-								<li>Sources of equity finance</li>
-								<li>The equity gap</li>
-								<li>Advantages and disadvantages of equity finance</li>
-								<li>Alternatives to equity finance</li>
-								<li>Here's how I found a business angel to invest in my business</li>
+								<li>What is private equity and venture capital?</li>
+								<li>Is private equity right for your business?</li>
+								<li>Finding and approaching venture capital investors</li>
+								<li>Negotiating a venture capital investment deal</li>
+								<li>How venture capital investors work with and exit from companies</li>
+								<li>Communicating with investors</li>
 							</ul>
 						</li>
 						<li>
@@ -251,6 +253,14 @@
 							<a href="http://webarchive.nationalarchives.gov.uk/20111206102534/http://www.businesslink.gov.uk/static/html/intro.html">Grants: the basics</a>
 							<ul>
 								<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102534/http://www.businesslink.gov.uk/static/html/intro.html" title="Grants: the basics">Introduction</a></li>
+								<li>Government grants and support</li>
+								<li>What kind of grants are available?</li>
+								<li>Grant eligibility</li>
+								<li>How to apply for a government grant</li>
+								<li>Why a grant application might be turned down</li>
+								<li>Identify finance options for your business (Flash video)</li>
+								<li>Preparing to attract investment (Flash video)</li>
+								<li>Pitching to potential investors (Flash video)</li>
 							</ul>
 						</li>
 						<li>
@@ -410,6 +420,17 @@
 							</ul>
 						</li>
 						<li>
+							<a href="">Obtaining bank financing</a>
+							<ul>
+								<li><a href="" title="Obtaining bank financing">Introduction</a></li>
+								<li>Deciding whether you're ready for financing</li>
+								<li>What banks look for in a business</li>
+								<li>Preparing for a loan or overdraft</li>
+								<li>Credit rating and scoring</li>
+								<li>Applying for bank finance</li>
+							</ul>
+						</li>
+						<!-- <li>
 							<a href="">Secure bank financing</a>
 							<ul>
 								<li><a href="" title="Secure bank financing">Introduction</a></li>
@@ -420,7 +441,7 @@
 								<li>Preparing to seek a loan or overdraft</li>
 								<li>A checklist on applying for bank finance</li>
 							</ul>
-						</li>
+						</li> -->
 						<li>
 							<a href="">Secure equity investment</a>
 							<ul>
@@ -502,7 +523,7 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Getting paid on time</a>
+							<a href="">Getting paid on time / Credit checking your customers and setting credit limits</a>
 							<ul>
 								<li><a href="" title="Credit checking your customers and setting credit limits">Introduction</a></li>
 								<li><a href="">Credit checking potential customers</a></li>
@@ -1028,7 +1049,7 @@
 			<a href="">Debt recovery</a>
 			<ul>
 				<li>
-					<a href="">Managing late payment</a>
+					<a href="">Managing late payment / Ensuring customers pay you on time</a>
 					<ul>
 						<li><a href="" title="Managing late payment">Introduction</a></li>
 						<li>When does a payment become late?</li>
@@ -1179,24 +1200,589 @@
 		</li>
 		<li>
 			<a href="">Business banking</a>
+			<ul>
+				<li>
+					<a href="">How to choose and manage a business bank account</a>
+					<ul>
+						<li><a href="" title="How to choose and manage a business bank account">Introduction</a></li>
+						<li>Choosing a business bank account</li>
+						<li>Open a business bank account</li>
+						<li>Manage a business account</li>
+						<li>How to switch banks</li>
+						<li>Online banking</li>
+						<li>Bank charges</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Debit and credit cards for your business</a>
+					<ul>
+						<li><a href="" title="Debit and credit cards for your business">Introduction</a></li>
+						<li>Types of card available</li>
+						<li>Business benefits of debit and credit cards</li>
+						<li>Drawbacks of debit and credit cards</li>
+						<li>Choosing a card provider</li>
+						<li>Risks of financing a business with a personal credit card</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Using payment cards to buy and sell goods or services</a>
+					<ul>
+						<li><a href="" title="Using payment cards to buy and sell goods or services">Introduction</a></li>
+						<li>Types of payment cards available</li>
+						<li>Pros and cons of using payment cards for purchases</li>
+						<li>Choosing a payment card provider</li>
+						<li>Risks of financing a business with a personal credit card</li>
+						<li>Pros and cons of accepting payment cards for sales</li>
+						<li>Accepting card payments: the key steps to take</li>
+						<li>Setting up a merchant account</li>
+						<li>How the card payment process works</li>
+						<li>The costs of accepting card payments</li>
+						<li>Your liability for disputed card payments</li>
+						<li>Payment card security measures</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Accepting online payments</a>
+					<ul>
+						<li><a href="" title="Accepting online payments">Introduction</a></li>
+						<li>Online payment jargon</li>
+						<li>Payment Card Industry Data Security Standard compliance</li>
+						<li>Selecting the best online payment option</li>
+						<li>Setting up an internet merchant account</li>
+						<li>Find a bank to process your online payments</li>
+						<li>Checklist: applying for an internet merchant account</li>
+						<li>Using a payment-processing company</li>
+						<li>Selling through an online shopping mall</li>
+						<li>Here's how I set up an online payment system for my website</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Foreign currency and exchange risks</a>
+					<ul>
+						<li><a href="" title="Foreign currency and exchange risks">Introduction</a></li>
+						<li>Foreign currency issues when importing or exporting</li>
+						<li>Identify foreign exchange risks</li>
+						<li>Forward foreign exchange contracts</li>
+						<li>Banking overseas and UK-based foreign currency accounts</li>
+						<li>Buying currency options</li>
+						<li>Foreign currency transactions and your bookkeeping</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Understanding European banking services</a>
+					<ul>
+						<li><a href="" title="Understanding European banking services">Introduction</a></li>
+						<li>Business banking services offered by European banks</li>
+						<li>What you will need to set up your business account in Europe</li>
+						<li>Accessibility of European banks</li>
+						<li>UK bank business accounts for Europe</li>
+						<li>Writing a business plan for a European bank</li>
+						<li>Credit checks in Europe</li>
+						<li>Single European Payment Area</li>
+					</ul>
+				</li>
+			</ul>
 		</li>
 		<li>
 			<a href="">Insurance</a>
+			<ul>
+				<li>
+					<a href="" title="Insurance">Introduction</a>
+				</li>
+				<li>
+					<a href="">Get the right insurance for your business</a>
+					<ul>
+						<li><a href="" title="Get the right insurance for your business">Introduction</a></li>
+						<li>What insurance does my business need?</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Insure your business and assets - general insurances</a>
+					<ul>
+						<li><a href="" title="Insure your business and assets - general insurances">Introduction</a></li>
+						<li>Insuring your business premises</li>
+						<li>Contents insurance</li>
+						<li>Specialist insurance</li>
+						<li>Motor insurance</li>
+						<li>Business insurance if you work from home</li>
+						<li>Getting the right insurance cover</li>
+						<li>Making an insurance claim</li>
+						<li>Reducing the risk to cut premiums</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Insure your business - people, life and health</a>
+					<ul>
+						<li><a href="" title="Insure your business - people, life and health">Introduction</a></li>
+						<li>Identifying risks and insuring against them</li>
+						<li>Basic types of life and health insurance</li>
+						<li>Protecting the business - loss of a key person</li>
+						<li>Protecting the business - loss of a partner or key shareholder</li>
+						<li>Insurance protection for the owner-manager or the self-employed</li>
+						<li>Insurance as an employee benefit</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Liability insurance</a>
+					<ul>
+						<li><a href="" title="Liability insurance">Introduction</a></li>
+						<li>How liability insurance works</li>
+						<li>Employers' liability insurance</li>
+						<li>Public liability insurance</li>
+						<li>Product liability insurance</li>
+						<li>Insurance against pollution damages</li>
+						<li>Property owners' liability insurance</li>
+						<li>Professional indemnity insurance</li>
+						<li>Directors' and officers' liability insurance</li>
+						<li>Seek specialist advice</li>
+						<li>Here's how I checked what insurance I need</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Insurance for international trade</a>
+					<ul>
+						<li><a href="" title="Insurance for international trade">Introduction</a></li>
+						<li>Weighing up import and export risks</li>
+						<li>Insuring goods in transit</li>
+						<li>Product liability insurance</li>
+						<li>Insuring against non-payment</li>
+						<li>Find an export credit insurer</li>
+						<li>Export finance and insurance</li>
+						<li>Trade Facilitation Programme for certain regions</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Choose an insurance adviser and present your risk</a>
+					<ul>
+						<li><a href="" title="Choose an insurance adviser and present your risk">Introduction</a></li>
+						<li>Who to consult and how insurance works</li>
+						<li>Minimise your risks and your costs</li>
+						<li>Presenting your risk details</li>
+						<li>Where to get advice on choosing a broker</li>
+						<li>Where to get advice on choosing an independent financial adviser</li>
+						<li>Manage the relationship with your insurance adviser</li>
+						<li>Where to go if you have problems with your broker or insurer</li>
+					</ul>
+				</li>
+			</ul>
 		</li>
 		<li>
 			<a href="">Expert financial advice</a>
+			<ul>
+				<li>
+					<a href="">Choose and work with an accountant</a>
+					<ul>
+						<li><a href="" title="Choose and work with an accountant">Introduction</a></li>
+						<li>How an accountant can help your business</li>
+						<li>Choosing an accountant</li>
+						<li>Checklist: ten things to ask your prospective accountant</li>
+						<li>Managing the relationship with your accountant</li>
+						<li>Here's how I used an accountant to help me in my business</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Get help and advice about your debt problems</a>
+					<ul>
+						<li><a href="" title="Get help and advice about your debt problems">Introduction</a></li>
+						<li>When and how to seek debt help</li>
+						<li>Where to find advice on debt</li>
+						<li>Where to find advice on insolvency</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Choose an insurance adviser and present your risk</a>
+					<ul>
+						<li><a href="" title="Choose an insurance adviser and present your risk">Introduction</a></li>
+						<li>Who to consult and how insurance works</li>
+						<li>Minimise your risks and your costs</li>
+						<li>Presenting your risk details</li>
+						<li>Where to get advice on choosing a broker</li>
+						<li>Where to get advice on choosing an independent financial adviser</li>
+						<li>Manage the relationship with your insurance adviser</li>
+						<li>Where to go if you have problems with your broker or insurer</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Choose and work with a solicitor</a>
+					<ul>
+						<li><a href="" title="Choose and work with a solicitor">Introduction</a></li>
+						<li>When will I need legal advice?</li>
+						<li>Find a solicitor</li>
+						<li>Choose a solicitor</li>
+						<li>Ten questions you should ask your prospective solicitor</li>
+						<li>Manage the relationship with your solicitor</li>
+						<li>What to do if things go wrong</li>
+					</ul>
+				</li>
+			</ul>
 		</li>
 		<li>
 			<a href="">Introduction to insolvency</a>
+			<ul>
+				<li>
+					<a href="" title="Introduction to insolvency">Introduction</a>
+				</li>
+				<li>
+					<a href="">Avoid insolvency</a>
+					<ul>
+						<li><a href="" title="Avoid insolvency">Introduction</a></li>
+						<li>Improve cashflow</li>
+						<li>Negotiate with creditors</li>
+						<li>Reduce overheads</li>
+						<li>Importance of advice when avoiding insolvency</li>
+						<li>Possible outcomes for limited companies</li>
+						<li>Insolvency outcomes for partnerships and sole traders</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Insolvency: the basics</a>
+					<ul>
+						<li><a href="" title="Insolvency: the basics">Introduction</a></li>
+						<li>Avoiding bankruptcy and winding up</li>
+						<li>Insolvency of limited companies</li>
+						<li>Insolvency of partnerships</li>
+						<li>Insolvency of individuals</li>
+						<li>Official receiver and insolvency practitioners</li>
+						<li>Effect of insolvency on employees</li>
+						<li>Long-term effects of insolvency</li>
+					</ul>
+				</li>
+			</ul>
 		</li>
 		<li>
 			<a href="">Insolvency information for limited companies</a>
+			<ul>
+				<li>
+					<a href="" title="Insolvency information for limited companies">Introduction</a>
+				</li>
+				<li>
+					<a href="">Liquidation and alternatives for companies and limited liability partnerships</a>
+					<ul>
+						<li><a href="" title="Liquidation and alternatives for companies and limited liability partnerships">Introduction</a></li>
+						<li>Understanding liquidation</li>
+						<li>Alternatives to liquidation</li>
+						<li>Members' and creditors' voluntary liquidation</li>
+						<li>Consequences of voluntary liquidation</li>
+						<li>Compulsory liquidation for companies and limited liability partnerships</li>
+						<li>Restrictions on insolvency proceedings for companies and limited liability partnerships</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Compulsory liquidation for companies and limited liability partnerships: the process</a>
+					<ul>
+						<li><a href="" title="Compulsory liquidation for companies and limited liability partnerships: the process">Introduction</a></li>
+						<li>Compulsory liquidations</li>
+						<li>The winding-up procedure</li>
+						<li>Winding-up orders</li>
+						<li>Preparing for an interview with the official receiver</li>
+						<li>What happens at the interview with the official receiver</li>
+						<li>What happens after the interview with the official receiver</li>
+						<li>How long the liquidation process takes</li>
+						<li>Acting as the director of another company or member of an LLP during liquidation</li>
+						<li>Criminal proceedings in compulsory winding up</li>
+						<li>What to do if you are dissatisfied with the handling of the liquidation</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Director disqualification</a>
+					<ul>
+						<li><a href="" title="Director disqualification">Introduction</a></li>
+						<li>Disqualification of unfit directors of insolvent companies</li>
+						<li>Disqualification proceedings</li>
+						<li>The effects of disqualification</li>
+						<li>Criminal proceedings for breaches of a disqualification order</li>
+						<li>Sources of further information about director disqualification orders</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Reuse of a company name after liquidation</a>
+					<ul>
+						<li><a href="" title="Reuse of a company name after liquidation">Introduction</a></li>
+						<li>Prohibited names and restrictions</li>
+						<li>Penalties for breaching rules on the use of prohibited names</li>
+						<li>Exceptions to the restrictions on the reuse of a prohibited name</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Being interviewed by the official receiver</a>
+					<ul>
+						<li><a href="" title="Being interviewed by the official receiver">Introduction</a></li>
+						<li>Background to your meeting with the official receiver</li>
+						<li>What you should do before the interview</li>
+						<li>What happens at the office or telephone interview</li>
+						<li>What happens after the interview</li>
+						<li>How long the process takes</li>
+					</ul>
+				</li>
+			</ul>
 		</li>
 		<li>
 			<a href="">Insolvency information for partnerships</a>
+			<ul>
+				<li>
+					<a href="" title="Insolvency information for partnerships">Introduction</a>
+				</li>
+				<li>
+					<a href="">Liquidation and alternatives for partnerships</a>
+					<ul>
+						<li><a href="" title="Liquidation and alternatives for partnerships">Introduction</a></li>
+						<li>What a partnership is, and how to wind up a partnership that owes money</li>
+						<li>How to wind up your own partnership</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Director disqualification</a>
+					<ul>
+						<li><a href="" title="Director disqualification">Introduction</a></li>
+						<li>Disqualification of unfit directors of insolvent companies</li>
+						<li>Disqualification proceedings</li>
+						<li>The effects of disqualification</li>
+						<li>Criminal proceedings for breaches of a disqualification order</li>
+						<li>Sources of further information about director disqualification orders</li>
+					</ul>
+				</li>
+			</ul>
 		</li>
 		<li>
 			<a href="">Insolvency information for sole traders and individuals</a>
+			<ul>
+				<li>
+					<a href="" title="Insolvency information for sole traders and individuals">Introduction</a>
+				</li>
+				<li>
+					<a href="">Alternatives to bankruptcy</a>
+					<ul>
+						<li><a href="" title="Alternatives to bankruptcy">Introduction</a></li>
+						<li>
+							<a href="">Insolvency options for individuals</a>
+							<ul>
+								<li><a href="" title="Insolvency options for individuals">Introduction</a></li>
+								<li>What to consider when thinking about alternatives to bankruptcy</li>
+								<li>Negotiated agreement with creditors</li>
+								<li>Debt reorganisation or consolidation plan</li>
+								<li>Debt management plan</li>
+								<li>County Court Administration Order</li>
+								<li>Individual Voluntary Arrangement</li>
+								<li>Debt Relief Order</li>
+								<li>Bankruptcy</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">Insolvency options for individuals: Debt Relief Orders</a>
+							<ul>
+								<li><a href="" title="Insolvency options for individuals: Debt Relief Orders">Introduction</a></li>
+								<li>What are Debt Relief Orders?</li>
+								<li>Applying for a Debt Relief Order</li>
+								<li>Who deals with your Debt Relief Order case?</li>
+								<li>Your duties when considering a Debt Relief Order</li>
+								<li>How will a Debt Relief Order affect you?</li>
+								<li>The restrictions of a Debt Relief Order</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">Individual insolvency: find out your options for dealing with debt</a>
+							<ul>
+								<li><a href="" title="Individual insolvency: find out your options for dealing with debt">Introduction</a></li>
+								<li>What other options do I have when considering bankruptcy?</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">The bankruptcy process</a>
+					<ul>
+						<li><a href="" title="The bankruptcy process">Introduction</a></li>
+						<li>
+							<a href="">Bankruptcy: the basics</a>
+							<ul>
+								<li><a href="" title="Bankruptcy: the basics">Introduction</a></li>
+								<li>An introduction to bankruptcy</li>
+								<li>The effects and restrictions of bankruptcy</li>
+								<li>How long does bankruptcy last?</li>
+								<li>Becoming free from bankruptcy</li>
+								<li>How an individual is made bankrupt for personal debts</li>
+								<li>Bankruptcy orders</li>
+								<li>The official receiver's role in bankruptcy proceedings</li>
+								<li>What you must do when you become bankrupt</li>
+								<li>Preparing for an interview with the official receiver</li>
+								<li>Your interview with the official receiver</li>
+								<li>How long the interview process takes</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">How to make yourself bankrupt</a>
+							<ul>
+								<li><a href="" title="How to make yourself bankrupt">Introduction</a></li>
+								<li>Where to get advice about bankruptcy</li>
+								<li>How to petition for your own bankruptcy</li>
+								<li>Which court you should use for bankruptcy</li>
+								<li>The costs involved in making yourself bankrupt</li>
+								<li>How the court can deal with your bankruptcy petition</li>
+								<li>Your duties as a bankrupt</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">Being interviewed by the official receiver</a>
+							<ul>
+								<li><a href="" title="Being interviewed by the official receiver">Introduction</a></li>
+								<li>Background to your meeting with the official receiver</li>
+								<li>What you should do before the interview</li>
+								<li>What happens at the office or telephone interview</li>
+								<li>What happens after the interview</li>
+								<li>How long the process takes</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">Income Payments Agreements and Income Payments Orders</a>
+							<ul>
+								<li><a href="" title="Income Payments Agreements and Income Payments Orders">Introduction</a></li>
+								<li>What is an Income Payments Agreement?</li>
+								<li>What is an Income Payments Order?</li>
+								<li>How Income Payments Orders and Income Payments Agreements payments are calculated</li>
+								<li>Reasonable domestic expenses</li>
+								<li>Things you can include in your income</li>
+								<li>Missing a payment</li>
+								<li>Applying for a nil tax code</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">Fast Track Voluntary Arrangements</a>
+							<ul>
+								<li><a href="" title="Fast Track Voluntary Arrangements">Introduction</a></li>
+								<li>Fast Track Voluntary Arrangements explained</li>
+								<li>The Fast Track Voluntary Arrangement process</li>
+								<li>Cost and compliance with your Fast Track Voluntary Arrangement</li>
+								<li>Proposing a Fast Track Voluntary Arrangement</li>
+								<li>Official receivers as Fast Track Voluntary Arrangement nominee</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">How to wind up a company that owes you money</a>
+							<ul>
+								<li><a href="" title="How to wind up a company that owes you money">Introduction</a></li>
+								<li>What is compulsory winding up?</li>
+								<li>How do I wind up a company?</li>
+								<li>Completing the winding-up petition</li>
+								<li>How to serve the petition</li>
+								<li>After serving the petition</li>
+								<li>What happens at the hearing?</li>
+								<li>What happens after the winding-up order is made?</li>
+								<li>Sources of further information about company winding-up proceedings</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">How bankruptcy affects you and your business</a>
+					<ul>
+						<li><a href="" title="How bankruptcy affects you and your business">Introduction</a></li>
+						<li>
+							<a href="">The effects of bankruptcy</a>
+							<ul>
+								<li><a href="" title="The effects of bankruptcy">Introduction</a></li>
+								<li>What happens to your business when you go bankrupt?</li>
+								<li>Your assets and bankruptcy</li>
+								<li>Your home if you are made bankrupt</li>
+								<li>Your pension and bankruptcy</li>
+								<li>Life insurance policies and your bankruptcy</li>
+								<li>Work-related registrations, licences and permissions and bankruptcy</li>
+								<li>Pay and other income during bankruptcy</li>
+								<li>Bankruptcy, you and your creditors</li>
+								<li>Bank and building society accounts if you're made bankrupt</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">Bankruptcy: what happens to your home</a>
+							<ul>
+								<li><a href="" title="Bankruptcy: what happens to your home">Introduction</a></li>
+								<li>Will my property be sold?</li>
+								<li>Selling your property - beneficial interest</li>
+								<li>Bankruptcy restriction notices and Form J restrictions</li>
+								<li>Buying the beneficial interest</li>
+								<li>If no one buys the beneficial interest</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">Bankruptcy: what happens to your bank account</a>
+							<ul>
+								<li><a href="" title="Bankruptcy: what happens to your bank account">Introduction</a></li>
+								<li>What does the official receiver do?</li>
+								<li>Bank and building society accounts</li>
+								<li>Opening a new bank account as a bankrupt</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">Bankruptcy: what happens to your pension</a>
+							<ul>
+								<li><a href="" title="Bankruptcy: what happens to your pension">Introduction</a></li>
+								<li>How bankruptcy will affect your pension</li>
+								<li>Information about your pension for the official receiver and your trustee</li>
+								<li>What are approved pension schemes?</li>
+								<li>If you were made bankrupt before 29 May 2000</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">Ending bankruptcy: discharge, early discharge and annulment</a>
+							<ul>
+								<li><a href="" title="Ending bankruptcy: discharge, early discharge and annulment">Introduction</a></li>
+								<li>Discharge from bankruptcy</li>
+								<li>Early discharge from bankruptcy</li>
+								<li>The effect of a discharge from bankruptcy</li>
+								<li>What happens to public records of your bankruptcy</li>
+								<li>Annulment of bankruptcy</li>
+								<li>Applying for an annulment</li>
+								<li>Can I stop the bankruptcy order being advertised?</li>
+								<li>The effect of annulment</li>
+							</ul>
+						</li>
+						<li>
+							<a href="">Sanctions on behaviour in event of a bankruptcy</a>
+							<ul>
+								<li><a href="" title="Sanctions on behaviour in event of a bankruptcy">Introduction</a></li>
+								<li>Conditions placed upon you by a bankruptcy restrictions order or undertaking</li>
+								<li>Behaviour that could cause the official receiver to apply for a bankruptcy restrictions order against you?</li>
+								<li>Applications for a bankruptcy restrictions order by the official receiver</li>
+								<li>Bankruptcy restrictions undertakings</li>
+								<li>If your bankruptcy is annulled</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Individual Insolvency Register</a>
+					<ul>
+						<li><a href="" title="Individual Insolvency Register">Introduction</a></li>
+						<li>The Individual Insolvency Register</li>
+						<li>How to search the register</li>
+						<li>How long do records stay on the register?</li>
+						<li>Where to get more information</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Complain against an insolvency practitioner or The Insolvency Service</a>
+					<ul>
+						<li><a href="" title="Complain against an insolvency practitioner or The Insolvency Service">Introduction</a></li>
+						<li>Complaints against The Insolvency Service</li>
+						<li>Dealing with unresolved Insolvency Service complaints after the initial response</li>
+						<li>Taking your case to the Ombudsman</li>
+						<li>How The Insolvency Service responds to complaints</li>
+						<li>How to complain about an insolvency practitioner</li>
+						<li>What to consider before making a complaint</li>
+						<li>How to make a complaint about an authorised insolvency practitioner</li>
+						<li>Directory of authorised professional bodies</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">How to complain against a company or limited liability partnership</a>
+					<ul>
+						<li><a href="" title="How to complain against a company or limited liability partnership">Introduction</a></li>
+						<li>What a company investigation involves</li>
+						<li>How to complain to Corporate Complaints</li>
+						<li>Investigations by Company Investigations</li>
+						<li>Possible outcomes after an investigation by Company Investigations</li>
+					</ul>
+				</li>
+			</ul>
 		</li>
 		<li>
 			<a href="">Complain against an insolvency practitioner or The Insolvency Service</a>
