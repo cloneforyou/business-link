@@ -22,7 +22,8 @@
 		<p>However, you will need to put time and effort into finding the business that's right for you. Also, the costs involved in buying an existing business can be substantial and should not be underestimated.</p>
 		<p>This guide takes you through the steps of buying an existing business, including how to assess and value a business, your obligations to any existing staff and where you can get professional help.</p>
 		<ul>
-			<li><a href="/starting-up/buy-a-business/buy-an-existing-business.php">Next</a></li>
+			<li><a href="/starting-up/buy-a-business/buy-an-existing-business/advantages-and-disadvantages-of-buying-an-existing-business.php">Next</a></li>
+			<!-- replaced : /starting-up/buy-a-business/buy-an-existing-business.php 20/10/17 -->
 		</ul>
 
 		<h3>Subjects covered in this guide</h3>
@@ -33,7 +34,7 @@
 			<li><a href="/starting-up/buy-a-business/buy-an-existing-business/where-to-look-for-a-business-to-buy.php">Where to look for a business to buy</a></li>
 			<li><a href="/starting-up/buy-a-business/buy-an-existing-business/how-to-value-a-business.php">How to value a business</a></li>
 			<li><a href="/starting-up/buy-a-business/buy-an-existing-business/make-sure-a-business-is-worth-buying-due-diligence.php">Make sure a business is worth buying: due diligence</a></li>
-			<li><a href="/starting-up/buy-a-business/buy-an-existing-business.php">Step-by-step: how to buy a business</a></li>
+			<li><a href="/starting-up/buy-a-business/buy-an-existing-business/step-by-step-how-to-buy-a-business.php">Step-by-step: how to buy a business</a></li>
 			<li><a href="/starting-up/buy-a-business/buy-an-existing-business/looking-after-existing-employees.php">Looking after existing employees</a></li>
 		</ul>
 

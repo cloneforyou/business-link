@@ -38,7 +38,7 @@
 		<p><strong>Cashflow statements</strong> - your cash balance and monthly cashflow patterns for at least the first 12 to 18 months. The aim is to show that your business will have enough working capital to survive so make sure you have considered the key factors such as the timing of sales and salaries. See our guide on <a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics.php">cashflow management: the basics</a>.</p>
 		<p><strong>Profit and loss forecast</strong> - a statement of the trading position of the business: the level of profit you expect to make, given your projected sales and the costs of providing goods and services and your overheads.</p>
 		<p>Your forecasts should cover a range of scenarios. New businesses often forecast over-optimistic sales and most external readers will take this into account. It is sensible to include subsidiary forecasts based on sales being significantly slower than you are actually predicting, with one for sales starting three months later than expected, and another forecasting a 20 per cent lower level of sales.</p>
-		<p>You can <a href="../../../_files/cashflow_profit-and-loss_sales-forecast.xls" target="_blank" rel="noopener noreferrer">download our sample profit and loss forecast template (XLS, 50K)</a>.</p>
+		<p>You can <a href="/_files/cashflow_profit-and-loss_sales-forecast.xls" target="_blank" rel="noopener noreferrer">download our sample profit and loss forecast template (XLS, 50K)</a>.</p>
 		<h3>Risk analysis</h3>
 		<p>Alongside your financial forecasts it is good practice to show that you have reviewed the risks your business could be faced with, and that you have looked at contingencies and insurance to cover these. Risks can include:</p>
 		<ul>
@@ -73,20 +73,18 @@
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/here-is-how-having-an-up-to-date-business-plan-helped-my-business.php">Here's how having an up-to-date business plan helped my business</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
-		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Business Link Helpline</h3>
 		<p>0845 600 9 006</p>
 		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
+		<hr />
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="../../../_files/cashflow_profit-and-loss_sales-forecast.xls" target="_blank" rel="noopener noreferrer">Download our sample profit and loss forecast template (XLS, 50K)</a></li>
-			<li><a href="../../_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>
-			<li><a href="../../_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
+			<li><a href="/_files/cashflow_profit-and-loss_sales-forecast.xls" target="_blank" rel="noopener noreferrer">Download our sample profit and loss forecast template (XLS, 50K)</a></li>
+			<li><a href="/_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>
+			<li><a href="/_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>
@@ -97,7 +95,7 @@
 			<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php">Use your business plan to get funding</a></li>
 		</ul>
 
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

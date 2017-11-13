@@ -73,7 +73,8 @@
 						<li><a href="/starting-up/buy-a-business/buy-an-existing-business/where-to-look-for-a-business-to-buy.php">Where to look for a business to buy</a></li>
 						<li><a href="/starting-up/buy-a-business/buy-an-existing-business/how-to-value-a-business.php">How to value a business</a></li>
 						<li><a href="/starting-up/buy-a-business/buy-an-existing-business/make-sure-a-business-is-worth-buying-due-diligence.php">Make sure a business is worth buying: due diligence</a></li>
-						<li><a href="/starting-up/buy-a-business/buy-an-existing-business.php">Step-by-step: how to buy a business</a></li>
+						<li><a href="/starting-up/buy-a-business/buy-an-existing-business/step-by-step-how-to-buy-a-business.php">Step-by-step: how to buy a business</a></li>
+						<!-- replaced : /starting-up/buy-a-business/buy-an-existing-business.php 20/10/17 -->
 						<li><a href="/starting-up/buy-a-business/buy-an-existing-business/looking-after-existing-employees.php">Looking after existing employees</a></li>
 					</ul>
 				</li>
@@ -257,7 +258,7 @@
 				<li>
 					<a>Identifying, protecting and transferring your assets</a>
 					<ul>
-						<li><a href="Identifying, protecting and transferring your assets">Introduction</a></li>
+						<li><a href="" title="Identifying, protecting and transferring your assets">Introduction</a></li>
 						<li><a href="">What are assets?</a></li>
 						<li><a href="">Tangible assets</a></li>
 						<li><a href="">Intangible assets</a></li>

@@ -83,7 +83,7 @@
 			</div>
 		</div>
 
-		<p><a href="findContentBankf4d5.html?bank=CASE_STUDIES"  title=""><b>Find a case study</b></a></p>
+		<p><a href="/find-a-case-study.php"  title=""><b>Find a case study</b></a></p>
 
 		<img src="../../../_img/px_startingabusiness.gif" width="181" height="5" alt="" />
 

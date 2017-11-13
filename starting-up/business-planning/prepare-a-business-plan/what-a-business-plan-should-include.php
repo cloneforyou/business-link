@@ -32,8 +32,8 @@
 			<li><strong>Your operations</strong> - your premises, production facilities, your management information systems and IT. See the page in this guide on <a href="/starting-up/business-planning/prepare-a-business-plan/your-operations.php" title="Information to include about how you will source, procure, create and deliver the goods or services you will be selling">your operations</a>.</li>
 			<li><strong>Financial forecasts</strong> - this section translates everything you have said in the previous sections into numbers. See the page in this guide on <a href="/starting-up/business-planning/prepare-a-business-plan/financial-forecasts.php" title="Putting your business into numbers with sales, cashflow and profit and loss forecasts and reviewing possible risks">financial forecasts</a>.</li>
 		</ul>
-		<p><a href="../../_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a>.</p>
-		<p><a href="../../_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a>.</p>
+		<p><a href="/_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a>.</p>
+		<p><a href="/_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a>.</p>
 		<p>See our videos and e-learning resources to <a href="https://www.gov.uk/write-business-plan" title="What you need to include in your business plan and how to create one step-by-step" target="_blank" rel="noopener noreferrer">create your business plan</a>.</p>
 		
 		<ul>
@@ -57,20 +57,18 @@
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/using-the-business-plan-template.php">Using the business plan template</a></li>
 			<li><a href="/starting-up/business-planning/prepare-a-business-plan/here-is-how-having-an-up-to-date-business-plan-helped-my-business.php">Here's how having an up-to-date business plan helped my business</a></li>
 		</ul>
-
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Business Link Helpline</h3>
 		<p>0845 600 9 006</p>
 		
-		<img src="../../../_img/hr_140px_global.gif" alt="" />
+		<hr />
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="../../_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>
-			<li><a href="../../_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
+			<li><a href="/_files/business-plan-template.doc" target="_blank" rel="noopener noreferrer">Download our business plan template (DOC, 458K)</a></li>
+			<li><a href="/_files/business-plan-template.odt" target="_blank" rel="noopener noreferrer">Download our business plan template in ODT format (ODT, 33K)</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>
@@ -83,7 +81,7 @@
 			<li><a href="/starting-up/considering-starting-up/starting-a-business-when-economic-conditions-are-tough.php">Starting a business when economic conditions are tough</a></li>
 		</ul>
 
-		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_startingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
