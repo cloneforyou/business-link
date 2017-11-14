@@ -1757,40 +1757,265 @@
 						<li>Where to get more information</li>
 					</ul>
 				</li>
-				<li>
-					<a href="">Complain against an insolvency practitioner or The Insolvency Service</a>
-					<ul>
-						<li><a href="" title="Complain against an insolvency practitioner or The Insolvency Service">Introduction</a></li>
-						<li>Complaints against The Insolvency Service</li>
-						<li>Dealing with unresolved Insolvency Service complaints after the initial response</li>
-						<li>Taking your case to the Ombudsman</li>
-						<li>How The Insolvency Service responds to complaints</li>
-						<li>How to complain about an insolvency practitioner</li>
-						<li>What to consider before making a complaint</li>
-						<li>How to make a complaint about an authorised insolvency practitioner</li>
-						<li>Directory of authorised professional bodies</li>
-					</ul>
-				</li>
-				<li>
-					<a href="">How to complain against a company or limited liability partnership</a>
-					<ul>
-						<li><a href="" title="How to complain against a company or limited liability partnership">Introduction</a></li>
-						<li>What a company investigation involves</li>
-						<li>How to complain to Corporate Complaints</li>
-						<li>Investigations by Company Investigations</li>
-						<li>Possible outcomes after an investigation by Company Investigations</li>
-					</ul>
-				</li>
 			</ul>
 		</li>
 		<li>
 			<a href="">Complain against an insolvency practitioner or The Insolvency Service</a>
+			<ul>
+				<li><a href="" title="Complain against an insolvency practitioner or The Insolvency Service">Introduction</a></li>
+				<li>Complaints against The Insolvency Service</li>
+				<li>Dealing with unresolved Insolvency Service complaints after the initial response</li>
+				<li>Taking your case to the Ombudsman</li>
+				<li>How The Insolvency Service responds to complaints</li>
+				<li>How to complain about an insolvency practitioner</li>
+				<li>What to consider before making a complaint</li>
+				<li>How to make a complaint about an authorised insolvency practitioner</li>
+				<li>Directory of authorised professional bodies</li>
+			</ul>
 		</li>
 		<li>
 			<a href="">How to complain against a company or limited liability partnership</a>
+			<ul>
+				<li><a href="" title="How to complain against a company or limited liability partnership">Introduction</a></li>
+				<li>What a company investigation involves</li>
+				<li>How to complain to Corporate Complaints</li>
+				<li>Investigations by Company Investigations</li>
+				<li>Possible outcomes after an investigation by Company Investigations</li>
+			</ul>
 		</li>
 		<li>
 			<a href="">Recover assets</a>
+			<ul>
+				<li>
+					<a href="">Dissolved company assets: the basics</a>
+					<ul>
+						<li><a href="" title="Dissolved company assets: the basics">Introduction</a></li>
+						<li>Bona vacantia assets</li>
+						<li>Assets of a dissolved company</li>
+						<li>Discretionary payments for dissolved companies</li>
+						<li>Bona vacantia rules and regulations for the Treasury Solicitor</li>
+						<li>How to contact the Treasury Solicitor's Bona Vacantia Division</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">What happens to assets owned by a dissolved company</a>
+					<ul>
+						<li><a href="" title="What happens to assets owned by a dissolved company">Introduction</a></li>
+						<li>What a dissolved company is and how its assets are dealt with</li>
+						<li>The role of the Treasury Solicitor in dealing with bona vacantia</li>
+						<li>What happens to bank accounts of dissolved companies</li>
+						<li>What happens to domain names owned by dissolved companies</li>
+						<li>The statutory power of disclaimer</li>
+						<li>Jurisdiction for dealing with assets of dissolved companies</li>
+						<li>Assets of clubs and societies in bona vacantia</li>
+						<li>Information required for assets of dissolved societies</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Discretionary grants for dissolved companies that can be restored</a>
+					<ul>
+						<li><a href="" title="Discretionary grants for dissolved companies that can be restored">Introduction</a></li>
+						<li>Role of the Treasury Solicitor in the discretionary grant process for dissolved companies that can be restored</li>
+						<li>Applying for a discretionary grant where a dissolved company can be restored</li>
+						<li>How the Treasury Solicitor determines who receives discretionary grants</li>
+						<li>Statutory Declarations and what to include for companies that can be restored</li>
+						<li>Proof of identity needed for grant applications where a dissolved company can be restored</li>
+						<li>What happens when the Treasury Solicitor makes a discretionary grant where a dissolved company can be restored</li>
+						<li>Information required for applying for a discretionary grant</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Discretionary grants for dissolved companies that cannot be restored</a>
+					<ul>
+						<li><a href="" title="Discretionary grants for dissolved companies that cannot be restored">Introduction</a></li>
+						<li>Role of the Treasury Solicitor in the discretionary grant process for dissolved companies that cannot be restored</li>
+						<li>Applying for a discretionary grant where a dissolved company cannot be restored</li>
+						<li>How the Treasury Solicitor determines who receives discretionary grants</li>
+						<li>Statutory Declarations and what to include for companies that cannot be restored</li>
+						<li>Proof of identity for grant applications where a dissolved company cannot be restored</li>
+						<li>What happens when the Treasury Solicitor makes a discretionary grant where a dissolved company cannot be restored</li>
+						<li>Information required when applying for a discretionary grant</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Shares owned by a dissolved company</a>
+					<ul>
+						<li><a href="" title="Shares owned by a dissolved company">Introduction</a></li>
+						<li>The role of the Treasury Solicitor in the sale of shares vested in the Crown as 'ownerless property'</li>
+						<li>Dealing with the Treasury Solicitor for selling shares owned by a dissolved company</li>
+						<li>Treasury Solicitor's legal costs when selling shares</li>
+						<li>Taking professional advice on bona vacantia</li>
+						<li>Information required by the Treasury Solicitor for dissolved company's shares</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Vacant land and buildings owned by a dissolved company</a>
+					<ul>
+						<li><a href="" title="Vacant land and buildings owned by a dissolved company">Introduction</a></li>
+						<li>Role of Treasury Solicitor's department in the sale of 'ownerless' land and buildings</li>
+						<li>Conditions of sale for 'ownerless' land and buildings</li>
+						<li>Other people's rights over 'ownerless' land or buildings</li>
+						<li>Valuing the 'ownerless' land or buildings</li>
+						<li>How to buy 'ownerless' land or buildings</li>
+						<li>What happens when the Treasury Solicitor disclaims 'ownerless' land and buildings</li>
+						<li>Information required by the Treasury Solicitor for the purchase of 'ownerless' land and buildings</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Residential freehold property owned by a dissolved company</a>
+					<ul>
+						<li><a href="" title="Residential freehold property owned by a dissolved company">Introduction</a></li>
+						<li>Role of the Treasury Solicitor in the sale of residential freehold property subject to leases</li>
+						<li>Conditions of sale for ownerless freehold property subject to leases</li>
+						<li>Applying to buy a residential freehold property, subject to leases owned by a dissolved company</li>
+						<li>How freehold title purchase prices are calculated</li>
+						<li>What happens when the Treasury Solicitor gives up its right to freehold property</li>
+						<li>Information required when buying a freehold reversion</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Headleases of property owned by a dissolved company</a>
+					<ul>
+						<li><a href="" title="Headleases of property owned by a dissolved company">Introduction</a></li>
+						<li>Role of Treasury Solicitor's department in the sale of headleases of property subject to under-leases</li>
+						<li>Conditions of sale for the headlease of property vested in the Crown</li>
+						<li>Applying to buy a headlease for a property owned by a dissolved company</li>
+						<Li>How headlease title purchase prices are calculated</Li>
+						<li>What happens when the Treasury Solicitor gives up its claim to the headlease of a residential property</li>
+						<li>Information required for buying a headlease</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Disclaiming property vested in the Crown as bona vacantia</a>
+					<ul>
+						<li><a href="" title="Disclaiming property vested in the Crown as bona vacantia">Introduction</a></li>
+						<li>The role of the Treasury Solicitor in disclaiming property</li>
+						<li>Treasury Solicitor's powers to deal with dissolved company property</li>
+						<li>Properties that the Treasury Solicitor can disclaim</li>
+						<li>Information required by the Treasury Solicitor for disclaiming property</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Mortgages and charges owned by a dissolved company</a>
+					<ul>
+						<li><a href="" title="Mortgages and charges owned by a dissolved company">Introduction</a></li>
+						<li>The role of the Treasury Solicitor in dealing with mortgages and charges of a dissolved company</li>
+						<li>How bona vacantia affects mortgages</li>
+						<li>How bona vacantia affects charging orders</li>
+						<li>How the lender's ability to pursue recovery may be limited</li>
+						<li>Information required by the Treasury Solicitor</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Intellectual property and rights owned by a dissolved company</a>
+					<ul>
+						<li><a href="" title="Intellectual property and rights owned by a dissolved company">Introduction</a></li>
+						<li>The role of the Treasury Solicitor in dealing with ownerless intellectual property and rights</li>
+						<li>How the Treasury Solicitor deals with intellectual property and rights of a dissolved company</li>
+						<li>The legal costs of purchasing intellectual property and rights from the Treasury Solicitor</li>
+						<li>Information required by the Treasury Solicitor for dissolved company's intellectual property rights</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Trade marks owned by a dissolved company</a>
+					<ul>
+						<li><a href="" title="Trade marks owned by a dissolved company">Introduction</a></li>
+						<li>Role of the Treasury Solicitor in the sale of trade marks</li>
+						<li>How the Treasury Solicitor deals with a dissolved company's trade mark</li>
+						<li>The Treasury Solicitor's legal costs for dealing with ownerless trade marks</li>
+						<li>Professional advice for dealing with ownerless trade marks</li>
+						<li>Information required by the Treasury Solicitor for a dissolved company's trade marks</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Repaying funds to restored companies</a>
+					<ul>
+						<li><a href="" title="Repaying funds to restored companies">Introduction</a></li>
+						<li>The role of the Treasury Solicitor in company restoration</li>
+						<li>Applying for the repayment of assets to a restored company</li>
+						<li>How the Treasury Solicitor repays a restored company's assets</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Adverse possession of land and buildings where the Title is not registered</a>
+					<ul>
+						<li><a href="" title="Adverse possession of land and buildings where the Title is not registered">Introduction</a></li>
+						<li>Role of the Treasury Solicitor in adverse possession of land and buildings where the title is unregistered</li>
+						<li>How adverse possession works</li>
+						<Li>How to become a registered owner if you have adverse possession of a property</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Adverse possession of land and buildings where the Title is registered</a>
+					<ul>
+						<li><a href="" title="Adverse possession of land and buildings where the Title is registered">Introduction</a></li>
+						<li>Role of the Treasury Solicitor in adverse possession of land and buildings where the title is registered</li>
+						<li>How adverse possession works and applying for ownership</li>
+						<li>How to apply to be the registered owner of property in adverse possession</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Sale by a mortgagee of land and buildings vested in the Crown as bona vacantia</a>
+					<ul>
+						<li><a href="" title="Sale by a mortgagee of land and buildings vested in the Crown as bona vacantia">Introduction</a></li>
+						<li>Role of the Treasury Solicitor in property vested in the Crown as bona vacantia</li>
+						<li>How a sale by a mortgagee works</li>
+						<li>How to sell bona vacantia property as a mortgagee</li>
+						<li>Information required for selling bona vacantia as a mortgagee</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">How to calculate purchase prices and legal costs for bona vacantia assets</a>
+					<ul>
+						<li><a href="" title="How to calculate purchase prices and legal costs for bona vacantia assets">Introduction</a></li>
+						<li>Sale of ownerless residential freehold land and buildings to the occupying tenants</li>
+						<li>Sale of ownerless residential head leasehold land and buildings to the occupying tenants</li>
+						<li>Sale of ownerless vacant and commercial land, buildings and other leasehold property</li>
+						<li>Sale of ownerless intellectual property and rights</li>
+						<li>Sale of ownerless shares</li>
+						<li>The Treasury Solicitor's legal costs, disbursements and fixed charges</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Guidelines to financial institutions about cash balances owned by a dissolved company</a>
+					<ul>
+						<li><a href="" title="Guidelines to financial institutions about cash balances owned by a dissolved company">Introduction</a></li>
+						<li>Discretionary payments from cash balances</li>
+						<Li>What you should consider when referring a credit balance to the Treasury Solicitor</Li>
+						<li>What to send the Treasury Solicitor when dealing with dissolved companies' cash balances</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">The distribution of a dissolved company's share capital</a>
+					<ul>
+						<li><a href="" title="The distribution of a dissolved company's share capital">Introduction</a></li>
+						<li>The effects of dissolution on a company's assets</li>
+						<li>Dissolved company shares and maintaining share capital</li>
+						<li>The distribution of share capital for dissolved companies</li>
+						<li>Share capital distribution limit for dissolved companies</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Copyright owned by a dissolved company</a>
+					<ul>
+						<li><a href="" title="Copyright owned by a dissolved company">Introduction</a></li>
+						<li>The role of the Treasury Solicitor in the sale of copyright of dissolved companies</li>
+						<li>When the Treasury Solicitor can sell a copyright</li>
+						<li>Buying ownerless copyright from the Treasury Solicitor</li>
+						<li>Information required for the sale of copyright as bona vacantia</li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Treasury Solicitor consent for administrative restoration</a>
+					<ul>
+						<li><a href="" title="Treasury Solicitor consent for administrative restoration">Introduction</a></li>
+						<li>The role of the Treasury Solicitor in administrative restoration of a company</li>
+						<li>Preconditions for applying for an administrative restoration waiver letter</li>
+						<li>How to apply for a waiver letter to restore a dissolved company</li>
+						<li>How long does the application for a waiver letter take?</li>
+					</ul>
+				</li>
+			</ul>
 		</li>
 	</ul>
 </li>
