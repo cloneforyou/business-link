@@ -23,6 +23,19 @@
 							</ul>
 						</li>
 						<li>
+							<a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants.php">Commercial property: responsibilities of business tenants</a>
+							<ul>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants.php" title="Commercial property: responsibilities of business tenants">Introduction</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants/general-health-and-safety-responsibilities.php">General health and safety responsibilities</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants/ensuring-gas-safety.php">Ensuring gas safety</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants/ensuring-fire-safety.php">Ensuring fire safety</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants/electrical-safety.php">Electrical safety</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants/duty-to-manage-asbestos-in-premises.php">Duty to manage asbestos in premises</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants/energy-performance.php">Energy performance</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants/responsibilities-for-maintenance-of-commercial-properties.php">Responsibilities for maintenance of commercial properties</a></li>
+							</ul>
+						</li>
+						<li>
 							<a href="/premises-and-property/choosing-the-right-premises/renting-business-premises.php">Renting business premises</a>
 							<ul>
 								<li><a href="/premises-and-property/choosing-the-right-premises/renting-business-premises.php" title="Renting business premise">Introduction</a></li>
