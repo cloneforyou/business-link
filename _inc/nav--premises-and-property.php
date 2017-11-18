@@ -60,7 +60,20 @@
 								<li><a href="/premises-and-property/choosing-the-right-premises/renewing-and-ending-your-business-lease/further-business-tenancy-information-and-advice.php">Further business tenancy information and advice</a></li>
 							</ul>
 						</li>
-						<li><a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants.php">Commercial property: responsibilities of business tenants</a></li>
+						<li>
+							<a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace.php">Use your home as a workplace</a>
+							<ul>
+								<li><a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace.php" title="Use your home as a workplace">Introduction</a></li>
+								<li>><a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace/what-to-check-before-starting-a-work-at-home-business.php">What to check before starting a work at home business</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace.php">Building regulations and planning permission for home businesses</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace/tax-considerations-of-working-from-home.php">Tax considerations of working from home</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace/home-working-health-and-safety-risk-assessment.php">Home working health and safety risk assessment</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace/create-a-seperate-work-area-in-your-home.php">Create a seperate work area in your home</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace/work-equipment-and-workstation-setup.php">Work equipment and workstation setup</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace/advantages-and-disadvantages-of-working-from-home.php">Advantages and disadvantages of working from home</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/use-your-home-as-a-workplace/here-is-how-I-ensured-that-my-home-was-safe-for-use-as-a-workplace.php">Here's how I ensured that my home was safe for use as a workplace</a></li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li><a href="/premises-and-property/tax-breaks-and-finance-for-your-business.php">Tax breaks and finance for your business</a></li>
