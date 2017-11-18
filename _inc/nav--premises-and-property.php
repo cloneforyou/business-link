@@ -48,6 +48,18 @@
 								<li><a href="/premises-and-property/choosing-the-right-premises/renting-business-premises/here-is-how-we-decided-renting-premises-was-best-for-our-business.php">Here's how we decided renting premises was best for our business</a></li>
 							</ul>
 						</li>
+						<li>
+							<a href="/premises-and-property/choosing-the-right-premises/renewing-and-ending-your-business-lease.php">Renewing and ending your business lease</a>
+							<ul>
+								<li><a href="/premises-and-property/choosing-the-right-premises/renewing-and-ending-your-business-lease.php" title="Renewing and ending your business lease">Introduction</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/renewing-and-ending-your-business-lease/which-tenants-have-the-right-to-renew-their-business-lease.php">Which tenants have the right to renew their business lease?</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/renewing-and-ending-your-business-lease/the-tenants-rights-to-end-a-tenancy.php">The tenant's rights to end a tenancy</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/renewing-and-ending-your-business-lease/early-termination-of-a-business-lease.php">Early termination of a business lease</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/renewing-and-ending-your-business-lease/the-landlords-right-to-refuse-to-grant-a-new-tenancy.php">The landlord's right to refuse to grant a new tenancy</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/renewing-and-ending-your-business-lease/paying-rent-and-rent-reviews.php">Paying rent and rent reviews</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/renewing-and-ending-your-business-lease/further-business-tenancy-information-and-advice.php">Further business tenancy information and advice</a></li>
+							</ul>
+						</li>
 						<li><a href="/premises-and-property/choosing-the-right-premises/commercial-property-responsibilities-of-business-tenants.php">Commercial property: responsibilities of business tenants</a></li>
 					</ul>
 				</li>
