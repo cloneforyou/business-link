@@ -13,8 +13,9 @@ var gulp  = require('gulp'),
 	concat = require('gulp-concat'),
 	rename = require('gulp-rename'),
 	plumber = require('gulp-plumber'),
-	babel = require('gulp-babel'),
-	browserSync = require('browser-sync').create();
+	babel = require('gulp-babel'), 
+	connect = require('gulp-connect-php'), 
+	browserSync = require('browser-sync');
 
 
 // Added gulp-imagemin
@@ -121,26 +122,38 @@ gulp.task('foundation-js', function() {
 
 
 // Browser-Sync watch files and inject changes
-gulp.task('browsersync', function() {
+// gulp.task('browsersync', function() {
 	// Watch files
-	var files = [
-		'./_assets/css/*.css', 
-		'./_assets/js/*.js',
-		'**/*.php',
-		'_assets/images/*.{png,jpg,gif,svg,webp}',
-	];
+	// var files = [
+	// 	'./_assets/css/*.css', 
+	// 	'./_assets/js/*.js',
+	// 	'**/*.php',
+	// 	'_assets/images/*.{png,jpg,gif,svg,webp}',
+	// ];
 
-	browserSync.init(files, {
+	// browserSync.init(files, {
 		// Replace with URL of your local site
-		proxy: "http://localhost:1234/business-link/",
-		// port: 1234
-	});
+		// proxy: "http://localhost:1234/business-link/",
+	// 	port: 1234
+	// });
 	
-	gulp.watch('./_assets/scss/**/*.scss', ['styles']);
-	gulp.watch('./_assets/js/scripts/*.js', ['site-js']).on('change', browserSync.reload);
+// 	gulp.watch('./_assets/scss/**/*.scss', ['styles']);
+// 	gulp.watch('./_assets/js/scripts/*.js', ['site-js']).on('change', browserSync.reload);
 
+// });
+// gulp.task('sync', ['browsersync']);
+
+gulp.task('connect-sync', function() {
+  connect.server({}, function (){
+    browserSync({
+      proxy: '127.0.0.1:8000'
+    });
+  });
+
+  gulp.watch('**/*.php').on('change', function () {
+    browserSync.reload();
+  });
 });
-gulp.task('sync', ['browsersync']);
 
 
 // Watch files for changes (without Browser-Sync)
