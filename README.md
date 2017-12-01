@@ -1,3 +1,5 @@
+[![devDependency Status](https://david-dm.org/blueocto/business-link.svg)](https://david-dm.org/blueocto/business-link#info=devDependencies)  [![npm](https://img.shields.io/npm/v/npm.svg)]()   [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)]()
+
 So, I've been working on this is my spare time for many years. Ever since the government ditched the great resource that was Business Link - just after a £million re-design - I've strived to bring it back to it's former glory.
 
 I'm now at a point where it is becoming more useable and readable, so you can view the live development link at http://alpha.venturelabs.org.uk
