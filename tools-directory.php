@@ -16,6 +16,9 @@
 
 
 		<h1>Tools directory</h1>
+
+		<img src="_img/tools_oo.jpg" width="181" height="121" border="0" alt="" />
+		
 		<h2>Business Link tools directory</h2>
 		<p>This page contains links to the interactive tools that are available on the website. To access them, select from the relevant links under each theme heading below.</p>
 		<h3>Buy or sell a business</h3>
@@ -132,11 +135,7 @@
 			<li><a href="https://www.gov.uk/licence-finder" target="_blank" rel="noopener noreferrer">Your Licence and Compliance Requirements</a></li>
 		</ul>
 		
-		<img src="_img/hr_325px_global.gif" alt="" />
-
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-		
-		<img src="_img/tools_oo.jpg" width="181" height="121" border="0" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
