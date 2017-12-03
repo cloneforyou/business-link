@@ -41,7 +41,7 @@
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="layer7aaa.html?topicId=1077717513" title="Use our interactive tool to assess how well your business is currently performing">Use our interactive tool to assess how well your business is performing</a></li>
+			<li><a href="/buy-or-sell-a-business/businesses-in-difficulty/assess-your-business-performance.php" title="Use our interactive tool to assess how well your business is currently performing">Use our interactive tool to assess how well your business is performing</a></li>
 		</ul>
 		
 		<p>Developed with:<br />
