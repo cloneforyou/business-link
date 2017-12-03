@@ -34,7 +34,7 @@
 			<li>women</li>
 			<li>young people - many schools now have pupil-run social enterprises</li>
 		</ul>
-		<p>Some groups of people may find it difficult to work within the limitations of a traditional working environment. Social firms are an example of social enterprise businesses that have been set up to remove these barriers to employment and offer a more flexible approach to work. <a href="http://www.socialfirmsuk.co.uk/" target="_blank" rel="noopener noreferrer">Find information on employing disadvantaged people in social enterprises on the Social Firms UK website</a>.</p>
+		<p>Some groups of people may find it difficult to work within the limitations of a traditional working environment. Social firms are an example of social enterprise businesses that have been set up to remove these barriers to employment and offer a more flexible approach to work. <a href="http://www.socialfirmsengland.co.uk/" target="_blank" rel="noopener noreferrer">Find information on employing disadvantaged people in social enterprises on the Social Firms UK website</a>.</p>
 		<p>If you set up a social enterprise in your local community, you are likely to witness the social benefits first hand. For example, you could run a social enterprise that matches up people in need of flexible employment, such as parents of young children, with elderly or vulnerable people in need of care in the same neighbourhood.</p>
 		<h3>Marketing social enterprises</h3>
 		<p>Social enterprises need to be competitive in any environment in which they operate. Attracting customers is vital to success. Highlighting the social and/or environmental credentials of your service/product, could give you the edge over your competitors.</p>
@@ -72,7 +72,7 @@
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78927/building-stronger-civil-society.pdf" target="_blank" rel="noopener noreferrer">Download 'Big Society' strategy information from the Cabinet Office website (PDF, 182K)</a></li>
-			<li><a href="http://www.socialfirmsuk.co.uk/" target="_blank" rel="noopener noreferrer">Disadvantaged persons employment in social enterprises on the Social Firms UK website</a></li>
+			<li><a href="http://www.socialfirmsengland.co.uk/" target="_blank" rel="noopener noreferrer">Disadvantaged persons employment in social enterprises on the Social Firms UK website</a></li>
 			<li><a href="http://www.socialenterprise.org.uk/about/about-social-enterprise" target="_blank" rel="noopener noreferrer">Social enterprise information on the Social Enterprise UK website</a></li>
 		</ul>
 		
