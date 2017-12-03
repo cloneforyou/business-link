@@ -2,7 +2,27 @@
 	<a href="/sales-and-marketing.php">Sales and marketing</a>
 	<ul>
 		<li><a href="/sales-and-marketing.php" title="Sales and marketing">Introduction</a></li>
-		<li><a href="/sales-and-marketing/marketing.php">Marketing</a></li>
+		<li>
+			<a href="/sales-and-marketing/marketing.php">Marketing</a>
+			<ul>
+				<li><a href="/sales-and-marketing/marketing.php" title="Marketing">Introduction</a></li>
+				<li>
+					<a href="">Market research and market reports</a>
+					<ul>
+						<li><a href="" title="Market research and market reports">Introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/customer-research-what-you-need-to-know.php">Customer research: what you need to know</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/information-on-market-trends-and-competitor-intelligence.php">Information on market trends and competitor intelligence</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/using-market-reports-and-other-data.php">Using market reports and other data</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/interpreting-market-information.php">Interpreting market information</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/the-basics-of-quantitative-and-qualitative-field-research.php">The basics of quantitative and qualitative field research</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/planning-field-research.php">Planning field research</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/tips-for-successful-field-research.php">Tips for successful field research</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/should-i-use-a-market-research-agency.php">Should I use a market research agency?</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/here-is-how-i-made-the-most-of-market-research.php">Here's how I made the most of market research</a></li>
+					</ul>
+				</li>
+			</ul>
+		</li>
 		<li><a href="/sales-and-marketing/online-marketing.php">Online marketing</a></li>
 		<li><a href="/sales-and-marketing/advertising-branding-and-design.php">Advertising, branding and design</a></li>
 		<li><a href="/sales-and-marketing/selling.php">Selling</a></li>

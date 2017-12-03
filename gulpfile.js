@@ -101,7 +101,7 @@ gulp.task('foundation-js', function() {
 		// './_vendor/foundation-sites/js/foundation.tooltip.js',
   ])
 	.pipe(babel({
-		presets: ['es2015'],
+		presets: ['env'],
 		compact: true
 	}))
 	.pipe(sourcemaps.init())
