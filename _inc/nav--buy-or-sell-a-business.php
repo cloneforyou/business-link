@@ -452,9 +452,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="layer910d.html?topicId=1074407303">Businesses in difficulty</a>
+			<a href="/buy-or-sell-a-business/businesses-in-difficulty.php">Businesses in difficulty</a>
 			<ul>
-				<li><a href="layer910d.html?topicId=1074407303" title="Businesses in difficulty">Introduction</a></li>
+				<li><a href="/buy-or-sell-a-business/businesses-in-difficulty.php" title="Businesses in difficulty">Introduction</a></li>
 				<li>
 					<a href="">Assess your business' performance</a>
 					<ul>
