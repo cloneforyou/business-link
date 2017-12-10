@@ -459,18 +459,18 @@
 					<a href="">Manage your cashflow</a>
 					<ul>
 						<li>
-							<a href="">Cashflow management: the basics</a>
+							<a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics.php">Cashflow management: the basics</a>
 							<ul>
-								<li><a href="" title="Cashflow management: the basics">Introduction</a></li>
-								<li>How to measure cash in your business</li>
-								<li>How to measure and improve your cashflow</li>
-								<li>Cashflow forecasts</li>
-								<li>Manage your income and expenditure</li>
-								<li>How to avoid problems in your cashflow</li>
-								<li>Using your cashflow forecast to avoid overtrading</li>
-								<li>Cash management in action</li>
-								<li>Here's how I manage my business finances (Flash video)</li>
-								<li>Here's how I manage my cashflow</li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics.php" title="Cashflow management: the basics">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics/how-to-measure-cash-in-your-business.php">How to measure cash in your business</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics/how-to-measure-and-improve-your-cashflow.php">How to measure and improve your cashflow</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics/cashflow-forecasts.php">Cashflow forecasts</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics/manage-your-income-and-expenditure.php">Manage your income and expenditure</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics/how-to-avoid-problems-in-your-cashflow.php">How to avoid problems in your cashflow</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics/using-your-cashflow-forecast-to-avoid-overtrading.php">Using your cashflow forecast to avoid overtrading</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics/cash-management-in-action.php">Cash management in action</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics/here-is-how-i-manage-my-business-finances-flash-video.php">Here's how I manage my business finances (Flash video)</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics/here-is-how-i-manage-my-cashflow.php">Here's how I manage my cashflow</a></li>
 							</ul>
 						</li>
 						<li>
