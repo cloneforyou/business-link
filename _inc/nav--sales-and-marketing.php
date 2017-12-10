@@ -34,6 +34,17 @@
 			<a href="/sales-and-marketing/keeping-your-customers.php">Keeping your customers</a>
 			<ul>
 				<li>
+					<a href="">Discover who your most valuable customers are</a>
+					<ul>
+						<li><a href="" title="Discover who your most valuable customers are">Introduction</a></li>
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+					</ul>
+				</li>
+				<li>
 					<a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs.php">Know your customers' needs</a>
 					<ul>
 						<li><a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs.php" title="Know your customers' needs">Introduction</a></li>
@@ -58,6 +69,41 @@
 						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care/use-customer-care-to-increase-sales.php">Use customer care to increase sales</a></li>
 						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care/how-to-deal-with-customer-complaints.php">How to deal with customer complaints</a></li>
 						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care/here-is-how-i-set-up-and-used-a-customer-feedback-programme.php">Here's how I set up and used a customer-feedback programme</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Manage your customer database</a>
+					<ul>
+						<li><a href="" title="Manage your customer database">Introduction</a></li>
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Reach your customers effectively</a>
+					<ul>
+						<li><a href="" title="Reach your customers effectively">Introduction</a></li>
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+					</ul>
+				</li>
+				<li>
+					<a href="">Retain and grow your customer base</a>
+					<ul>
+						<li><a href="" title="Retain and grow your customer base">Introduction</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/retain-and-grow-your-customer-base/get-to-know-your-customers.php">Get to know your customers</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/retain-and-grow-your-customer-base/understand-your-customer-base-and-your-market.php">Understand your customer base and your market</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/retain-and-grow-your-customer-base/using-your-customer-data-to-increase-sales.php">Using your customer data to increase sales</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/retain-and-grow-your-customer-base/what-makes-your-customers-valuable.php">What makes your customers valuable?</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/retain-and-grow-your-customer-base/enhance-your-customers-experiences.php">Enhance your customers' experiences</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/retain-and-grow-your-customer-base/diversify-your-customer-base-to-increase-sales.php">Diversify your customer base to increase sales</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/retain-and-grow-your-customer-base/here-is-how-i-increased-profits-by-focusing-on-customers-and-products.php">Here's how I increased profits by focusing on customers and products</a></li>
 					</ul>
 				</li>
 			</ul>
