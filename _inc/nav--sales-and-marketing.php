@@ -84,11 +84,12 @@
 					<a href="">Reach your customers effectively</a>
 					<ul>
 						<li><a href="" title="Reach your customers effectively">Introduction</a></li>
-						<li></li>
-						<li></li>
-						<li></li>
-						<li></li>
-						<li></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/reach-your-customers-effectively/face-to-face-sales.php">Face to face sales</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/reach-your-customers-effectively/retailers-wholesalers-and-other-distributors.php">Retailers, wholesalers and other distributors</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/reach-your-customers-effectively/distance-selling.php">Distance selling</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/reach-your-customers-effectively/selling-overseas.php">Selling overseas</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/reach-your-customers-effectively/using-a-sales-agent.php">Using a sales agent</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/reach-your-customers-effectively/making-your-sales-channels-work-together.php">Making your sales channels work together</a></li>
 					</ul>
 				</li>
 				<li>
