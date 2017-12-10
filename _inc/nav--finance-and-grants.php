@@ -5,8 +5,9 @@
 			<a href="/finance-and-grants.php" title="Finance and grants">Introduction</a>
 		</li>
 		<li>
-			<a href="">Finance options</a>
+			<a href="/finance-and-grants/finance-options.php">Finance options</a>
 			<ul>
+				<li><a href="/finance-and-grants/finance-options.php" title="Finance options">Introduction</a></li>
 				<li>
 					<a href="">Choose the right finance options</a>
 					<ul>
@@ -401,8 +402,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Prepare to raise finance</a>
+			<a href="/finance-and-grants/prepare-to-raise-finance.php">Prepare to raise finance</a>
 			<ul>
+				<li><a href="/finance-and-grants/prepare-to-raise-finance.php" title="Prepare to raise finance">Introduction</a></li>
 				<li>
 					<a href="">How to attract investment</a>
 					<ul>
@@ -797,8 +799,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Manage your cashflow</a>
+			<a href="/finance-and-grants/manage-your-cashflow.php">Manage your cashflow</a>
 			<ul>
+				<li><a href="/finance-and-grants/manage-your-cashflow.php" title="Manage your cashflow">Introduction</a></li>
 				<li>
 					<a href="">Cashflow management: the basics</a>
 					<ul>
@@ -887,8 +890,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Improve your cashflow and business performance</a>
+			<a href="/finance-and-grants/improve-your-cashflow-and-business-performance.php">Improve your cashflow and business performance</a>
 			<ul>
+				<li><a href="/finance-and-grants/improve-your-cashflow-and-business-performance.php" title="Improve your cashflow and business performance">Introduction</a></li>
 				<li>
 					<a href="">Assess your business' performance</a>
 					<ul>
@@ -949,9 +953,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Managing a business when economic conditions are tough</a>
+			<a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough.php">Managing a business when economic conditions are tough</a>
 			<ul>
-				<li><a href="" title="Managing a business when economic conditions are tough">Introduction</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough.php" title="Managing a business when economic conditions are tough">Introduction</a></li>
 				<li>Analyse the health of your business</li>
 				<li>Minimise cost and maximise efficiency</li>
 				<li>Keep your cashflow healthy</li>
@@ -964,8 +968,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Managing suppliers and payments</a>
+			<a href="/finance-and-grants/managing-suppliers-and-payments.php">Managing suppliers and payments</a>
 			<ul>
+				<li><a href="/finance-and-grants/managing-suppliers-and-payments.php" title="Managing suppliers and payments">Introduction</li>
 				<li>
 					<a href="">Manage your suppliers</a>
 					<ul>
@@ -1045,8 +1050,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Debt recovery</a>
+			<a href="/finance-and-grants/debt-recovery.php">Debt recovery</a>
 			<ul>
+				<li><a href="/finance-and-grants/debt-recovery.php" title="Debt recovery">Introduction</li>
 				<li>
 					<a href="">Managing late payment / Ensuring customers pay you on time</a>
 					<ul>
@@ -1198,8 +1204,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Business banking</a>
+			<a href="/finance-and-grants/business-banking.php">Business banking</a>
 			<ul>
+				<li><a href="/finance-and-grants/business-banking.php" title="Business banking">Introduction</a></li>
 				<li>
 					<a href="">How to choose and manage a business bank account</a>
 					<ul>
@@ -1283,10 +1290,10 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Insurance</a>
+			<a href="/finance-and-grants/insurance.php">Insurance</a>
 			<ul>
 				<li>
-					<a href="" title="Insurance">Introduction</a>
+					<a href="/finance-and-grants/insurance.php" title="Insurance">Introduction</a>
 				</li>
 				<li>
 					<a href="">Get the right insurance for your business</a>
@@ -1366,8 +1373,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Expert financial advice</a>
+			<a href="/finance-and-grants/expert-financial-advice.php">Expert financial advice</a>
 			<ul>
+				<li><a href="/finance-and-grants/expert-financial-advice.php" title="Expert financial advice">Introduction</a></li>
 				<li>
 					<a href="">Choose and work with an accountant</a>
 					<ul>
@@ -1416,10 +1424,10 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Introduction to insolvency</a>
+			<a href="/finance-and-grants/introduction-to-insolvency.php">Introduction to insolvency</a>
 			<ul>
 				<li>
-					<a href="" title="Introduction to insolvency">Introduction</a>
+					<a href="/finance-and-grants/introduction-to-insolvency.php" title="Introduction to insolvency">Introduction</a>
 				</li>
 				<li>
 					<a href="">Avoid insolvency</a>
@@ -1449,10 +1457,10 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Insolvency information for limited companies</a>
+			<a href="/finance-and-grants/insolvency-information-for-limited-companies.php">Insolvency information for limited companies</a>
 			<ul>
 				<li>
-					<a href="" title="Insolvency information for limited companies">Introduction</a>
+					<a href="/finance-and-grants/insolvency-information-for-limited-companies.php" title="Insolvency information for limited companies">Introduction</a>
 				</li>
 				<li>
 					<a href="">Liquidation and alternatives for companies and limited liability partnerships</a>
@@ -1516,10 +1524,10 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Insolvency information for partnerships</a>
+			<a href="/finance-and-grants/insolvency-information-for-partnerships.php">Insolvency information for partnerships</a>
 			<ul>
 				<li>
-					<a href="" title="Insolvency information for partnerships">Introduction</a>
+					<a href="/finance-and-grants/insolvency-information-for-partnerships.php" title="Insolvency information for partnerships">Introduction</a>
 				</li>
 				<li>
 					<a href="">Liquidation and alternatives for partnerships</a>
@@ -1543,10 +1551,10 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Insolvency information for sole traders and individuals</a>
+			<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals.php">Insolvency information for sole traders and individuals</a>
 			<ul>
 				<li>
-					<a href="" title="Insolvency information for sole traders and individuals">Introduction</a>
+					<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals.php" title="Insolvency information for sole traders and individuals">Introduction</a>
 				</li>
 				<li>
 					<a href="">Alternatives to bankruptcy</a>
@@ -1760,9 +1768,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Complain against an insolvency practitioner or The Insolvency Service</a>
+			<a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service.php">Complain against an insolvency practitioner or The Insolvency Service</a>
 			<ul>
-				<li><a href="" title="Complain against an insolvency practitioner or The Insolvency Service">Introduction</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service.php" title="Complain against an insolvency practitioner or The Insolvency Service">Introduction</a></li>
 				<li>Complaints against The Insolvency Service</li>
 				<li>Dealing with unresolved Insolvency Service complaints after the initial response</li>
 				<li>Taking your case to the Ombudsman</li>
@@ -1774,9 +1782,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">How to complain against a company or limited liability partnership</a>
+			<a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership.php">How to complain against a company or limited liability partnership</a>
 			<ul>
-				<li><a href="" title="How to complain against a company or limited liability partnership">Introduction</a></li>
+				<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership.php" title="How to complain against a company or limited liability partnership">Introduction</a></li>
 				<li>What a company investigation involves</li>
 				<li>How to complain to Corporate Complaints</li>
 				<li>Investigations by Company Investigations</li>
@@ -1784,8 +1792,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Recover assets</a>
+			<a href="/finance-and-grants/recover-assets.php">Recover assets</a>
 			<ul>
+				<li><a href="/finance-and-grants/recover-assets.php" title="Recover assets">Introduction</a></li>
 				<li>
 					<a href="">Dissolved company assets: the basics</a>
 					<ul>
