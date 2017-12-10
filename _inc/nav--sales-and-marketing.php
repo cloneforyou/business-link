@@ -46,6 +46,20 @@
 						<li><a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs/here-is-how-knowing-our-customers-needs-benefits-our-business_flash-video.php">Here's how knowing our customers' needs benefits our business (Flash video)</a></li>
 					</ul>
 				</li>
+				<li>
+					<a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care.php">Manage your customer care</a>
+					<ul>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care.php" title="Manage your customer care">Introduction</li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care/what-is-customer-care.php">What is customer care?</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care/understand-your-customers.php">Understand your customers</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care/measure-your-customer-service-levels.php">Measure your customer service levels</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care/customer-feedback-and-contact-programmes.php">Customer feedback and contact programmes</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care/customer-loyalty-schemes.php">Customer loyalty schemes</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care/use-customer-care-to-increase-sales.php">Use customer care to increase sales</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care/how-to-deal-with-customer-complaints.php">How to deal with customer complaints</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-care/here-is-how-i-set-up-and-used-a-customer-feedback-programme.php">Here's how I set up and used a customer-feedback programme</a></li>
+					</ul>
+				</li>
 			</ul>
 		</li>
 		<li><a href="/sales-and-marketing/suppliers-overview-of-tendering-for-contracts.php">Suppliers: overview of tendering for contracts</a></li>
