@@ -72,11 +72,12 @@
 					<a href="">Manage your customer database</a>
 					<ul>
 						<li><a href="" title="Manage your customer database">Introduction</a></li>
-						<li></li>
-						<li></li>
-						<li></li>
-						<li></li>
-						<li></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-database/using-your-sales-and-marketing-database-to-improve-customer-relationships.php">Using your sales and marketing database to improve customer relationships</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-database/set-up-a-customer-relationship-management-system.php">Set up a customer relationship management system</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-database/compiling-your-customer-data.php">Compiling your customer data</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-database/developing-your-customer-database.php">Developing your customer database</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-database/keeping-your-customer-database-accurate.php">Keeping your customer database accurate</a></li>
+						<li><a href="/sales-and-marketing/keeping-your-customers/manage-your-customer-database/how-to-choose-a-supplier-for-your-customer-database-system.php">How to choose a supplier for your customer database system</a></li>
 					</ul>
 				</li>
 				<li>
