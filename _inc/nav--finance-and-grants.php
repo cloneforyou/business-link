@@ -44,8 +44,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Borrowing</a>
+					<a href="/finance-and-grants/finance-options/borrowing.php">Borrowing</a>
 					<ul>
+						<li><a href="/finance-and-grants/finance-options/borrowing.php" title="Borrowing">Introduction</a></li>
 						<li>
 							<a href="">Non-bank finance</a>
 							<ul>
@@ -145,8 +146,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Shares and equity finance</a>
+					<a href="/finance-and-grants/finance-options/shares-and-equity-finance.php">Shares and equity finance</a>
 					<ul>
+						<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance.php" title="Shares and equity finance">Introduction</a></li>
 						<li>
 							<a href="">Equity finance</a>
 							<ul>
@@ -247,9 +249,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Grants and government support</a>
+					<a href="/finance-and-grants/finance-options/grants-and-government-support.php">Grants and government support</a>
 					<ul>
-						<li><a href="" title="Grants and government support">Introduction</a></li>
+						<li><a href="/finance-and-grants/finance-options/grants-and-government-support.php" title="Grants and government support">Introduction</a></li>
 						<li>
 							<a href="http://webarchive.nationalarchives.gov.uk/20111206102534/http://www.businesslink.gov.uk/static/html/intro.html">Grants: the basics</a>
 							<ul>
@@ -352,8 +354,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Capital allowances</a>
+					<a href="/finance-and-grants/finance-options/capital-allowances.php">Capital allowances</a>
 					<ul>
+						<li><a href="/finance-and-grants/finance-options/capital-allowances.php" title="Capital allowances">Introduction</a></li>
 						<li>
 							<a href="">Capital allowances: the basics</a>
 							<ul>
@@ -489,9 +492,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Identify potential cashflow problems</a>
+							<a href="/finance-and-grants/manage-your-cashflow/identify-potential-cashflow-problems.php">Identify potential cashflow problems</a>
 							<ul>
-								<li><a href="" title="Identify potential cashflow problems">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/identify-potential-cashflow-problems.php" title="Identify potential cashflow problems">Introduction</a></li>
 								<li>Keep business forecasts up to date</li>
 								<li>How changing market conditions can affect your business</li>
 								<li>Working with banks and other lenders</li>
@@ -804,9 +807,9 @@
 			<ul>
 				<li><a href="/finance-and-grants/manage-your-cashflow.php" title="Manage your cashflow">Introduction</a></li>
 				<li>
-					<a href="">Cashflow management: the basics</a>
+					<a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics.php">Cashflow management: the basics</a>
 					<ul>
-						<li><a href="" title="Cashflow management: the basics">Introduction</a></li>
+						<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics.php" title="Cashflow management: the basics">Introduction</a></li>
 						<li>What is cash?</li>
 						<li>Cash inflows and cash outflows</li>
 						<li>The principles of cashflow forecasting</li>
