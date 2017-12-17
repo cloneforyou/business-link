@@ -406,19 +406,20 @@
 			<ul>
 				<li><a href="/finance-and-grants/prepare-to-raise-finance.php" title="Prepare to raise finance">Introduction</a></li>
 				<li>
-					<a href="">How to attract investment</a>
+					<a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment.php">How to attract investment</a>
 					<ul>
+						<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment.php" title="How to attract investment">Introduction</a></li>
 						<li>
-							<a href="">Use your business plan to get funding</a>
+							<a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php">Use your business plan to get funding</a>
 							<ul>
-								<li><a href="" title="Use your business plan to get funding">Introduction</a></li>
-								<li>The essential elements of a business plan</li>
-								<li>Tailor your business plan to the target audience</li>
-								<li>Demonstrate your commitment to the business</li>
-								<li>Getting the best from your business plan - key considerations</li>
-								<li>Identify finance options for your business (Flash video)</li>
-								<li>Preparing to attract investment (Flash video)</li>
-								<li>Pitching to potential investors (Flash video)</li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php" title="Use your business plan to get funding">Introduction</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/the-essential-elements-of-a-business-plan.php">The essential elements of a business plan</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/tailor-your-business-plan-to-the-target-audience.php">Tailor your business plan to the target audience</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/demonstrate-your-commitment-to-the-business.php">Demonstrate your commitment to the business</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/getting-the-best-from-your-business-plan-key-considerations.php">Getting the best from your business plan - key considerations</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/identify-finance-options-for-your-business_flash-video.php">Identify finance options for your business (Flash video)</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/preparing-to-attract-investment_flash-video.php">Preparing to attract investment (Flash video)</a></li>
+								<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding/pitching-to-potential-investors_flash-video.php">Pitching to potential investors (Flash video)</a></li>
 							</ul>
 						</li>
 						<li>
