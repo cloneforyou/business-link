@@ -547,19 +547,20 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Improve your cashflow and business performance</a>
+					<a href="/finance-and-grants/improve-your-cashflow-and-business-performance.php">Improve your cashflow and business performance</a>
 					<ul>
+						<li><a href="/finance-and-grants/improve-your-cashflow-and-business-performance.php" title="Improve your cashflow and business performance">Introduction</a></li>
 						<li>
-							<a href="">Assess your business' performance</a>
+							<a href="/buy-or-sell-a-business/businesses-in-difficulty/assess-your-business-performance.php">Assess your business' performance</a>
 							<ul>
-								<li><a href="" title="Assess your business' performance">Introduction</a></li>
+								<li><a href="/buy-or-sell-a-business/businesses-in-difficulty/assess-your-business-performance.php" title="Assess your business' performance">Introduction</a></li>
 								<li>Assess your business' performance</li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Assess and improve your business cashflow</a>
+							<a href="/finance-and-grants/manage-your-cashflow/assess-and-improve-your-business-cashflow.php">Assess and improve your business cashflow</a>
 							<ul>
-								<li><a href="" title="Assess and improve your business cashflow">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/assess-and-improve-your-business-cashflow.php" title="Assess and improve your business cashflow">Introduction</a></li>
 								<li>Assess and improve your business cashflow</li>
 							</ul>
 						</li>
@@ -594,9 +595,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">How to turn your business around</a>
+							<a href="/finance-and-grants/improve-your-cashflow-and-business-performance/how-to-turn-your-business-around.php">How to turn your business around</a>
 							<ul>
-								<li><a href="" title="How to turn your business around">Introduction</a></li>
+								<li><a href="/finance-and-grants/improve-your-cashflow-and-business-performance/how-to-turn-your-business-around.php" title="How to turn your business around">Introduction</a></li>
 								<li>How to assess your business and plan for improvement</li>
 								<li>How to improve your cashflow</li>
 								<li>How to respond to changes in the market</li>
