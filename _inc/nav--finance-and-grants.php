@@ -1772,14 +1772,14 @@
 			<a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service.php">Complain against an insolvency practitioner or The Insolvency Service</a>
 			<ul>
 				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service.php" title="Complain against an insolvency practitioner or The Insolvency Service">Introduction</a></li>
-				<li>Complaints against The Insolvency Service</li>
-				<li>Dealing with unresolved Insolvency Service complaints after the initial response</li>
-				<li>Taking your case to the Ombudsman</li>
-				<li>How The Insolvency Service responds to complaints</li>
-				<li>How to complain about an insolvency practitioner</li>
-				<li>What to consider before making a complaint</li>
-				<li>How to make a complaint about an authorised insolvency practitioner</li>
-				<li>Directory of authorised professional bodies</li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/complaints-against-the-insolvency-service.php">Complaints against The Insolvency Service</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/dealing-with-unresolved-insolvency-service-complaints-after-the-initial-response.php">Dealing with unresolved Insolvency Service complaints after the initial response</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/taking-your-case-to-the-ombudsman.php">Taking your case to the Ombudsman</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/how-the-insolvency-service-responds-to-complaints.php">How The Insolvency Service responds to complaints</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/how-to-complain-about-an-insolvency-practitioner.php">How to complain about an insolvency practitioner</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/what-to-consider-before-making-a-complaint.php">What to consider before making a complaint</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/how-to-make-a-complaint-about-an-authorised-insolvency-practitioner.php">How to make a complaint about an authorised insolvency practitioner</a></li>
+				<li><a href="/finance-and-grants/complain-against-an-insolvency-practitioner-or-the-insolvency-service/directory-of-authorised-professional-bodies.php">Directory of authorised professional bodies</a></li>
 			</ul>
 		</li>
 		<li>
