@@ -680,9 +680,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Balance sheets: the basics</a>
+					<a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics.php">Balance sheets: the basics</a>
 					<ul>
-						<li><a href="" title="Balance sheets: the basics">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics.php" title="Balance sheets: the basics">Introduction</a></li>
 						<li>Balance sheet reporting - who, when and where?</li>
 						<li>Contents of the balance sheet</li>
 						<li>Interpreting balance sheet figures</li>
@@ -694,9 +694,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Set up a basic record-keeping system</a>
+					<a href="/tax-payroll-and-company-information/set-up-a-basic-record-keeping-system.php">Set up a basic record-keeping system</a>
 					<ul>
-						<li><a href="" title="Set up a basic record-keeping system">Introduction</a></li>
+						<li><a href="/tax-payroll-and-company-information/set-up-a-basic-record-keeping-system.php" title="Set up a basic record-keeping system">Introduction</a></li>
 						<li>What should my system include?</li>
 						<li>The cash sales and purchases/expenses books</li>
 						<li>The sales ledger</li>
@@ -708,9 +708,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Investment appraisal techniques</a>
+					<a href="/finance-and-grants/financial-planning-and-accounts/investment-appraisal-techniques.php">Investment appraisal techniques</a>
 					<ul>
-						<li><a href="" title="Investment appraisal techniques">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/investment-appraisal-techniques.php" title="Investment appraisal techniques">Introduction</a></li>
 						<li>Financial aspects of investment appraisal</li>
 						<li>Strategic issues for investment appraisal</li>
 						<li>Accounting rate of return</li>
@@ -737,9 +737,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Advice for seasonal businesses</a>
+					<a href="/finance-and-grants/financial-planning-and-accounts/advice-for-seasonal-businesses.php">Advice for seasonal businesses</a>
 					<ul>
-						<li><a href="" title="Advice for seasonal businesses">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/advice-for-seasonal-businesses.php" title="Advice for seasonal businesses">Introduction</a></li>
 						<li>Plan your cashflow</li>
 						<li>How seasonal businesses can manage cashflow</li>
 						<li>Find the best financing deals</li>
@@ -751,16 +751,16 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Assess your business' performance</a>
+					<a href="/buy-or-sell-a-business/businesses-in-difficulty/assess-your-business-performance.php">Assess your business' performance</a>
 					<ul>
-						<li><a href="" title="Assess your business' performance">Introduction</a></li>
+						<li><a href="/buy-or-sell-a-business/businesses-in-difficulty/assess-your-business-performance.php" title="Assess your business' performance">Introduction</a></li>
 						<li>Assess your business' performance</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Pension planning for the self-employed</a>
+					<a href="/finance-and-grants/financial-planning-and-accounts/pension-planning-for-the-self-employed.php">Pension planning for the self-employed</a>
 					<ul>
-						<li><a href="" title="Pension planning for the self-employed">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/pension-planning-for-the-self-employed.php" title="Pension planning for the self-employed">Introduction</a></li>
 						<li>Assessing your pension needs</li>
 						<li>How a personal pension works</li>
 						<li>When to cash in your personal pension</li>
@@ -773,9 +773,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Consider your exit strategy when starting up</a>
+					<a href="/buy-or-sell-a-business/considering-selling-a-business/consider-your-exit-strategy-when-starting-up.php">Consider your exit strategy when starting up</a>
 					<ul>
-						<li><a href="" title="Consider your exit strategy when starting up">Introduction</a></li>
+						<li><a href="/buy-or-sell-a-business/considering-selling-a-business/consider-your-exit-strategy-when-starting-up.php" title="Consider your exit strategy when starting up">Introduction</a></li>
 						<li>Why you need an exit strategy</li>
 						<li>What do you want from your business?</li>
 						<li>Decisions that could affect your eventual exit</li>
