@@ -1789,10 +1789,10 @@
 			<a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership.php">How to complain against a company or limited liability partnership</a>
 			<ul>
 				<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership.php" title="How to complain against a company or limited liability partnership">Introduction</a></li>
-				<li>What a company investigation involves</li>
-				<li>How to complain to Corporate Complaints</li>
-				<li>Investigations by Company Investigations</li>
-				<li>Possible outcomes after an investigation by Company Investigations</li>
+				<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership/what-a-company-investigation-involves.php">What a company investigation involves</a></li>
+				<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership/how-to-complain-to-corporate-complaints.php">How to complain to Corporate Complaints</a></li>
+				<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership/investigations-by-company-investigations.php">Investigations by Company Investigations</a></li>
+				<li><a href="/finance-and-grants/how-to-complain-against-a-company-or-limited-liability-partnership/possible-outcomes-after-an-investigation-by-company-investigations.php">Possible outcomes after an investigation by Company Investigations</a></li>
 			</ul>
 		</li>
 		<li>
