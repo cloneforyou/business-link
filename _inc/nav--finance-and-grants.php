@@ -1209,9 +1209,9 @@
 			<ul>
 				<li><a href="/finance-and-grants/business-banking.php" title="Business banking">Introduction</a></li>
 				<li>
-					<a href="">How to choose and manage a business bank account</a>
+					<a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account.php">How to choose and manage a business bank account</a>
 					<ul>
-						<li><a href="" title="How to choose and manage a business bank account">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account.php" title="How to choose and manage a business bank account">Introduction</a></li>
 						<li>Choosing a business bank account</li>
 						<li>Open a business bank account</li>
 						<li>Manage a business account</li>
@@ -1221,9 +1221,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Debit and credit cards for your business</a>
+					<a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business.php">Debit and credit cards for your business</a>
 					<ul>
-						<li><a href="" title="Debit and credit cards for your business">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business.php" title="Debit and credit cards for your business">Introduction</a></li>
 						<li>Types of card available</li>
 						<li>Business benefits of debit and credit cards</li>
 						<li>Drawbacks of debit and credit cards</li>
@@ -1232,9 +1232,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Using payment cards to buy and sell goods or services</a>
+					<a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services.php">Using payment cards to buy and sell goods or services</a>
 					<ul>
-						<li><a href="" title="Using payment cards to buy and sell goods or services">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services.php" title="Using payment cards to buy and sell goods or services">Introduction</a></li>
 						<li>Types of payment cards available</li>
 						<li>Pros and cons of using payment cards for purchases</li>
 						<li>Choosing a payment card provider</li>
@@ -1249,9 +1249,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Accepting online payments</a>
+					<a href="/finance-and-grants/business-banking/accepting-online-payments.php">Accepting online payments</a>
 					<ul>
-						<li><a href="" title="Accepting online payments">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/accepting-online-payments.php" title="Accepting online payments">Introduction</a></li>
 						<li>Online payment jargon</li>
 						<li>Payment Card Industry Data Security Standard compliance</li>
 						<li>Selecting the best online payment option</li>
@@ -1264,9 +1264,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Foreign currency and exchange risks</a>
+					<a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks.php">Foreign currency and exchange risks</a>
 					<ul>
-						<li><a href="" title="Foreign currency and exchange risks">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks.php" title="Foreign currency and exchange risks">Introduction</a></li>
 						<li>Foreign currency issues when importing or exporting</li>
 						<li>Identify foreign exchange risks</li>
 						<li>Forward foreign exchange contracts</li>
@@ -1276,9 +1276,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Understanding European banking services</a>
+					<a href="/finance-and-grants/business-banking/understanding-european-banking-services.php">Understanding European banking services</a>
 					<ul>
-						<li><a href="" title="Understanding European banking services">Introduction</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services.php" title="Understanding European banking services">Introduction</a></li>
 						<li>Business banking services offered by European banks</li>
 						<li>What you will need to set up your business account in Europe</li>
 						<li>Accessibility of European banks</li>
