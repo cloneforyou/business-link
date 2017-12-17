@@ -9,17 +9,17 @@
 			<ul>
 				<li><a href="/finance-and-grants/finance-options.php" title="Finance options">Introduction</a></li>
 				<li>
-					<a href="">Choose the right finance options</a>
+					<a href="/finance-and-grants/finance-options/choose-the-right-finance-options.php">Choose the right finance options</a>
 					<ul>
 						<li>
-							<a href="">Choose the right finance when starting up</a>
+							<a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up.php">Choose the right finance when starting up</a>
 							<ul>
-								<li><a href="" title="Choose the right finance when starting up">Introduction</a></li>
-								<li>Work out your financial requirements when starting up</li>
-								<li>Finance options for new businesses</li>
-								<li>Use your own money to set up your business</li>
-								<li>Other sources of finance</li>
-								<li>Here's how I found the right sort of finance for my new business</li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up.php" title="Choose the right finance when starting up">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up/work-out-your-financial-requirements-when-starting-up.php">Work out your financial requirements when starting up</a></li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up/finance-options-for-new-businesses.php">Finance options for new businesses</a></li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up/use-your-own-money-to-set-up-your-business.php">Use your own money to set up your business</a></li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up/other-sources-of-finance.php">Other sources of finance</a></li>
+								<li><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/choose-the-right-finance-when-starting-up/here-is-how-i-found-the-right-sort-of-finance-for-my-new-business.phpS">Here's how I found the right sort of finance for my new business</a></li>
 							</ul>
 						</li>
 						<li>
