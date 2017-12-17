@@ -1055,9 +1055,9 @@
 			<ul>
 				<li><a href="/finance-and-grants/debt-recovery.php" title="Debt recovery">Introduction</li>
 				<li>
-					<a href="">Managing late payment / Ensuring customers pay you on time</a>
+					<a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php">Ensuring customers pay you on time</a>
 					<ul>
-						<li><a href="" title="Managing late payment">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php" title="Ensuring customers pay you on time">Introduction</a></li>
 						<li>When does a payment become late?</li>
 						<li>Charging interest on late payments</li>
 						<li>Charging debt recovery costs on late payments</li>
@@ -1066,16 +1066,16 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Recover your debts</a>
+					<a href="/finance-and-grants/debt-recovery/recover-your-debts.php">Recover your debts</a>
 					<ul>
-						<li><a href="" title="Recover your debts">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/recover-your-debts.php" title="Recover your debts">Introduction</a></li>
 						<li>How can I get customers to pay what they owe me?</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Dissolved company assets: the basics</a>
+					<a href="/finance-and-grants/debt-recovery/dissolved-company-assets-the-basics.php">Dissolved company assets: the basics</a>
 					<ul>
-						<li><a href="" title="Dissolved company assets: the basics">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/dissolved-company-assets-the-basics.php" title="Dissolved company assets: the basics">Introduction</a></li>
 						<li>Bona vacantia assets</li>
 						<li>Assets of a dissolved company</li>
 						<li>Discretionary payments for dissolved companies</li>
@@ -1084,16 +1084,16 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Calculate the interest due on an unpaid debt</a>
+					<a href="/finance-and-grants/debt-recovery/calculate-the-interest-due-on-an-unpaid-debt.php">Calculate the interest due on an unpaid debt</a>
 					<ul>
-						<li><a href="" title="Calculate the interest due on an unpaid debt">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/calculate-the-interest-due-on-an-unpaid-debt.php" title="Calculate the interest due on an unpaid debt">Introduction</a></li>
 						<li>How much interest should I charge?</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Formal requests for payment: statutory demands</a>
+					<a href="/finance-and-grants/debt-recovery/formal-requests-for-payment-statutory-demands.php">Formal requests for payment: statutory demands</a>
 					<ul>
-						<li><a href="" title="Formal requests for payment: statutory demands">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/formal-requests-for-payment-statutory-demands.php" title="Formal requests for payment: statutory demands">Introduction</a></li>
 						<li>What is a statutory demand?</li>
 						<li>Serving a statutory demand</li>
 						<li>Information a statutory demand should contain</li>
@@ -1102,9 +1102,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Get help and advice about your debt problems</a>
+					<a href="/finance-and-grants/debt-recovery/get-help-and-advice-about-your-debt-problems.php">Get help and advice about your debt problems</a>
 					<ul>
-						<li><a href="" title="Get help and advice about your debt problems">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/get-help-and-advice-about-your-debt-problems.php" title="Get help and advice about your debt problems">Introduction</a></li>
 						<li>Preparing to seek help if you find yourself in debt</li>
 						<li>Debt advisory bodies</li>
 						<li>Debt advice from accountants or solicitors</li>
@@ -1116,9 +1116,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Recover debt through court</a>
+					<a href="/finance-and-grants/debt-recovery/recover-debt-through-court.php">Recover debt through court</a>
 					<ul>
-						<li><a href="" title="Recover debt through court">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/recover-debt-through-court.php" title="Recover debt through court">Introduction</a></li>
 						<li>Deciding whether to make a claim</li>
 						<li>Choosing the right legal route</li>
 						<li>Using solicitors and debt recovery agents</li>
@@ -1133,9 +1133,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Recover your debt through court: Money Claim Online</a>
+					<a href="/finance-and-grants/debt-recovery/recover-your-debt-through-court-money-claim-online.php">Recover your debt through court: Money Claim Online</a>
 					<ul>
-						<li><a href="" title="Recover your debt through court: Money Claim Online">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/recover-your-debt-through-court-money-claim-online.php" title="Recover your debt through court: Money Claim Online">Introduction</a></li>
 						<li>Information to consider before making a Money Claim Online claim</li>
 						<li>Alternative dispute resolution (ADR)</li>
 						<li>Who can and cannot use Money Claim Online</li>
@@ -1144,9 +1144,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Recover your debt through court: Possession Claim Online</a>
+					<a href="/finance-and-grants/debt-recovery/recover-your-debt-through-court-possession-claim-online.php">Recover your debt through court: Possession Claim Online</a>
 					<ul>
-						<li><a href="" title="Recover your debt through court: Possession Claim Online">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/recover-your-debt-through-court-possession-claim-online.php" title="Recover your debt through court: Possession Claim Online">Introduction</a></li>
 						<li>Information to consider before making a Possession Claim Online claim</li>
 						<li>Who can and cannot use Possession Claim Online?</li>
 						<li>Is Possession Claim Online secure?</li>
@@ -1155,9 +1155,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Owed money from a bankrupt or a company in liquidation</a>
+					<a href="/finance-and-grants/debt-recovery/owed-money-from-a-bankrupt-or-a-company-in-liquidation.php">Owed money from a bankrupt or a company in liquidation</a>
 					<ul>
-						<li><a href="" title="Owed money from a bankrupt or a company in liquidation">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/owed-money-from-a-bankrupt-or-a-company-in-liquidation.php" title="Owed money from a bankrupt or a company in liquidation">Introduction</a></li>
 						<li>Who deals with bankruptcy and company liquidation claims?</li>
 						<li>Ensuring you are registered as a creditor</li>
 						<li>Making a claim and the order of repayment</li>
@@ -1167,9 +1167,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Make someone who owes you money bankrupt</a>
+					<a href="/finance-and-grants/debt-recovery/make-someone-who-owes-you-money-bankrupt.php">Make someone who owes you money bankrupt</a>
 					<ul>
-						<li><a href="" title="Make someone who owes you money bankrupt">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/make-someone-who-owes-you-money-bankrupt.php" title="Make someone who owes you money bankrupt">Introduction</a></li>
 						<li>The bankruptcy order process</li>
 						<li>Courts that deal with bankruptcy petitions</li>
 						<li>Presenting a bankruptcy petition</li>
@@ -1177,9 +1177,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">How to wind up a company that owes you money</a>
+					<a href="/finance-and-grants/debt-recovery/how-to-wind-up-a-company-that-owes-you-money.php">How to wind up a company that owes you money</a>
 					<ul>
-						<li><a href="" title="How to wind up a company that owes you money">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/how-to-wind-up-a-company-that-owes-you-money.php" title="How to wind up a company that owes you money">Introduction</a></li>
 						<li>What is compulsory winding up?</li>
 						<li>How do I wind up a company?</li>
 						<li>Completing the winding-up petition</li>
@@ -1191,9 +1191,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Avoid insolvency</a>
+					<a href="/finance-and-grants/debt-recovery/avoid-insolvency.php">Avoid insolvency</a>
 					<ul>
-						<li><a href="" title="Avoid insolvency">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/avoid-insolvency.php" title="Avoid insolvency">Introduction</a></li>
 						<li>Improve cashflow</li>
 						<li>Negotiate with creditors</li>
 						<li>Reduce overheads</li>
