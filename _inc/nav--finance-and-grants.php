@@ -1378,9 +1378,9 @@
 			<ul>
 				<li><a href="/finance-and-grants/expert-financial-advice.php" title="Expert financial advice">Introduction</a></li>
 				<li>
-					<a href="">Choose and work with an accountant</a>
+					<a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php">Choose and work with an accountant</a>
 					<ul>
-						<li><a href="" title="Choose and work with an accountant">Introduction</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php" title="Choose and work with an accountant">Introduction</a></li>
 						<li>How an accountant can help your business</li>
 						<li>Choosing an accountant</li>
 						<li>Checklist: ten things to ask your prospective accountant</li>
@@ -1389,18 +1389,18 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Get help and advice about your debt problems</a>
+					<a href="/finance-and-grants/debt-recovery/get-help-and-advice-about-your-debt-problems.php">Get help and advice about your debt problems</a>
 					<ul>
-						<li><a href="" title="Get help and advice about your debt problems">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/get-help-and-advice-about-your-debt-problems.php" title="Get help and advice about your debt problems">Introduction</a></li>
 						<li>When and how to seek debt help</li>
 						<li>Where to find advice on debt</li>
 						<li>Where to find advice on insolvency</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Choose an insurance adviser and present your risk</a>
+					<a href="/finance-and-grants/insurance/choose-an-insurance-adviser-and-present-your-risk.php">Choose an insurance adviser and present your risk</a>
 					<ul>
-						<li><a href="" title="Choose an insurance adviser and present your risk">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/choose-an-insurance-adviser-and-present-your-risk.php" title="Choose an insurance adviser and present your risk">Introduction</a></li>
 						<li>Who to consult and how insurance works</li>
 						<li>Minimise your risks and your costs</li>
 						<li>Presenting your risk details</li>
@@ -1411,9 +1411,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Choose and work with a solicitor</a>
+					<a href="/finance-and-grants/expert-financial-advice/choose-and-work-with-a-solicitor.php">Choose and work with a solicitor</a>
 					<ul>
-						<li><a href="" title="Choose and work with a solicitor">Introduction</a></li>
+						<li><a href="/finance-and-grants/expert-financial-advice/choose-and-work-with-a-solicitor.php" title="Choose and work with a solicitor">Introduction</a></li>
 						<li>When will I need legal advice?</li>
 						<li>Find a solicitor</li>
 						<li>Choose a solicitor</li>
