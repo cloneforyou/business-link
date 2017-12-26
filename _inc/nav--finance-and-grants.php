@@ -462,8 +462,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Manage your cashflow</a>
+					<a href="/finance-and-grants/manage-your-cashflow.php">Manage your cashflow</a>
 					<ul>
+						<li><a href="/finance-and-grants/manage-your-cashflow.php" title="Manage your cashflow">Introduction</a></li>
 						<li>
 							<a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics.php">Cashflow management: the basics</a>
 							<ul>
@@ -610,8 +611,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Expert financial advice</a>
+					<a href="/finance-and-grants/prepare-to-raise-finance/expert-financial-advice.php">Expert financial advice</a>
 					<ul>
+						<li><a href="/finance-and-grants/prepare-to-raise-finance/expert-financial-advice.php" title="Expert financial advice">Introduction</a></li>
 						<li>
 							<a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php">Choose and work with an accountant</a>
 							<ul>
