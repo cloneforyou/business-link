@@ -1435,9 +1435,9 @@
 					<a href="/finance-and-grants/introduction-to-insolvency.php" title="Introduction to insolvency">Introduction</a>
 				</li>
 				<li>
-					<a href="">Avoid insolvency</a>
+					<a href="/finance-and-grants/debt-recovery/avoid-insolvency.php">Avoid insolvency</a>
 					<ul>
-						<li><a href="" title="Avoid insolvency">Introduction</a></li>
+						<li><a href="/finance-and-grants/debt-recovery/avoid-insolvency.php" title="Avoid insolvency">Introduction</a></li>
 						<li>Improve cashflow</li>
 						<li>Negotiate with creditors</li>
 						<li>Reduce overheads</li>
@@ -1447,9 +1447,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Insolvency: the basics</a>
+					<a href="/finance-and-grants/introduction-to-insolvency/insolvency-the-basics.php">Insolvency: the basics</a>
 					<ul>
-						<li><a href="" title="Insolvency: the basics">Introduction</a></li>
+						<li><a href="/finance-and-grants/introduction-to-insolvency/insolvency-the-basics.php" title="Insolvency: the basics">Introduction</a></li>
 						<li>Avoiding bankruptcy and winding up</li>
 						<li>Insolvency of limited companies</li>
 						<li>Insolvency of partnerships</li>
