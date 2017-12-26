@@ -39,7 +39,7 @@ gulp.task('styles', function() {
 		.pipe(sourcemaps.init()) // Start Sourcemaps
 		.pipe(sass())
 		.pipe(autoprefixer({
-			browsers: ['last 2 versions'],
+			browsers: ['last 2 versions', 'ie >= 9', 'and_chr >= 2.3'],
 			cascade: false
 		}))
 		.pipe(gulp.dest('./assets/css/'))
@@ -111,35 +111,6 @@ gulp.task('foundation-js', function() {
 	.pipe(gulp.dest('./assets/js'))
 }); 
 
-
-// Update Foundation with Bower and save to /vendor
-// gulp.task('bower', function() {
-//   return bower({ cmd: 'update'})
-// 	.pipe(gulp.dest('_vendor/'))
-// });  
-
-
-// Browser-Sync watch files and inject changes
-// gulp.task('browsersync', function() {
-	// Watch files
-	// var files = [
-	// 	'./_assets/css/*.css', 
-	// 	'./_assets/js/*.js',
-	// 	'**/*.php',
-	// 	'_assets/images/*.{png,jpg,gif,svg,webp}',
-	// ];
-
-	// browserSync.init(files, {
-		// Replace with URL of your local site
-		// proxy: "http://localhost:1234/business-link/",
-	// 	port: 1234
-	// });
-	
-// 	gulp.watch('./_assets/scss/**/*.scss', ['styles']);
-// 	gulp.watch('./_assets/js/scripts/*.js', ['site-js']).on('change', browserSync.reload);
-
-// });
-// gulp.task('sync', ['browsersync']);
 
 gulp.task('connect-sync', function() {
   connect.server({}, function (){

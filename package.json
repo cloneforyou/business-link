@@ -10,6 +10,7 @@
   "license": "GPL-2.0 AND MIT",
   "homepage": "https://github.com/JeremyEnglert/JointsWP",
   "devDependencies": {
+    "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "browser-sync": "2.18.13",
     "gulp": "^3.9.0",
