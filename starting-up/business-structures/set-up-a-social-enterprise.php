@@ -68,7 +68,7 @@
 			<li><a href="http://investessex.co.uk/" target="_blank" rel="noopener noreferrer">Social enterprises guidance from EssexWorks</a></li>
 			<li><a href="../../_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 43K)</a></li>
 			<li><a href="http://web.archive.org/web/20111108221856/http://www.sel.org.uk/publications.aspx" target="_blank" rel="noopener noreferrer">Social enterprise resource materials from Social Enterprise London</a></li>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20090609003228/http://www.berr.gov.uk/whatwedo/businesslaw/co-act-2006/index.html" target="_blank" rel="noopener noreferrer">Companies Act 2006 guidance from the Department for Business, Innovation &amp; Skills</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20090609003228/https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategywhatwedo/businesslaw/co-act-2006/index.html" target="_blank" rel="noopener noreferrer">Companies Act 2006 guidance from the Department for Business, Innovation &amp; Skills</a></li>
 		</ul>
 
 		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />

@@ -54,7 +54,7 @@
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.gov.uk/topic/company-registration-filing/starting-company" target="_blank" rel="noopener noreferrer">Company incorporation guidance from Companies House</a></li>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20090609003228/http://www.berr.gov.uk/whatwedo/businesslaw/co-act-2006/index.html" target="_blank" rel="noopener noreferrer">Companies Act 2006 information from the Department for Business, Innovation &amp; Skills</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20090609003228/https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategywhatwedo/businesslaw/co-act-2006/index.html" target="_blank" rel="noopener noreferrer">Companies Act 2006 information from the Department for Business, Innovation &amp; Skills</a></li>
 			<li><a href="http://www.accaglobal.com/uk/en/member.html" target="_blank" rel="noopener noreferrer">Chartered accountant search with the Association of Certified Chartered Accountants</a></li>
 			<li><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your limited company online with Companies House</a></li>
 		</ul>

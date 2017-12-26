@@ -961,15 +961,15 @@
 			<a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough.php">Managing a business when economic conditions are tough</a>
 			<ul>
 				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough.php" title="Managing a business when economic conditions are tough">Introduction</a></li>
-				<li>Analyse the health of your business</li>
-				<li>Minimise cost and maximise efficiency</li>
-				<li>Keep your cashflow healthy</li>
-				<li>Limit the risks your business faces</li>
-				<li>Develop an effective survival strategy</li>
-				<li>Access sources of business support</li>
-				<li>Checklist - key tasks when economic conditions are tough</li>
-				<li>Here's how my business survived adverse trading conditions</li>
-				<li>Here's how I grew my business during a recession</li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/analyse-the-health-of-your-business.php">Analyse the health of your business</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/minimise-cost-and-maximise-efficiency.php">Minimise cost and maximise efficiency</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/keep-your-cashflow-healthy.php">Keep your cashflow healthy</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/limit-the-risks-your-business-faces.php">Limit the risks your business faces</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/develop-an-effective-survival-strategy.php">Develop an effective survival strategy</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/access-sources-of-business-support.php">Access sources of business support</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/checklist-key-tasks-when-economic-conditions-are-tough.php">Checklist - key tasks when economic conditions are tough</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/here-is-how-my-business-survived-adverse-trading-conditions.php">Here's how my business survived adverse trading conditions</a></li>
+				<li><a href="/finance-and-grants/managing-a-business-when-economic-conditions-are-tough/here-is-how-i-grew-my-business-during-a-recession.php">Here's how I grew my business during a recession</a></li>
 			</ul>
 		</li>
 		<li>
