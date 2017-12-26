@@ -2,9 +2,9 @@
 <html class="no-js">
 
 <head>
-	<title>Insolvency information for partnerships | Business Link</title>
+	<title>Insolvency information for sole traders and individuals | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
-	<!-- ref: layer309a.html || /layer?topicId=1084600722 -->
+	<!-- ref: layer8f0a.html || /layer?topicId=1084600731 -->
 </head>
 
 <body>
@@ -13,27 +13,34 @@
 <div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
 		
-		<h1>Insolvency information for partnerships</h1>
+		<h1>Insolvency information for sole traders and individuals</h1>
+		<h2><a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/alternatives-to-bankruptcy.php">Alternatives to bankruptcy</a></h2>
+		<p>How to avoid bankruptcy and the alternatives to consider</p>
 		
-		<h2><a href="/finance-and-grants/insolvency-information-for-partnerships/liquidation-and-alternatives-for-partnerships.php">Liquidation and alternatives for partnerships</a></h2>
-		<p>What 'winding up' a partnership means, how individuals can liquidate a partnership, and alternatives for partners</p>
+		<h2><a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/the-bankruptcy-process.php">The bankruptcy process</a></h2>
+		<p>Information on what happens during the bankruptcy process</p>
 		
-		<h2><a href="/finance-and-grants/insolvency-information-for-limited-companies/director-disqualification.php">Director disqualification</a></h2>
-		<p>How directors can be disqualified if their company becomes insolvent</p>
+		<h2><a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/how-bankruptcy-affects-you-and-your-business.php">How bankruptcy affects you and your business</a></h2>
+		<p>The effects of bankruptcy, what happens to your assets, and when it ends</p>
 		
+		<h2><a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/individual-insolvency-register.php">Individual Insolvency Register</a></h2>
+		<p>How to search for details of insolvent individuals, including bankrupts</p>
+
 		<h3>Spotlight</h3>
+		<!-- <h4><a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk" title="Video guidance from Business Link on the Business Link YouTube channel - Opens in a new window">See finance advice videos on Business Link's You Tube channel</a></h4> -->
 		
-		<!-- <h4><a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk"   title="Video guidance from Business Link on the Business Link YouTube channel - Opens in a new window" >See finance advice videos on Business Link's You Tube channel</a></h4> -->
+		<!-- <p>Watch guidance on understanding, seeking and securing finance</p> -->
 		
-		<!-- <p>Watch guidance on understanding, seeking and securing finance</p>
-		<a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk" title="Video guidance from Business Link on the Business Link YouTube channel - Opens in a new window">
+		<!-- <a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk" title="Video guidance from Business Link on the Business Link YouTube channel - Opens in a new window">
 			<img src="../../_img/Video3Pitch2.jpg" width="76" height="76"  alt="Video guidance from Business Link on the Business Link YouTube channel" />
 		</a> -->
-		
+
 		<a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">
 			<img src="../../_img/binocs.jpg" width="76" height="76" alt="This interactive tool provides you with a personalised list of the most suitable finance options for your business" />
 		</a>
+
 		<h4><a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">Find the right finance for your business</a></h4>
+		
 		<p>Use our interactive tool to help you choose and secure the right finance options</p>
 		
 		<h3>Case studies</h3>
@@ -44,19 +51,19 @@
 		</ul>
 
 		<img src="../../_img/FGCasestudies.jpg" width="75" height="75" alt="" />
-		
+
 		<h3>What's popular</h3>
 		<ul>
 			<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php">Use your business plan to get funding</a></li>
 			<li><a href="/finance-and-grants/manage-your-cashflow/cashflow-management-the-basics.php">Cashflow management: the basics</a></li>
 			<li><a href="/finance-and-grants/manage-your-cashflow/identify-potential-cashflow-problems.php">Identify potential cashflow problems</a></li>
 		</ul>
-
+		
 		<h3>Useful links</h3>
 		<ul>
 			<li><a href="http://www.cicm.com/resources/cashflow-guides/" target="_blank" rel="noopener noreferrer">Credit Management Matters</a></li>
 		</ul>
-		
+
 		<h3>Directories</h3>
 		<ul>
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20120729143841/http://www.events.businesslink.gov.uk/eventsearch?ds_topic=108" title="National and local events, seminars and workshops in your area to help you learn or network" target="_blank" rel="noopener noreferrer">Finance and grants events near you</a></li>

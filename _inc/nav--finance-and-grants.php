@@ -1562,9 +1562,9 @@
 					<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals.php" title="Insolvency information for sole traders and individuals">Introduction</a>
 				</li>
 				<li>
-					<a href="">Alternatives to bankruptcy</a>
+					<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/alternatives-to-bankruptcy.php">Alternatives to bankruptcy</a>
 					<ul>
-						<li><a href="" title="Alternatives to bankruptcy">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/alternatives-to-bankruptcy.php" title="Alternatives to bankruptcy">Introduction</a></li>
 						<li>
 							<a href="">Insolvency options for individuals</a>
 							<ul>
@@ -1601,9 +1601,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">The bankruptcy process</a>
+					<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/the-bankruptcy-process.php">The bankruptcy process</a>
 					<ul>
-						<li><a href="" title="The bankruptcy process">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/the-bankruptcy-process.php" title="The bankruptcy process">Introduction</a></li>
 						<li>
 							<a href="">Bankruptcy: the basics</a>
 							<ul>
@@ -1685,9 +1685,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">How bankruptcy affects you and your business</a>
+					<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/how-bankruptcy-affects-you-and-your-business.php">How bankruptcy affects you and your business</a>
 					<ul>
-						<li><a href="" title="How bankruptcy affects you and your business">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/how-bankruptcy-affects-you-and-your-business.php" title="How bankruptcy affects you and your business">Introduction</a></li>
 						<li>
 							<a href="">The effects of bankruptcy</a>
 							<ul>
@@ -1761,7 +1761,7 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Individual Insolvency Register</a>
+					<a href="/finance-and-grants/insolvency-information-for-sole-traders-and-individuals/individual-insolvency-register.php">Individual Insolvency Register</a>
 					<ul>
 						<li><a href="" title="Individual Insolvency Register">Introduction</a></li>
 						<li>The Individual Insolvency Register</li>
