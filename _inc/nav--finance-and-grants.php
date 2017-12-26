@@ -1535,17 +1535,17 @@
 					<a href="/finance-and-grants/insolvency-information-for-partnerships.php" title="Insolvency information for partnerships">Introduction</a>
 				</li>
 				<li>
-					<a href="">Liquidation and alternatives for partnerships</a>
+					<a href="/finance-and-grants/insolvency-information-for-partnerships/liquidation-and-alternatives-for-partnerships.php">Liquidation and alternatives for partnerships</a>
 					<ul>
-						<li><a href="" title="Liquidation and alternatives for partnerships">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-partnerships/liquidation-and-alternatives-for-partnerships.php" title="Liquidation and alternatives for partnerships">Introduction</a></li>
 						<li>What a partnership is, and how to wind up a partnership that owes money</li>
 						<li>How to wind up your own partnership</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Director disqualification</a>
+					<a href="/finance-and-grants/insolvency-information-for-limited-companies/director-disqualification.php">Director disqualification</a>
 					<ul>
-						<li><a href="" title="Director disqualification">Introduction</a></li>
+						<li><a href="/finance-and-grants/insolvency-information-for-limited-companies/director-disqualification.php" title="Director disqualification">Introduction</a></li>
 						<li>Disqualification of unfit directors of insolvent companies</li>
 						<li>Disqualification proceedings</li>
 						<li>The effects of disqualification</li>
