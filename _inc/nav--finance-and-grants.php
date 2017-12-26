@@ -1301,16 +1301,16 @@
 					<a href="/finance-and-grants/insurance.php" title="Insurance">Introduction</a>
 				</li>
 				<li>
-					<a href="">Get the right insurance for your business</a>
+					<a href="/finance-and-grants/insurance/get-the-right-insurance-for-your-business.php">Get the right insurance for your business</a>
 					<ul>
-						<li><a href="" title="Get the right insurance for your business">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/get-the-right-insurance-for-your-business.php" title="Get the right insurance for your business">Introduction</a></li>
 						<li>What insurance does my business need?</li>
 					</ul>
 				</li>
 				<li>
-					<a href="">Insure your business and assets - general insurances</a>
+					<a href="/finance-and-grants/insurance/insure-your-business-and-assets-general-insurances.php">Insure your business and assets - general insurances</a>
 					<ul>
-						<li><a href="" title="Insure your business and assets - general insurances">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/insure-your-business-and-assets-general-insurances.php" title="Insure your business and assets - general insurances">Introduction</a></li>
 						<li>Insuring your business premises</li>
 						<li>Contents insurance</li>
 						<li>Specialist insurance</li>
@@ -1322,9 +1322,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Insure your business - people, life and health</a>
+					<a href="/finance-and-grants/insurance/insure-your-business-people-life-and-health.php">Insure your business - people, life and health</a>
 					<ul>
-						<li><a href="" title="Insure your business - people, life and health">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/insure-your-business-people-life-and-health.php" title="Insure your business - people, life and health">Introduction</a></li>
 						<li>Identifying risks and insuring against them</li>
 						<li>Basic types of life and health insurance</li>
 						<li>Protecting the business - loss of a key person</li>
@@ -1334,9 +1334,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Liability insurance</a>
+					<a href="/finance-and-grants/insurance/liability-insurance.php">Liability insurance</a>
 					<ul>
-						<li><a href="" title="Liability insurance">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/liability-insurance.php" title="Liability insurance">Introduction</a></li>
 						<li>How liability insurance works</li>
 						<li>Employers' liability insurance</li>
 						<li>Public liability insurance</li>
@@ -1350,9 +1350,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Insurance for international trade</a>
+					<a href="/international-trade/importing-and-exporting-basics/managing-risks-of-importing-and-exporting/insurance-for-international-trade.php">Insurance for international trade</a>
 					<ul>
-						<li><a href="" title="Insurance for international trade">Introduction</a></li>
+						<li><a href="/international-trade/importing-and-exporting-basics/managing-risks-of-importing-and-exporting/insurance-for-international-trade.php" title="Insurance for international trade">Introduction</a></li>
 						<li>Weighing up import and export risks</li>
 						<li>Insuring goods in transit</li>
 						<li>Product liability insurance</li>
@@ -1363,9 +1363,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Choose an insurance adviser and present your risk</a>
+					<a href="/finance-and-grants/insurance/choose-an-insurance-adviser-and-present-your-risk.php">Choose an insurance adviser and present your risk</a>
 					<ul>
-						<li><a href="" title="Choose an insurance adviser and present your risk">Introduction</a></li>
+						<li><a href="/finance-and-grants/insurance/choose-an-insurance-adviser-and-present-your-risk.php" title="Choose an insurance adviser and present your risk">Introduction</a></li>
 						<li>Who to consult and how insurance works</li>
 						<li>Minimise your risks and your costs</li>
 						<li>Presenting your risk details</li>
