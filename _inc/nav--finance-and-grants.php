@@ -480,9 +480,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Decide whether to lease or buy assets</a>
+							<a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php">Decide whether to lease or buy assets</a>
 							<ul>
-								<li><a href="" title="Decide whether to lease or buy assets">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php" title="Decide whether to lease or buy assets">Introduction</a></li>
 								<li>How to acquire assets for your business</li>
 								<li>Types of leasing</li>
 								<li>Leasing or renting business equipment</li>
@@ -502,9 +502,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Invoicing and payment terms</a>
+							<a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php">Invoicing and payment terms</a>
 							<ul>
-								<li><a href="" title="Invoicing and payment terms">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php" title="Invoicing and payment terms">Introduction</a></li>
 								<li>Information that invoices must contain</li>
 								<li>Setting terms and conditions</li>
 								<li>Setting suitable payment terms for your customers</li>
@@ -513,9 +513,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Factoring and invoice discounting: the basics</a>
+							<a href="/finance-and-grants/manage-your-cashflow/factoring-and-invoice-discounting-the-basics.php">Factoring and invoice discounting: the basics</a>
 							<ul>
-								<li><a href="" title="Factoring and invoice discounting: the basics">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/factoring-and-invoice-discounting-the-basics.php" title="Factoring and invoice discounting: the basics">Introduction</a></li>
 								<li>How factoring works</li>
 								<li>Advantages and disadvantages of factoring</li>
 								<li>What makes a business suitable for factoring?</li>
@@ -529,18 +529,18 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Getting paid on time / Credit checking your customers and setting credit limits</a>
+							<a href="/finance-and-grants/manage-your-cashflow/credit-checking-your-customers-and-setting-credit-limits.php">Credit checking your customers and setting credit limits</a>
 							<ul>
-								<li><a href="" title="Credit checking your customers and setting credit limits">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/credit-checking-your-customers-and-setting-credit-limits.php" title="Credit checking your customers and setting credit limits">Introduction</a></li>
 								<li><a href="">Credit checking potential customers</a></li>
 								<li><a href="">Credit checking new customers</a></li>
 								<li><a href="">Setting levels of credit</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Assess and improve your business cashflow</a>
+							<a href="/finance-and-grants/manage-your-cashflow/assess-and-improve-your-business-cashflow.php">Assess and improve your business cashflow</a>
 							<ul>
-								<li><a href="" title="Assess and improve your business cashflow">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/assess-and-improve-your-business-cashflow.php" title="Assess and improve your business cashflow">Introduction</a></li>
 								<li><a href="">Assess and improve your business cashflow</a></li>
 							</ul>
 						</li>
