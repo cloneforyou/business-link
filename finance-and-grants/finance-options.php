@@ -35,7 +35,7 @@
 		
 		<!-- <p>Watch guidance on understanding, seeking and securing finance</p>
 		<a href="http://www.youtube.com/BusinessLinkGov" target="bgExternalwwwbusinesslinkgovuk" title="Video guidance from Business Link on the Business Link YouTube channel - Opens in a new window">
-			<img src="../../Horizontal_Services_images/Video3Pitch2.jpg" width="76" height="76"  alt="Video guidance from Business Link on the Business Link YouTube channel" />
+			<img src="../../_img/Video3Pitch2.jpg" width="76" height="76"  alt="Video guidance from Business Link on the Business Link YouTube channel" />
 		</a> -->
 
 		<a href="/finance-and-grants/finance-options/choose-the-right-finance-options/identify-the-right-finance-options-for-your-business.php">
