@@ -50,7 +50,7 @@
 			</a>
 		</p>
 	
-		<img src="../../syntegra/images/px_finance.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_finance.gif" alt="" width="181" height="5" />
 
 		
 	</div>
