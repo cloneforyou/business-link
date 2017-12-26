@@ -53,10 +53,8 @@ gulp.task('styles', function() {
 // JSHint, concat, and minify JavaScript
 gulp.task('site-js', function() {
   return gulp.src([	
-
-		// Grab your custom scripts
-		'./_assets/js/scripts/*.js'
-
+	// Grab your custom scripts
+	'./_assets/js/scripts/*.js'
   ])
 	.pipe(plumber())
 	.pipe(sourcemaps.init())
