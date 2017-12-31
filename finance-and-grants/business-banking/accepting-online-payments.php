@@ -4,7 +4,7 @@
 	<title>Accepting online payments | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
 
-	<!-- ref: x_x.html || /layer?topicId=1073920405 -->
+	<!-- ref: layer66a6.html || /layer?topicId=1073920405 -->
 	<meta name="description" content="How online payments work and how to set up a payment facility" />
 	<meta name="keywords" content="online payments; Credit cards;debit cards;acquiring bank;e-commerce;Internet sales;merchant service;Internet Merchant Services;Payment Service Provider;PSP;online transactions;merchant account;payment processing bureau;online shopping mall;online selling;electronic payment;online shop;payment processing company;internet merchant account;IMA;Payment Card Data Security Standard;PCI DSS;Payment Card Industry Security Standards Council;PCI SSC" />
 </head>
