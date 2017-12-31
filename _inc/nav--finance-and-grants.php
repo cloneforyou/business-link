@@ -1238,11 +1238,11 @@
 					<a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business.php">Debit and credit cards for your business</a>
 					<ul>
 						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business.php" title="Debit and credit cards for your business">Introduction</a></li>
-						<li>Types of card available</li>
-						<li>Business benefits of debit and credit cards</li>
-						<li>Drawbacks of debit and credit cards</li>
-						<li>Choosing a card provider</li>
-						<li>Risks of financing a business with a personal credit card</li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business/types-of-card-available.php">Types of card available</a></li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business/business-benefits-of-debit-and-credit-cards.php">Business benefits of debit and credit cards</a></li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business/drawbacks-of-debit-and-credit-cards.php">Drawbacks of debit and credit cards</a></li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business/choosing-a-card-provider.php">Choosing a card provider</a></li>
+						<li><a href="/finance-and-grants/business-banking/debit-and-credit-cards-for-your-business/risks-of-financing-a-business-with-a-personal-credit-card.php">Risks of financing a business with a personal credit card</a></li>
 					</ul>
 				</li>
 				<li>
