@@ -150,9 +150,9 @@
 					<ul>
 						<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance.php" title="Shares and equity finance">Introduction</a></li>
 						<li>
-							<a href="">Equity finance</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/equity-finance.php">Equity finance</a>
 							<ul>
-								<li><a href="" title="Equity finance">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/equity-finance.php" title="Equity finance">Introduction</a></li>
 								<li>What is equity finance and is it right for your business?</li>
 								<li>Sources of equity finance</li>
 								<li>The equity gap</li>
@@ -162,9 +162,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Venture capital</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/venture-capital.php">Venture capital</a>
 							<ul>
-								<li><a href="" title="Equity finance">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/venture-capital.php" title="Venture capital">Introduction</a></li>
 								<li>What is private equity and venture capital?</li>
 								<li>Is private equity right for your business?</li>
 								<li>Finding and approaching venture capital investors</li>
@@ -174,9 +174,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Business angels</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/business-angels.php">Business angels</a>
 							<ul>
-								<li><a href="" title="Business angels">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/business-angels.php" title="Business angels">Introduction</a></li>
 								<li>Business angels and how they operate</li>
 								<li>Advantages and disadvantages of business angel funding</li>
 								<li>Securing business angel investment</li>
@@ -185,9 +185,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Secure equity investment</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/secure-equity-investment.php">Secure equity investment</a>
 							<ul>
-								<li><a href="" title="Secure equity investment">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/secure-equity-investment.php" title="Secure equity investment">Introduction</a></li>
 								<li>Is private equity investment what your business needs?</li>
 								<li>Finding the right private equity investor</li>
 								<li>Value your business accurately</li>
@@ -196,9 +196,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Shares and shareholders</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/shares-and-shareholders.php">Shares and shareholders</a>
 							<ul>
-								<li><a href="" title="Shares and shareholders">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/shares-and-shareholders.php" title="Shares and shareholders">Introduction</a></li>
 								<li>What are shares and why are they issued?</li>
 								<li>How are shares issued?</li>
 								<li>Types of shares</li>
@@ -209,20 +209,21 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Floating on the stock market</a>
+							<a href="/buy-or-sell-a-business/floating-on-the-stock-market.php">Floating on the stock market</a>
 							<ul>
-								<li><a href="" title="Floating on the stock market">Introduction</a></li>
-								<li>Is your business suitable to be a public company?</li>
-								<li>Advantages and disadvantages of stock market flotation</li>
-								<li>The process of floating on a stock market</li>
-								<li>Appoint your advisers</li>
-								<li>Here's how we prepared our business for flotation</li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market.php" title="Floating on the stock market">Introduction</a></li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market.php" title="Floating on the stock market">Introduction</a></li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/is-your-business-suitable-to-be-a-public-company.php">Is your business suitable to be a public company?</a></li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/advantages-and-disadvantages-of-stock-market-flotation.php">Advantages and disadvantages of stock market flotation</a></li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/the-process-of-floating-on-a-stock-market.php">The process of floating on a stock market</a></li>
+								<li><a href="/buy-or-sell-a-business/floating-on-the-stock-market/appoint-your-advisers.php">Appoint your advisers</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/here-is-how-we-prepared-our-business-for-flotation.php">Here's how we prepared our business for flotation</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">London Stock Exchange Main Market</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/london-stock-exchange-main-market.php">London Stock Exchange Main Market</a>
 							<ul>
-								<li><a href="" title="London Stock Exchange Main Market">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/london-stock-exchange-main-market.php" title="London Stock Exchange Main Market">Introduction</a></li>
 								<li>What is the London Stock Exchange Main Market?</li>
 								<li>Is joining the London Stock Exchange Main Market right for your business?</li>
 								<li>Advantages of joining the London Stock Exchange Main Market</li>
@@ -234,9 +235,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Alternative Investment Market</a>
+							<a href="/finance-and-grants/finance-options/shares-and-equity-finance/london-stock-exchange-aim.php">Alternative Investment Market</a>
 							<ul>
-								<li><a href="" title="Alternative Investment Market">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/london-stock-exchange-aim.php" title="Alternative Investment Market">Introduction</a></li>
 								<li>What is the Alternative Investment Market?</li>
 								<li>Is joining the Alternative Investment Market right for your business?</li>
 								<li>Advantages of joining the Alternative Investment Market</li>
