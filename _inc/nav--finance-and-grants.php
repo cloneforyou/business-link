@@ -48,9 +48,9 @@
 					<ul>
 						<li><a href="/finance-and-grants/finance-options/borrowing.php" title="Borrowing">Introduction</a></li>
 						<li>
-							<a href="">Non-bank finance</a>
+							<a href="/finance-and-grants/finance-options/borrowing/non-bank-finance.php">Non-bank finance</a>
 							<ul>
-								<li><a href="" title="Non-bank finance">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/non-bank-finance.php" title="Non-bank finance">Introduction</a></li>
 								<li>Types of non-bank financial support</li>
 								<li>Social and community lenders</li>
 								<li>Non-bank funding for short and long-term use</li>
@@ -59,9 +59,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Raise long-term funding through debt capital markets</a>
+							<a href="/finance-and-grants/finance-options/borrowing/raise-long-term-funding-through-debt-capital-markets.php">Raise long-term funding through debt capital markets</a>
 							<ul>
-								<li><a href="" title="Raise long-term funding through debt capital markets">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/raise-long-term-funding-through-debt-capital-markets.php" title="Raise long-term funding through debt capital markets">Introduction</a></li>
 								<li>How bond finance works</li>
 								<li>Raising finance by issuing corporate bonds</li>
 								<li>Raising finance through private placements</li>
@@ -69,16 +69,16 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Government guaranteed lending schemes</a>
+							<a href="/finance-and-grants/finance-options/grants-and-government-support/government-guaranteed-lending-schemes.php">Government guaranteed lending schemes</a>
 							<ul>
-								<li><a href="" title="Government guaranteed lending schemes">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/government-guaranteed-lending-schemes.php" title="Government guaranteed lending schemes">Introduction</a></li>
 								<li>Assess your eligibility for government guaranteed lending schemes</li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Financing from friends and family</a>
+							<a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family.php">Financing from friends and family</a>
 							<ul>
-								<li><a href="" title="Financing from friends and family">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family.php" title="Financing from friends and family">Introduction</a></li>
 								<li>Loan or investment?</li>
 								<li>Benefits and pitfalls of friends and family finance</li>
 								<li>Setting up a loan or investment with friends or family</li>
@@ -87,9 +87,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Factoring and invoice discounting: the basics</a>
+							<a href="/finance-and-grants/manage-your-cashflow/factoring-and-invoice-discounting-the-basics.php">Factoring and invoice discounting: the basics</a>
 							<ul>
-								<li><a href="" title="Factoring and invoice discounting: the basics">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/factoring-and-invoice-discounting-the-basics.php" title="Factoring and invoice discounting: the basics">Introduction</a></li>
 								<li>How factoring works</li>
 								<li>Advantages and disadvantages of factoring</li>
 								<li>What makes a business suitable for factoring?</li>
@@ -103,9 +103,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Commercial mortgages and lenders</a>
+							<a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders.php">Commercial mortgages and lenders</a>
 							<ul>
-								<li><a href="" title="Commercial mortgages and lenders">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders.php" title="Commercial mortgages and lenders">Introduction</a></li>
 								<li>An overview of the commercial mortgage</li>
 								<li>Pros and cons of buying business premises</li>
 								<li>What lenders need to know</li>
@@ -117,9 +117,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Acquire assets and borrow money tax efficiently</a>
+							<a href="/finance-and-grants/finance-options/borrowing/acquire-assets-and-borrow-money-tax-efficiently.php">Acquire assets and borrow money tax efficiently</a>
 							<ul>
-								<li><a href="" title="Acquire assets and borrow money tax efficiently">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/acquire-assets-and-borrow-money-tax-efficiently.php" title="Acquire assets and borrow money tax efficiently">Introduction</a></li>
 								<li>Tax relief for buying or leasing assets</li>
 								<li>Calculating tax relief when acquiring an asset</li>
 								<li>Borrow money for capital investment from pension schemes</li>
@@ -127,9 +127,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Bank finance</a>
+							<a href="/finance-and-grants/finance-options/borrowing/bank-finance.php">Bank finance</a>
 							<ul>
-								<li><a href="" title="Bank finance">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance.php" title="Bank finance">Introduction</a></li>
 								<li>Types of bank finance for businesses</li>
 								<li>Loans</li>
 								<li>Overdrafts</li>
