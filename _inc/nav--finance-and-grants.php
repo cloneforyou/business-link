@@ -30,9 +30,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Decide whether to lease or buy assets</a>
+							<a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php">Decide whether to lease or buy assets</a>
 							<ul>
-								<li><a href="" title="Decide whether to lease or buy assets">Introduction</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php" title="Decide whether to lease or buy assets">Introduction</a></li>
 								<li>How to acquire assets for your business</li>
 								<li>Types of leasing</li>
 								<li>Leasing or renting business equipment</li>
