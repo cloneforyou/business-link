@@ -26,7 +26,30 @@
 		<li><a href="/sales-and-marketing/online-marketing.php">Online marketing</a></li>
 		<li><a href="/sales-and-marketing/advertising-branding-and-design.php">Advertising, branding and design</a></li>
 		<li><a href="/sales-and-marketing/selling.php">Selling</a></li>
-		<li><a href="/sales-and-marketing/online-selling.php">Online selling</a></li>
+		<li>
+			<a href="/sales-and-marketing/online-selling.php">Online selling</a>
+			<ul>
+				<li><a href="/sales-and-marketing/online-selling.php" title="Online selling">Introduction</a></li>
+				<!-- list pages -->
+				<ul>
+					<li>
+						<a href="/sales-and-marketing/online-selling/accepting-online-payments.php">Accepting online payments</a>
+						<ul>
+							<li><a href="/sales-and-marketing/online-selling/accepting-online-payments.php" title="Accepting online payments">Introduction</a></li>
+							<li><a href="/sales-and-marketing/online-selling/accepting-online-payments/online-payment-jargon.php">Online payment jargon</a></li>
+							<li><a href="/sales-and-marketing/online-selling/accepting-online-payments/payment-card-industry-data-security-standard-compliance.php">Payment Card Industry Data Security Standard compliance</a></li>
+							<li><a href="/sales-and-marketing/online-selling/accepting-online-payments/selecting-the-best-online-payment-option.php">Selecting the best online payment option</a></li>
+							<li><a href="/sales-and-marketing/online-selling/accepting-online-payments/setting-up-an-internet-merchant-account.php">Setting up an internet merchant account</a></li>
+							<li><a href="/sales-and-marketing/online-selling/accepting-online-payments/find-a-bank-to-process-your-online-payments.php">Find a bank to process your online payments</a></li>
+							<li><a href="/sales-and-marketing/online-selling/accepting-online-payments/checklist-applying-for-an-internet-merchant-account.php">Checklist: applying for an internet merchant account</a></li>
+							<li><a href="/sales-and-marketing/online-selling/accepting-online-payments/using-a-payment-processing-company.php">Using a payment-processing company</a></li>
+							<li><a href="/sales-and-marketing/online-selling/accepting-online-payments/selling-through-an-online-shopping-mall.php">Selling through an online shopping mall</a></li>
+							<li><a href="/sales-and-marketing/online-selling/accepting-online-payments/here-is-how-i-set-up-an-online-payment-system-for-my-website.php">Here's how I set up an online payment system for my website</a></li>
+						</ul>
+					</li>
+				</ul>
+			</ul>
+		</li>
 		<li><a href="/sales-and-marketing/selling-and-the-law.php">Selling and the law</a></li>
 		<li><a href="/sales-and-marketing/selling-overseas.php">Selling overseas</a></li>
 		<li><a href="/sales-and-marketing/pricing.php">Pricing</a></li>
