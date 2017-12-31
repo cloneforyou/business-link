@@ -184,9 +184,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Work with UK universities and colleges</a>
+					<a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges.php">Work with UK universities and colleges</a>
 					<ul>
-						<li><a href="" title="Work with UK universities and colleges">Introduction</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges.php" title="Work with UK universities and colleges">Introduction</a></li>
 						<li><a href="">Delivering innovation through collaboration and networking</a></li>
 						<li><a href="">Research councils and government help</a></li>
 						<li><a href="">Knowledge Transfer Partnerships</a></li>
@@ -330,9 +330,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Find support for inventors</a>
+					<a href="/create-innovate-and-protect/use-innovation-in-your-business/find-support-for-inventors.php">Find support for inventors</a>
 					<ul>
-						<li><a href="" title="Find support for inventors">Introduction</a></li>
+						<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/find-support-for-inventors.php" title="Find support for inventors">Introduction</a></li>
 						<li><a href="">Help in establishing your invention's originality</a></li>
 						<li><a href="">Help to ensure products are safe</a></li>
 						<li><a href="">Get legal help on intellectual property</a></li>

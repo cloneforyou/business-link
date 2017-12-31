@@ -253,9 +253,9 @@
 					<ul>
 						<li><a href="/finance-and-grants/finance-options/grants-and-government-support.php" title="Grants and government support">Introduction</a></li>
 						<li>
-							<a href="http://webarchive.nationalarchives.gov.uk/20111206102534/http://www.businesslink.gov.uk/static/html/intro.html">Grants: the basics</a>
+							<a href="/finance-and-grants/finance-options/grants-and-government-support/grants-the-basics.php">Grants: the basics</a>
 							<ul>
-								<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102534/http://www.businesslink.gov.uk/static/html/intro.html" title="Grants: the basics">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/grants-the-basics.php" title="Grants: the basics">Introduction</a></li>
 								<li>Government grants and support</li>
 								<li>What kind of grants are available?</li>
 								<li>Grant eligibility</li>
@@ -267,9 +267,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Government support for businesses</a>
+							<a href="/finance-and-grants/finance-options/grants-and-government-support/government-support-for-businesses.php">Government support for businesses</a>
 							<ul>
-								<li><a href="" title="Government support for businesses">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/government-support-for-businesses.php" title="Government support for businesses">Introduction</a></li>
 								<li>Business advice, information and guidance</li>
 								<li>Financial support for businesses</li>
 								<li>Coaching and networks</li>
@@ -282,22 +282,22 @@
 							</ul>
 						</li>
 						<li>
-							<a href="http://webarchive.nationalarchives.gov.uk/20111206084001/http://www.improve.businesslink.gov.uk//%2Fresources/business-support-finder">Business support finder</a>
+							<a href="https://www.gov.uk/business-finance-support" target="_blank" rel="noopener noreferrer">Business support finder</a>
 							<ul>
-								<li><a href="http://webarchive.nationalarchives.gov.uk/20111206084001/http://www.improve.businesslink.gov.uk//%2Fresources/business-support-finder" title="Business support finder">Introduction</a></li>
+								<li><a href="https://www.gov.uk/business-finance-support" title="Business support finder" target="_blank" rel="noopener noreferrer">Introduction</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Government guaranteed lending schemes</a>
+							<a href="/finance-and-grants/finance-options/grants-and-government-support/government-guaranteed-lending-schemes.php">Government guaranteed lending schemes</a>
 							<ul>
-								<li><a href="" title="Government guaranteed lending schemes">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/government-guaranteed-lending-schemes.php" title="Government guaranteed lending schemes">Introduction</a></li>
 								<li><a href="">Assess your eligibility for government guaranteed lending schemes</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Innovation, research and development grants</a>
+							<a href="/finance-and-grants/finance-options/grants-and-government-support/innovation-research-and-development-grants.php">Innovation, research and development grants</a>
 							<ul>
-								<li><a href="" title="Innovation, research and development grants">Introduction</a></li>
+								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/innovation-research-and-development-grants.php" title="Innovation, research and development grants">Introduction</a></li>
 								<li>Government funding and other support</li>
 								<li>Grant for Research and Development</li>
 								<li>Collaborative research and development</li>
@@ -308,9 +308,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Support networks and facilities for innovation and R&amp;D</a>
+							<a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d.php">Support networks and facilities for innovation and R&amp;D</a>
 							<ul>
-								<li><a href="" title="Support networks and facilities for innovation and R&amp;D">Introduction</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d.php" title="Support networks and facilities for innovation and R&amp;D">Introduction</a></li>
 								<li>Knowledge Transfer Support</li>
 								<li>Virtual support networks</li>
 								<li>The Enterprise Europe Network</li>
@@ -323,9 +323,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Find support for inventors</a>
+							<a href="/create-innovate-and-protect/use-innovation-in-your-business/find-support-for-inventors.php">Find support for inventors</a>
 							<ul>
-								<li><a href="" title="Find support for inventors">Introduction</a></li>
+								<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/find-support-for-inventors.php" title="Find support for inventors">Introduction</a></li>
 								<li>Help in establishing your invention's originality</li>
 								<li>Help to ensure products are safe</li>
 								<li>Get legal help on intellectual property</li>
@@ -338,9 +338,9 @@
 							</ul>
 						</li>
 						<li>
-							<a href="">Work with UK universities and colleges</a>
+							<a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges.php">Work with UK universities and colleges</a>
 							<ul>
-								<li><a href="" title="Work with UK universities and colleges">Introduction</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges.php" title="Work with UK universities and colleges">Introduction</a></li>
 								<li>Delivering innovation through collaboration and networking</li>
 								<li>Research councils and government help</li>
 								<li>Knowledge Transfer Partnerships</li>
