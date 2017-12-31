@@ -358,44 +358,45 @@
 					<ul>
 						<li><a href="/finance-and-grants/finance-options/capital-allowances.php" title="Capital allowances">Introduction</a></li>
 						<li>
-							<a href="">Capital allowances: the basics</a>
+							<a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/capital-allowances-the-basics.php">Capital allowances: the basics</a>
 							<ul>
-								<li><a href="" title="Capital allowances: the basics">Introduction</a></li>
+								<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/capital-allowances-the-basics.php" title="Capital allowances: the basics">Introduction</a></li>
 								<li><a href="">What you can claim capital allowances for</a></li>
 								<li><a href="">Research and development allowances</a></li>
 								<li><a href="">Claiming capital allowances</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Research and Development (R&amp;D) Relief for Corporation Tax</a>
+							<a href="/tax-payroll-and-company-information/corporation-tax/claiming-losses-allowances-and-reliefs/research-and-development-r-and-d-relief-for-corporation-tax.php">Research and Development (R&amp;D) Relief for Corporation Tax</a>
 							<ul>
-								<li><a href="" title="Research and Development (R&amp;D) Relief for Corporation Tax">Introduction</a></li>
-								<li>R&amp;D Relief schemes</li>
-								<li>The Small and Medium-sized Enterprise Scheme</li>
-								<li>The Large Company Scheme</li>
-								<li>Which R&amp;D projects might qualify for Relief?</li>
-								<li>Which costs qualify for R&amp;D Relief?</li>
-								<li>How much R&amp;D Relief SMEs can claim</li>
-								<li>How and when to claim R&amp;D Relief</li>
-								<li>Capital allowances and R&amp;D Relief</li>
-								<li>Record keeping for R&amp;D Relief</li>
-								<li>Answers to your R&amp;D Relief questions</li>
-								<li>R&amp;D Consultative Committee</li>
-								<li>Voluntary advance assurance pilot</li>
+								<li><a href="/tax-payroll-and-company-information/corporation-tax/claiming-losses-allowances-and-reliefs/research-and-development-r-and-d-relief-for-corporation-tax.php" title="Research and Development (R&amp;D) Relief for Corporation Tax">Introduction</a></li>
+								<li><a href="/tax-payroll-and-company-information/corporation-tax/claiming-losses-allowances-and-reliefs/research-and-development-r-and-d-relief-for-corporation-tax.php">Introduction</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/r-and-d-relief-schemes.php">R&amp;D Relief schemes</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/the-small-and-medium-sized-enterprise-scheme.php">The Small and Medium-sized Enterprise Scheme</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/the-large-company-scheme.php">The Large Company Scheme</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/which-r-and-d-projects-might-qualify-for-relief.php">Which R&amp;D projects might qualify for Relief?</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/which-costs-qualify-for-r-and-d-relief.php">Which costs qualify for R&amp;D Relief?</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/how-much-r-and-d-relief-sme-can-claim.php">How much R&amp;D Relief SMEs can claim</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/how-and-when-to-claim-r-and-d-relief.php">How and when to claim R&amp;D Relief</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/capital-allowances-and-r-and-d-relief.php">Capital allowances and R&amp;D Relief</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/record-keeping-for-r-and-d-relief.php">Record keeping for R&amp;D Relief</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/answers-to-your-r-and-d-elief-questions.php">Answers to your R&amp;D Relief questions</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/r-and-d-consultative-committee.php">R&amp;D Consultative Committee</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/research-and-development-relief-for-corporation-tax/voluntary-advance-assurance-pilot.php">Voluntary advance assurance pilot</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">Tax advantages for those starting up in business</a>
+							<a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/tax-advantages-for-those-starting-up-in-business.php">Tax advantages for those starting up in business</a>
 							<ul>
-								<li><a href="" title="Tax advantages for those starting up in business">Introduction</a></li>
+								<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/tax-advantages-for-those-starting-up-in-business.php" title="Tax advantages for those starting up in business">Introduction</a></li>
 								<li><a href="">Details of tax advantages for new businesses</a></li>
 								<li><a href="">Here's how the tax authorities helped me start my business</a></li>
 							</ul>
 						</li>
 						<li>
-							<a href="">First-year allowances: the basics</a>
+							<a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/first-year-allowances/first-year-allowances-the-basics.php">First-year allowances: the basics</a>
 							<ul>
-								<li><a href="" title="First-year allowances: the basics">Introduction</a></li>
+								<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/first-year-allowances/first-year-allowances-the-basics.php" title="First-year allowances: the basics">Introduction</a></li>
 								<li><a href="">What you can claim first-year allowances for</a></li>
 								<li><a href="">First-year allowances: non-qualifying items</a></li>
 							</ul>
