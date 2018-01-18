@@ -689,14 +689,14 @@
 					<a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics.php">Balance sheets: the basics</a>
 					<ul>
 						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics.php" title="Balance sheets: the basics">Introduction</a></li>
-						<li>Balance sheet reporting - who, when and where?</li>
-						<li>Contents of the balance sheet</li>
-						<li>Interpreting balance sheet figures</li>
-						<li>The relationship between balance sheets and profit and loss accounts</li>
-						<li>Compare balance sheets to assess business performance</li>
-						<li>Use accounting ratios to assess business performance</li>
-						<li>Accounting periods</li>
-						<li>Here's how a good balance sheet helped me to improve my business</li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/balance-sheet-reporting-who-when-and-where.php">Balance sheet reporting - who, when and where?</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/contents-of-the-balance-sheet.php">Contents of the balance sheet</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/interpreting-balance-sheet-figures.php">Interpreting balance sheet figures</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/the-relationship-between-balance-sheets-and-profit-and-loss-accounts.php">The relationship between balance sheets and profit and loss accounts</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/compare-balance-sheets-to-assess-business-performance.php">Compare balance sheets to assess business performance</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/use-accounting-ratios-to-assess-business-performance.php">Use accounting ratios to assess business performance</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/accounting-periods.php">Accounting periods</a></li>
+						<li><a href="/finance-and-grants/financial-planning-and-accounts/balance-sheets-the-basics/here-is-how-a-good-balance-sheet-helped-me-to-improve-my-business.php">Here's how a good balance sheet helped me to improve my business</a></li>
 					</ul>
 				</li>
 				<li>
