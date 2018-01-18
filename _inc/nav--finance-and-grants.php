@@ -130,17 +130,17 @@
 							<a href="/finance-and-grants/finance-options/borrowing/bank-finance.php">Bank finance</a>
 							<ul>
 								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance.php" title="Bank finance">Introduction</a></li>
-								<li>Types of bank finance for businesses</li>
-								<li>Loans</li>
-								<li>Overdrafts</li>
-								<li>Where to look for a bank loan</li>
-								<li>Choosing the right bank</li>
-								<li>Obtaining a loan and offering security</li>
-								<li>Credit scoring and rating</li>
-								<li>Providing a guarantee for your loan</li>
-								<li>European Investment Bank funding for small and medium-sized businesses</li>
-								<li>Here's how my business benefited from taking out a loan (Flash video)</li>
-								<li>Here's how securing the right loan helped my business develop</li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/types-of-bank-finance-for-businesses.php">Types of bank finance for businesses</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/loans.php">Loans</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/overdrafts.php">Overdrafts</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/where-to-look-for-a-bank-loan.php">Where to look for a bank loan</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/choosing-the-right-bank.php">Choosing the right bank</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/obtaining-a-loan-and-offering-security.php">Obtaining a loan and offering security</a></li>
+								<!-- <li>Credit scoring and rating</li> -->
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/providing-a-guarantee-for-your-loan.php">Providing a guarantee for your loan</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/european-investment-bank-funding-for-small-and-medium-sized-businesses.php">European Investment Bank funding for small and medium-sized businesses</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/here-is-how-my-business-benefited-from-taking-out-a-loan_flash-video.php">Here's how my business benefited from taking out a loan (Flash video)</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance/here-is-how-securing-the-right-loan-helped-my-business-develop.php">Here's how securing the right loan helped my business develop</a></li>
 							</ul>
 						</li>
 					</ul>
