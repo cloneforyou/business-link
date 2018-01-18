@@ -50,7 +50,7 @@
 		<p>Developed with:<br />
 			<a href="https://www.bba.org.uk/" title="British Bankers' Association" target="_blank" rel="noopener noreferrer">
 				<img src="/_img/BBAFinallogo.gif" width="78" height="35" alt="" /> British Bankers' Association
-			</a><br />
+			</a><br /><br />
 			<a href="http://www.theukcardsassociation.org.uk/" title="The UK Cards Association" target="_blank" rel="noopener noreferrer">
 				<img src="/_img/logo_uk_cards.jpg" width="85" height="35" alt="" /> The UK Cards Association
 			</a>
