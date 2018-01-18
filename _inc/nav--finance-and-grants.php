@@ -33,12 +33,12 @@
 							<a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php">Decide whether to lease or buy assets</a>
 							<ul>
 								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets.php" title="Decide whether to lease or buy assets">Introduction</a></li>
-								<li>How to acquire assets for your business</li>
-								<li>Types of leasing</li>
-								<li>Leasing or renting business equipment</li>
-								<li>Buying equipment outright</li>
-								<li>Understanding depreciation of assets</li>
-								<li>Choosing a leasing company</li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/how-to-acquire-assets-for-your-business.php">How to acquire assets for your business</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/types-of-leasing.php">Types of leasing</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/leasing-or-renting-business-equipment.php" title="Leasing or renting business equipment">Leasing or renting business equipment</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/buying-equipment-outright.php" title="Buying equipment outright">Buying equipment outright</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/understanding-depreciation-of-assets.php">Understanding depreciation of assets</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/decide-whether-to-lease-or-buy-assets/choosing-a-leasing-company.php">Choosing a leasing company</a></li>
 							</ul>
 						</li>
 					</ul>
