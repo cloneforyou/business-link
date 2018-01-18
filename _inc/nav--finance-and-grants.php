@@ -106,14 +106,14 @@
 							<a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders.php">Commercial mortgages and lenders</a>
 							<ul>
 								<li><a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders.php" title="Commercial mortgages and lenders">Introduction</a></li>
-								<li>An overview of the commercial mortgage</li>
-								<li>Pros and cons of buying business premises</li>
-								<li>What lenders need to know</li>
-								<li>Different types of lender</li>
-								<li>Finding a lender</li>
-								<li>Repaying a commercial mortgage</li>
-								<li>Commercial mortgage fees and costs</li>
-								<li>Here's how I took out a commercial mortgage to buy a pub</li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-mortgages-and-lenders/an-overview-of-the-commercial-mortgage.php">An overview of the commercial mortgage</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-mortgages-and-lenders/pros-and-cons-of-buying-business-premises.php">Pros and cons of buying business premises</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-mortgages-and-lenders/what-lenders-need-to-know.php">What lenders need to know</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-mortgages-and-lenders/different-types-of-lender.php">Different types of lender</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders/finding-a-lender.php">Finding a lender</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders/repaying-a-commercial-mortgage.php">Repaying a commercial mortgage</a></li>
+								<li><a href="/premises-and-property/choosing-the-right-premises/commercial-mortgages-and-lenders/commercial-mortgage-fees-and-costs.php">Commercial mortgage fees and costs</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/commercial-mortgages-and-lenders/here-is-how-i-took-out-a-commercial-mortgage-to-buy-a-pub.php">Here's how I took out a commercial mortgage to buy a pub</a></li>
 							</ul>
 						</li>
 						<li>
