@@ -1249,17 +1249,17 @@
 					<a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services.php">Using payment cards to buy and sell goods or services</a>
 					<ul>
 						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services.php" title="Using payment cards to buy and sell goods or services">Introduction</a></li>
-						<li>Types of payment cards available</li>
-						<li>Pros and cons of using payment cards for purchases</li>
-						<li>Choosing a payment card provider</li>
-						<li>Risks of financing a business with a personal credit card</li>
-						<li>Pros and cons of accepting payment cards for sales</li>
-						<li>Accepting card payments: the key steps to take</li>
-						<li>Setting up a merchant account</li>
-						<li>How the card payment process works</li>
-						<li>The costs of accepting card payments</li>
-						<li>Your liability for disputed card payments</li>
-						<li>Payment card security measures</li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/types-of-payment-cards-available.php" title="Types of payment cards available ">Types of payment cards available</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/pros-and-cons-of-using-payment-cards-for-purchases.php">Pros and cons of using payment cards for purchases</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/choosing-a-payment-card-provider.php">Choosing a payment card provider</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/risks-of-financing-a-business-with-a-personal-credit-card.php">Risks of financing a business with a personal credit card</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/pros-and-cons-of-accepting-payment-cards-for-sales.php">Pros and cons of accepting payment cards for sales</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/accepting-card-payments-the-key-steps-to-take.php">Accepting card payments: the key steps to take</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/setting-up-a-merchant-account.php">Setting up a merchant account</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/how-the-card-payment-process-works.php">How the card payment process works</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/the-costs-of-accepting-card-payments.php">The costs of accepting card payments</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/your-liability-for-disputed-card-payments.php">Your liability for disputed card payments</a></li>
+						<li><a href="/finance-and-grants/business-banking/using-payment-cards-to-buy-and-sell-goods-or-services/payment-card-security-measures.php" title="Payment card security measures ">Payment card security measures</a></li>
 					</ul>
 				</li>
 				<li>
