@@ -79,11 +79,11 @@
 							<a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family.php">Financing from friends and family</a>
 							<ul>
 								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family.php" title="Financing from friends and family">Introduction</a></li>
-								<li>Loan or investment?</li>
-								<li>Benefits and pitfalls of friends and family finance</li>
-								<li>Setting up a loan or investment with friends or family</li>
-								<li>Legal agreements</li>
-								<li>Tax and finance from friends and family</li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family/loan-or-investment.php">Loan or investment?</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family/benefits-and-pitfalls-of-friends-and-family-finance.php">Benefits and pitfalls of friends and family finance</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family/setting-up-a-loan-or-investment-with-friends-or-family.php">Setting up a loan or investment with friends or family</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family/legal-agreements.php">Legal agreements</a></li>
+								<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family/tax-and-finance-from-friends-and-family.php">Tax and finance from friends and family</a></li>
 							</ul>
 						</li>
 						<li>
