@@ -299,13 +299,13 @@
 							<a href="/finance-and-grants/finance-options/grants-and-government-support/innovation-research-and-development-grants.php">Innovation, research and development grants</a>
 							<ul>
 								<li><a href="/finance-and-grants/finance-options/grants-and-government-support/innovation-research-and-development-grants.php" title="Innovation, research and development grants">Introduction</a></li>
-								<li>Government funding and other support</li>
-								<li>Grant for Research and Development</li>
-								<li>Collaborative research and development</li>
-								<li>Other sources of funding</li>
-								<li>R&amp;D tax credits</li>
-								<li>The EU Framework Programme</li>
-								<li>EUREKA</li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/government-funding-and-other-support.php">Government funding and other support</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/the-smart-programme.php" title="The Smart programme">The Smart programme</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/collaborative-research-and-development.php">Collaborative research and development</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/other-sources-of-funding.php">Other sources of funding</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/r-and-d-tax-credits.php">R&amp;D tax credits</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/the-eu-framework-programme.php">The EU Framework Programme</a></li>
+								<li><a href="/create-innovate-and-protect/research-and-development/innovation-research-and-development-grants/eureka.php">EUREKA</a></li>
 							</ul>
 						</li>
 						<li>
