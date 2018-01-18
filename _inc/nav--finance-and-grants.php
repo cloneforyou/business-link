@@ -508,11 +508,12 @@
 							<a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php">Invoicing and payment terms</a>
 							<ul>
 								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php" title="Invoicing and payment terms">Introduction</a></li>
-								<li>Information that invoices must contain</li>
-								<li>Setting terms and conditions</li>
-								<li>Setting suitable payment terms for your customers</li>
-								<li>Commonly used invoice payment terms and their meanings</li>
-								<li>Here's how setting the right payment terms improved my business' cashflow</li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/information-that-invoices-must-contain.php">Information that invoices must contain</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/vat-details-to-include-on-invoices.php">VAT details to include on invoices</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/setting-terms-and-conditions.php">Setting terms and conditions</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/setting-suitable-payment-terms-for-your-customers.php">Setting suitable payment terms for your customers</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/commonly-used-invoice-payment-terms-and-their-meanings.php">Commonly used invoice payment terms and their meanings</a></li>
+								<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms/here-is-how-setting-the-right-payment-terms-improved-my-business-cashflow.php">Here's how setting the right payment terms improved my business' cashflow</a></li>
 							</ul>
 						</li>
 						<li>
