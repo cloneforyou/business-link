@@ -1281,12 +1281,12 @@
 					<a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks.php">Foreign currency and exchange risks</a>
 					<ul>
 						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks.php" title="Foreign currency and exchange risks">Introduction</a></li>
-						<li>Foreign currency issues when importing or exporting</li>
-						<li>Identify foreign exchange risks</li>
-						<li>Forward foreign exchange contracts</li>
-						<li>Banking overseas and UK-based foreign currency accounts</li>
-						<li>Buying currency options</li>
-						<li>Foreign currency transactions and your bookkeeping</li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/foreign-currency-issues-when-importing-or-exporting.php">Foreign currency issues when importing or exporting</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/identify-foreign-exchange-risks.php">Identify foreign exchange risks</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/forward-foreign-exchange-contracts.php">Forward foreign exchange contracts</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/banking-overseas-and-uk-based-foreign-currency-accounts.php">Banking overseas and UK-based foreign currency accounts</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/buying-currency-options.php">Buying currency options</a></li>
+						<li><a href="/finance-and-grants/business-banking/foreign-currency-and-exchange-risks/foreign-currency-transactions-and-your-bookkeeping.php">Foreign currency transactions and your bookkeeping</a></li>
 					</ul>
 				</li>
 				<li>

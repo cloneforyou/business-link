@@ -67,7 +67,7 @@
 		<ul>
 			<li><a href="https://www.contactus.trade.gov.uk/office-finder/" target="_blank" rel="noopener noreferrer">International trade team search on the UK Trade &amp; Investment website</a></li>
 			<li><a href="https://www.gov.uk/government/organisations/intellectual-property-office" target="_blank" rel="noopener noreferrer">Intellectual property protection guidance on the Intellectual Property Office website</a></li>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20120418175729/http://www.improve.businesslink.gov.uk/resources/tools/exporting-growth" target="_blank" rel="noopener noreferrer">Use the tool Exporting for growth on the Growth and Improvement Service</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20120418175729/http://webarchive.nationalarchives.gov.uk/20120823223804/http://www.improve.businesslink.gov.uk//resources//tools//exporting-growth" target="_blank" rel="noopener noreferrer">Use the tool Exporting for growth on the Growth and Improvement Service</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>
