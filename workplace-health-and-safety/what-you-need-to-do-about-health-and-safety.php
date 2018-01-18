@@ -34,7 +34,7 @@
 			<li><a href="/workplace-health-and-safety/what-you-need-to-do-about-health-and-safety/business-benefits-of-good-health-and-safety-at-work.php">Business benefits of good health and safety at work</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

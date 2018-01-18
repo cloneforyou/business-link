@@ -60,7 +60,7 @@
 			<li><a href="/starting-up/name-your-business/choose-the-right-name-for-your-business/here-is-how-i-chose-the-name-for-my-business.php">Here's how I chose the name for my business</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

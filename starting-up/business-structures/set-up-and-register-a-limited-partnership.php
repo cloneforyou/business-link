@@ -36,7 +36,7 @@
 			<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-partnership/dissolving-a-limited-partnership.php">Dissolving a limited partnership</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

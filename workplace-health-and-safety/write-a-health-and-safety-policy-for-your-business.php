@@ -37,7 +37,7 @@
 			<li><a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business/implementing-your-health-and-safety-policy.php">Implementing your health and safety policy</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

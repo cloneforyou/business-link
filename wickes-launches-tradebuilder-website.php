@@ -24,7 +24,7 @@
 		<p><a href="#">Wickes Trade Builder</a> is a simple to access and navigate website developed to provide tailored business information for tradesmen. The site is the first online resource to provide the key information an independent tradesman needs to run a successful business, including template invoices, tips on getting and keeping customers, navigating the legalities surrounding the hiring of employees and apprentices, and tax assessment guidelines.</p>
 		<p>** Research conducted amongst 500 British tradesmen between 15 - 22 August 2011 by Zebra Square</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

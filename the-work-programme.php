@@ -21,7 +21,7 @@
 		<p>The Work Programme providers are free to innovate and design support that is tailored to an individual's needs. They will work closely with employers in their area to understand and support the local labour market. Your local provider could help you with your recruitment needs and find the right person for the job.</p>
 		<p><a href="https://www.gov.uk/government/publications/work-programme-dwp-provider-guidance" target="_blank" rel="noopener noreferrer">Find information about the Work Programme and contact details for your local providers on the DWP website</a>.</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

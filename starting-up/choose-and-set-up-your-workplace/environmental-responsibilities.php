@@ -43,7 +43,7 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/environmental-responsibilities/the-business-benefits-of-good-environmental-and-sustainable-practices.php">The business benefits of good environmental and sustainable practices</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

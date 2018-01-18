@@ -37,7 +37,7 @@
 			<li><a href="/workplace-health-and-safety/decide-who-will-help-with-your-health-and-safety-duties/getting-specialist-help.php">Getting specialist help</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

@@ -75,7 +75,7 @@
 			<li><a href="/starting-up/name-your-business/rules-for-naming-your-limited-company-or-limited-liability-partnership-llp/prescribed-and-sensitive-words.php">Prescribed and sensitive words</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

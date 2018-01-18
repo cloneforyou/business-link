@@ -48,7 +48,7 @@
 			<li><a href="/starting-up/business-structures/legal-structures-the-basics/uk-establishments-of-overseas-companies.php">UK establishments of overseas companies</a></li>
 			<li><a href="/starting-up/business-structures/legal-structures-the-basics/buying-a-franchise.php">Buying a franchise</a></li>
 		</ul>
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 		<h3>Actions</h3>
 		<ul>

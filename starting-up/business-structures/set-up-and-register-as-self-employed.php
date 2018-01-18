@@ -37,7 +37,7 @@
 			<li><a href="/starting-up/business-structures/set-up-and-register-as-self-employed/checklist-setting-up-as-self-employed.php">Checklist: setting up as self-employed</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

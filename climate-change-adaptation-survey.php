@@ -22,7 +22,7 @@
 		<p>You can <a href="https://www.gov.uk/government/organisations/environment-agency/about/research" target="_blank" rel="noopener noreferrer">find the survey and information about the adapting to climate change programme on the Environment Agency website</a>.</p>
 		<p>You can also <a href="/environment-and-efficiency/adapt-to-climate-change/identify-where-you-can-save-money-by-preparing-for-climate-change-impacts.php">use our interactive tool to assess financial risks and opportunities from the effects of climate change</a> or read our guide on <a href="l/environment-and-efficiency/adapt-to-climate-change/adapt-your-business-to-the-effects-of-climate-change.php">how to adapt your business to the effects of climate change</a>.</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

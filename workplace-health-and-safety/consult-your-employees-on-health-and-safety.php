@@ -38,7 +38,7 @@
 			<li><a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety/how-to-consult-with-your-workers.php">How to consult with your workers</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

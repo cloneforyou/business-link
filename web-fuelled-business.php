@@ -44,7 +44,7 @@
 
 		<p><em>Editor note: http://schoolforstartups.co.uk/portfolio/web-fuelled-business/</em></p>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

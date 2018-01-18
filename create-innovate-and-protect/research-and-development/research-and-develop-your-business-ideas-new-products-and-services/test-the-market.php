@@ -59,7 +59,7 @@
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-developing-a-new-product-benefited-my-business.php">Here's how developing a new product benefited my business</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

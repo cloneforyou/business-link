@@ -36,7 +36,7 @@
 			<li><a href="/workplace-health-and-safety/managing-the-risks-in-your-business/regularly-review-your-risk-assessment.php">Regularly review your risk assessment</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

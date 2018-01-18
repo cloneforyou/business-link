@@ -28,7 +28,7 @@
 			<li><strong><a href="/october-2012-regulation-changes.php">Guidance on the October 2011 regulation changes and how they affect your business</a></strong></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
