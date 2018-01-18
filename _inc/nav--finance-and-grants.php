@@ -1293,13 +1293,13 @@
 					<a href="/finance-and-grants/business-banking/understanding-european-banking-services.php">Understanding European banking services</a>
 					<ul>
 						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services.php" title="Understanding European banking services">Introduction</a></li>
-						<li>Business banking services offered by European banks</li>
-						<li>What you will need to set up your business account in Europe</li>
-						<li>Accessibility of European banks</li>
-						<li>UK bank business accounts for Europe</li>
-						<li>Writing a business plan for a European bank</li>
-						<li>Credit checks in Europe</li>
-						<li>Single European Payment Area</li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/business-banking-services-offered-by-european-banks.php">Business banking services offered by European banks</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/what-you-will-need-to-set-up-your-business-account-in-europe.php">What you will need to set up your business account in Europe</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/accessibility-of-european-banks.php">Accessibility of European banks</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/uk-bank-business-accounts-for-europe.php">UK bank business accounts for Europe</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/writing-a-business-plan-for-a-european-bank.php">Writing a business plan for a European bank</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/credit-checks-in-europe.php">Credit checks in Europe</a></li>
+						<li><a href="/finance-and-grants/business-banking/understanding-european-banking-services/single-european-payment-area.php">Single European Payment Area</a></li>
 					</ul>
 				</li>
 			</ul>
