@@ -37,7 +37,7 @@
 			<p>The <strong>Enterprise Finance Guarantee</strong> (EFG) aims to help smaller credit-worthy businesses that are unable to obtain a conventional loan because of the current tight lending conditions. <a href="http://webarchive.nationalarchives.gov.uk/20120419053132/http://www.bis.gov.uk/policies/enterprise-and-business-support/access-to-finance/enterprise-finance-guarantee" target="_blank" rel="noopener noreferrer">Find out about the EFG on the Department for Business, Innovation &amp; Skills (BIS) website</a>.</p>
 			<p>If you need to improve your business skills before or after starting up a business, you can apply for a Professional and Career Development Loan. This is a deferred repayment bank loan aimed at financing the training and qualifications that will help individuals further their career or business.</p>
 			<p><a href="https://www.gov.uk/career-development-loans" target="_blank" rel="noopener noreferrer">Find out about Professional and Career Development Loans on the Directgov website</a>.</p>
-			<p><a href="http://webarchive.nationalarchives.gov.uk/20120418175516/http://improve.businesslink.gov.uk/resources/business-support-finder" target="_blank" rel="noopener noreferrer">Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</a>.</p>
+			<p><a href="http://webarchive.nationalarchives.gov.uk/20120418175516/http://webarchive.nationalarchives.gov.uk/20120823132430/http://www.improve.businesslink.gov.uk/resources/business-support-finder" target="_blank" rel="noopener noreferrer">Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</a>.</p>
 			
 			<ul>
 				<li><a href="/starting-up/further-support-for-your-business/extra-help-and-support-available-for-your-start-up.php" title="Extra help and support available for your start up">Prev</a></li>
@@ -65,7 +65,7 @@
 			
 			<h3>Actions</h3>
 			<ul>
-				<li><a href="http://webarchive.nationalarchives.gov.uk/20120418175516/http://improve.businesslink.gov.uk/resources/business-support-finder" target="_blank" rel="noopener noreferrer">Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</a></li>
+				<li><a href="http://webarchive.nationalarchives.gov.uk/20120418175516/http://webarchive.nationalarchives.gov.uk/20120823132430/http://www.improve.businesslink.gov.uk/resources/business-support-finder" target="_blank" rel="noopener noreferrer">Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</a></li>
 				<li><a href="https://www.gov.uk/career-development-loans" target="_blank" rel="noopener noreferrer">Professional and Career Development Loans explained on the Directgov website</a></li>
 				<li><a href="http://www.mentorsme.co.uk/" target="_blank" rel="noopener noreferrer">Business mentors directory on the Mentorsme.co.uk website</a></li>
 				<li><a href="http://www.horsesmouth.co.uk/publisha.content/Work/topics.publisha?topic=Starting+a+business" target="_blank" rel="noopener noreferrer">Online business mentoring explained on the horsesmouth website</a></li>

@@ -38,7 +38,7 @@
 			<p>The wider world of networking allows you to meet a range of business people. You can do this at a local level - by talking to other business people in your area - or at a much broader level, eg through social networking websites and professional networks such as LinkedIn, Plaxo and Ecademy.</p>
 			<p>Sources of information about local networking groups or meetings are available from your local Chamber of Commerce, business advisers or trade associations. There are also Business Collaboration Networks - part of a range of support offered through the government's Solutions for Business portfolio. Solutions for Business is a package of products and services designed to help businesses start, grow and succeed.</p>
 			<p>For links to Solutions for Business advice and support, see our <a href="/solutions-for-business-portfolio.php">Solutions for Business portfolio</a>.</p>
-			<p><a href="http://webarchive.nationalarchives.gov.uk/20120418175516/http://improve.businesslink.gov.uk/resources/business-support-finder" target="_blank" rel="noopener noreferrer">Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</a>.</p>
+			<p><a href="http://webarchive.nationalarchives.gov.uk/20120418175516/http://webarchive.nationalarchives.gov.uk/20120823132430/http://www.improve.businesslink.gov.uk/resources/business-support-finder" target="_blank" rel="noopener noreferrer">Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</a>.</p>
 			
 			<h3>Professional advice</h3>
 			<p>For tax and legal issues, it is important to seek professional advice. See our guides on how to <a href="/finance-and-grants/financial-planning-and-accounts/choose-and-work-with-an-accountant.php">choose and work with an accountant</a> and <a href="/finance-and-grants/expert-financial-advice/choose-and-work-with-a-solicitor.php">choose and work with a solicitor</a>.</p>
@@ -69,7 +69,7 @@
 			
 			<h3>Actions</h3>
 			<ul>
-				<li><a href="http://webarchive.nationalarchives.gov.uk/20120418175516/http://improve.businesslink.gov.uk/resources/business-support-finder" target="_blank" rel="noopener noreferrer">Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</a></li>
+				<li><a href="http://webarchive.nationalarchives.gov.uk/20120418175516/http://webarchive.nationalarchives.gov.uk/20120823132430/http://www.improve.businesslink.gov.uk/resources/business-support-finder" target="_blank" rel="noopener noreferrer">Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</a></li>
 				<li><a href="http://www.britishchambers.org.uk/find-your-chamber/" target="_blank" rel="noopener noreferrer">Chambers of Commerce contact details on the British Chambers of Commerce website</a></li>
 			</ul>
 			
