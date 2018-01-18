@@ -17,7 +17,7 @@
 			<h1>Exporting - an overview</h1>
 			<h2>Introduction</h2>
 			
-			<img src="../../../_img/tradefile.jpg" width="94" height="62" alt="" "" />
+			<img src="../../../_img/tradefile.jpg" width="94" height="62" alt="" />
 			
 			<p>Although your business may have an established UK market, there's often no reason why it couldn't successfully compete overseas too, growing your revenue and profit.</p>
 			<p>But before you start, you need to have sound knowledge of your would-be markets. You also need to consider whether your products are right for each target market and whether you have the necessary resources to start exporting.</p>
