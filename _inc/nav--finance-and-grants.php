@@ -1226,12 +1226,12 @@
 					<a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account.php">How to choose and manage a business bank account</a>
 					<ul>
 						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account.php" title="How to choose and manage a business bank account">Introduction</a></li>
-						<li>Choosing a business bank account</li>
-						<li>Open a business bank account</li>
-						<li>Manage a business account</li>
-						<li>How to switch banks</li>
-						<li>Online banking</li>
-						<li>Bank charges</li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/choosing-a-business-bank-account.php">Choosing a business bank account</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/open-a-business-bank-account.php">Open a business bank account</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/manage-a-business-account.php">Manage a business account</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/how-to-switch-banks.php">How to switch banks</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/online-banking.php">Online banking</a></li>
+						<li><a href="/finance-and-grants/business-banking/how-to-choose-and-manage-a-business-bank-account/bank-charges.php">Bank charges</a></li>
 					</ul>
 				</li>
 				<li>
