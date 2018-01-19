@@ -127,9 +127,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Research and development</a>
+			<a href="/create-innovate-and-protect/research-and-development.php">Research and development</a>
 			<ul>
-				<li><a href="" title="Research and development">Introduction</a></li>
+				<li><a href="/create-innovate-and-protect/research-and-development.php" title="Research and development">Introduction</a></li>
 				<li>
 					<a href="">Research and develop your business ideas, new products and services</a>
 					<ul>
@@ -166,6 +166,21 @@
 						<li><a href="">Funding your research and development</a></li>
 						<li><a href="">Here's how I successfully managed an R&amp;D project</a></li>
 						<li><a href="">Here's how I made the right decisions through research (Flash video)</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d.php">Support networks and facilities for innovation and R&amp;D</a>
+					<ul>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d.php" title="Support networks and facilities for innovation and R&D">Introduction</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/knowledge-transfer-support.php">Knowledge Transfer Support</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/virtual-support-networks.php">Virtual support networks</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/the-enterprise-europe-network.php">The Enterprise Europe Network</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/business-innovation-centres.php">Business innovation centres</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/science-parks.php">Science parks</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/chambers-of-commerce.php">Chambers of Commerce</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/assisted-areas.php">Assisted areas</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/business-clusters.php">Business clusters</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/the-small-business-research-initiative.php">The Small Business Research Initiative</a></li>
 					</ul>
 				</li>
 				<li>
