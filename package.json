@@ -1,33 +1,44 @@
 {
-  "name": "JointsWP-sass",
-  "version": "4.0.0",
-  "description": "A WordPress starter theme using Foundation 6",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/JeremyEnglert/JointsWP.git"
+  "name": "business-link",
+  "version": "1.0.0",
+  "description": "Copy of original files, working through these to copy to VL",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
   },
-  "author": "Jeremy Englert",
-  "license": "GPL-2.0 AND MIT",
-  "homepage": "https://github.com/JeremyEnglert/JointsWP",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
-    "browser-sync": "2.18.13",
-    "gulp": "^3.9.0",
-    "gulp-autoprefixer": "^2.3.1",
-    "gulp-babel": "^6.1.2",
-    "gulp-concat": "^2.5.2",
+    "browser-sync": "^2.23.6",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-concat": "^2.6.1",
     "gulp-connect-php": "^1.0.1",
-    "gulp-cssnano": "^2.1.1",
-    "gulp-imagemin": "^4.0.0",
-    "gulp-jshint": "^1.11.0",
-    "gulp-plumber": "^1.0.1",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.0.1",
-    "gulp-sourcemaps": "^1.6.0",
-    "gulp-uglify": "^1.2.0",
-    "gulp-util": "^3.0.5",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
     "imagemin-pngquant": "^5.0.1",
-    "jshint-stylish": "^2.0.0"
-  }
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueocto/business-link.git"
+  },
+  "keywords": [
+    "Sass",
+    "Foundation"
+  ],
+  "author": "Caroline Hagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blueocto/business-link/issues"
+  },
+  "homepage": "https://github.com/blueocto/business-link#readme"
 }
