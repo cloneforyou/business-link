@@ -53,7 +53,7 @@
 			<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/find-support-for-inventors.php">Find support for inventors</a></li>
 			<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges.php">Work with UK universities and colleges</a></li>
 			<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/manufacturing-innovation.php">Manufacturing innovation</a></li>
-			<li><a href="/finance-and-grants/finance-options/grants-and-government-support/innovation-research-and-development-grants.php">Innovation, research and development grants</a></li>
+			<li><a href="/finance-and-grants/finance-options/grants-and-government-support/innovation-research-and-development-grants.php"	>Innovation, research and development grants</a></li>
 		</ul>
 
 		<p>Developed with:<br />
