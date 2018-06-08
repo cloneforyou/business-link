@@ -2,10 +2,11 @@
 <html>
 <head>
 	<title>Introduction stage of a product life cycle | Business Link</title>
-	<meta lang="en" content="0.GI1400.03" />
-	<meta lang="en" content="How to introduce your product or service to potential customers, marketing your business, and promotions" />
-	<meta lang="en" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailef2f.html || /detail?itemId=1087243134&type=RESOURCES -->
+	<meta name="description" content="How to introduce your product or service to potential customers, marketing your business, and promotions" />
+	<meta name="keywords" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 </head>
 
 <body>

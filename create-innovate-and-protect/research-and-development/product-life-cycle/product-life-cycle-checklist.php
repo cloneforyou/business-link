@@ -2,10 +2,11 @@
 <html>
 <head>
 	<title>Product life cycle checklist | Business Link</title>
-	<meta lang="en" content="0.GI1400.06" />
-	<meta lang="en" content="Step-by-step guide on how to make your product as profitable as possible by understanding its product life cycle" />
-	<meta lang="en" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+	
+	<!-- ref: detailff1d.html || /detail?itemId=1087243575&type=RESOURCES -->
+	<meta name="description" content="Step-by-step guide on how to make your product as profitable as possible by understanding its product life cycle" />
+	<meta name="keywords" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 </head>
 
 <body>

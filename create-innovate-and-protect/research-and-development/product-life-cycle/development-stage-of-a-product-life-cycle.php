@@ -2,9 +2,11 @@
 <html>
 <head>
 	<title>Development stage of a product life cycle | Business Link</title>
-	<meta lang="en" content="How to develop the idea for your product or service, plan potential outcomes and product expansion" />
-	<meta lang="en" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detailffd1.html || /detail?itemId=1087242004&type=RESOURCES -->
+	<meta name="description" content="How to develop the idea for your product or service, plan potential outcomes and product expansion" />
+	<meta name="keywords" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 </head>
 
 <body>

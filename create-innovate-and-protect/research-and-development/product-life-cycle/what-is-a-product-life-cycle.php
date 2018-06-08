@@ -2,10 +2,11 @@
 <html>
 <head>
 	<title>What is a product life cycle? | Business Link</title>
-	<meta lang="en" content="0.GI1400.01" />
-	<meta lang="en" content="Development of a product or service, and how to increase profits from it, and reduce its environmental impact" />
-	<meta lang="en" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: detail0ee6.html || /detail?itemId=1087240996&type=RESOURCES -->
+	<meta name="description" content="Development of a product or service, and how to increase profits from it, and reduce its environmental impact" />
+	<meta name="keywords" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 </head>
 
 <body>

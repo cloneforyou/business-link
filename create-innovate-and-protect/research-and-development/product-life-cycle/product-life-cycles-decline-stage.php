@@ -2,10 +2,11 @@
 <html>
 <head>
 	<title>Product life cycles - decline stage | Business Link</title>
-	<meta lang="en" content="0.GI1400.05" />
-	<meta lang="en" content="Techniques to prolong the life of your product and developing an updated or entirely new product or service" />
-	<meta lang="en" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+	
+	<!-- ref: detailcacc.html || /detail?itemId=1087243395&type=RESOURCES -->
+	<meta name="description" content="Techniques to prolong the life of your product and developing an updated or entirely new product or service" />
+	<meta name="keywords" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 </head>
 
 <body>

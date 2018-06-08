@@ -2,10 +2,11 @@
 <html>
 <head>
 	<title>Product life cycles - growing and maturing a product | Business Link</title>
-	<meta lang="en" content="0.GI1400.04" />
-	<meta lang="en" content="Increasing profit margins and maturing your product or service's popularity and profitability" />
-	<meta lang="en" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+	
+	<!-- ref: detail9732.html || /detail?itemId=1087243321&type=RESOURCES -->
+	<meta name="description" content="Increasing profit margins and maturing your product or service's popularity and profitability" />
+	<meta name="keywords" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 </head>
 
 <body>

@@ -3,6 +3,10 @@
 <head>
 	<title>Product life cycle | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layer6433.html || /layer?topicId=1087240798 -->
+	<meta name="description" content="How your product or service progresses through its life cycle and how to use this information to increase profits" />
+	<meta name="keywords" content="Product life cycle;Product life cycle;development;introduction;growth;maturity;decline;profitability;development stage;product;pricing;distribution;promotion;introduction stage;Product growth stage;Product maturity stage;saturation;branding;trademarks;decline stage;product harvesting; skimming" />
 </head>
 
 <body>
