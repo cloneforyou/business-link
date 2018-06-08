@@ -48,7 +48,7 @@
 		<ul>
 			<li><a class="open-modal" data-open="modal" href="">Read transcript</a></li>
 			<li><a href="#">Listen to audio only (mp3, 8MB)</a></li>
-			<li><a href="detail765a.html?itemId=1081929866&amp;type=ONEOFFPAGE">Help</a></li>
+			<li><a href="/video-and-e-learning-help.php">Help</a></li>
 		</ul>
 
 		<div class="large reveal" id="modal" data-reveal>

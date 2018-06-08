@@ -38,14 +38,14 @@
 				<li>
 					<a href="">Product life cycle</a>
 					<ul>
-						<li><a href="" title="Product life cycle">Introduction</a></li>
-						<li><a href="">What is a product life cycle?</a></li>
-						<li><a href="">Development stage of a product life cycle</a></li>
-						<li><a href="">Introduction stage of a product life cycle</a></li>
-						<li><a href="">Product life cycles - growing and maturing a product</a></li>
-						<li><a href="">Product life cycles - decline stage</a></li>
-						<li><a href="">Product life cycle checklist</a></li>
-						<li><a href="">Here's how an understanding of the product life cycle has helped my business (Flash video)</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle.php" title="Product life cycle">Introduction</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/what-is-a-product-life-cycle.php">What is a product life cycle?</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/development-stage-of-a-product-life-cycle.php">Development stage of a product life cycle</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/introduction-stage-of-a-product-life-cycle.php">Introduction stage of a product life cycle</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/product-life-cycles-growing-and-maturing-a-product.php">Product life cycles - growing and maturing a product</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/product-life-cycles-decline-stage.php">Product life cycles - decline stage</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/product-life-cycle-checklist.php">Product life cycle checklist</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/here-is-how-an-understanding-of-the-product-life-cycle-has-helped-my-business_flash-video.php">Here's how an understanding of the product life cycle has helped my business (Flash video)</a></li>
 					</ul>
 				</li>
 				<li>
