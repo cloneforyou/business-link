@@ -41,7 +41,7 @@
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://web.archive.org/web/20130224214636/http://www.livingstonepartners.co.uk/practical_guide_downloads" target="_blank" rel="noopener noreferrer">Unquoted business selling advice on the Livingstone Partners website</a></li>
+			<li><a href="http://web.archive.org/web/20130224214636/http://web.archive.org/web/20130301091232/http://www.livingstonepartners.co.uk/practical_guide_downloads" target="_blank" rel="noopener noreferrer">Unquoted business selling advice on the Livingstone Partners website</a></li>
 			<li><a href="http://www.lawdonut.co.uk/business/exit-strategies/selling-your-business/valuing-your-business" target="_blank" rel="noopener noreferrer">Selling a business resources on the Law Donut website</a></li>
 			<li><a href="http://uk.businessesforsale.com/uk/search/businesses-for-sale/articles/sell-my-business-understanding-the-process-of-selling" target="_blank" rel="noopener noreferrer">Business sale process article on the BusinessesForSale website</a></li>
 		</ul>
