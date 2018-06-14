@@ -79,13 +79,13 @@
 				<li><a href="/grow-your-business/setting-a-vision-for-growth/how-to-grow-your-franchise.php">How to grow your franchise</a></li>
 			</ul>
 
-			<img src="/_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
-			
 			<p>Developed with:<br />
 				<a href="http://www.whichfranchise.com/" target="_blank" rel="noopener noreferrer" title="">
 					<img src="../../../_img/whichfranchise_logo_sm.gif" width="105" height="35" alt="" /> whichfranchise.com
 				</a>
 			</p>
+
+			<img src="/_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 
 		</div>
 		<!-- // .small-12 large-8 large-push-4 columns -->
