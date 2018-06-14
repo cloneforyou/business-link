@@ -68,7 +68,7 @@
 
 		<p>Developed with:<br />
 			<a href="http://www.whichfranchise.com/" target="_blank" rel="noopener noreferrer" title="">
-				<img src="../../../_img/whichfranchise_logo_sm.gif" width="105" height="35" alt="" /> whichfranchise.com
+				<img src="/_img/whichfranchise_logo_sm.gif" width="105" height="35" alt="" /> whichfranchise.com
 			</a>
 		</p>
 
