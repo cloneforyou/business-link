@@ -68,7 +68,7 @@
 			<li><a href="/employment-and-skills/pay-and-pensions/implement-staff-incentive-schemes.php">Implement staff incentive schemes</a></li>
 		</ul>
 		
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 
 	
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
