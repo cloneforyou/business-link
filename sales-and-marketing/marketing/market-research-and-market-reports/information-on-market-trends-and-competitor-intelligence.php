@@ -2,10 +2,10 @@
 <html class="no-js">
 
 <head>
-	<title>Customer research: what you need to know | Business Link</title>
+	<title>Information on market trends and competitor intelligence | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
-	<!-- ref: detailcd10.html || /detail?itemId=1073790738&type=RESOURCES -->
-	<meta name="keywords" content="The key things to find out about your customers and the factors that influence their buying decisions" />
+	<!-- ref: .html || /detail?itemId=1073790736&type=RESOURCES -->
+	<meta name="keywords" content="Key things to find out about your market to remain competitive" />
 	<meta name="description" content="Market research; customers;potential customers;market trends;buying habits;market research;customer survey;competitors;competitor intelligence;market reports;Office for National Statistics;ONS;Chambers of Commerce;UKTI;UK Trade & Investment;local trade association;internet;search engine;qualitative research;quantitative research;field research;sales plan;marketing strategy" />
 </head>
 
@@ -16,21 +16,30 @@
 	<div class="small-12 large-8 large-push-4 columns">
 
 		<h1>Market research and market reports</h1>
-		<h2>Customer research: what you need to know</h2>
-		<p>Carrying out customer research on loyalty, satisfaction and service can make a big difference to your business. If you know how your existing and potential customers make their buying decisions, you can adapt your sales methods to fit their needs.</p>
-		<p>Knowing such things as your customers' gender, age, occupation, income, lifestyle and attitudes can help with your marketing and sales plans. But knowing what they think of your products and service and how they rate you against your competitors will enable you improve your business' offering.</p>
-		<p>To target your customers successfully, you should know as much about their buying habits as possible. To find out what questions you should be asking, see the page on <a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs/ten-things-you-need-to-know-about-your-customers.php">ten things you need to know about your customers</a> in our guide: <a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs.php">know your customers' needs</a>.</p>
-		
+		<h2>Information on market trends and competitor intelligence</h2>
+		<p>Understanding market trends is important if your business is to make the most of its opportunities and remain competitive. You also need to understand your competitors and be aware of what they are doing in order to predict their next moves and exploit any weaknesses.</p>
+		<p>Try to get answers on:</p>
 		<ul>
-			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports.php" title="Market research and market reports">Prev</a></li>
-			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/information-on-market-trends-and-competitor-intelligence.php" title="Information on market trends and competitor intelligence">Next</a></li>
+			<li>Demand for your product or service - is it growing or shrinking?</li>
+			<li>What are the current general economic and market trends?</li>
+			<li>How customer requirements and buying behaviour could change in the future.</li>
+			<li>What new products are in your competitors' pipeline - could they make yours look outdated?</li>
+			<li>How competitors are changing - what are their plans?</li>
+			<li>What do competitors offer and what prices do they charge?</li>
+			<li>How do your competitors advertise and promote themselves?</li>
+			<li>Is there any forthcoming legislation which could affect your market?</li>
+		</ul>
+
+		<ul>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/customer-research-what-you-need-to-know.php" title="Customer research: what you need to know">Prev</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/using-market-reports-and-other-data.php" title="Using market reports and other data">Next</a></li>
 		</ul>
 
 		<h3>Subjects covered in this guide</h3>
 		<ul>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports.php" title="Market research and market reports">Introduction</a></li>
-			<li>Customer research: what you need to know</li>
-			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/information-on-market-trends-and-competitor-intelligence.php">Information on market trends and competitor intelligence</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/customer-research-what-you-need-to-know.php">Customer research: what you need to know</a></li>
+			<li>Information on market trends and competitor intelligence</li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/using-market-reports-and-other-data.php">Using market reports and other data</a></li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/interpreting-market-information.php">Interpreting market information</a></li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/the-basics-of-quantitative-and-qualitative-field-research.php">The basics of quantitative and qualitative field research</a></li>
@@ -44,9 +53,7 @@
 
 		<h3>Actions</h3>
 		<ul>
-			<!-- No longer exists, not in Archive 
-				<li><a href="https://www.microsoft.com/business/en-us/resources/marketing/market-research/researching-your-customers-6-tips-on-what-to-find-out.aspx" target="bgExternalonlinebusinesslinkgovuk" title="Find out what your customers want and why they buy">Researching your customers guidance on the Microsoft Small Business Centre website</a></li> -->
-			<li><a href="https://www.marketingdonut.co.uk/market-research/questionnaires-surveys-and-focus-groups" target="_blank" rel="noopener noreferrer">Questionnaires, surveys and focus groups on the Marketing Donut website</a></li>
+			<li><a href="/_files/cim_competitor-intelligence-guidance.pdf" target="_blank" rel="noopener noreferrer">Download competitor intelligence guidance (PDF, 159K)</a></li>
 			<li><a href="https://www.learndirectpd.com/courses/retail-knowledge-rqf" target="_blank" rel="noopener noreferrer">Retail Knowledge e-course on the learndirect business website</a></li>
 		</ul>
 		
@@ -54,8 +61,9 @@
 		<ul>
 			<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy.php">Create your marketing strategy</a></li>
 			<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan.php">Write a marketing plan</a></li>
+			<li><a href="/sales-and-marketing/marketing/understand-your-competitors.php">Understand your competitors</a></li>
 			<li><a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs.php">Know your customers' needs</a></li>
-			<li><a href="/sales-and-marketing/selling/the-sales-process.php">The sales process</a></li>
+			<li><a href="/international-trade/importing-and-exporting-basics/starting-out-in-international-trade/exporting-an-overview.php">Exporting - an overview</a></li>
 			<li><a href="/international-trade/importing-and-exporting-basics/overseas-supplier-relationships/entering-overseas-markets.php">Entering overseas markets</a></li>
 		</ul>
 
@@ -66,6 +74,7 @@
 		</p>
 
 		<img src="/_img/px_salesandmarketing.gif" alt="" width="181" height="5" />
+		
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->
 
