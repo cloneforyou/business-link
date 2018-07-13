@@ -1,7 +1,9 @@
 <li data-accordion-item>
 	<a href="/tax-payroll-and-company-information.php">Tax, payroll and company information</a>
 	<ul>
-		<a href="/tax-payroll-and-company-information.php" title="Tax, payroll and company information">Introduction</a>
+		<li>
+			<a href="/tax-payroll-and-company-information.php" title="Tax, payroll and company information">Introduction</a>
+		</li>
 
 		<!-- Tax -->
 		<li>
@@ -1146,33 +1148,35 @@
 						<li>
 							<a href="">Tools for VAT</a>
 							<ul>
-								<li><a href="" title="">Introduction</a></li>
-								<ul>
-									<li>
-										<a href="">Identify which VAT scheme your business is eligible to use</a>
-										<ul>
-											<li><a href="" title="">Introduction</a></li>
-											<!-- list of end pages -->
-										</ul>
-									</li>
-									<li>
-										<a href="">When to register for VAT</a>
-										<ul>
-											<li><a href="" title="">Introduction</a></li>
-											<!-- list of end pages -->
-										</ul>
-									</li>
-									<li>
-										<a href="https://www.gov.uk/vat-payment-deadlines" target="_blank" rel="noopener noreferrer">VAT payment deadline calculator</a>
-									</li>
-									<li>
-										<a href="">When you can deregister for VAT</a>
-										<ul>
-											<li><a href="" title="">Introduction</a></li>
-											<!-- list of end pages -->
-										</ul>
-									</li>
-								</ul>
+								<li>
+									<a href="" title="">Introduction</a>
+									<ul>
+										<li>
+											<a href="">Identify which VAT scheme your business is eligible to use</a>
+											<ul>
+												<li><a href="" title="">Introduction</a></li>
+												<!-- list of end pages -->
+											</ul>
+										</li>
+										<li>
+											<a href="">When to register for VAT</a>
+											<ul>
+												<li><a href="" title="">Introduction</a></li>
+												<!-- list of end pages -->
+											</ul>
+										</li>
+										<li>
+											<a href="https://www.gov.uk/vat-payment-deadlines" target="_blank" rel="noopener noreferrer">VAT payment deadline calculator</a>
+										</li>
+										<li>
+											<a href="">When you can deregister for VAT</a>
+											<ul>
+												<li><a href="" title="">Introduction</a></li>
+												<!-- list of end pages -->
+											</ul>
+										</li>
+									</ul>
+								</li>
 							</ul>
 						</li>
 						<li>
@@ -1528,146 +1532,150 @@
 				<li>
 					<a href="">Paying Corporation Tax</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">How to pay Corporation Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Managing your cashflow to pay Corporation Tax on time</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Deadlines and requirements for Corporation Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">No Corporation Tax to pay and refunds</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Interest paid when Corporation Tax is overpaid or paid early</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">What to do if you cannot pay Corporation Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How HMRC collects unpaid Corporation Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Instalment payments of Corporation Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Group Payment Arrangements for Corporation Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">How to pay Corporation Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Managing your cashflow to pay Corporation Tax on time</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Deadlines and requirements for Corporation Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">No Corporation Tax to pay and refunds</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Interest paid when Corporation Tax is overpaid or paid early</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">What to do if you cannot pay Corporation Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How HMRC collects unpaid Corporation Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Instalment payments of Corporation Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Group Payment Arrangements for Corporation Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">Completing and filing your Company Tax Return</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">The Company Tax Return: the basics</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to complete and file your Company Tax Return</a>
-								<ul>
-									<li>
-										<a href="">Completing your Company Tax Return form</a>
-										<ul>
-											<li><a href="" title="">Introduction</a></li>
-											<!-- list of end pages -->
-										</ul>
-									</li>
-									<li>
-										<a href="">Submitting your Company Tax Return</a>
-										<ul>
-											<li><a href="" title="">Introduction</a></li>
-											<!-- list of end pages -->
-										</ul>
-									</li>
-									<li>
-										<a href="">Chargeable gains and Corporation Tax</a>
-										<ul>
-											<li><a href="" title="">Introduction</a></li>
-											<!-- list of end pages -->
-										</ul>
-									</li>
-								</ul>
-							</li>
-							<li>
-								<a href="">Claiming losses, allowances and reliefs</a>
-								<ul>
-									<li>
-										<a href="">Claims and elections for Corporation Tax</a>
-										<ul>
-											<li><a href="" title="">Introduction</a></li>
-											<!-- list of end pages -->
-										</ul>
-									</li>
-									<li>
-										<a href="">Log in to Corporation Tax Online</a>
-										<ul>
-											<li><a href="" title="">Introduction</a></li>
-											<!-- list of end pages -->
-										</ul>
-									</li>
-								</ul>
-							</li>
-							<li>
-								<a href="">How to change a Company Tax Return you have already filed</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Determinations: what if you don't file a Company Tax Return</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">The Company Tax Return: the basics</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to complete and file your Company Tax Return</a>
+									<ul>
+										<li>
+											<a href="">Completing your Company Tax Return form</a>
+											<ul>
+												<li><a href="" title="">Introduction</a></li>
+												<!-- list of end pages -->
+											</ul>
+										</li>
+										<li>
+											<a href="">Submitting your Company Tax Return</a>
+											<ul>
+												<li><a href="" title="">Introduction</a></li>
+												<!-- list of end pages -->
+											</ul>
+										</li>
+										<li>
+											<a href="">Chargeable gains and Corporation Tax</a>
+											<ul>
+												<li><a href="" title="">Introduction</a></li>
+												<!-- list of end pages -->
+											</ul>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a href="">Claiming losses, allowances and reliefs</a>
+									<ul>
+										<li>
+											<a href="">Claims and elections for Corporation Tax</a>
+											<ul>
+												<li><a href="" title="">Introduction</a></li>
+												<!-- list of end pages -->
+											</ul>
+										</li>
+										<li>
+											<a href="">Log in to Corporation Tax Online</a>
+											<ul>
+												<li><a href="" title="">Introduction</a></li>
+												<!-- list of end pages -->
+											</ul>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a href="">How to change a Company Tax Return you have already filed</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Determinations: what if you don't file a Company Tax Return</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
@@ -1717,37 +1725,39 @@
 				<li>
 					<a href="">HMRC compliance checks, appeals, interest and penalties</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">HMRC compliance checks and enquiries for Corporation Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Appealing against an HMRC Corporation Tax decision</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Corporation Tax penalties</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Corporation Tax interest charges</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">HMRC compliance checks and enquiries for Corporation Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Appealing against an HMRC Corporation Tax decision</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Corporation Tax penalties</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Corporation Tax interest charges</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
@@ -1802,47 +1812,49 @@
 				<li>
 					<a href="">Corporation Tax for tax agents and advisers</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="https://www.gov.uk/guidance/corporation-tax-for-agents-online-service" target="_blank" rel="noopener noreferrer">Log in to Corporation Tax for Agents</a>
-							</li>
-							<li>
-								<a href="">How to use the Corporation Tax for Agents online service</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Corporation Tax rates</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="https://www.gov.uk/government/collections/corporation-tax-forms" target="_blank" rel="noopener noreferrer">Forms for Corporation Tax</a>
-							</li>
-							<li>
-								<a href="">Tools for Corporation Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Manuals and other reference material for Corporation Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Go to Corporation Tax pages for businesses</a>
-								<!-- Tax, payroll and company information > Corporation Tax -->
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="https://www.gov.uk/guidance/corporation-tax-for-agents-online-service" target="_blank" rel="noopener noreferrer">Log in to Corporation Tax for Agents</a>
+								</li>
+								<li>
+									<a href="">How to use the Corporation Tax for Agents online service</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Corporation Tax rates</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="https://www.gov.uk/government/collections/corporation-tax-forms" target="_blank" rel="noopener noreferrer">Forms for Corporation Tax</a>
+								</li>
+								<li>
+									<a href="">Tools for Corporation Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Manuals and other reference material for Corporation Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Go to Corporation Tax pages for businesses</a>
+									<!-- Tax, payroll and company information > Corporation Tax -->
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 			</ul>
@@ -2096,328 +2108,336 @@
 				<li>
 					<a href="">Stamp Duty Land Tax</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<!-- Introductory guidance -->
-							<li>
-								<a href="">Stamp Duty Land Tax (SDLT): the basics</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Stamp Duty Land Tax rates and thresholds</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Calculating Stamp Duty Land Tax -->
-							<li>
-								<a href="">What value is SDLT charged on?</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">SDLT for leasehold purchases</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">SDLT when transferring land or property</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">SDLT on a shared ownership property</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">SDLT where there are two or more linked purchases or transfers</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Obtaining HMRC advice on how SDLT will apply</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Reliefs and exemptions -->
-							<li>
-								<a href="">Land or property transactions that qualify for SDLT relief</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Disadvantaged Areas Relief</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Transactions that don't require an SDLT return</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Stamp Duty Land Tax returns and payments -->
-							<li>
-								<a href="">Completing the SDLT return: introduction</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Using Stamp Taxes Online to file your return</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<!-- Introductory guidance -->
+								<li>
+									<a href="">Stamp Duty Land Tax (SDLT): the basics</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Stamp Duty Land Tax rates and thresholds</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Calculating Stamp Duty Land Tax -->
+								<li>
+									<a href="">What value is SDLT charged on?</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">SDLT for leasehold purchases</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">SDLT when transferring land or property</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">SDLT on a shared ownership property</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">SDLT where there are two or more linked purchases or transfers</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Obtaining HMRC advice on how SDLT will apply</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Reliefs and exemptions -->
+								<li>
+									<a href="">Land or property transactions that qualify for SDLT relief</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Disadvantaged Areas Relief</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Transactions that don't require an SDLT return</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Stamp Duty Land Tax returns and payments -->
+								<li>
+									<a href="">Completing the SDLT return: introduction</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Using Stamp Taxes Online to file your return</a>
 									<ul>
 										<li>
-											<a href="">The benefits of filing SDLT returns online</a>
+											<a href="" title="">Introduction</a>
 											<ul>
-												<li><a href="" title="">Introduction</a></li>
-												<!-- list of end pages -->
-											</ul>
-										</li>
-										<li>
-											<a href="">How to register for Stamp Taxes Online</a>
-											<ul>
-												<li><a href="" title="">Introduction</a></li>
-												<!-- list of end pages -->
-											</ul>
-										</li>
-										<li>
-											<a href="">Filing SDLT returns using HMRC's Stamp Taxes Online service</a>
-											<ul>
-												<li><a href="" title="">Introduction</a></li>
-												<!-- list of end pages -->
+												<li>
+													<a href="">The benefits of filing SDLT returns online</a>
+													<ul>
+														<li><a href="" title="">Introduction</a></li>
+														<!-- list of end pages -->
+													</ul>
+												</li>
+												<li>
+													<a href="">How to register for Stamp Taxes Online</a>
+													<ul>
+														<li><a href="" title="">Introduction</a></li>
+														<!-- list of end pages -->
+													</ul>
+												</li>
+												<li>
+													<a href="">Filing SDLT returns using HMRC's Stamp Taxes Online service</a>
+													<ul>
+														<li><a href="" title="">Introduction</a></li>
+														<!-- list of end pages -->
+													</ul>
+												</li>
 											</ul>
 										</li>
 									</ul>
-								</ul>
-							</li>
-							<li>
-								<a href="">Completing the paper SDLT return</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">SDLT returns for Scottish transactions</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Amending an SDLT return or certificate</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">SDLT filing and payment deadlines</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Stamp Duty Land Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Penalties, appeals and enquiries -->
-							<li>
-								<a href="">How to appeal against an SDLT penalty</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">HMRC compliance checks on SDLT returns</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+								</li>
+								<li>
+									<a href="">Completing the paper SDLT return</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">SDLT returns for Scottish transactions</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Amending an SDLT return or certificate</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">SDLT filing and payment deadlines</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Stamp Duty Land Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Penalties, appeals and enquiries -->
+								<li>
+									<a href="">How to appeal against an SDLT penalty</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">HMRC compliance checks on SDLT returns</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">Stamp Duty Reserve Tax</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<!-- Introductory guidance -->
-							<li>
-								<a href="">Stamp Duty Reserve Tax - the basics</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Rates of Stamp Duty Reserve Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Exemptions, reliefs and refunds -->
-							<li>
-								<a href="">Stamp Duty Reserve Tax reliefs and exemptions</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Getting a Stamp Duty Reserve Tax refund</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Payment and calculations -->
-							<li>
-								<a href="">Stamp taxes calculators - shares or land</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Stamp Duty Reserve Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Unit trusts and OEICs calendar</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Penalties, appeals and enquiries -->
-							<li>
-								<a href="">Penalties and appeals - Stamp Duty Reserve Tax</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">HMRC compliance checks into Stamp Duty Reserve Tax transactions</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<!-- Introductory guidance -->
+								<li>
+									<a href="">Stamp Duty Reserve Tax - the basics</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Rates of Stamp Duty Reserve Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Exemptions, reliefs and refunds -->
+								<li>
+									<a href="">Stamp Duty Reserve Tax reliefs and exemptions</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Getting a Stamp Duty Reserve Tax refund</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Payment and calculations -->
+								<li>
+									<a href="">Stamp taxes calculators - shares or land</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Stamp Duty Reserve Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Unit trusts and OEICs calendar</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Penalties, appeals and enquiries -->
+								<li>
+									<a href="">Penalties and appeals - Stamp Duty Reserve Tax</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">HMRC compliance checks into Stamp Duty Reserve Tax transactions</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">Stamp Duty</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<!-- Getting started -->
-							<li>
-								<a href="">Stamp Duty: the basics</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Shares -->
-							<li>
-								<a href="">Stamp Duty on shares</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Land transfers -->
-							<li>
-								<a href="">Stamp Duty on land transfers before December 2003</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Rates of Stamp Duty on land transfers before December 2003</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Calculators -->
-							<li>
-								<a href="">Stamp taxes calculators - shares or land</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Reliefs and exemptions -->
-							<li>
-								<a href="">Stamp Duty reliefs or exemptions and how to apply</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<!-- Payment and penalties -->
-							<li>
-								<a href="">Getting an opinion about Stamp Duty payment or penalty</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Stamp Duty</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Penalties and appeals - late payment of Stamp Duty</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<!-- Getting started -->
+								<li>
+									<a href="">Stamp Duty: the basics</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Shares -->
+								<li>
+									<a href="">Stamp Duty on shares</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Land transfers -->
+								<li>
+									<a href="">Stamp Duty on land transfers before December 2003</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Rates of Stamp Duty on land transfers before December 2003</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Calculators -->
+								<li>
+									<a href="">Stamp taxes calculators - shares or land</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Reliefs and exemptions -->
+								<li>
+									<a href="">Stamp Duty reliefs or exemptions and how to apply</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<!-- Payment and penalties -->
+								<li>
+									<a href="">Getting an opinion about Stamp Duty payment or penalty</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Stamp Duty</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Penalties and appeals - late payment of Stamp Duty</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 			</ul>
@@ -2543,109 +2563,115 @@
 				<li>
 					<a href="">Capital allowances</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/capital-allowances-the-basics.php">Capital allowances: the basics</a>
-								<ul>
-									<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/capital-allowances-the-basics.php" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Capital allowances on plant and machinery</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Capital allowances relating to buildings and renovation</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/first-year-allowances/first-year-allowances-the-basics.php">First-year allowances</a>
-								<ul>
-									<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/first-year-allowances/first-year-allowances-the-basics.php" title="First-year allowances">Introduction</a></li>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/capital-allowances-the-basics.php">Capital allowances: the basics</a>
+									<ul>
+										<li><a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/capital-allowances-the-basics.php" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Capital allowances on plant and machinery</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Capital allowances relating to buildings and renovation</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/first-year-allowances/first-year-allowances-the-basics.php">First-year allowances</a>
 									<ul>
 										<li>
-											<a href="">First-year allowances: the basics</a>
+											<a href="/tax-payroll-and-company-information/tax-reliefs-and-allowances/capital-allowances/first-year-allowances/first-year-allowances-the-basics.php" title="First-year allowances">Introduction</a>
 											<ul>
-												<li><a href="" title="">Introduction</a></li>
-												<!-- list of end pages -->
-											</ul>
-										</li>
-										<li>
-											<a href="">First-year allowances for water efficient technologies</a>
-											<ul>
-												<li><a href="" title="">Introduction</a></li>
-												<!-- list of end pages -->
-											</ul>
-										</li>
-										<li>
-											<a href="">First-year allowances for energy saving products</a>
-											<ul>
-												<li><a href="" title="">Introduction</a></li>
-												<!-- list of end pages -->
+												<li>
+													<a href="">First-year allowances: the basics</a>
+													<ul>
+														<li><a href="" title="">Introduction</a></li>
+														<!-- list of end pages -->
+													</ul>
+												</li>
+												<li>
+													<a href="">First-year allowances for water efficient technologies</a>
+													<ul>
+														<li><a href="" title="">Introduction</a></li>
+														<!-- list of end pages -->
+													</ul>
+												</li>
+												<li>
+													<a href="">First-year allowances for energy saving products</a>
+													<ul>
+														<li><a href="" title="">Introduction</a></li>
+														<!-- list of end pages -->
+													</ul>
+												</li>
 											</ul>
 										</li>
 									</ul>
-								</ul>
-							</li>
-						</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">Tax when giving to charity</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">Gifts to charity of money by sole traders or partnerships</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Gifts to charity made by companies</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Gifts to charity of land, buildings or shares by companies</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Gifts to charity of company equipment, trading stock or staff help</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Sponsoring a charity</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Payroll Giving: introduction for employers and pension providers</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">Gifts to charity of money by sole traders or partnerships</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Gifts to charity made by companies</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Gifts to charity of land, buildings or shares by companies</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Gifts to charity of company equipment, trading stock or staff help</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Sponsoring a charity</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Payroll Giving: introduction for employers and pension providers</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 			</ul>
@@ -2659,126 +2685,130 @@
 				<li>
 					<a href="">Introduction to PAYE for employers</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">New employer - getting started</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">PAYE for employers: the basics</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">National Insurance for employers: the basics</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to register as an employer</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Understanding and using PAYE Online for employers</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Regional employer NICs holiday for new businesses</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">New employer - getting started</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">PAYE for employers: the basics</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">National Insurance for employers: the basics</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to register as an employer</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Understanding and using PAYE Online for employers</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Regional employer NICs holiday for new businesses</a>
 									<ul>
 										<li>
-											<a href="">Employer NICs holiday - who can apply</a>
+											<a href="" title="">Introduction</a>
 											<ul>
-												<li><a href="" title="">Introduction</a></li>
-												<!-- list of end pages -->
+												<li>
+													<a href="">Employer NICs holiday - who can apply</a>
+													<ul>
+														<li><a href="" title="">Introduction</a></li>
+														<!-- list of end pages -->
+													</ul>
+												</li>
+												<li>
+													<a href="">Employer NICs holiday - calculating and recording</a>
+													<ul>
+														<li><a href="" title="">Introduction</a></li>
+														<!-- list of end pages -->
+													</ul>
+												</li>
+												<li>
+													<a href="">Employer NICs holiday - change of circumstances</a>
+													<ul>
+														<li><a href="" title="">Introduction</a></li>
+														<!-- list of end pages -->
+													</ul>
+												</li>
+												<li>
+													<a href="">Employer NICs holiday - completing the end-of-year return</a>
+													<!-- http://webarchive.nationalarchives.gov.uk/20120823180803/http://www.hmrc.gov.uk/paye/intro/nics-holiday/end-of-year.htm -->
+												</li>
 											</ul>
-										</li>
-										<li>
-											<a href="">Employer NICs holiday - calculating and recording</a>
-											<ul>
-												<li><a href="" title="">Introduction</a></li>
-												<!-- list of end pages -->
-											</ul>
-										</li>
-										<li>
-											<a href="">Employer NICs holiday - change of circumstances</a>
-											<ul>
-												<li><a href="" title="">Introduction</a></li>
-												<!-- list of end pages -->
-											</ul>
-										</li>
-										<li>
-											<a href="">Employer NICs holiday - completing the end-of-year return</a>
-											<!-- http://webarchive.nationalarchives.gov.uk/20120823180803/http://www.hmrc.gov.uk/paye/intro/nics-holiday/end-of-year.htm -->
 										</li>
 									</ul>
-								</ul>
-							</li>
-							<li>
-								<a href="">Choosing a payroll system</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Using HMRC's Basic PAYE Tools</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Payroll calculations and records: an introduction</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">PAYE when taking on a new employee - first steps</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Paying an employee for the first time</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Understanding employee tax codes</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Simplified PAYE for domestic employees</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+								</li>
+								<li>
+									<a href="">Choosing a payroll system</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Using HMRC's Basic PAYE Tools</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Payroll calculations and records: an introduction</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">PAYE when taking on a new employee - first steps</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Paying an employee for the first time</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Understanding employee tax codes</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Simplified PAYE for domestic employees</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<!-- Payroll, calculations and form filling -->
@@ -2792,243 +2822,251 @@
 				<li>
 					<a href="">Monthly/weekly payroll and form filling</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">Pay and deductions: the basics</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">The national minimum wage</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Using Commercial Software or HMRC's Basic PAYE Tools P11 Calculator</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Setting up and using the Basic PAYE Tools P11 Calculator</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Correcting payroll errors</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Completing the paper form P11</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Calculating PAYE deductions (paper methods)</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Calculating NICs deductions (paper methods)</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Calculating student loan deductions</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Payroll Giving: introduction for employers and pension providers</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">PAYE record keeping</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">File your PAYE in-year forms: P45, P46, etc</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Guidance for employers exempt from online filing</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">Pay and deductions: the basics</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">The national minimum wage</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Using Commercial Software or HMRC's Basic PAYE Tools P11 Calculator</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Setting up and using the Basic PAYE Tools P11 Calculator</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Correcting payroll errors</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Completing the paper form P11</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Calculating PAYE deductions (paper methods)</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Calculating NICs deductions (paper methods)</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Calculating student loan deductions</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Payroll Giving: introduction for employers and pension providers</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">PAYE record keeping</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">File your PAYE in-year forms: P45, P46, etc</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Guidance for employers exempt from online filing</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">End-of-year tasks: annual return and form filling</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">PAYE end-of-year tasks at a glance</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Finalising your payroll at the end of the tax year</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">File your Employer Annual Return: P35 and P14s</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Guidance for employers exempt from online filing</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Avoiding and correcting errors in your Employer Annual Return (P35 and P14s)</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Expenses and benefits at the end of the tax year</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">PAYE end-of-year tasks at a glance</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Finalising your payroll at the end of the tax year</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">File your Employer Annual Return: P35 and P14s</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Guidance for employers exempt from online filing</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Avoiding and correcting errors in your Employer Annual Return (P35 and P14s)</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Expenses and benefits at the end of the tax year</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">Non-standard paydays or moving paydays</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">Employee payday falls on a non-banking day</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Changing the interval between paydays</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Moving payday to a different day of the week/month</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Extra payments on a day other than the usual payday</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Dealing with 'week 53' payments</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">Employee payday falls on a non-banking day</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Changing the interval between paydays</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Moving payday to a different day of the week/month</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Extra payments on a day other than the usual payday</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Dealing with 'week 53' payments</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">PAYE for special types of pay</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">Paying an employee on a 'free of tax' basis</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Tips, gratuities and service charges and PAYE</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Salary sacrifice: an overview for employers</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">PAYE for shares and other non-cash payments</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Incentive awards and PAYE</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Holiday pay and PAYE</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">Paying an employee on a 'free of tax' basis</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Tips, gratuities and service charges and PAYE</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Salary sacrifice: an overview for employers</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">PAYE for shares and other non-cash payments</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Incentive awards and PAYE</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Holiday pay and PAYE</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
@@ -3041,479 +3079,492 @@
 				<li>
 					<a href="">Pension Payments and PAYE</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">PAYE for pension and annuity payments</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">PAYE for pension or annuity payments - special situations</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">PAYE for pension and annuity payments</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">PAYE for pension or annuity payments - special situations</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">PAYE problems, checks, penalties and appeals</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">Penalties if you file PAYE returns late: P35, P14, P11D(b)</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Penalties for failing to file PAYE online</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">PAYE/National Insurance late payment penalties</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">PAYE compliance checks and penalties</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">Penalties if you file PAYE returns late: P35, P14, P11D(b)</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Penalties for failing to file PAYE online</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">PAYE/National Insurance late payment penalties</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">PAYE compliance checks and penalties</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<!-- New employees, employee changes and events -->
 				<li>
 					<a href="">Employee starting or leaving</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">PAYE when taking on a new employee - first steps</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">PAYE when taking on a new employee - dealing with form P45</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">PAYE when taking on a new employee - employee doesn't have a form P45</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">PAYE when taking on a new employee - employee gives you a form P45 late</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">File your PAYE in-year forms: P45, P46, etc</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Guidance for employers exempt from online filing</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Common errors to avoid when filing forms P45 and P46</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Paying an employee for the first time</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employment status: employed or self-employed?</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">New employee - special situations</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">When an employee leaves or retires</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">If an employee or pensioner dies</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">PAYE when taking on a new employee - first steps</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">PAYE when taking on a new employee - dealing with form P45</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">PAYE when taking on a new employee - employee doesn't have a form P45</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">PAYE when taking on a new employee - employee gives you a form P45 late</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">File your PAYE in-year forms: P45, P46, etc</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Guidance for employers exempt from online filing</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Common errors to avoid when filing forms P45 and P46</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Paying an employee for the first time</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employment status: employed or self-employed?</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">New employee - special situations</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">When an employee leaves or retires</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">If an employee or pensioner dies</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">Maternity, paternity, adoption, sickness</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">Statutory Sick Pay: an overview</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to calculate and recover Statutory Sick Pay</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Calculate entitlement to Statutory Sick Pay for your employee and how much you may be able to recover</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Statutory Maternity Pay: eligibility, forms and records</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to calculate and recover Statutory Maternity Pay</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Calculate entitlement to and recovery of Statutory Maternity Pay for your employee</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Ordinary Statutory Paternity Pay: eligibility, forms and records</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to calculate and recover Ordinary Statutory Paternity Pay</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Additional Statutory Paternity Pay: eligibility forms and records</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to calculate and recover Additional Statutory Paternity Pay</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Calculate and recover Additional Statutory Paternity Pay</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Statutory Adoption Pay: eligibility, forms and records</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to calculate and recover Statutory Adoption Pay</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Get help with statutory payments funding</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">Statutory Sick Pay: an overview</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to calculate and recover Statutory Sick Pay</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Calculate entitlement to Statutory Sick Pay for your employee and how much you may be able to recover</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Statutory Maternity Pay: eligibility, forms and records</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to calculate and recover Statutory Maternity Pay</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Calculate entitlement to and recovery of Statutory Maternity Pay for your employee</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Ordinary Statutory Paternity Pay: eligibility, forms and records</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to calculate and recover Ordinary Statutory Paternity Pay</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Additional Statutory Paternity Pay: eligibility forms and records</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to calculate and recover Additional Statutory Paternity Pay</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Calculate and recover Additional Statutory Paternity Pay</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Statutory Adoption Pay: eligibility, forms and records</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to calculate and recover Statutory Adoption Pay</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Get help with statutory payments funding</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">Employee change of circumstance</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">When an employee leaves or retires</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee going to work abroad</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee gets a new tax code</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee reaches State Pension age</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee starts or stops a directorship</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee wants to work on a self-employed basis</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee goes on jury service</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee joins or leaves a contracted-out company pension</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee gets a new benefit in kind</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">If an employee or pensioner dies</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee reaches 16</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee takes a leave of absence</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee called up for reservist service in armed forces</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employee changes their gender</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li><a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">When an employee leaves or retires</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee going to work abroad</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee gets a new tax code</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee reaches State Pension age</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee starts or stops a directorship</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee wants to work on a self-employed basis</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee goes on jury service</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee joins or leaves a contracted-out company pension</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee gets a new benefit in kind</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">If an employee or pensioner dies</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee reaches 16</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee takes a leave of absence</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee called up for reservist service in armed forces</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employee changes their gender</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<!-- PAYE online filing and payments -->
 				<li>
 					<a href="">PAYE online filing for employers</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">Understanding and using PAYE Online for employers</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Employer deadlines for filing PAYE online</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Tax-free payment for online filing</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">File your Employer Annual Return: P35 and P14s</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">File your PAYE in-year forms: P45, P46, etc</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Full list of PAYE forms you can send or receive online</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">EDI filing for large employers</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">Understanding and using PAYE Online for employers</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Employer deadlines for filing PAYE online</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Tax-free payment for online filing</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">File your Employer Annual Return: P35 and P14s</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">File your PAYE in-year forms: P45, P46, etc</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Full list of PAYE forms you can send or receive online</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">EDI filing for large employers</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">Making PAYE/National Insurance payments to HMRC</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">PAYE/National Insurance payments and deadlines</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay PAYE/Class 1 National Insurance contributions</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Class 1A National Insurance</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to make PAYE Settlement Agreement payments</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Using Business Tax Dashboard as an employer</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Correcting payroll errors</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Correcting errors in expenses and benefits reporting</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">PAYE/National Insurance payments and deadlines</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay PAYE/Class 1 National Insurance contributions</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Class 1A National Insurance</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to make PAYE Settlement Agreement payments</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Using Business Tax Dashboard as an employer</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Correcting payroll errors</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Correcting errors in expenses and benefits reporting</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<!-- PAYE forms, rates and tools -->
@@ -3548,59 +3599,61 @@
 				<li>
 					<a href="">All PAYE tools for employers</a>
 					<ul>
-						<li><a href="" title="">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">Company car and car fuel benefit calculator</a>
-								<!-- http://webarchive.nationalarchives.gov.uk/20120823133926/http://www.hmrc.gov.uk/calcs/cars.htm -->
-							</li>
-							<li>
-								<a href="">Statutory payments calculators</a>
-								<!-- http://webarchive.nationalarchives.gov.uk/20120824135741/http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1073858808&r.l2=1083106843&r.l3=1086859436&r.s=tl&topicId=1087925114 -->
-							</li>
-							<li>
-								<a href="">Employment status indicator</a>
-								<!-- http://webarchive.nationalarchives.gov.uk/20120823133845/http://www.hmrc.gov.uk/calcs/esi.htm -->
-							</li>
-							<li>
-								<a href="">National Insurance calculator</a>
-								<!-- http://webarchive.nationalarchives.gov.uk/20120823144835/http://www.hmrc.gov.uk/calcs/nice.htm -->
-							</li>
-							<li>
-								<a href="">National Insurance calculator - director's annual earnings period</a>
-								<!-- http://webarchive.nationalarchives.gov.uk/20120823144754/http://www.hmrc.gov.uk/calcs/nicd.htm -->
-							</li>
-							<li>
-								<a href="">No PAYE/National Insurance contributions payment due</a>
-								<!-- http://webarchive.nationalarchives.gov.uk/20120823133919/http://www.hmrc.gov.uk/payinghmrc/paye-nil.htm -->
-							</li>
-							<li>
-								<a href="">PAYE tax calculator</a>
-								<!-- http://webarchive.nationalarchives.gov.uk/20120823144801/http://www.hmrc.gov.uk/calcs/paye.htm -->
-							</li>
-							<li>
-								<a href="">Paying your employee for the first time</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Reference checker for electronic payment</a>
-								<!-- http://webarchive.nationalarchives.gov.uk/20120823144835/http://www.hmrc.gov.uk/tools/payinghmrc/paye.htm -->
-							</li>
-							<li>
-								<a href="">PAYE Desktop Viewer</a>
-								<!-- http://webarchive.nationalarchives.gov.uk/20120823144836/http://www.hmrc.gov.uk/paye/tools/PDV/index.htm -->
-							</li>
-							<li>
-								<a href="">Using HMRC's Basic PAYE Tools</a>
-								<ul>
-									<li><a href="" title="">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="">Introduction</a>
+							<ul>
+								<li>
+									<a href="">Company car and car fuel benefit calculator</a>
+									<!-- http://webarchive.nationalarchives.gov.uk/20120823133926/http://www.hmrc.gov.uk/calcs/cars.htm -->
+								</li>
+								<li>
+									<a href="">Statutory payments calculators</a>
+									<!-- http://webarchive.nationalarchives.gov.uk/20120824135741/http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1073858808&r.l2=1083106843&r.l3=1086859436&r.s=tl&topicId=1087925114 -->
+								</li>
+								<li>
+									<a href="">Employment status indicator</a>
+									<!-- http://webarchive.nationalarchives.gov.uk/20120823133845/http://www.hmrc.gov.uk/calcs/esi.htm -->
+								</li>
+								<li>
+									<a href="">National Insurance calculator</a>
+									<!-- http://webarchive.nationalarchives.gov.uk/20120823144835/http://www.hmrc.gov.uk/calcs/nice.htm -->
+								</li>
+								<li>
+									<a href="">National Insurance calculator - director's annual earnings period</a>
+									<!-- http://webarchive.nationalarchives.gov.uk/20120823144754/http://www.hmrc.gov.uk/calcs/nicd.htm -->
+								</li>
+								<li>
+									<a href="">No PAYE/National Insurance contributions payment due</a>
+									<!-- http://webarchive.nationalarchives.gov.uk/20120823133919/http://www.hmrc.gov.uk/payinghmrc/paye-nil.htm -->
+								</li>
+								<li>
+									<a href="">PAYE tax calculator</a>
+									<!-- http://webarchive.nationalarchives.gov.uk/20120823144801/http://www.hmrc.gov.uk/calcs/paye.htm -->
+								</li>
+								<li>
+									<a href="">Paying your employee for the first time</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Reference checker for electronic payment</a>
+									<!-- http://webarchive.nationalarchives.gov.uk/20120823144835/http://www.hmrc.gov.uk/tools/payinghmrc/paye.htm -->
+								</li>
+								<li>
+									<a href="">PAYE Desktop Viewer</a>
+									<!-- http://webarchive.nationalarchives.gov.uk/20120823144836/http://www.hmrc.gov.uk/paye/tools/PDV/index.htm -->
+								</li>
+								<li>
+									<a href="">Using HMRC's Basic PAYE Tools</a>
+									<ul>
+										<li><a href="" title="">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 			</ul>
@@ -3739,23 +3792,25 @@
 				<li>
 					<a href="">Pension schemes</a>
 					<ul>
-						<li><a href="" title="Pension schemes">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">How to make payments as a pension scheme administrator</a>
-								<ul>
-									<li><a href="" title="How to make payments as a pension scheme administrator">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Contributions Equivalent Premiums</a>
-								<ul>
-									<li><a href="" title="How to pay Contributions Equivalent Premiums">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="Pension schemes">Introduction</a>
+							<ul>
+								<li>
+									<a href="">How to make payments as a pension scheme administrator</a>
+									<ul>
+										<li><a href="" title="How to make payments as a pension scheme administrator">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Contributions Equivalent Premiums</a>
+									<ul>
+										<li><a href="" title="How to pay Contributions Equivalent Premiums">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<!-- National Insurance Contributions -->
@@ -3777,30 +3832,32 @@
 				<li>
 					<a href="">Stamp Taxes</a>
 					<ul>
-						<li><a href="" title="Stamp Taxes">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">How to pay Stamp Duty Land Tax</a>
-								<ul>
-									<li><a href="" title="How to pay Stamp Duty Land Tax">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Stamp Duty</a>
-								<ul>
-									<li><a href="" title="How to pay Stamp Duty">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Stamp Duty Reserve Tax</a>
-								<ul>
-									<li><a href="" title="How to pay Stamp Duty Reserve Tax">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="Stamp Taxes">Introduction</a>
+							<ul>
+								<li>
+									<a href="">How to pay Stamp Duty Land Tax</a>
+									<ul>
+										<li><a href="" title="How to pay Stamp Duty Land Tax">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Stamp Duty</a>
+									<ul>
+										<li><a href="" title="How to pay Stamp Duty">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Stamp Duty Reserve Tax</a>
+									<ul>
+										<li><a href="" title="How to pay Stamp Duty Reserve Tax">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
@@ -3820,109 +3877,115 @@
 				<li>
 					<a href="">Gambling duties</a>
 					<ul>
-						<li><a href="" title="Gambling duties">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">How to pay Amusement Machine Licence Duty</a>
-								<ul>
-									<li><a href="" title="How to pay Amusement Machine Licence Duty">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Bingo Duty</a>
-								<ul>
-									<li><a href="" title="How to pay Bingo Duty">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Gaming Duty</a>
-								<ul>
-									<li><a href="" title="How to pay Gaming Duty">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay General Betting Duty</a>
-								<ul>
-									<li><a href="" title="How to pay General Betting Duty">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Pool Betting Duty</a>
-								<ul>
-									<li><a href="" title="How to pay Pool Betting Duty">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Remote Gaming Duty</a>
-								<ul>
-									<li><a href="" title="How to pay Remote Gaming Duty">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="Gambling duties">Introduction</a>
+							<ul>
+								<li>
+									<a href="">How to pay Amusement Machine Licence Duty</a>
+									<ul>
+										<li><a href="" title="How to pay Amusement Machine Licence Duty">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Bingo Duty</a>
+									<ul>
+										<li><a href="" title="How to pay Bingo Duty">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Gaming Duty</a>
+									<ul>
+										<li><a href="" title="How to pay Gaming Duty">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay General Betting Duty</a>
+									<ul>
+										<li><a href="" title="How to pay General Betting Duty">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Pool Betting Duty</a>
+									<ul>
+										<li><a href="" title="How to pay Pool Betting Duty">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Remote Gaming Duty</a>
+									<ul>
+										<li><a href="" title="How to pay Remote Gaming Duty">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">Environmental taxes</a>
 					<ul>
-						<li><a href="" title="Environmental taxes">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">How to pay Aggregates Levy</a>
-								<ul>
-									<li><a href="" title="How to pay Aggregates Levy">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Climate Change Levy</a>
-								<ul>
-									<li><a href="" title="How to pay Climate Change Levy">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Landfill Tax</a>
-								<ul>
-									<li><a href="" title="How to pay Landfill Tax">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="Environmental taxes">Introduction</a>
+							<ul>
+								<li>
+									<a href="">How to pay Aggregates Levy</a>
+									<ul>
+										<li><a href="" title="How to pay Aggregates Levy">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Climate Change Levy</a>
+									<ul>
+										<li><a href="" title="How to pay Climate Change Levy">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Landfill Tax</a>
+									<ul>
+										<li><a href="" title="How to pay Landfill Tax">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
 					<a href="">Alcohol duties</a>
 					<ul>
-						<li><a href="" title="Alcohol duties">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">How to pay Beer Duty</a>
-								<ul>
-									<li><a href="" title="How to pay Beer Duty">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Cider Duty</a>
-								<ul>
-									<li><a href="" title="How to pay Cider Duty">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Wine Duty</a>
-								<ul>
-									<li><a href="" title="How to pay Wine Duty">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="Alcohol duties">Introduction</a>
+							<ul>
+								<li>
+									<a href="">How to pay Beer Duty</a>
+									<ul>
+										<li><a href="" title="How to pay Beer Duty">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Cider Duty</a>
+									<ul>
+										<li><a href="" title="How to pay Cider Duty">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Wine Duty</a>
+									<ul>
+										<li><a href="" title="How to pay Wine Duty">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
@@ -3949,30 +4012,32 @@
 				<li>
 					<a href="">How to pay Excise Duty on oils (including road fuel)</a>
 					<ul>
-						<li><a href="" title="How to pay Excise Duty on oils (including road fuel)">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">How to pay Excise Duty on gas for use as road fuel</a>
-								<ul>
-									<li><a href="" title="How to pay Excise Duty on gas for use as road fuel">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Excise Duty on rebated heavy oil to be used as fuel</a>
-								<ul>
-									<li><a href="" title="How to pay Excise Duty on rebated heavy oil to be used as fuel">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">How to pay Excise Duty on biofuels and other fuel substitutes</a>
-								<ul>
-									<li><a href="" title="How to pay Excise Duty on biofuels and other fuel substitutes">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="How to pay Excise Duty on oils (including road fuel)">Introduction</a>
+							<ul>
+								<li>
+									<a href="">How to pay Excise Duty on gas for use as road fuel</a>
+									<ul>
+										<li><a href="" title="How to pay Excise Duty on gas for use as road fuel">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Excise Duty on rebated heavy oil to be used as fuel</a>
+									<ul>
+										<li><a href="" title="How to pay Excise Duty on rebated heavy oil to be used as fuel">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">How to pay Excise Duty on biofuels and other fuel substitutes</a>
+									<ul>
+										<li><a href="" title="How to pay Excise Duty on biofuels and other fuel substitutes">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<!-- Help and support when making a payment -->
@@ -4062,23 +4127,25 @@
 				<li>
 					<a href="">How to take things further if you're still not satisfied with a tax appeal</a>
 					<ul>
-						<li><a href="" title="How to take things further if you're still not satisfied with a tax appeal">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">Appealing to the First-tier Tribunal (Tax Chamber)</a>
-								<ul>
-									<li><a href="" title="Appealing to the First-tier Tribunal (Tax Chamber)">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Appealing a tax decision to the Upper Tribunal (Tax and Chancery Chamber)</a>
-								<ul>
-									<li><a href="" title="Appealing a tax decision to the Upper Tribunal (Tax and Chancery Chamber)">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="How to take things further if you're still not satisfied with a tax appeal">Introduction</a>
+							<ul>
+								<li>
+									<a href="">Appealing to the First-tier Tribunal (Tax Chamber)</a>
+									<ul>
+										<li><a href="" title="Appealing to the First-tier Tribunal (Tax Chamber)">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Appealing a tax decision to the Upper Tribunal (Tax and Chancery Chamber)</a>
+									<ul>
+										<li><a href="" title="Appealing a tax decision to the Upper Tribunal (Tax and Chancery Chamber)">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 			</ul>
@@ -4143,37 +4210,39 @@
 				<li>
 					<a href="">Reporting changes to Companies House</a>
 					<ul>
-						<li><a href="" title="Reporting changes to Companies House">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">Change of address, directors and more - what to report to Companies House</a>
-								<ul>
-									<li><a href="" title="Change of address, directors and more - what to report to Companies House">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Register charges and mortgages with Companies House</a>
-								<ul>
-									<li><a href="" title="Register charges and mortgages with Companies House">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Change your accounting date</a>
-								<ul>
-									<li><a href="" title="Change your accounting date">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Restricting the disclosure of your address</a>
-								<ul>
-									<li><a href="" title="Restricting the disclosure of your address">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="Reporting changes to Companies House">Introduction</a>
+							<ul>
+								<li>
+									<a href="">Change of address, directors and more - what to report to Companies House</a>
+									<ul>
+										<li><a href="" title="Change of address, directors and more - what to report to Companies House">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Register charges and mortgages with Companies House</a>
+									<ul>
+										<li><a href="" title="Register charges and mortgages with Companies House">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Change your accounting date</a>
+									<ul>
+										<li><a href="" title="Change your accounting date">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Restricting the disclosure of your address</a>
+									<ul>
+										<li><a href="" title="Restricting the disclosure of your address">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 				<li>
@@ -4358,37 +4427,39 @@
 				<li>
 					<a href="">Reporting changes to Companies House</a>
 					<ul>
-						<li><a href="" title="Reporting changes to Companies House">Introduction</a></li>
-						<ul>
-							<li>
-								<a href="">Change of address, directors and more - what to report to Companies House</a>
-								<ul>
-									<li><a href="" title="Change of address, directors and more - what to report to Companies House">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Register charges and mortgages with Companies House</a>
-								<ul>
-									<li><a href="" title="Register charges and mortgages with Companies House">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Change your accounting date</a>
-								<ul>
-									<li><a href="" title="Change your accounting date">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-							<li>
-								<a href="">Restricting the disclosure of your address</a>
-								<ul>
-									<li><a href="" title="Restricting the disclosure of your address">Introduction</a></li>
-									<!-- list of end pages -->
-								</ul>
-							</li>
-						</ul>
+						<li>
+							<a href="" title="Reporting changes to Companies House">Introduction</a>
+							<ul>
+								<li>
+									<a href="">Change of address, directors and more - what to report to Companies House</a>
+									<ul>
+										<li><a href="" title="Change of address, directors and more - what to report to Companies House">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Register charges and mortgages with Companies House</a>
+									<ul>
+										<li><a href="" title="Register charges and mortgages with Companies House">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Change your accounting date</a>
+									<ul>
+										<li><a href="" title="Change your accounting date">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+								<li>
+									<a href="">Restricting the disclosure of your address</a>
+									<ul>
+										<li><a href="" title="Restricting the disclosure of your address">Introduction</a></li>
+										<!-- list of end pages -->
+									</ul>
+								</li>
+							</ul>
+						</li>
 					</ul>
 				</li>
 			</ul>

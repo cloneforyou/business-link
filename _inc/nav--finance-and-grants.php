@@ -863,9 +863,7 @@
 				<li>
 					<a href="">Factoring and invoice discounting: the basics</a>
 					<ul>
-						<li><a href="" title="Factoring and invoice discounting: the basics">
-						<li>Current section</li>
-						<li>Introduction</li>
+						<li><a href="" title="Factoring and invoice discounting: the basics">Introduction</a></li>
 						<li>How factoring works</li>
 						<li>Advantages and disadvantages of factoring</li>
 						<li>What makes a business suitable for factoring?</li>
@@ -920,7 +918,7 @@
 				<li>
 					<a href="">Managing late payment</a>
 					<ul>
-						<li><a href="" title="Managing late payment">Introduction</li>
+						<li><a href="" title="Managing late payment">Introduction</a></li>
 						<li>When does a payment become late?</li>
 						<li>Charging interest on late payments</li>
 						<li>Charging debt recovery costs on late payments</li>
@@ -980,11 +978,11 @@
 		<li>
 			<a href="/finance-and-grants/managing-suppliers-and-payments.php">Managing suppliers and payments</a>
 			<ul>
-				<li><a href="/finance-and-grants/managing-suppliers-and-payments.php" title="Managing suppliers and payments">Introduction</li>
+				<li><a href="/finance-and-grants/managing-suppliers-and-payments.php" title="Managing suppliers and payments">Introduction</a></li>
 				<li>
 					<a href="/grow-your-business/growth-through-strategic-sourcing/manage-your-suppliers.php">Manage your suppliers</a>
 					<ul>
-						<li><a href="/grow-your-business/growth-through-strategic-sourcing/manage-your-suppliers.php" title="Manage your suppliers">Introduction</li>
+						<li><a href="/grow-your-business/growth-through-strategic-sourcing/manage-your-suppliers.php" title="Manage your suppliers">Introduction</a></li>
 						<li>Getting quality service from your suppliers</li>
 						<li>Building good relationships with suppliers</li>
 						<li>Paying your suppliers on time</li>
@@ -998,7 +996,7 @@
 				<li>
 					<a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php">Invoicing and payment terms</a>
 					<ul>
-						<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php" title="Invoicing and payment terms">Introduction</li>
+						<li><a href="/finance-and-grants/manage-your-cashflow/invoicing-and-payment-terms.php" title="Invoicing and payment terms">Introduction</a></li>
 						<li>Information that invoices must contain</li>
 						<li>Setting terms and conditions</li>
 						<li>Setting suitable payment terms for your customers</li>
@@ -1049,7 +1047,7 @@
 				<li>
 					<a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php">Ensuring customers pay you on time</a>
 					<ul>
-						<li><a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php" title="Ensuring customers pay you on time">Introduction</li>
+						<li><a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php" title="Ensuring customers pay you on time">Introduction</a></li>
 					</ul>
 				</li>
 				<!-- <li>
@@ -1068,7 +1066,7 @@
 		<li>
 			<a href="/finance-and-grants/debt-recovery.php">Debt recovery</a>
 			<ul>
-				<li><a href="/finance-and-grants/debt-recovery.php" title="Debt recovery">Introduction</li>
+				<li><a href="/finance-and-grants/debt-recovery.php" title="Debt recovery">Introduction</a></li>
 				<li>
 					<a href="/finance-and-grants/debt-recovery/ensuring-customers-pay-you-on-time.php">Ensuring customers pay you on time</a>
 					<ul>
