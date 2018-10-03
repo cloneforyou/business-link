@@ -7,9 +7,9 @@
 			<ul>
 				<li><a href="/sales-and-marketing/marketing.php" title="Marketing">Introduction</a></li>
 				<li>
-					<a href="">Market research and market reports</a>
+					<a href="/sales-and-marketing/marketing/market-research-and-market-reports.php">Market research and market reports</a>
 					<ul>
-						<li><a href="" title="Market research and market reports">Introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports.php" title="Market research and market reports">Introduction</a></li>
 						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/customer-research-what-you-need-to-know.php">Customer research: what you need to know</a></li>
 						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/information-on-market-trends-and-competitor-intelligence.php">Information on market trends and competitor intelligence</a></li>
 						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/using-market-reports-and-other-data.php">Using market reports and other data</a></li>
