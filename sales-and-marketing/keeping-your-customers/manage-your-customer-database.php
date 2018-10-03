@@ -43,7 +43,7 @@
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.learndirect.com/marketing" target="_blank" rel="noopener noreferrer">Marketing e-course on the learndirect business website</a></li>
+			<li><a href="https://www.learndirect.com/course/business-marketing" target="_blank" rel="noopener noreferrer">Marketing e-course on the learndirect business website</a></li>
 			<li><a href="https://www.cim.co.uk/training-courses/implementing-a-successful-crm-strategy-0887.html" target="_blank" rel="noopener noreferrer">Implementing successful CRM on the Chartered Institute of Marketing website</a></li>
 			<li><a href="https://www.cim.co.uk/search/?Keyword=How+to+build+relationships+with+customers+and+increase+their+value+to+your+organisation" target="_blank" rel="noopener noreferrer">Foundations of relationship marketing course on the Chartered Institue of Marketing website</a></li>
 		</ul>
