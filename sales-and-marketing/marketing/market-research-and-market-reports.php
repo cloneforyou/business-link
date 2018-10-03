@@ -45,7 +45,7 @@
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="https://www.cim.co.uk/training-courses/designing-and-implementing-a-market-research-project-0663.html" target="_blank" rel="noopener noreferrer">Market research and market reports course on the Chartered Institute of Marketing website</a></li>
-			<li><a href="http://www.learndirect.com/marketing" target="_blank" rel="noopener noreferrer">Marketing e-course on the learndirect business website</a></li>
+			<li><a href="https://www.learndirect.com/course/business-marketing" target="_blank" rel="noopener noreferrer">Marketing e-course on the learndirect business website</a></li>
 		</ul>
 
 		<p>Developed with:<br />
