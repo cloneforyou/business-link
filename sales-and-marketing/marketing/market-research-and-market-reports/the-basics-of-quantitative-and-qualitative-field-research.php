@@ -36,7 +36,7 @@
 		</ul>
 
 		<ul>
-			<li><a href="detailc221.html?itemId=1073790737&amp;type=RESOURCES" title="Interpreting market information">Prev</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/interpreting-market-information.php" title="Interpreting market information">Prev</a></li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/planning-field-research.php" title="Planning field research">Next</a></li>
 		</ul>
 
@@ -44,9 +44,9 @@
 		<ul>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports.php" title="Market research and market reports">Introduction</a></li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/customer-research-what-you-need-to-know.php">Customer research: what you need to know</a></li>
-			<li><a href="detail2aa4.html?itemId=1073790736&amp;type=RESOURCES">Information on market trends and competitor intelligence</a></li>
-			<li><a href="detail07ca.html?itemId=1073790734&amp;type=RESOURCES">Using market reports and other data</a></li>
-			<li><a href="detailc221.html?itemId=1073790737&amp;type=RESOURCES">Interpreting market information</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports.php">Information on market trends and competitor intelligence</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/using-market-reports-and-other-data.php">Using market reports and other data</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/interpreting-market-information.php">Interpreting market information</a></li>
 			<li>The basics of quantitative and qualitative field research</li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/planning-field-research.php">Planning field research</a></li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/tips-for-successful-field-research.php">Tips for successful field research</a></li>
@@ -58,17 +58,17 @@
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.mrs.org.uk/mrindustry/downloads/newcomers.pdf" target="bgExternalonlinebusinesslinkgovuk" title="A guide for newcomers which outlines different research methods, the information they can obtain, and how they will be able to help you">Download a research methods guide from the Market Research Society website (PDF, 36K)</a></li>
-			<li><a href="http://www.learndirect.com/marketing" target="bgExternalonlinebusinesslinkgovuk" title="This course introduces the key principles of marketing and shows how you can apply them within your business">Marketing e-course on the learndirect business website</a></li>
+			<!-- /* not found online */ <li><a href="http://www.mrs.org.uk/mrindustry/downloads/newcomers.pdf" target="bgExternalonlinebusinesslinkgovuk" title="A guide for newcomers which outlines different research methods, the information they can obtain, and how they will be able to help you">Download a research methods guide from the Market Research Society website (PDF, 36K)</a></li> -->
+			<li><a href="https://www.learndirect.com/course/business-marketing" target="_blank" rel="noopener noreferrer">Marketing e-course on the learndirect business website</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>
 		<ul>
-			<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy.php" title="Decide how to market your product or service to potential customers">Create your marketing strategy</a></li>
-			<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan.php" title="How to identify your objectives and write a plan that will help your marketing generate sales">Write a marketing plan</a></li>
-			<li><a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs.php" title="Why understanding your customers' needs is crucial to the success of your business">Know your customers' needs</a></li>
-			<li><a href="layer48a3.html?topicId=1074002278" title="What steps you must take to protect your customers' privacy and data">Privacy and data protection in direct marketing</a></li>
-			<li><a href="/international-trade/importing-and-exporting-basics/overseas-supplier-relationships/entering-overseas-markets.php" title="Deciding between selling directly and using an intermediary is a key choice when entering an overseas market">Entering overseas markets</a></li>
+			<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy.php">Create your marketing strategy</a></li>
+			<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan.php">Write a marketing plan</a></li>
+			<li><a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs.php">Know your customers' needs</a></li>
+			<li><a href="/sales-and-marketing/selling-and-the-law/privacy-and-data-protection-in-direct-marketing.php">Privacy and data protection in direct marketing</a></li>
+			<li><a href="/international-trade/importing-and-exporting-basics/overseas-supplier-relationships/entering-overseas-markets.php">Entering overseas markets</a></li>
 		</ul>
 
 		<p>Developed with:<br />
