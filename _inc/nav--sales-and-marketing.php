@@ -21,6 +21,17 @@
 						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/here-is-how-i-made-the-most-of-market-research.php">Here's how I made the most of market research</a></li>
 					</ul>
 				</li>
+				<li>
+					<a href="/sales-and-marketing/marketing/understand-your-competitors.php">Understand your competitors</a>
+					<ul>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors.php" title="Understand your competitors">Introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/who-are-your-competitors.php">Who are your competitors?</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/what-you-need-to-know-about-your-competitors.php">What you need to know about your competitors</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/learning-about-your-competitors.php">Learning about your competitors</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/getting-to-know-your-competitors.php">Getting to know your competitors</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/how-to-act-on-the-competitor-information-you-get.php">How to act on the competitor information you get</a></li>
+					</ul>
+				</li>
 			</ul>
 		</li>
 		<li><a href="/sales-and-marketing/online-marketing.php">Online marketing</a></li>
