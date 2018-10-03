@@ -1,7 +1,7 @@
 <div class="media-object stack-for-small">
 	<div class="media-object-section">
 		<div class="thumbnail">
-			<img src="../../../_img/Copy_of_wow.jpg" width="181" height="121" border="0" alt="" />
+			<img src="/_img/Copy_of_wow.jpg" width="181" height="121" border="0" alt="" />
 		</div>
 	</div>
 	<div class="media-object-section">
