@@ -20,7 +20,7 @@
 		<p>The way that you conduct your field research will have a significant impact on the quality of the results. Below are the key points to remember when conducting your research and interpreting your results.</p>
 		
 		<h3>Ask the right questions</h3>
-		<p>If your questions are badly phrased then they may&nbsp;produce misleading results. Avoid closed questions which encourage the answer "yes" or "no". A stationery shop that asks customers if they intend to buy pens in the next year will find out just that - but they won't discover what type of pens, eg specially engraved pens or cheap biros.</p>
+		<p>If your questions are badly phrased then they may produce misleading results. Avoid closed questions which encourage the answer "yes" or "no". A stationery shop that asks customers if they intend to buy pens in the next year will find out just that - but they won't discover what type of pens, eg specially engraved pens or cheap biros.</p>
 		
 		<h3>Talk to the right people</h3>
 		<p>A survey at a railway station, for example, will get answers from commuters, but if you're targeting people who stay at home with young children, this won't be representative of your market.</p>
@@ -36,10 +36,10 @@
 		
 		<h3>Be realistic</h3>
 		<p>It can be tempting to pick out results that confirm what you want to hear, and ignore the rest. But ignoring negative results could damage your business. Be prepared to modify your plans if necessary.</p>
-		<p>If you don't have the time or skills to carry out research yourself, consider using a market research agency. See the page in this guide: <a href="/sales-and-marketing/marketing/market-research-and-market-reports/should-i-use-a-market-research-agency.php" title="How to choose between alternative methods of completing field research and how to find professional researchers">should I use a market research agency?</a></p>
+		<p>If you don't have the time or skills to carry out research yourself, consider using a market research agency. See the page in this guide: <a href="/sales-and-marketing/marketing/market-research-and-market-reports/should-i-use-a-market-research-agency.php">should I use a market research agency?</a></p>
 		
 		<ul>
-			<li><a href="detailec03.html?itemId=1073790740&amp;type=RESOURCES" title="Planning field research">Prev</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/planning-field-research.php" title="Planning field research">Prev</a></li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/should-i-use-a-market-research-agency.php" title="Should I use a market research agency?">Next</a></li>
 		</ul>
 
@@ -47,11 +47,11 @@
 		<ul>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports.php" title="Market research and market reports">Introduction</a></li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/customer-research-what-you-need-to-know.php">Customer research: what you need to know</a></li>
-			<li><a href="detail2aa4.html?itemId=1073790736&amp;type=RESOURCES">Information on market trends and competitor intelligence</a></li>
-			<li><a href="detail07ca.html?itemId=1073790734&amp;type=RESOURCES">Using market reports and other data</a></li>
-			<li><a href="detailc221.html?itemId=1073790737&amp;type=RESOURCES">Interpreting market information</a></li>
-			<li><a href="detaila6f3.html?itemId=1073790739&amp;type=RESOURCES">The basics of quantitative and qualitative field research</a></li>
-			<li><a href="detailec03.html?itemId=1073790740&amp;type=RESOURCES">Planning field research</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports.php">Information on market trends and competitor intelligence</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/using-market-reports-and-other-data.php">Using market reports and other data</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/interpreting-market-information.php">Interpreting market information</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/the-basics-of-quantitative-and-qualitative-field-research.php">The basics of quantitative and qualitative field research</a></li>
+			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/planning-field-research.php">Planning field research</a></li>
 			<li>Tips for successful field research</li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/should-i-use-a-market-research-agency.php">Should I use a market research agency?</a></li>
 			<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/here-is-how-i-made-the-most-of-market-research.php">Here's how I made the most of market research</a></li>
@@ -61,17 +61,17 @@
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.mrs.org.uk/mrindustry/downloads/newcomers.pdf" target="bgExternalonlinebusinesslinkgovuk" title="A guide for newcomers which outlines different research methods, the information they can obtain, and how they will be able to help you">Download a research methods guide from the Market Research Society website (PDF, 36K)</a></li>
-			<li><a href="http://www.learndirect.com/marketing" target="bgExternalonlinebusinesslinkgovuk" title="This course introduces the key principles of marketing and shows how you can apply them within your business">Marketing e-course on the learndirect business website</a></li>
+			<!-- /* not onine */ <li><a href="http://www.mrs.org.uk/mrindustry/downloads/newcomers.pdf" target="bgExternalonlinebusinesslinkgovuk" title="A guide for newcomers which outlines different research methods, the information they can obtain, and how they will be able to help you">Download a research methods guide from the Market Research Society website (PDF, 36K)</a></li> -->
+			<li><a href="https://www.learndirect.com/course/business-marketing" target="_blank" rel="noopener noreferrer">Marketing e-course on the learndirect business website</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>
 		<ul>
-			<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy.php" title="Decide how to market your product or service to potential customers">Create your marketing strategy</a></li>
-			<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan.php" title="How to identify your objectives and write a plan that will help your marketing generate sales">Write a marketing plan</a></li>
-			<li><a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs.php" title="Why understanding your customers' needs is crucial to the success of your business">Know your customers' needs</a></li>
-			<li><a href="layer48a3.html?topicId=1074002278" title="What steps you must take to protect your customers' privacy and data">Privacy and data protection in direct marketing</a></li>
-			<li><a href="/international-trade/importing-and-exporting-basics/overseas-supplier-relationships/entering-overseas-markets.php" title="Deciding between selling directly and using an intermediary is a key choice when entering an overseas market">Entering overseas markets</a></li>
+			<li><a href="/sales-and-marketing/marketing/create-your-marketing-strategy.php">Create your marketing strategy</a></li>
+			<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan.php">Write a marketing plan</a></li>
+			<li><a href="/sales-and-marketing/keeping-your-customers/know-your-customers-needs.php">Know your customers' needs</a></li>
+			<li><a href="/sales-and-marketing/selling-and-the-law/privacy-and-data-protection-in-direct-marketing.php">Privacy and data protection in direct marketing</a></li>
+			<li><a href="/international-trade/importing-and-exporting-basics/overseas-supplier-relationships/entering-overseas-markets.php">Entering overseas markets</a></li>
 		</ul>
 
 		<p>Developed with:<br />
