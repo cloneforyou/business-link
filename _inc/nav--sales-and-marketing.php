@@ -21,30 +21,24 @@
 					</ul>
 				</li>
 				<li>
-					<a href="/sales-and-marketing/marketing/market-research-and-market-reports.php">Market research and market reports</a>
+					<a href="/sales-and-marketing/marketing/write-a-marketing-plan.php">Write a marketing plan</a>
 					<ul>
-						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports.php" title="Market research and market reports">Introduction</a></li>
-						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/customer-research-what-you-need-to-know.php">Customer research: what you need to know</a></li>
-						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/information-on-market-trends-and-competitor-intelligence.php">Information on market trends and competitor intelligence</a></li>
-						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/using-market-reports-and-other-data.php">Using market reports and other data</a></li>
-						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/interpreting-market-information.php">Interpreting market information</a></li>
-						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/the-basics-of-quantitative-and-qualitative-field-research.php">The basics of quantitative and qualitative field research</a></li>
-						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/planning-field-research.php">Planning field research</a></li>
-						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/tips-for-successful-field-research.php">Tips for successful field research</a></li>
-						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/should-i-use-a-market-research-agency.php">Should I use a market research agency?</a></li>
-						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/here-is-how-i-made-the-most-of-market-research.php">Here's how I made the most of market research</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan.php" title="Write a marketing plan">Introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/marketing-plan-summary-and-introduction.php">Marketing plan summary and introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/external-and-internal-analysis-for-your-marketing-plan.php">External and internal analysis for your marketing plan</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/your-marketing-objectives.php">Your marketing objectives</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/your-marketing-plan-is-your-marketing-strategy-in-action.php">Your marketing plan is your marketing strategy in action</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/plan-your-marketing-tactics.php">Plan your marketing tactics</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/implementing-your-marketing-plan.php">Implementing your marketing plan</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/tips-for-writing-a-marketing-plan.php">Tips for writing a marketing plan</a></li>
+						<li><a href="/sales-and-marketing/marketing/write-a-marketing-plan/here-is-how-i-developed-and-implemented-a-marketing-plan.php">Here's how I developed and implemented a marketing plan</a></li>
 					</ul>
 				</li>
 				<li>
-					<a href="/sales-and-marketing/marketing/understand-your-competitors.php">Understand your competitors</a>
-					<ul>
-						<li><a href="/sales-and-marketing/marketing/understand-your-competitors.php" title="Understand your competitors">Introduction</a></li>
-						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/who-are-your-competitors.php">Who are your competitors?</a></li>
-						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/what-you-need-to-know-about-your-competitors.php">What you need to know about your competitors</a></li>
-						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/learning-about-your-competitors.php">Learning about your competitors</a></li>
-						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/getting-to-know-your-competitors.php">Getting to know your competitors</a></li>
-						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/how-to-act-on-the-competitor-information-you-get.php">How to act on the competitor information you get</a></li>
-					</ul>
+					Marketing on a tight budget
+				</li>
+				<li>
+					Direct marketing: the basics
 				</li>
 				<li>
 					<a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions.php">Trade shows and exhibitions</a>
@@ -61,6 +55,41 @@
 						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/following-up-from-a-trade-fair.php">Following up from a trade fair</a></li>
 						<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/here-is-how-i-generated-new-business-by-attending-trade-shows-and-exhibitions.php">Here's how I generated new business by attending trade shows and exhibitions</a></li>
 					</ul>
+				</li>
+				<li>
+					<a href="/sales-and-marketing/marketing/understand-your-competitors.php">Understand your competitors</a>
+					<ul>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors.php" title="Understand your competitors">Introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/who-are-your-competitors.php">Who are your competitors?</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/what-you-need-to-know-about-your-competitors.php">What you need to know about your competitors</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/learning-about-your-competitors.php">Learning about your competitors</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/getting-to-know-your-competitors.php">Getting to know your competitors</a></li>
+						<li><a href="/sales-and-marketing/marketing/understand-your-competitors/how-to-act-on-the-competitor-information-you-get.php">How to act on the competitor information you get</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="/sales-and-marketing/marketing/market-research-and-market-reports.php">Market research and market reports</a>
+					<ul>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports.php" title="Market research and market reports">Introduction</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/customer-research-what-you-need-to-know.php">Customer research: what you need to know</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/information-on-market-trends-and-competitor-intelligence.php">Information on market trends and competitor intelligence</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/using-market-reports-and-other-data.php">Using market reports and other data</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/interpreting-market-information.php">Interpreting market information</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/the-basics-of-quantitative-and-qualitative-field-research.php">The basics of quantitative and qualitative field research</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/planning-field-research.php">Planning field research</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/tips-for-successful-field-research.php">Tips for successful field research</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/should-i-use-a-market-research-agency.php">Should I use a market research agency?</a></li>
+						<li><a href="/sales-and-marketing/marketing/market-research-and-market-reports/here-is-how-i-made-the-most-of-market-research.php">Here's how I made the most of market research</a></li>
+					</ul>
+				</li>
+				<li>
+					Competing in markets dominated by big brands
+				</li>
+				<li>
+					Marketing your business confidently
+				</li>
+				<li>
+					Telemarketing
 				</li>
 			</ul>
 		</li>
