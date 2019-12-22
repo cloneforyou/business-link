@@ -51,7 +51,7 @@
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 		
 		<p>Developed with:<br />
-			<a href="https://www.cim.co.uk/home/" title="The Chartered Institute of Marketing" target="_blank" rel="noopener noreferrer">
+			<a href="https://www.cim.co.uk/" title="The Chartered Institute of Marketing" target="_blank" rel="noopener noreferrer">
 				<img src="/_img/cim_logo.gif" width="105" height="35" alt="" /> The Chartered Institute of Marketing
 			</a>
 		</p>

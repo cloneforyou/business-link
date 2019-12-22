@@ -49,7 +49,7 @@
 		</ul>
 
 		<p>Developed with:<br />
-			<a href="https://www.cim.co.uk/home/" target="_blank" rel="noopener noreferrer">
+			<a href="https://www.cim.co.uk/" target="_blank" rel="noopener noreferrer">
 				<img src="/_img/cim_logo.gif" width="140" height="32" alt="" /> The Chartered Institute of Marketing
 			</a>
 		</p>

@@ -83,7 +83,7 @@
 		<p><a href="/find-a-case-study.php" title=""><b>Find a case study</b></a></p>
 		
 		<p>Developed with:<br />
-			<a href="https://www.cim.co.uk/home/" target="_blank" rel="noopener noreferrer" title="The Chartered Institute of Marketing">
+			<a href="https://www.cim.co.uk/" target="_blank" rel="noopener noreferrer" title="The Chartered Institute of Marketing">
 				<img src="/_img/cim_logo.gif" width="140" height="32" alt="" /> The Chartered Institute of Marketing
 			</a>
 		</p>
