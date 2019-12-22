@@ -51,7 +51,6 @@
 			<li><a href="/_files/marketing-plan.odt" target="_blank" rel="noopener noreferrer">Download our marketing plan template as an ODT file by using Openoffice software (ODT, 55K)</a></li>
 		</ul>
 		<img src="/_img/px_salesandmarketing.gif" width="181" height="5" alt="" />
-
 		
 		<p>Developed with:<br />
 			<a href="https://www.cim.co.uk/" target="_blank" rel="noopener noreferrer" title="">
