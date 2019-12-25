@@ -110,7 +110,7 @@ $warning-color: get-color(warning);
 $alert-color: get-color(alert);
 
 @mixin foundation-global-styles {
-  @include -zf-normalize;
+  // @include -zf-normalize;
 
   // These styles are applied to a <meta> tag, which is read by the Foundation JavaScript
   .foundation-mq {
@@ -214,6 +214,6 @@ $alert-color: get-color(alert);
 
 /// Loads normalize.css.
 /// @access private
-@mixin -zf-normalize {
-  @include normalize();
-}
+// @mixin -zf-normalize {
+//   @include normalize();
+// }
