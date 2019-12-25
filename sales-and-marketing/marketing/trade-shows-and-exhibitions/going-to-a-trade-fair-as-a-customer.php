@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html class="no-js">
-<head>
-	<title>Trade shows and exhibitions | Business Link</title>
-	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
-	
-	<!-- ref: layer9295.html || /layer?topicId=1074022023 -->
 
-	<meta name="description" lang="en" content="Getting the most out of trade shows - using specialist event companies, attending trade events abroad" />
+<head>
+	<title>Going to a trade fair as a customer | Business Link</title>
+	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+	<!-- ref: .html || /detail?itemId=1073792469&type=RESOURCES -->
+	<meta name="description" lang="en" content="Get the maximum benefit by seeing new products and services, networking and meeting new and specialist suppliers" />
 	<meta name="keywords" lang="en" content="Trade shows;exhibitions;trade development;foreign trade;expanding market;trade development;exhibition grants;exhibition funding;funding for exhibitions;trade fair;trade shows;exhibitor;display goods;display stand;expo;trade expo;exhibitor;trade exhibition;trade promotion;trade events;marketing opportunity;exhibition stand;" />
 </head>
 
@@ -16,23 +15,30 @@
 
 <div class="row">
 	<div class="small-12 large-8 large-push-4 columns">
-
 		<h1>Trade shows and exhibitions</h1>
-		<h2>Introduction</h2>
-		<img src="/_img/EP1070.gif" width="78" height="118" alt="" />
-		<p>Trade shows and exhibitions are specialist market places that allow exhibitors to promote their products and services, reach new customers and generate new sales. They also give visitors the opportunity to find out about the products and services on display.</p>
-		<p>Trade shows and exhibitions can also provide business people with the opportunity to network and make useful contacts with other people working in their industry.</p>
-		<p>This guide aims to help you get the best from exhibiting at one of these events (for simplicity, we'll call them all <b>trade fairs</b>) or attending as a visitor.</p>
+		<h2>Going to a trade fair as a customer</h2>
+		<p>If you have chosen the right trade fair, it's an ideal place to find relevant <b>suppliers</b> gathered under one roof and to do some useful <b>networking</b>. You should be able to:</p>
+		<ul>
+			<li>see new and relevant products or services</li>
+			<li>compare new products and services, try them out and ask questions</li>
+			<li>find new and specialist suppliers</li>
+			<li>encounter new ideas and innovative companies</li>
+			<li>get up to date with new technologies</li>
+			<li>make contact with other people in your area of business, and tap into their expertise and enthusiasm</li>
+		</ul>
+
+		<p>To make sure you get the best value from the time and resources you have put into attending the fair, plan your visit and your objectives - make them specific and measurable, such as finding three new suppliers or making five new contacts in a particular area. Evaluate whether you have achieved these objectives.</p>
 		
 		<ul>
-			<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/using-a-trade-fair-to-promote-your-product-or-service.php" title="Using a trade fair to promote your product or service">Next</a></li>
+			<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/using-a-trade-fair-to-promote-your-product-or-service.php" title="Using a trade fair to promote your product or service">Prev</a></li>
+			<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/choosing-the-right-trade-fair.php" title="Choosing the right trade fair">Next</a></li>
 		</ul>
-		
+
 		<h3>Subjects covered in this guide</h3>
 		<ul>
-			<li>Introduction</li>
+			<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions.php" title="Trade shows and exhibitions">Introduction</a></li>
 			<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/using-a-trade-fair-to-promote-your-product-or-service.php">Using a trade fair to promote your product or service</a></li>
-			<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/going-to-a-trade-fair-as-a-customer.php">Going to a trade fair as a customer</a></li>
+			<li>Going to a trade fair as a customer</li>
 			<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/choosing-the-right-trade-fair.php">Choosing the right trade fair</a></li>
 			<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/exhibiting-using-specialist-event-companies.php">Exhibiting - using specialist event companies</a></li>
 			<li><a href="/sales-and-marketing/marketing/trade-shows-and-exhibitions/exhibiting-doing-it-yourself.php">Exhibiting - doing it yourself</a></li>
@@ -44,12 +50,20 @@
 		</ul>
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
-		
+
 		<h3>AEO Enquiry Line</h3>
 		<p>01442 285 810</p>
+		<h3>British Chambers of Commerce</h3>
+		<p>024 7669 4484</p>
+		
+		<h3>Also on this site</h3>
+		<ul>
+			<li><a href="/grow-your-business/growth-through-strategic-sourcing/choosing-the-right-suppliers.php">Choosing the right suppliers</a></li>
+			<li><a href="/international-trade/importing-and-exporting-basics/overseas-supplier-relationships/manage-overseas-suppliers.php">Manage overseas suppliers</a></li>
+		</ul>
 
-		<img src="/_img/px_salesandmarketing.gif" width="181" height="5" alt="" />
-	
+		<img src="/_img/px_salesandmarketing.gif" alt="" width="181" height="5" />
+		
 		<p>Developed with:<br />
 			<a href="https://www.cim.co.uk/" target="_blank" rel="noopener noreferrer" title="The Chartered Institute of Marketing">
 				<img src="/_img/cim_logo.gif" width="140" height="32" alt="" /> The Chartered Institute of Marketing
