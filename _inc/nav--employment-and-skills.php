@@ -4,7 +4,22 @@
 		<li>
 			<a href="/employment-and-skills.php" title="Employment &amp; skills">Introduction</a>
 		</li>
-		<li><a href="/employment-and-skills/advertise-a-job.php">Advertise a job</a></li>
+		<li>
+			<a href="/employment-and-skills/advertise-a-job.php">Advertise a job</a>
+			<ul>
+				<li><a href="/employment-and-skills/advertise-a-job.php" title="Advertise a job">Introduction</a></li>
+				<li><a href="/employment-and-skills/advertise-a-job/advertise-a-job-and-jobcentre-plus-services/how-to-advertise-your-job.php">How to advertise your job</a></li>
+				<li><a href="/employment-and-skills/advertise-a-job/advertise-a-job-and-jobcentre-plus-services/using-the-jobcentre-plus-online-advertising-service.php">Using the Jobcentre Plus online advertising service</a></li>
+				<li><a href="/employment-and-skills/advertise-a-job/advertise-a-job-and-jobcentre-plus-services/european-employment-services-eures.php">European Employment Services (EURES)</a></li>
+				<li><a href="/employment-and-skills/advertise-a-job/advertise-a-job-and-jobcentre-plus-services/jobcentre-plus-services-to-support-small-businesses.php">Jobcentre Plus services to support small businesses</a></li>
+				<li><a href="/employment-and-skills/advertise-a-job/advertise-a-job-and-jobcentre-plus-services/recruitment-advisory-service.php">Recruitment Advisory Service</a></li>
+				<li><a href="/employment-and-skills/advertise-a-job/advertise-a-job-and-jobcentre-plus-services/offering-a-potential-employee-a-work-trial.php">Offering a potential employee a Work Trial</a></li>
+				<li><a href="/employment-and-skills/advertise-a-job/advertise-a-job-and-jobcentre-plus-services/improving-skills-and-employment.php">Improving skills and employment</a></li>
+				<li><a href="/employment-and-skills/advertise-a-job/advertise-a-job-and-jobcentre-plus-services/support-for-employers-making-redundancies.php">Support for employers making redundancies</a></li>
+				<li><a href="/employment-and-skills/advertise-a-job/advertise-a-job-and-jobcentre-plus-services/online-advertising-service-user-updates.php">Online advertising service user updates</a></li>
+				<li><a href="/employment-and-skills/advertise-a-job/advertise-a-job-and-jobcentre-plus-services/here-is-how-our-business-benefits-from-offering-work-experience-places.php">Here's how our business benefits from offering work experience places</a></li>
+			</ul>
+		</li>
 		<li><a href="/employment-and-skills/take-on-staff.php">Take on staff</a></li>
 		<li><a href="/employment-and-skills/different-types-of-worker.php">Different types of worker</a></li>
 		<li>
