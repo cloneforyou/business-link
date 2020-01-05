@@ -202,14 +202,14 @@
 					<a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges.php">Work with UK universities and colleges</a>
 					<ul>
 						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges.php" title="Work with UK universities and colleges">Introduction</a></li>
-						<li><a href="">Delivering innovation through collaboration and networking</a></li>
-						<li><a href="">Research councils and government help</a></li>
-						<li><a href="">Knowledge Transfer Partnerships</a></li>
-						<li><a href="">Knowledge Transfer Networks</a></li>
-						<li><a href="">University Innovation Centres</a></li>
-						<li><a href="">Collaborative Research &amp; Development</a></li>
-						<li><a href="">The Step Programme</a></li>
-						<li><a href="">Here's how I used a Knowledge Transfer Partnership and worked with a university</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/delivering-innovation-through-collaboration-and-networking.php">Delivering innovation through collaboration and networking</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/research-councils-and-government-help.php">Research councils and government help</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/knowledge-transfer-partnerships.php">Knowledge Transfer Partnerships</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/knowledge-transfer-networks.php">Knowledge Transfer Networks</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/university-innovation-centres.php">University Innovation Centres</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/collaborative-research-and-development.php">Collaborative Research &amp; Development</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/the-step-programme.php">The Step Programme</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/here-is-how-i-used-a-knowledge-transfer-partnership-and-worked-with-a-university.php">Here's how I used a Knowledge Transfer Partnership and worked with a university</a></li>
 					</ul>
 				</li>
 				<li>
