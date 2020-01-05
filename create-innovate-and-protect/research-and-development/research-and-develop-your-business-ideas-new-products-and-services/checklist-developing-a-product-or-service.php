@@ -69,7 +69,7 @@
 			<li><a href="/grow-your-business/planning-how-to-grow/project-management-the-basics.php">Project management - the basics</a></li>
 		</ul>
 
-		<img src="../../../_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

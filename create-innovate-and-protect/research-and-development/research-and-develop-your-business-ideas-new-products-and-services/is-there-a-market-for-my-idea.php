@@ -97,7 +97,7 @@
 			<li><a href="/create-innovate-and-protect/research-and-development/manage-your-research-design-and-development.php">Manage your research, design and development</a></li>
 		</ul>
 
-		<img src="../../../_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

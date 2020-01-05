@@ -20,7 +20,7 @@
 			<h1>Buy an existing business</h1>
 			<h2>Where to look for a business to buy</h2>
 			<p>Many national and local <strong>newspapers</strong> carry adverts for businesses and business premises for sale.</p>
-			<p>Depending on what sector you're interested in, you could look in <strong>trade journals</strong>, eg Retail Newsagent, British Baker, The Publican and The Grocer. <a href="http://www.taforum.org/Members" target="_blank" rel="noopener noreferrer" title="Search for a trade association by name, activity or initial letter">Find your trade association on the Trade Association website</a>.</p>
+			<p>Depending on what sector you're interested in, you could look in <strong>trade journals</strong>, eg Retail Newsagent, British Baker, The Publican and The Grocer. <a href="https://www.taforum.org/Members" target="_blank" rel="noopener noreferrer" title="Search for a trade association by name, activity or initial letter">Find your trade association on the Trade Association website</a>.</p>
 			<p>You could put in your own <strong>advertisement</strong>, saying what you are looking for. You can get contact details for most newspapers, magazines and trade journals from press directories available at your local library.</p>
 			<p>Some <strong>magazines</strong> - many of them with their own websites - specialise in buying and selling, like Exchange and Mart, Loot and Daltons Business. These sources tend to be specific to certain kinds of businesses.</p>
 			<p>Business brokers, transfer agents and corporate financiers all maintain lists of businesses for sale.</p>

@@ -79,17 +79,17 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Importance of knowledge management to a growing business</a>
+					<a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business.php">Importance of knowledge management to a growing business</a>
 					<ul>
-						<li><a href="" title="Importance of knowledge management to a growing business">Introduction</a></li>
-						<li><a href="">What is knowledge in a business?</a></li>
-						<li><a href="">Basic sources of knowledge</a></li>
-						<li><a href="">Exploiting your knowledge</a></li>
-						<li><a href="">Make knowledge central to your business</a></li>
-						<li><a href="">Sharing knowledge across your business</a></li>
-						<li><a href="">Create a knowledge strategy for your business</a></li>
-						<li><a href="">Using information technology to gain and manage knowledge</a></li>
-						<li><a href="">Here's how I used knowledge management to make my business better (Flash video)</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business.php" title="Importance of knowledge management to a growing business">Introduction</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/what-is-knowledge-in-a-business.php">What is knowledge in a business?</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/basic-sources-of-knowledge.php">Basic sources of knowledge</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/exploiting-your-knowledge.php">Exploiting your knowledge</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/make-knowledge-central-to-your-business.php">Make knowledge central to your business</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/sharing-knowledge-across-your-business.php">Sharing knowledge across your business</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/create-a-knowledge-strategy-for-your-business.php">Create a knowledge strategy for your business</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/using-information-technology-to-gain-and-manage-knowledge.php">Using information technology to gain and manage knowledge</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/here-is-how-I-used-knowledge-management-to-make-my-business-better_flash-video.php">Here's how I used knowledge management to make my business better (Flash video)</a></li>
 					</ul>
 				</li>
 				<li>

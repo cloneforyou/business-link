@@ -89,7 +89,7 @@
 			<li><a href="/starting-up/choose-and-set-up-your-workplace/starting-a-business-from-home.php">Starting a business from home </a></li>
 		</ul>
 
-		<img src="../../../_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

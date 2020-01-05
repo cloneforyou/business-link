@@ -81,7 +81,7 @@
 
 		<p><a href="/find-a-case-study.php"><strong>Find a case study</strong></a></p>
 		
-		<img src="../../../_img/px_growthandinnovation.gif" width="181" height="5" alt="" />
+		<img src="/_img/px_growthandinnovation.gif" width="181" height="5" alt="" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

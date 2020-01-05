@@ -24,7 +24,7 @@
 			<p>Business networking is an opportunity for you to meet with other business people, make new contacts, get new leads and find ways that you may be able to help each other.</p>
 			<p>There are many networking events available through several different organisations, including trade associations and Chambers of Commerce.</p>
 			<p><a href="http://www.britishchambers.org.uk/find-your-chamber/" target="_blank" rel="noopener noreferrer">Find your local Chamber of Commerce on the British Chambers of Commerce website</a>.</p>
-			<p><a href="http://www.taforum.org/Members" target="_blank" rel="noopener noreferrer">Search for your local trade association on the Trade Association Forum website</a>.</p>
+			<p><a href="https://www.taforum.org/Members" target="_blank" rel="noopener noreferrer">Search for your local trade association on the Trade Association Forum website</a>.</p>
 			<p>Networking is also increasingly available online, through groups set up on social networking websites or through specialist websites, such as LinkedIn.</p>
 			
 			<h3>Mentorsme.co.uk</h3>
