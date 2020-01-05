@@ -54,8 +54,8 @@
 			<p><a href="https://dsa.dft.gov.uk/DSAWeb/" target="_blank" rel="noopener noreferrer">Apply for a trainee licence online</a></p>
 			
 			<p>In partnership with:<br />
-				<a href="https://www.gov.uk/government/organisations/driving-standards-agency" target="_blank" rel="noopener noreferrer" title="Driving Standards Agency">
-					<img src="../../_img/dsa_logo_35px.gif" width="72" height="35" alt="" /> Driving Standards Agency
+				<a href="https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency" target="_blank" rel="noopener noreferrer" title="Driving Standards Agency">
+					<img src="/_img/dsa_logo_35px.gif" width="72" height="35" alt="" /> Driving Standards Agency
 				</a>
 			</p>
 			
