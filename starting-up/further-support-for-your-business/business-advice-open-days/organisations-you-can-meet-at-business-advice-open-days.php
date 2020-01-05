@@ -25,7 +25,7 @@
 			<p>The line-up of each event depends on the size of the venue. However, some of the key national partners that you can speak to at many of the open days include:</p>
 			<ul>
 				<li>Business Link</li>
-				<li><a href="http://www.hse.gov.uk/" target="_blank" rel="noopener noreferrer">the Health &amp; Safety Executive</a></li>
+				<li><a href="https://www.hse.gov.uk/" target="_blank" rel="noopener noreferrer">the Health &amp; Safety Executive</a></li>
 				<li>Acas</li>
 				<li><a href="https://www.gov.uk/government/organisations/hm-revenue-customs" target="_blank" rel="noopener noreferrer">HM Revenue &amp; Customs (HMRC)</a></li>
 				<li><a href="http://gov.wales/" target="_blank" rel="noopener noreferrer">Welsh Government</a></li>

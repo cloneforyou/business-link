@@ -50,7 +50,7 @@
 		</ul>
 		
 		<p>Developed with:<br />
-			<a href="http://www.hse.gov.uk/" title="Health and Safety Executive" target="_blank" rel="noopener noreferrer">
+			<a href="https://www.hse.gov.uk/" title="Health and Safety Executive" target="_blank" rel="noopener noreferrer">
 				<img src="/_img/HSE_logo.jpg" width="61" height="61" alt="" /> Health and Safety Executive
 			</a>
 		</p>
