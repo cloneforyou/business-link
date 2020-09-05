@@ -2,7 +2,7 @@
 var gulp  = require('gulp'),
 	gutil = require('gulp-util'),
 	imagemin = require('gulp-imagemin'), 
-	pngquant = require('imagemin-pngquant'), 
+	// pngquant = require('imagemin-pngquant'), 
 	sass = require('gulp-sass'),
 	cssnano = require('gulp-cssnano'),
 	autoprefixer = require('gulp-autoprefixer'),
@@ -21,10 +21,7 @@ var gulp  = require('gulp'),
 // Added gulp-imagemin
 gulp.task('imagemin', function() {
   gulp.src('./_assets/images/*')
-	.pipe(imagemin({
-			progressive: true,
-			use: [pngquant()]
-		}))
+	.pipe(imagemin())
 	.pipe(gulp.dest('./_img/'))
 });
 
