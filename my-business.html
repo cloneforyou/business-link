@@ -1,0 +1,479 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+	<style id="stndz-style"></style><!-- WB Insert -->
+	<script>
+		// This block sets up a series of server-defined variables for use within Wombat
+    wbinfo = {
+        url           : "/my-business.php",
+        timestamp     : "20120823131132",
+        request_ts    : "20120823131132",
+        prefix        : decodeURI("https://webarchive.nationalarchives.gov.uk/"),
+        mod           : "",
+        origurl       : "20120823131132//my-business.php",
+        type          : "replay",
+        top_url       : "https://webarchive.nationalarchives.gov.uk/20120823131132tf_//my-business.php",
+        is_framed     : true,
+        is_live       : false,
+        coll          : "",
+        proxy_magic   : "",
+        static_prefix : "https://webarchive.nationalarchives.gov.uk/static/__pywb"
+    };
+</script>
+	<!-- Load our core JS -->
+	<script src="https://webarchive.nationalarchives.gov.uk/static/__pywb/mw/js/wb.js"> </script>
+	<script src="https://webarchive.nationalarchives.gov.uk/static/__pywb/mw/js/vidrw.js"> </script>
+	<!-- Wombat is enabled, so we load it -->
+	<script src="https://webarchive.nationalarchives.gov.uk/static/__pywb/mw/js/wombat.js"> </script>
+	<script>
+		// Since we're in rewrite mode, add a few more variables for later use
+    wbinfo.wombat_ts = "20120823131132";
+    wbinfo.wombat_scheme = "https";
+    wbinfo.wombat_host = "online.businesslink.gov.uk";
+    wbinfo.wombat_sec = "1345727492";
+    wbinfo.wombat_opts = {};
+
+    // If we don't already have a Wombat instance in the page, set one up
+    if (window && window._WBWombat && !window._wb_js_inited && !window._wb_wombat) {
+        window._wb_wombat = new _WBWombat(wbinfo);
+    }
+
+    // If all our relevant information exists, set the banner details
+    if (wbinfo && wbinfo.timestamp) {
+        // Create our prettified date for the banner
+        ts_new_str = _wb_js.ts_to_pretty_date(wbinfo.timestamp);
+
+        // Get our text elements to setup
+        var mobileTextElements = window.top.document.getElementsByClassName('mw-mobile-text');
+        var desktopTextElements = window.top.document.getElementsByClassName('mw-desktop-text');
+        
+        if(desktopTextElements.length > 0) {
+            console.log("[MW Head Insert] Set banner text for desktop.");
+            desktopTextElements[0].innerHTML = ts_new_str;
+        }
+
+        if(mobileTextElements.length > 0) {
+            console.log("[MW Head Insert] Set banner text for mobile.");
+            mobileTextElements[0].innerHTML = ts_new_str;
+        }
+  }
+</script>
+	<!-- load banner -->
+	<script> if (window._wb_js) { _wb_js.load(); }</script>
+	<!-- End WB Insert -->
+	<!-- DOCUMENT META INFORMATION -->
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="X-UA-Compatible" content="IE=7">
+	<title>My Business | Business Link </title>
+	<meta name="SBS_ATOMID" lang="en" content="MB">
+	<!-- / DOCUMENT META INFORMATION -->
+	<!-- include favicon -->
+	<link rel="shortcut icon" href="/20120823131132oe_/https://online.businesslink.gov.uk/syntegra/images/sbs_bdotg_favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/20120823131132oe_/https://online.businesslink.gov.uk/syntegra/images/sbs_bdotg_favicon.ico" type="image/x-icon">
+	<link rel="canonical" href="https://webarchive.nationalarchives.gov.uk/20120823131132oe_/https://www.businesslink.gov.uk/bdotg/action/myBusiness">
+	<!-- SHARED STYLES -->
+	<style type="text/css">
+	@import url("/20120823131132/https://online.businesslink.gov.uk/syntegra/css/core.css");
+	</style>
+	<!-- PAGE SPECIFIC STYLES (These change for each page, based on the request attributes) -->
+	<style type="text/css">
+	@import url("/20120823131132/https://online.businesslink.gov.uk/syntegra/css/myaccount.css");
+	</style>
+	<!-- MENU STYLES -->
+	<style type="text/css">
+	@import url("/20120823131132/https://online.businesslink.gov.uk/syntegra/css/menu_mb.css");
+	</style>
+	<!-- THEME STYLES -->
+	<style type="text/css">
+	@import url("/20120823131132/https://online.businesslink.gov.uk/syntegra/css/scheme_global.css");
+	</style>
+	<!-- OVERRIDE STYLES (These change for each page, based on the request attributes) -->
+	<style type="text/css">
+	@import url("/20120823131132/https://online.businesslink.gov.uk/syntegra/css/sbs_bdotg.css");
+	</style>
+	<!--  EXTRA RR STYLES -->
+	<style type="text/css">
+	@import url("/20120823131132/https://online.businesslink.gov.uk/syntegra/css/mybusiness.css");
+	</style>
+	<style type="text/css">
+	@import url("/20120823131132/https://online.businesslink.gov.uk/syntegra/css/skiplinks.css");
+	</style>
+	<!--[if IE 7]>
+		<style type="text/css">@import url("/syntegra/css/ie7.css");</style>
+	<![endif]-->
+	<script type="text/javascript" src="/20120823131132js_/https://online.businesslink.gov.uk/syntegra/js/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="/20120823131132js_/https://online.businesslink.gov.uk/syntegra/js/functions.js"></script>
+	<style type="text/css">
+	.toggleClosed {
+		display: none;
+	}
+	</style>
+	<style type="text/css">
+	.homepromo1 {
+		display: none;
+	}
+
+	.homepromo2 {
+		display: none;
+	}
+
+	.homepromo3 {
+		display: none;
+	}
+
+	.homepromo4 {
+		display: none;
+	}
+
+	.homepromo5 {
+		display: none;
+	}
+
+	.homepromo6 {
+		display: none;
+	}
+
+	.homepromo7 {
+		display: none;
+	}
+
+	#additionalcontent .basicbox:first-child .promo1 {
+		display: none;
+	}
+
+	#additionalcontent .basicbox:first-child .promo2 {
+		display: none;
+	}
+
+	#additionalcontent .basicbox:first-child .promo3 {
+		display: none;
+	}
+
+	#additionalcontent .basicbox:first-child .promo4 {
+		display: none;
+	}
+
+	#additionalcontent .basicbox:first-child .promo5 {
+		display: none;
+	}
+	</style>
+	<script type="text/javascript" src="/20120823131132js_/https://online.businesslink.gov.uk/syntegra/js/DOMAssistantComplete-2.7.1.1.js"></script>
+	<script type="text/javascript" src="/20120823131132js_/https://online.businesslink.gov.uk/syntegra/js/skiplinks.js"></script>
+	<script type="text/javascript" src="/20120823131132js_/https://online.businesslink.gov.uk/syntegra/js/equalHeights.js"></script>
+	<script type="text/javascript" src="/20120823131132js_/https://online.businesslink.gov.uk/syntegra/js/ExitSurvey.js"></script>
+</head>
+
+<body onunload="doUnload()">
+	<!-- skip links -->
+	<div id="skip">
+		<ul>
+			<li><a href="#skipcont">Go to main content</a></li>
+			<li><a href="#skipleft">Go to main navigation</a></li>
+			<li><a href="#skiphelp">Go to site map, help, search</a></li>
+			<li><a href="#skiplogin">Go to register, log in</a></li>
+			<li><a href="#skipfooter">Go to footer navigation</a></li>
+		</ul>
+	</div>
+	<!-- end skip links -->
+	<div id="logo">
+		<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/home?r.s=l" title="Small Business Service home"><img src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/global-business-link-logo.png" alt="Business Link" border="0"></a>
+	</div>
+	<div id="strapline">Information. Support. Compliance.</div>
+	<span style="position:absolute;"><a name="skiplogin" id="skiplogin">&nbsp;</a></span>
+	<div id="login">
+		<p>
+			Your account
+		</p>
+		<ul>
+			<li>
+				<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/upgradeDescription?r.s=h" id="hdr_register_now">
+					Register now
+				</a>
+			</li>
+			<li>
+				<a onclick="bLeaving=false;" href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/BGAuthenticate?r.s=h">
+					Log in
+				</a>
+			</li>
+		</ul>
+	</div>
+	<div id="header"><img src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/px_trans.gif" alt="" width="745" height="1"></div>
+	<div id="content">
+		<!-- Page breadcrumb -->
+		<div id="breadcrumb">
+			<p><a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/home?r.s=b" title="">Home</a>&nbsp;&gt;&nbsp;My Business</p>
+		</div>
+		<span style="position:absolute;"><a name="skipcont" id="skipcont">&nbsp;</a></span>
+		<div id="mybusiness">
+			<div id="maincontent" class="rr538width">
+				<h1>
+					My Business
+				</h1>
+				<p>
+					Benefits of using My Business:
+				</p>
+				<ul>
+					<li>get the latest updates relevant to you as they happen</li>
+					<li>create and manage your customised user profile</li>
+					<li>save your information to save time later</li>
+				</ul>
+				<p></p>
+				<div class="rrboxadleft">
+					<div class="rrboxad">
+						<h2>
+							<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/profile?topicId=1078549100">
+								Register or log in
+							</a>
+						</h2>
+						<p>
+							Create your business profile here.
+						</p>
+						<ul class="links">
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/upgradeDescription?r.s=h" id="hdr_register_now">
+									Register now
+								</a>
+							</li>
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/BGAuthenticate?r.s=h">
+									Log in
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div class="rrboxad">
+						<h2><a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?topicId=1097146637" title="All the help you need to set up your business">My New Business</a></h2>
+						<p>
+							All the help you need to set up your business
+						</p>
+						<ul class="links">
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/hub/action/render?pageId=mynewbusiness">
+									My New Business
+								</a>
+							</li>
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/hub/action/render?pageId=tasklist">
+									Recommended start-up tasks
+								</a>
+							</li>
+						</ul>
+						<ul class="actions">
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?topicId=1097146637" title="All the help you need to set up your business">View all</a>
+							</li>
+						</ul>
+					</div>
+					<div class="rrboxad">
+						<h2><a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?topicId=1078549129" title="Our unique tools give you an all-round view of what you need to do and where you'll find help.">Business support tools</a></h2>
+						<p>
+							Our unique tools give you an all-round view of what you need to do and where you'll find help.
+						</p>
+						<ul class="links">
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://improve.businesslink.gov.uk/resources/business-awards-finder?r.s=p">Business awards finder</a>
+							</li>
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://improve.businesslink.gov.uk/resources/business-support-finder?r.s=p">Business support finder</a>
+							</li>
+						</ul>
+						<ul class="actions">
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?topicId=1078549129" title="Our unique tools give you an all-round view of what you need to do and where you'll find help.">View all</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="rrboxadright">
+					<div class="rrboxad">
+						<h2><a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?topicId=1082235004" title="From here you can sign up to, change or cancel all the email alerts available through the site.">Manage email alerts</a></h2>
+						<p>
+							From here you can sign up to, change or cancel all the email alerts available through the site.
+						</p>
+						<ul class="links">
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/changeEmail?r.s=reg">
+									Change my email preferences
+								</a>
+							</li>
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/cancelAllEmailAlertsInput?r.s=reg">
+									Cancel all email alerts
+								</a>
+							</li>
+						</ul>
+						<ul class="actions">
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?topicId=1082235004" title="From here you can sign up to, change or cancel all the email alerts available through the site.">View all</a>
+							</li>
+						</ul>
+					</div>
+					<div class="rrboxad">
+						<h2><a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?topicId=1078549142" title="Use these facilities to manage any transactions and licence applications you have saved previously (login required). You can also enrol for and manage other government services from this screen.">Transactions</a></h2>
+						<p>
+							Use these facilities to manage any transactions and licence applications you have saved previously (login required). You can also enrol for and manage other government services from this screen.
+						</p>
+						<ul class="links">
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/gwservicemgmt?r.s=p">Manage your services</a>
+							</li>
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/detail?itemId=1081930073&amp;r.s=p&amp;type=PIP">Companies House WebFiling</a>
+							</li>
+						</ul>
+						<ul class="actions">
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?topicId=1078549142" title="Use these facilities to manage any transactions and licence applications you have saved previously (login required). You can also enrol for and manage other government services from this screen.">View all</a>
+							</li>
+						</ul>
+					</div>
+					<div class="rrboxad">
+						<h2><a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?topicId=1078549133" title="Create useful documents to read yourself or give to your employees.">Documents and printouts</a></h2>
+						<p>
+							Create useful documents to read yourself or give to your employees.
+						</p>
+						<ul class="links">
+							<li>
+								<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://online.businesslink.gov.uk/bdotg/action/stmtEmpLanding?r.s=reg&amp;topicId=1075225309">
+									Create a written statement of employment
+								</a>
+							</li>
+						</ul>
+						<ul class="actions">
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<span style="position:absolute;"><a name="skipfooter" id="skipfooter">&nbsp;</a></span>
+		<!-- Page footer -->
+		<div class="home">
+			<div id="footer">
+				<!-- "Developed With" section -->
+				<!-- Rest of footer -->
+				<img style="clear:both;" src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/footer_top3.gif" alt="">
+				<div id="clickables">
+					<span class="navitem"><a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/userSupport?refPage=%2Fbdotg%2Faction%2FmyBusiness" title="Help &amp; support">Help &amp; support</a> | <a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Copyright&amp;r.s=f" title="© Crown copyright 2011">Copyright</a> | <a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Disclaimer&amp;r.s=f" title="Terms &amp; conditions">Terms &amp; conditions</a> | <a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Privacy&amp;r.s=f" title="Privacy &amp; cookies">Privacy &amp; cookies</a> | <a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Accessibility&amp;r.s=f" title="Accessibility">Accessibility</a> | <a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/staticpage?page=HelpWithPDFFiles&amp;r.s=f" title="PDF help">PDF help</a>
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="topnav">
+		<div id="showtopnavinner">
+			<span style="position:absolute;"><a name="skiphelp" id="skiphelp">&nbsp;</a></span>
+			<div id="navgroup">
+				<div id="topgroup">
+					<div id="sitejump">
+						<form id="localForm" method="get" action="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/redirectToSite">
+							<fieldset>
+								<label for="localBusinessLink" class="screenreadertext">Regional Support</label>
+								<select id="localBusinessLink" name="Site Id">
+									<option selected="selected" value="default">Select your location</option>
+									<optgroup label="Northern Ireland">
+										<option value="1087659111">nibusinessinfo.co.uk</option>
+									</optgroup>
+									<optgroup label="Scotland">
+										<option value="1087659110">Business Gateway</option>
+									</optgroup>
+									<optgroup label="Wales">
+										<option value="1087659109">Welsh Government</option>
+									</optgroup>
+								</select> <input type="submit" class="submit" value="Go">
+							</fieldset>
+						</form>
+					</div><!-- sitejump -->
+					<div id="quicklinks">
+						<ul>
+							<li class="first"><a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/fullsitemap?r.s=h" title="Site map">Site&nbsp;map</a></li>
+							<li><a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/help?page=HelpPage&amp;r.s=h" title="Help">Help</a></li>
+							<li><a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/detail?itemId=1087351667&amp;page=AboutUs&amp;r.s=h&amp;type=CAMPAIGN" title="About us">About us</a></li>
+							<li class="last"><a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/staticpage?page=Accessibility&amp;r.s=h">Accessibility</a></li>
+						</ul>
+					</div><!-- quicklinks -->
+					<div id="sitesearch">
+						<form method="get" action="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/searchBasicMode">
+							<fieldset>
+								<input type="hidden" name="resultPage" value="1">
+								<label for="headersearchinput" class="screenreadertext">Search</label>
+								<input id="headersearchinput" type="text" name="expression"><input type="submit" value="Search" id="headersearchsubmit" title="Start the search">
+							</fieldset>
+						</form>
+					</div><!-- sitesearch -->
+				</div><!-- topgroup -->
+				<div id="bottomgroup">
+					<div id="tabs">
+						<ul>
+							<li><a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.php?r.s=h" title="">My Business</a></li>
+							<li><a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/layer?r.s=h&amp;topicId=1075193191" title="">What's new?</a></li>
+							<li><a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/layer?r.s=h&amp;topicId=1075193162" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">Do it online</a></li>
+							<li><a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/layer?r.s=h&amp;topicId=1075193173" title="">Directories</a></li>
+						</ul>
+					</div> <!-- tabs -->
+				</div><!-- bottomgroup -->
+			</div><!-- navgroup -->
+		</div> <!-- topnavinner -->
+	</div> <!-- topnav -->
+	<span style="position:absolute;"><a name="skipleft" id="skipleft">&nbsp;</a></span>
+	<div id="left">
+		<p class="home"><a href="https://webarchive.nationalarchives.gov.uk/20120823131132/http://www.businesslink.gov.uk/bdotg/action/home?r.s=m" title="Topic Home Page">Home</a></p>
+		<p class="hr"><img src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/leftnav_hr.gif" alt=""></p>
+		<p class="menuglobaldark"><strong>My Business</strong></p>
+		<p class="hr"><img src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/leftnav_hr.gif" alt=""></p>
+		<div id="closedcategories">
+			<p class="menuglobaldark"><a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/profile?r.s=m&amp;topicId=1078549100" title="The more you tell us about your business, the more time we can save you. We recommend that you keep your profile up to date.">Profile</a>
+			</p>
+			<p class="hr"><img src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/leftnav_hr.gif" alt=""></p>
+			<p class="menuglobaldark"><a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?r.s=m&amp;topicId=1082235004" title="From here you can sign up to, change or cancel all the email alerts available through the site.">Manage email alerts</a>
+			</p>
+			<p class="hr"><img src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/leftnav_hr.gif" alt=""></p>
+			<p class="menuglobaldark"><a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?r.s=m&amp;topicId=1097146637" title="All the help you need to set up your business">My New Business</a>
+			</p>
+			<p class="hr"><img src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/leftnav_hr.gif" alt=""></p>
+			<p class="menuglobaldark"><a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?r.s=m&amp;topicId=1078549142" title="Use these facilities to manage any transactions and licence applications you have saved previously (login required). You can also enrol for and manage other government services from this screen.">Transactions</a>
+			</p>
+			<p class="hr"><img src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/leftnav_hr.gif" alt=""></p>
+			<p class="menuglobaldark"><a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?r.s=m&amp;topicId=1078549129" title="Our unique tools give you an all-round view of what you need to do and where you'll find help.">Business support tools</a>
+			</p>
+			<p class="hr"><img src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/leftnav_hr.gif" alt=""></p>
+			<p class="menuglobaldark"><a href="https://webarchive.nationalarchives.gov.uk/20120823131132//my-business.phpTools?r.s=m&amp;topicId=1078549133" title="Create useful documents to read yourself or give to your employees.">Documents and printouts</a>
+			</p>
+			<p class="hr"><img src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/leftnav_hr.gif" alt=""></p>
+		</div>
+		<p class="home">&nbsp;</p>
+		<p class="hr">
+			<img src="/20120823131132im_/https://online.businesslink.gov.uk/syntegra/images/tabtop.gif" alt="" width="100%" height="2">
+		</p>
+		<p class="menuglobaldark">
+			<a href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/upgradeDescription?r.s=h" id="hdr_register_now">
+				Register now
+			</a>
+		</p>
+		<p class="menuglobaldark">
+			<a onclick="bLeaving=false;" href="https://webarchive.nationalarchives.gov.uk/20120823131132/https://online.businesslink.gov.uk/bdotg/action/BGAuthenticate?r.s=h">
+				Log in
+			</a>
+		</p>
+	</div>
+	<!-- SiteCatalyst code version: G.7. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
+	<script type="text/javascript">
+	<!--
+	/* You may give each page an identifying name, server, and channel on the next lines. */
+	var s_account = "sbsblukgov,sbsglobal"
+	var s_linkInternalFilters = "javascript:,businesslink.gov.uk"
+	var s_pageName = "My Business"
+	var s_eVar22 = "-1"
+	var s_hier1 = "bl.gov Home|My Business"
+	var s_prop7 = "My Business"
+	var s_prop5 = "MB"
+	var s_prop6 = "bl.gov Home"
+
+	/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+	//-->
+	</script>
+	<script ltype="text/javascript" src="/20120823131132js_/https://online.businesslink.gov.uk/syntegra/js/s_code_remote.js"></script><img name="s_i_sbsblukgov" height="1" width="1" border="0" alt="" src="https://webarchive.nationalarchives.gov.uk/20120823131132im_/https://102.112.2O7.net/b/ss/sbsblukgov,sbsglobal/1/G.9-Pd-R/s44838348765432?[AQB]&amp;ndh=1&amp;t=23/7/2012%2014%3A11%3A32%204%20-60&amp;cdp=3&amp;pageName=My%20Business&amp;g=https%3A//online.businesslink.gov.uk/bdotg/action/myBusiness&amp;r=https%3A//online.businesslink.gov.uk/bdotg/action/myBusiness&amp;cc=GBP&amp;h1=bl.gov%20Home%7CMy%20Business&amp;c5=MB&amp;c6=bl.gov%20Home&amp;c7=My%20Business&amp;v22=-1&amp;s=2560x1440&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1765&amp;bh=600&amp;p=Chrome%20PDF%20Plugin%3BChrome%20PDF%20Viewer%3BNative%20Client%3B&amp;[AQE]">
+	<!-- End SiteCatalyst code version: G.7. -->
+</body>
+
+</html>
