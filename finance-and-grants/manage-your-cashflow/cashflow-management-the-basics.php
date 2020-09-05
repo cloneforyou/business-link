@@ -47,7 +47,7 @@
 			<li><a href="/_files/cima_improving_cashflow_using_credit_management_04-09.pdf" target="_blank" rel="noopener noreferrer">Download cashflow management guidance from the Chartered Institute of Management Accountants website (PDF, 280K)</a></li>
 			<li><a href="/buy-or-sell-a-business/businesses-in-difficulty/assess-your-business-performance.php">Use our interactive tool to assess how well your business is performing</a></li>
 			<li><a href="http://www.learndirect.com/store/business-workplace/finance-accounts/general-accounting-and-finance/financial-skills-collection" target="_blank" rel="noopener noreferrer">Online course on cashflow management on the learndirect business website</a></li>
-			<!-- <li><a href="http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1086995031&amp;type=BLTTOOL">Use our interactive tool to assess and improve your business cashflow</a></li> -->
+			<!-- <li><a href="https://webarchive.nationalarchives.gov.uk/20121003210912/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1086995031&r.l1=1073858790&r.l2=1084596842&r.l3=1086622757&type=BLTTOOL">Use our interactive tool to assess and improve your business cashflow</a></li> -->
 			<!-- here: http://webarchive.nationalarchives.gov.uk/20120729131859/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1086995031&r.l1=1073858790&r.l2=1084596842&r.l3=1073924763&type=BLTTOOL -->
 		</ul>
 
