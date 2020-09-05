@@ -26,7 +26,7 @@
 				<li>the Scottish Environment Protection Agency</li>
 			</ul>
 
-			<p>The environmental regulators have produced the NetRegs website, which provides free environmental guidance. You can <a href="http://webarchive.nationalarchives.gov.uk/20140328084622/http://www.environment-agency.gov.uk/netregs/" target="_blank" rel="noopener noreferrer">find guidance on environmental legislation and good practice on the NetRegs website</a>.</p>
+			<p>The environmental regulators have produced the NetRegs website, which provides free environmental guidance. You can <a href="http://webarchive.nationalarchives.gov.uk/20140328084622/https://webarchive.nationalarchives.gov.uk/20100613152008/http://www.environment-agency.gov.uk/netregs/" target="_blank" rel="noopener noreferrer">find guidance on environmental legislation and good practice on the NetRegs website</a>.</p>
 			<p>You have the right to appeal against environmental regulators' decisions.</p>
 			<p>Your local authority is also responsible for regulating some environmental issues such as:</p>
 			<ul>
@@ -66,7 +66,7 @@
 			
 			<h3>Actions</h3>
 			<ul>
-				<li><a href="http://webarchive.nationalarchives.gov.uk/20140328084622/http://www.environment-agency.gov.uk/netregs/" target="_blank" rel="noopener noreferrer">Environmental legislation and good practice guidance on the NetRegs website</a></li>
+				<li><a href="http://webarchive.nationalarchives.gov.uk/20140328084622/https://webarchive.nationalarchives.gov.uk/20100613152008/http://www.environment-agency.gov.uk/netregs/" target="_blank" rel="noopener noreferrer">Environmental legislation and good practice guidance on the NetRegs website</a></li>
 				<li><a href="http://webarchive.nationalarchives.gov.uk/20140328084622/http://www.environment-agency.gov.uk/business/regulation/default.aspx" target="_blank" rel="noopener noreferrer">Regulation of businesses in England and Wales information on the Environment Agency website</a></li>
 				<li><a href="http://webarchive.nationalarchives.gov.uk/20120823131012/https://www.gov.uk/government/organisations/hm-revenue-customs/contactbrowse?topicId=1074537118" target="_blank" rel="noopener noreferrer">Find your local authority using our Contacts Directory</a></li>
 				<li><a href="/environment-and-efficiency/measuring-and-reporting-environmental-performance/assess-your-environmental-compliance.php">Use our interactive tool to assess your environmental compliance</a></li>

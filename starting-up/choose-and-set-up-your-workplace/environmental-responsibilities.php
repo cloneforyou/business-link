@@ -56,7 +56,7 @@
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20140328084622/http://www.environment-agency.gov.uk/netregs/" target="_blank" rel="noopener noreferrer">Environmental legislation explained on the NetRegs website</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20140328084622/https://webarchive.nationalarchives.gov.uk/20100613152008/http://www.environment-agency.gov.uk/netregs/" target="_blank" rel="noopener noreferrer">Environmental legislation explained on the NetRegs website</a></li>
 			<li><a href="/environment-and-efficiency/measuring-and-reporting-environmental-performance/assess-your-environmental-compliance.php">Use our interactive tool to assess your environmental compliance</a></li>
 		</ul>
 		
