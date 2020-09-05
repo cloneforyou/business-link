@@ -36,7 +36,7 @@
 			
 			<h3>Multi-level marketing</h3>
 			<p>Some businesses offer franchises that are really multi-level marketing schemes. This is where self-employed distributors sell goods on a manufacturer's behalf. You get commission on any sales you make, and also on sales made by other distributors you recruit.</p>
-			<p>Be aware that some multi-level marketing schemes may be dishonest or illegal. <a href="../../../_files/dti_the_trading-schemes-guide_june-2005.pdf" title="Guidance on trading schemes from BIS" target="_blank" rel="noopener noreferrer">Download the Trading Schemes Guide from the Department for Business, Innovation &amp; Skills (BIS) website (PDF, 66K)</a>.</p>
+			<p>Be aware that some multi-level marketing schemes may be dishonest or illegal. <a href="../../../_files/dti_the_trading-schemes-guide_june-2005.pdf" title="Guidance on trading schemes from BIS" target="_blank" rel="noopener noreferrer">Download the Trading Schemes Guide from the Department for Business, Energy &amp; Industrial Strategy (BIS) website (PDF, 66K)</a>.</p>
 			
 			<ul>
 				<li><a href="/buy-or-sell-a-business/franchising/buy-a-franchise.php" title="Buy a franchise">Prev</a></li>

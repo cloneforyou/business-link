@@ -43,7 +43,7 @@
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="/buy-or-sell-a-business/businesses-in-difficulty/assess-your-business-performance.php">Use our interactive tool to assess how well your business is performing</a></li>
-			<li><a href="/_files/a-users-guide-to-late-payment-legislation_apr-2002.pdf" target="_blank" rel="noopener noreferrer">Download late payment legislation guidance from the Department for Business, Innovation &amp; Skills website (PDF, 390K)</a></li>
+			<li><a href="/_files/a-users-guide-to-late-payment-legislation_apr-2002.pdf" target="_blank" rel="noopener noreferrer">Download late payment legislation guidance from the Department for Business, Energy &amp; Industrial Strategy website (PDF, 390K)</a></li>
 		</ul>
 
 		<p>Developed with:<br />

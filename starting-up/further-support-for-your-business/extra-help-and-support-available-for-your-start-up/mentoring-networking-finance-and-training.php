@@ -34,7 +34,7 @@
 			<h3>Financial support and ongoing training</h3>
 			<p>The government can also provide financial support for your business in a number of ways.</p>
 			<p>You may be able to obtain finance from <strong>Community Development Finance Institutions</strong> (CDFIs). These organisations provide loans and support to businesses and individuals who have had trouble getting finance from sources such as banks and building societies. <a href="http://www.findingfinance.org.uk/" target="_blank" rel="noopener noreferrer">Read about sourcing finance from CDFIs on the Finding Finance website</a>.</p>
-			<p>The <strong>Enterprise Finance Guarantee</strong> (EFG) aims to help smaller credit-worthy businesses that are unable to obtain a conventional loan because of the current tight lending conditions. <a href="http://webarchive.nationalarchives.gov.uk/20120419053132/http://www.bis.gov.uk/policies/enterprise-and-business-support/access-to-finance/enterprise-finance-guarantee" target="_blank" rel="noopener noreferrer">Find out about the EFG on the Department for Business, Innovation &amp; Skills (BIS) website</a>.</p>
+			<p>The <strong>Enterprise Finance Guarantee</strong> (EFG) aims to help smaller credit-worthy businesses that are unable to obtain a conventional loan because of the current tight lending conditions. <a href="http://webarchive.nationalarchives.gov.uk/20120419053132/http://www.bis.gov.uk/policies/enterprise-and-business-support/access-to-finance/enterprise-finance-guarantee" target="_blank" rel="noopener noreferrer">Find out about the EFG on the Department for Business, Energy &amp; Industrial Strategy (BIS) website</a>.</p>
 			<p>If you need to improve your business skills before or after starting up a business, you can apply for a Professional and Career Development Loan. This is a deferred repayment bank loan aimed at financing the training and qualifications that will help individuals further their career or business.</p>
 			<p><a href="https://www.gov.uk/career-development-loans" target="_blank" rel="noopener noreferrer">Find out about Professional and Career Development Loans on the Directgov website</a>.</p>
 			<p><a href="http://webarchive.nationalarchives.gov.uk/20120418175516/http://webarchive.nationalarchives.gov.uk/20120823132430/http://www.improve.businesslink.gov.uk/resources/business-support-finder" target="_blank" rel="noopener noreferrer">Search our business support finder for grants, loans, expertise and advice for which your business may be eligible</a>.</p>
@@ -83,7 +83,7 @@
 			<p>Developed with:<br />
 				<a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" target="_blank" rel="noopener noreferrer">
 					<img src="../../../_img/logo_primary_bis.gif" width="160" height="32" alt="" /> Department for
-Business, Energy &amp; Industrial Strategy <del datetime="2016-07-01">Department for Business, Innovation &amp; Skills</del>
+Business, Energy &amp; Industrial Strategy <del datetime="2016-07-01">Department for Business, Energy &amp; Industrial Strategy</del>
 				</a>
 			</p>
 

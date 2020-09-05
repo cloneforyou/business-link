@@ -57,7 +57,7 @@
 				<li><a href="https://www.franchiseinfo.co.uk/advice/legal-advice" title="Legal considerations for anyone thinking of becoming a franchisee" target="_blank" rel="noopener noreferrer">Legal pitfalls of franchising explained on the Franchiseinfo website</a></li>
 				<li><a href="http://www.whichfranchise.com/legalAdvisers/indepthAdvice.cfm" target="_blank" rel="noopener noreferrer">Franchise agreements explained on the whichfranchise.com website</a></li>
 				<li><a href="http://solicitors.lawsociety.org.uk/" target="_blank" rel="noopener noreferrer">Solicitor search tool on the Law Society website</a></li>
-				<li><a href="../../../_files/berr_employment-rights-on-the-transfer-of-an-undertaking_mar-2007.pdf" target="_blank" rel="noopener noreferrer">Download the Transfer of Undertakings (Protection of Employment) regulations guidance from the Department for Business, Innovation &amp; Skills website (PDF, 188K)</a></li>
+				<li><a href="../../../_files/berr_employment-rights-on-the-transfer-of-an-undertaking_mar-2007.pdf" target="_blank" rel="noopener noreferrer">Download the Transfer of Undertakings (Protection of Employment) regulations guidance from the Department for Business, Energy &amp; Industrial Strategy website (PDF, 188K)</a></li>
 				<li><a href="http://www.theukfranchisedirectory.net/" title="Franchise opportunities in the UK" target="_blank" rel="noopener noreferrer">UK franchise opportunities on the UK Franchise Directory website</a></li>
 			</ul>
 			

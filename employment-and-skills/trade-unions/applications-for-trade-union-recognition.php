@@ -29,15 +29,15 @@
                 <li>take advice from a range of professional and trade organisations including Acas </li>
                 <li>get impartial information about recognising a trade union on the Central Arbitration Committee (CAC) website</li>
             </ul>
-            <p><a href="http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077731040&amp;type=BLTTOOL" title="This interactive tool helps you understand your choices in the application process">Go straight to the first question</a>.</p>
+            <p><a href="https://webarchive.nationalarchives.gov.uk/20110202155550/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077731040&type=BLTTOOL" title="This interactive tool helps you understand your choices in the application process">Go straight to the first question</a>.</p>
             <p>This tool usually takes less than five minutes to complete.</p>
             <ul>
-                <li><a href="http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077731040&amp;type=BLTTOOL" title="How do I handle an application for recognition from a trade union?">Next</a></li>
+                <li><a href="https://webarchive.nationalarchives.gov.uk/20110202155550/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077731040&type=BLTTOOL" title="How do I handle an application for recognition from a trade union?">Next</a></li>
             </ul>
             <h3>Subjects covered in this guide</h3>
             <ul>
                 <li>Introduction</li>
-                <li><a href="http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077731040&amp;type=BLTTOOL">How do I handle an application for recognition from a trade union?</a></li>
+                <li><a href="https://webarchive.nationalarchives.gov.uk/20110202155550/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077731040&type=BLTTOOL">How do I handle an application for recognition from a trade union?</a></li>
             </ul>
             <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
             <h3>Acas Helpline</h3>
@@ -47,23 +47,19 @@
             <hr />
             <h3>Actions</h3>
             <ul>
-                <li><a href="http://www.cac.gov.uk/" target="bgExternalonlinebusinesslinkgovuk" title="Understand what the CAC does and its statutory duties, who its members are and CAC hearings">Recognising a trade union guidance on the CAC website</a></li>
-            </ul>
+                <li><a href="https://www.gov.uk/government/organisations/central-arbitration-committee" target="_blank" rel="noopener noreferrer">Recognising a trade union guidance on the CAC website</a></li>
             </ul>
             <img src="/_img/px_employingpeople.gif" alt="" width="181" height="5" />
-            Developed with:
-            <table height="100%" width="100%">
-                <tbody>
-                    <tr>
-                        <td>
-                            <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" target="_blank" rel="noopener noreferrer"><img src="../../_img/logo_primary_bis.gif" width="160" height="32" alt="" /><br />Department for Business, Innovation &amp; Skills</a>
-                        </td>
-                        <td>
-                            <a href="http://www.cac.gov.uk/" target="bgExternalwwwbusinesslinkgovuk" title="Central arbitration committee"><img src="/_img/CAC_unapproved.gif" width="35" height="36" alt="" /><br />Central arbitration committee</a>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+            <p>Developed with:<br />
+                <a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" target="_blank" rel="noopener noreferrer">
+                    <img src="/_img/logo_primary_bis.gif" width="105" height="35" alt="" /> Department for Business, Energy &amp; Industrial Strategy
+                </a>
+            </p>
+            <p>
+                <a href="https://www.gov.uk/government/organisations/central-arbitration-committee" target="_blank" rel="noopener noreferrer">
+                    <img src="/_img/CAC_unapproved.gif" width="35" height="36" alt="" /> Central arbitration committee
+                </a>
+            </p>
             <ul>
                 <li><a href="/about-business-link.php" title="About us">About us</a></li>
             </ul>
@@ -73,48 +69,7 @@
                 <li><a href="/do-it-online.php" title="Search or browse our directory to find online and downloadable forms to use when dealing with government departments and agencies">Do it online</a></li>
                 <li><a href="/directories.php">Directories</a></li>
             </ul>
-            <p><a href="home.html" title="Home">Home</a></p>
-            <table cellpadding="0" cellspacing="0" width="100%">
-                <tr>
-                    <td rowspan="7"></td>
-                    <td colspan="2">
-                        <p>
-                            <a href="/employment-and-skills.php" title="Recruit, train and manage your staff">Employment &amp; skills</a>
-                        </p>
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="2">
-                        <p><a href="layer6b5b.html?topicId=1074436102">Trade unions</a>
-                        </p>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <p><strong>Applications for trade union recognition</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="10"><img src="/_img/px_employingpeople.gif" alt="Current section" width="5" height="5" /></td>
-                    <td>
-                        <p><strong>Introduction</strong></p>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <p><a href="http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077731040&amp;type=BLTTOOL">How do I handle an application for recognition from a trade union?</a>
-                        </p>
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="2">
-                    </td>
-                </tr>
-            </table>
+
         </div><!-- // .small-12 large-8 large-push-4 columns -->
         <?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/category-links.php'; ?>
     </div><!-- // .row -->

@@ -67,7 +67,7 @@
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.bis.gov.uk/policies/consumer-issues/buying-and-selling/distance-selling" target="_blank" rel="noopener noreferrer" title="Regulations covering sales to consumers without a face-to-face meeting and online sales to businesses or consumers">Distance selling and e-commerce rules on the Department for Business, Innovation &amp; Skills website</a></li>
+			<li><a href="http://www.bis.gov.uk/policies/consumer-issues/buying-and-selling/distance-selling" target="_blank" rel="noopener noreferrer" title="Regulations covering sales to consumers without a face-to-face meeting and online sales to businesses or consumers">Distance selling and e-commerce rules on the Department for Business, Energy &amp; Industrial Strategy website</a></li>
 			<li><a href="https://www.gov.uk/licence-finder" title="Use our licence tool to find out which licences and permits could apply to your business" target="_blank" rel="noopener noreferrer">Use our licence and permit checklist to find out which licences and permits could apply to your business</a></li>
 		</ul>
 		

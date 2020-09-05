@@ -41,7 +41,7 @@
 				<li><a href="https://www.gov.uk/government/organisations/innovate-uk" target="_blank" rel="noopener noreferrer" title="Knowledge Transfer Partnerships help research organisations to apply their knowledge to important business problems">Knowledge Transfer Partnerships information on the KTP website</a></li>
 				<li><a href="https://www.gov.uk/guidance/university-and-business-collaboration-agreements-lambert-toolkit" target="_blank" rel="noopener noreferrer" title="A toolkit for universities and companies that wish to undertake collaborative research projects with each other">Lambert Toolkit for Collaborative Research information on the Intellectual Property Office website</a></li>
 				<li><a href="https://www.step.org.uk/" target="_blank" rel="noopener noreferrer" title="A work-placement programme for UK students">Undergraduate placements information on the Step Programme website</a></li>
-				<li><a href="/_files/dti_making-the-most-of-uk-research_dec-2006.pdf" target="_blank" rel="noopener noreferrer" title="Examples of knowledge transfer and collaboration between the academic community and businesses">Download making the most of UK research guidance from the Department for Business, Innovation &amp; Skills website (PDF, 2.96MB)</a></li>
+				<li><a href="/_files/dti_making-the-most-of-uk-research_dec-2006.pdf" target="_blank" rel="noopener noreferrer" title="Examples of knowledge transfer and collaboration between the academic community and businesses">Download making the most of UK research guidance from the Department for Business, Energy &amp; Industrial Strategy website (PDF, 2.96MB)</a></li>
 			</ul>
 			
 			<img src="/_img/px_growthandinnovation.gif" alt="" width="181" height="5" />

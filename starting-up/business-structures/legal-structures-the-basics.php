@@ -52,7 +52,7 @@
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="https://www.gov.uk/business-legal-structures" target="_blank" rel="noopener noreferrer">Legal forms and ownership models for business from the Department for Business, Innovation &amp; Skills</a></li>
+			<li><a href="https://www.gov.uk/business-legal-structures" target="_blank" rel="noopener noreferrer">Legal forms and ownership models for business from the Department for Business, Energy &amp; Industrial Strategy</a></li>
 			<li><a href="http://solicitors.lawsociety.org.uk/" target="_blank" rel="noopener noreferrer">Solicitor directory from the Law Society</a></li>
 			<li><a href="http://www.icaew.com/en/about-icaew/find-a-chartered-accountant" target="_blank" rel="noopener noreferrer">Accountant listing from the Institute of Chartered Accountants in England and Wales</a></li>
 			<li><a href="http://www.lawdonut.co.uk/business/law/starting-up" target="_blank" rel="noopener noreferrer">Business formation and legal form resources from Law Donut </a></li>

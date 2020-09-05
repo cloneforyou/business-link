@@ -103,7 +103,7 @@
 				<img src="/_img/cim_logo.gif" width="140" height="32" alt="" /> The Chartered Institute of Marketing
 			</a><br />
 			<a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" target="_blank" rel="noopener noreferrer" title="Department for Business, Innovation & Skills (BIS) - Opens in a new window">
-				<!-- <img src="../../Customers_and_Suppliers_images/logo_bis.gif" width="203" height="35" border="0" alt="DIUS logo" /> --> Department for Business, Innovation &amp; Skills (BIS)
+				<!-- <img src="../../Customers_and_Suppliers_images/logo_bis.gif" width="203" height="35" border="0" alt="DIUS logo" /> --> Department for Business, Energy &amp; Industrial Strategy (BIS)
 			</a>
 		</p>
 

@@ -45,7 +45,7 @@
 			<li><strong>Venture capitalists</strong> may demand a large percentage of your business in exchange for investment. Ensure you have a clear understanding of their expectations.</li>
 		</ul>
 		<p>Find out more about angel investors and venture capitalists in our guide on <a href="/finance-and-grants/finance-options/shares-and-equity-finance/equity-finance.php">equity finance</a>.</p>
-		<p>The <strong>Enterprise Finance Guarantee</strong> aims to help smaller credit-worthy companies that are unable to obtain a conventional loan because of current tight lending conditions. <a href="https://www.gov.uk/government/policies/business-enterprise?keywords=%22finance+guarantee%22&public_timestamp%5Bfrom%5D=&public_timestamp%5Bto%5D=" target="_blank" rel="noopener noreferrer">Find out more about the Enterprise Finance Guarantee on the Department for Business, Innovation &amp; Skills (BIS) website</a>.</p>
+		<p>The <strong>Enterprise Finance Guarantee</strong> aims to help smaller credit-worthy companies that are unable to obtain a conventional loan because of current tight lending conditions. <a href="https://www.gov.uk/government/policies/business-enterprise?keywords=%22finance+guarantee%22&public_timestamp%5Bfrom%5D=&public_timestamp%5Bto%5D=" target="_blank" rel="noopener noreferrer">Find out more about the Enterprise Finance Guarantee on the Department for Business, Energy &amp; Industrial Strategy (BIS) website</a>.</p>
 		<p>See our guide on <a href="/finance-and-grants/finance-options/borrowing/bank-finance.php">bank finance</a>.</p>
 		
 		<ul>

@@ -33,7 +33,7 @@
 		<h3>Maximise the benefits</h3>
 		<p>"When we started, I would never have dreamt how far the process would take us. Almost a third of our UK workforce is now made up of migrant workers, mostly Portuguese, but overall comprising nationals from over 30 different countries.</p>
 		<p>"Through careful selection and best-practice employment policies, our migrant workers consistently provide high standards of work, plus we have developed relationships with many of them meaning they come back to us year in, year out, when we need help over our busiest periods. This reduces our training costs, and reassures us that our temporary workers are already familiar with company policies and procedures.</p>
-		<p>"Employing migrant workers has also been beneficial for our company profile - for example we have been recognised by the Department for Business, Innovation &amp; Skills as a best-practice employer, and we also won a Business in the Community Award in recognition of the work we do to help the workers integrate into the local community."</p>
+		<p>"Employing migrant workers has also been beneficial for our company profile - for example we have been recognised by the Department for Business, Energy &amp; Industrial Strategy as a best-practice employer, and we also won a Business in the Community Award in recognition of the work we do to help the workers integrate into the local community."</p>
 		
 		<h2>What I'd do differently</h2>
 		<h3>Make the decision sooner</h3>
