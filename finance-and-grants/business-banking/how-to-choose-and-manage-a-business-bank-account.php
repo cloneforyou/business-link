@@ -6,7 +6,7 @@
 
 	<!-- ref: layer8102.html || /layer?topicId=1073959004 -->
 	<meta name="description" content="What to consider when choosing a business bank account and the benefits of getting value from your current deal" />
-	<meta name="keywords" content="Business bank accounts; choose a bank;choose an account;switching accounts;online banking;business accounts;business banking;internet banking;business banking adviser;compare banks;ethical banking;bank charges;interest rates;bank fees;bank services;bank facilities;business borrowing;overdraft;bank charges;move banks;change banks;transfer bank account;business banling market;Banking Code;opening a business bank account;electronic payment;business current account;term deposit account;foreign currency account;; Financial management" />
+	<meta name="keywords" content="Business bank accounts; choose a bank;choose an account;switching accounts;online banking;business accounts;business banking;internet banking;business banking adviser;compare banks;ethical banking;bank charges;interest rates;bank fees;bank services;bank facilities;business borrowing;overdraft;bank charges;move banks;change banks;transfer bank account;business banling market;Banking Code;opening a business bank account;electronic payment;business current account;term deposit account;foreign currency account, Financial management" />
 </head>
 
 <body>

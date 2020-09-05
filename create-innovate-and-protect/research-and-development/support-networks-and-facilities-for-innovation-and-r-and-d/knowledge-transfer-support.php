@@ -7,7 +7,7 @@
 
 	<!-- ref: x__x || /detail?itemId=1074501080&type=RESOURCES -->
 	<meta name="description" content="Networking for Innovation, Innovation Vouchers, Knowledge Transfer Partnerships  and where to find more information" />
-	<meta name="keywords" content="support networks and facilities for research and development;incubation;knowledge transfer;technology transfer;innovation;Inside UK enterprise;Faraday partnership;IUKE;innovation relay centre;IRC;business innovation centre;BIC;fit for the future;mentoring;R&amp;D;R and D;Development Agencies;RDAs;clusters;business incubators;regional initiatives;cluster concept;business development;science park;research and development;assisted area;grants; grants for small business; small business; business;; Research and development" />
+	<meta name="keywords" content="support networks and facilities for research and development;incubation;knowledge transfer;technology transfer;innovation;Inside UK enterprise;Faraday partnership;IUKE;innovation relay centre;IRC;business innovation centre;BIC;fit for the future;mentoring;R&amp;D;R and D;Development Agencies;RDAs;clusters;business incubators;regional initiatives;cluster concept;business development;science park;research and development;assisted area;grants; grants for small business; small business; business, Research and development" />
 </head>
 
 <body>
