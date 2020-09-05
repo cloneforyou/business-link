@@ -264,15 +264,13 @@ AccordionMenu.defaults = {
   /**
    * Amount of time to animate the opening of a submenu in ms.
    * @option
-   * @type {number}
-   * @default 250
+   * @example 250
    */
   slideSpeed: 250,
   /**
    * Allow the menu to have multiple open panes.
    * @option
-   * @type {boolean}
-   * @default true
+   * @example true
    */
   multiOpen: true
 };

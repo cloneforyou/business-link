@@ -110,11 +110,9 @@ class Abide {
   }
 
   /**
-   * Get:
-   * - Based on $el, the first element(s) corresponding to `formErrorSelector` in this order:
-   *   1. The element's direct sibling('s).
-   *   2. The element's parent's children.
-   * - Element(s) with the attribute `[data-form-error-for]` set with the element's id.
+   * Based on $el, get the first element with selector in this order:
+   * 1. The element's direct sibling('s).
+   * 3. The element's parent's children.
    *
    * This allows for multiple form errors per input, though if none are found, no form errors will be shown.
    *
@@ -122,14 +120,11 @@ class Abide {
    * @returns {Object} jQuery object with the selector.
    */
   findFormError($el) {
-    var id = $el[0].id;
     var $error = $el.siblings(this.options.formErrorSelector);
 
     if (!$error.length) {
       $error = $el.parent().find(this.options.formErrorSelector);
     }
-
-    $error = $error.add(this.$element.find(`[data-form-error-for="${id}"]`));
 
     return $error;
   }
@@ -242,8 +237,7 @@ class Abide {
   }
 
   /**
-   * Goes through a form to find inputs and proceeds to validate them in ways specific to their type. 
-   * Ignores inputs with data-abide-ignore, type="hidden" or disabled attributes set
+   * Goes through a form to find inputs and proceeds to validate them in ways specific to their type
    * @fires Abide#invalid
    * @fires Abide#valid
    * @param {Object} element - jQuery object to validate, should be an HTML input
@@ -256,8 +250,8 @@ class Abide {
         validator = $el.attr('data-validator'),
         equalTo = true;
 
-    // don't validate ignored inputs or hidden inputs or disabled inputs
-    if ($el.is('[data-abide-ignore]') || $el.is('[type="hidden"]') || $el.is('[disabled]')) {
+    // don't validate ignored inputs or hidden inputs
+    if ($el.is('[data-abide-ignore]') || $el.is('[type="hidden"]')) {
       return true;
     }
 
@@ -478,56 +472,49 @@ Abide.defaults = {
    * The default event to validate inputs. Checkboxes and radios validate immediately.
    * Remove or change this value for manual validation.
    * @option
-   * @type {?string}
-   * @default 'fieldChange'
+   * @example 'fieldChange'
    */
   validateOn: 'fieldChange',
 
   /**
    * Class to be applied to input labels on failed validation.
    * @option
-   * @type {string}
-   * @default 'is-invalid-label'
+   * @example 'is-invalid-label'
    */
   labelErrorClass: 'is-invalid-label',
 
   /**
    * Class to be applied to inputs on failed validation.
    * @option
-   * @type {string}
-   * @default 'is-invalid-input'
+   * @example 'is-invalid-input'
    */
   inputErrorClass: 'is-invalid-input',
 
   /**
    * Class selector to use to target Form Errors for show/hide.
    * @option
-   * @type {string}
-   * @default '.form-error'
+   * @example '.form-error'
    */
   formErrorSelector: '.form-error',
 
   /**
    * Class added to Form Errors on failed validation.
    * @option
-   * @type {string}
-   * @default 'is-visible'
+   * @example 'is-visible'
    */
   formErrorClass: 'is-visible',
 
   /**
    * Set to true to validate text inputs on any value change.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   liveValidate: false,
 
   /**
    * Set to true to validate inputs on blur.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   validateOnBlur: false,
 

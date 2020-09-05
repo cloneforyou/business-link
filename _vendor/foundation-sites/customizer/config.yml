@@ -159,7 +159,6 @@ slider:
   js: slider
   js_utils:
     - box
-    - touch
     - motion
     - triggers
     - mediaQuery

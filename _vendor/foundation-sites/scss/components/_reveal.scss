@@ -72,7 +72,8 @@ $reveal-overlay-background: rgba($black, 0.45) !default;
   }
 
   // Make sure rows don't have a min-width on them
-  .column {
+  .column,
+  .columns {
     min-width: 0;
   }
 

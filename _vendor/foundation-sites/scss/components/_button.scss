@@ -38,10 +38,6 @@ $button-color-alt: $black !default;
 /// @type Number
 $button-radius: $global-radius !default;
 
-/// Border width for hollow outline buttons
-/// @type Number
-$button-hollow-border-width: 1px !default;
-
 /// Sizes for buttons.
 /// @type Map
 $button-sizes: (
@@ -82,17 +78,7 @@ $button-transition: background-color 0.25s ease-out, color 0.25s ease-out !defau
   display: inline-block;
   vertical-align: middle;
   margin: $button-margin;
-
-  @if (type-of($button-padding) == 'map') {
-    @each $size, $padding in $button-padding {
-      @include breakpoint($size) {
-        padding: $padding;
-      }
-    }
-  }
-  @else {
-    padding: $button-padding;
-  }
+  padding: $button-padding;
 
   -webkit-appearance: none;
   border: 1px solid transparent;
@@ -158,12 +144,11 @@ $button-transition: background-color 0.25s ease-out, color 0.25s ease-out !defau
 
 @mixin button-hollow-style(
   $color: $primary-color,
-  $hover-lightness: $button-hollow-hover-lightness, 
-  $border-width: $button-hollow-border-width
+  $hover-lightness: $button-hollow-hover-lightness
 ) {
   $color-hover: scale-color($color, $lightness: $hover-lightness);
 
-  border: $border-width solid $color;
+  border: 1px solid $color;
   color: $color;
 
   &:hover, &:focus {
@@ -173,22 +158,13 @@ $button-transition: background-color 0.25s ease-out, color 0.25s ease-out !defau
 }
 
 /// Adds disabled styles to a button by fading the element, reseting the cursor, and disabling pointer events.
-/// @param [Color] $background [$primary-color] - Background color of the disabled button.
-/// @param [Color] $color [$button-color] - Text color of the disabled button. Set to `auto` to have the mixin automatically generate a color based on the background color.
-@mixin button-disabled(
-  $background: $primary-color,
-  $color: $button-color
-) {
-  @if $color == auto {
-    $color: color-pick-contrast($background, ($button-color, $button-color-alt));
-  }
-
+@mixin button-disabled($color: $primary-color) {
   opacity: $button-opacity-disabled;
   cursor: not-allowed;
 
-  &, &:hover, &:focus {
-    background-color: $background;
-    color: $color;
+  &:hover, &:focus {
+    background-color: $color;
+    color: $button-color;
   }
 }
 
@@ -292,7 +268,7 @@ $button-transition: background-color 0.25s ease-out, color 0.25s ease-out !defau
 
       @each $name, $color in $button-palette {
         &.#{$name} {
-          @include button-disabled($color, auto);
+          @include button-disabled($color);
         }
       }
     }

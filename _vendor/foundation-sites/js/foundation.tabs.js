@@ -76,6 +76,32 @@ class Tabs {
           });
         });
       }
+
+      //use browser to open a tab, if it exists in this tabset
+      if (_this.options.deepLink) {
+        var anchor = window.location.hash;
+        //need a hash and a relevant anchor in this tabset
+        if(anchor.length) {
+          var $link = $elem.find('[href="'+anchor+'"]');
+          if ($link.length) {
+            _this.selectTab($(anchor));
+
+            //roll up a little to show the titles
+            if (_this.options.deepLinkSmudge) {
+              $(window).load(function() {
+                var offset = $elem.offset();
+                $('html, body').animate({ scrollTop: offset.top }, _this.options.deepLinkSmudgeDelay);
+              });
+            }
+
+            /**
+              * Fires when the zplugin has deeplinked at pageload
+              * @event Tabs#deeplink
+              */
+             $elem.trigger('deeplink.zf.tabs', [$link, $(anchor)]);
+           }
+        }
+      }
     });
 
     if(this.options.matchHeight) {
@@ -86,35 +112,6 @@ class Tabs {
       } else {
         this._setHeight();
       }
-    }
-
-     //current context-bound function to open tabs on page load or history popstate
-    this._checkDeepLink = () => {
-      var anchor = window.location.hash;
-      //need a hash and a relevant anchor in this tabset
-      if(anchor.length) {
-        var $link = this.$element.find('[href$="'+anchor+'"]');
-        if ($link.length) {
-          this.selectTab($(anchor), true);
-
-          //roll up a little to show the titles
-          if (this.options.deepLinkSmudge) {
-            var offset = this.$element.offset();
-            $('html, body').animate({ scrollTop: offset.top }, this.options.deepLinkSmudgeDelay);
-          }
-
-          /**
-            * Fires when the zplugin has deeplinked at pageload
-            * @event Tabs#deeplink
-            */
-           this.$element.trigger('deeplink.zf.tabs', [$link, $(anchor)]);
-         }
-       }
-     }
-
-    //use browser to open a tab, if it exists in this tabset
-    if (this.options.deepLink) {
-      this._checkDeepLink();
     }
 
     this._events();
@@ -133,10 +130,6 @@ class Tabs {
       this._setHeightMqHandler = this._setHeight.bind(this);
 
       $(window).on('changed.zf.mediaquery', this._setHeightMqHandler);
-    }
-
-    if(this.options.deepLink) {
-      $(window).on('popstate', this._checkDeepLink);
     }
   }
 
@@ -210,11 +203,10 @@ class Tabs {
   /**
    * Opens the tab `$targetContent` defined by `$target`. Collapses active tab.
    * @param {jQuery} $target - Tab to open.
-   * @param {boolean} historyHandled - browser has already handled a history update
    * @fires Tabs#change
    * @function
    */
-  _handleTabChange($target, historyHandled) {
+  _handleTabChange($target) {
 
     /**
      * Check for active class on target. Collapse if exists.
@@ -245,7 +237,7 @@ class Tabs {
     this._openTab($target);
 
     //either replace or update browser history
-    if (this.options.deepLink && !historyHandled) {
+    if (this.options.deepLink) {
       var anchor = $target.find('a').attr('href');
 
       if (this.options.updateHistory) {
@@ -303,10 +295,9 @@ class Tabs {
   /**
    * Public method for selecting a content pane to display.
    * @param {jQuery | String} elem - jQuery object or string of the id of the pane to display.
-   * @param {boolean} historyHandled - browser has already handled a history update
    * @function
    */
-  selectTab(elem, historyHandled) {
+  selectTab(elem) {
     var idStr;
 
     if (typeof elem === 'object') {
@@ -319,29 +310,25 @@ class Tabs {
       idStr = `#${idStr}`;
     }
 
-    var $target = this.$tabTitles.find(`[href$="${idStr}"]`).parent(`.${this.options.linkClass}`);
+    var $target = this.$tabTitles.find(`[href="${idStr}"]`).parent(`.${this.options.linkClass}`);
 
-    this._handleTabChange($target, historyHandled);
+    this._handleTabChange($target);
   };
   /**
    * Sets the height of each panel to the height of the tallest panel.
    * If enabled in options, gets called on media query change.
    * If loading content via external source, can be called directly or with _reflow.
-   * If enabled with `data-match-height="true"`, tabs sets to equal height
    * @function
    * @private
    */
   _setHeight() {
-    var max = 0,
-        _this = this; // Lock down the `this` value for the root tabs object
-
+    var max = 0;
     this.$tabContent
       .find(`.${this.options.panelClass}`)
       .css('height', '')
       .each(function() {
-
         var panel = $(this),
-            isActive = panel.hasClass(`${_this.options.panelActiveClass}`); // get the options from the parent instead of trying to get them from the child
+            isActive = panel.hasClass(`${this.options.panelActiveClass}`);
 
         if (!isActive) {
           panel.css({'visibility': 'hidden', 'display': 'block'});
@@ -378,10 +365,6 @@ class Tabs {
       }
     }
 
-    if (this.options.deepLink) {
-      $(window).off('popstate', this._checkDeepLink);
-    }
-
     Foundation.unregisterPlugin(this);
   }
 }
@@ -390,32 +373,28 @@ Tabs.defaults = {
   /**
    * Allows the window to scroll to content of pane specified by hash anchor
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   deepLink: false,
 
   /**
    * Adjust the deep link scroll to make sure the top of the tab panel is visible
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   deepLinkSmudge: false,
 
   /**
    * Animation time (ms) for the deep link adjustment
    * @option
-   * @type {number}
-   * @default 300
+   * @example 300
    */
   deepLinkSmudgeDelay: 300,
 
   /**
    * Update the browser history with the open tab
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   updateHistory: false,
 
@@ -423,64 +402,56 @@ Tabs.defaults = {
    * Allows the window to scroll to content of active pane on load if set to true.
    * Not recommended if more than one tab panel per page.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   autoFocus: false,
 
   /**
    * Allows keyboard input to 'wrap' around the tab links.
    * @option
-   * @type {boolean}
-   * @default true
+   * @example true
    */
   wrapOnKeys: true,
 
   /**
    * Allows the tab content panes to match heights if set to true.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   matchHeight: false,
 
   /**
    * Allows active tabs to collapse when clicked.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   activeCollapse: false,
 
   /**
    * Class applied to `li`'s in tab link list.
    * @option
-   * @type {string}
-   * @default 'tabs-title'
+   * @example 'tabs-title'
    */
   linkClass: 'tabs-title',
 
   /**
    * Class applied to the active `li` in tab link list.
    * @option
-   * @type {string}
-   * @default 'is-active'
+   * @example 'is-active'
    */
   linkActiveClass: 'is-active',
 
   /**
    * Class applied to the content containers.
    * @option
-   * @type {string}
-   * @default 'tabs-panel'
+   * @example 'tabs-panel'
    */
   panelClass: 'tabs-panel',
 
   /**
    * Class applied to the active content container.
    * @option
-   * @type {string}
-   * @default 'is-active'
+   * @example 'is-active'
    */
   panelActiveClass: 'is-active'
 };

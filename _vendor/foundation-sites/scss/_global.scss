@@ -110,7 +110,7 @@ $warning-color: get-color(warning);
 $alert-color: get-color(alert);
 
 @mixin foundation-global-styles {
-  // @include -zf-normalize;
+  @include -zf-normalize;
 
   // These styles are applied to a <meta> tag, which is read by the Foundation JavaScript
   .foundation-mq {
@@ -167,7 +167,6 @@ $alert-color: get-color(alert);
 
   // Make select elements are 100% width by default
   select {
-    box-sizing: border-box;
     width: 100%;
     border-radius: $global-radius;
   }
@@ -197,11 +196,6 @@ $alert-color: get-color(alert);
     line-height: 1;
   }
 
-  // Prevent text overflow on pre
-  pre {
-    overflow: auto;
-  }
-
   // Internal classes to show/hide elements in JavaScript
   .is-visible {
     display: block !important;
@@ -214,6 +208,6 @@ $alert-color: get-color(alert);
 
 /// Loads normalize.css.
 /// @access private
-// @mixin -zf-normalize {
-//   @include normalize();
-// }
+@mixin -zf-normalize {
+  @include normalize();
+}

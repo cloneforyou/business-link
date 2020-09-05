@@ -103,10 +103,8 @@ class Interchange {
       rules = this.options.rules;
     }
     else {
-      rules = this.$element.data('interchange');
+      rules = this.$element.data('interchange').match(/\[.*?\]/g);
     }
-    
-    rules =  typeof rules === 'string' ? rules.match(/\[.*?\]/g) : rules;
 
     for (var i in rules) {
       if(rules.hasOwnProperty(i)) {
@@ -185,8 +183,6 @@ Interchange.defaults = {
   /**
    * Rules to be applied to Interchange elements. Set with the `data-interchange` array notation.
    * @option
-   * @type {?array}
-   * @default null
    */
   rules: null
 };

@@ -5,7 +5,6 @@
 /**
  * OffCanvas module.
  * @module foundation.offcanvas
- * @requires foundation.util.keyboard
  * @requires foundation.util.mediaQuery
  * @requires foundation.util.triggers
  * @requires foundation.util.motion
@@ -132,7 +131,7 @@ class OffCanvas {
     } else {
       this.isRevealed = false;
       this.$element.attr('aria-hidden', 'true');
-      this.$element.off('open.zf.trigger toggle.zf.trigger').on({
+      this.$element.on({
         'open.zf.trigger': this.open.bind(this),
         'toggle.zf.trigger': this.toggle.bind(this)
       });
@@ -196,12 +195,7 @@ class OffCanvas {
 
     if (this.options.autoFocus === true) {
       this.$element.one(Foundation.transitionend(this.$element), function() {
-        var canvasFocus = _this.$element.find('[data-autofocus]');
-        if (canvasFocus.length) {
-            canvasFocus.eq(0).focus();
-        } else {
-            _this.$element.find('a, button').eq(0).focus();
-        }
+        _this.$element.find('a, button').eq(0).focus();
       });
     }
 
@@ -303,89 +297,78 @@ OffCanvas.defaults = {
   /**
    * Allow the user to click outside of the menu to close it.
    * @option
-   * @type {boolean}
-   * @default true
+   * @example true
    */
   closeOnClick: true,
 
   /**
    * Adds an overlay on top of `[data-off-canvas-content]`.
    * @option
-   * @type {boolean}
-   * @default true
+   * @example true
    */
   contentOverlay: true,
 
   /**
    * Enable/disable scrolling of the main content when an off canvas panel is open.
    * @option
-   * @type {boolean}
-   * @default true
+   * @example true
    */
   contentScroll: true,
 
   /**
    * Amount of time in ms the open and close transition requires. If none selected, pulls from body style.
    * @option
-   * @type {number}
-   * @default 0
+   * @example 500
    */
   transitionTime: 0,
 
   /**
    * Type of transition for the offcanvas menu. Options are 'push', 'detached' or 'slide'.
    * @option
-   * @type {string}
-   * @default push
+   * @example push
    */
   transition: 'push',
 
   /**
    * Force the page to scroll to top or bottom on open.
    * @option
-   * @type {?string}
-   * @default null
+   * @example top
    */
   forceTo: null,
 
   /**
    * Allow the offcanvas to remain open for certain breakpoints.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   isRevealed: false,
 
   /**
    * Breakpoint at which to reveal. JS will use a RegExp to target standard classes, if changing classnames, pass your class with the `revealClass` option.
    * @option
-   * @type {?string}
-   * @default null
+   * @example reveal-for-large
    */
   revealOn: null,
 
   /**
    * Force focus to the offcanvas on open. If true, will focus the opening trigger on close.
    * @option
-   * @type {boolean}
-   * @default true
+   * @example true
    */
   autoFocus: true,
 
   /**
    * Class used to force an offcanvas to remain open. Foundation defaults for this are `reveal-for-large` & `reveal-for-medium`.
    * @option
-   * @type {string}
-   * @default reveal-for-
-   * @todo improve the regex testing for this.
+   * TODO improve the regex testing for this.
+   * @example reveal-for-large
    */
   revealClass: 'reveal-for-',
 
   /**
    * Triggers optional focus trapping when opening an offcanvas. Sets tabindex of [data-off-canvas-content] to -1 for accessibility purposes.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example true
    */
   trapFocus: false
 }

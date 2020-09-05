@@ -136,8 +136,7 @@ Toggler.defaults = {
   /**
    * Tells the plugin if the element should animated when toggled.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   animate: false
 };
