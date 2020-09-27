@@ -42,7 +42,7 @@
 		<p>In addition to the guidance available from this page there are more detailed documents in the HMRC Library. These cover the more unusual situations such as businesses HMRC may not consider to be new and some anomalies for business who already receive support in the form of State Aid.</p>
 		<p>Payroll advisers and professional representatives may find this guidance useful to supplement the basic guides. You can <a href="https://www.gov.uk/guidance/regional-employer-nics-holiday-making-a-retrospective-claim" target="_blank" rel="noopener noreferrer">browse the HMRC Library on the HMRC website</a>.</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

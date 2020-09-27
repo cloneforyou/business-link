@@ -36,7 +36,7 @@
 		<p>Some firms choose not to charge interest because they are concerned it may alienate important customers. Developing strong credit management procedures can help avoid this conflict of interests.</p>
 		<p>And remember - your purchase invoices may also attract interest if you fail to pay them on time.</p>
 		<p>
-			<p><a href="../../../_files/berr_a-users-guide-to-late-payment-legislation_apr-2002.pdf" target="_blank" rel="noopener noreferrer">Download the user's guide to late payment legislation from the Department for Business, Innovation &amp; Skills (BIS) website (PDF, 390K)</a>.</p>
+			<p><a href="../../../_files/berr_a-users-guide-to-late-payment-legislation_apr-2002.pdf" target="_blank" rel="noopener noreferrer">Download the user's guide to late payment legislation from the Department for Business, Energy &amp; Industrial Strategy (BIS) website (PDF, 390K)</a>.</p>
 		</p>
 		
 		<ul>

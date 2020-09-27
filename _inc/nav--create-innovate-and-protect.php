@@ -38,14 +38,14 @@
 				<li>
 					<a href="">Product life cycle</a>
 					<ul>
-						<li><a href="" title="Product life cycle">Introduction</a></li>
-						<li><a href="">What is a product life cycle?</a></li>
-						<li><a href="">Development stage of a product life cycle</a></li>
-						<li><a href="">Introduction stage of a product life cycle</a></li>
-						<li><a href="">Product life cycles - growing and maturing a product</a></li>
-						<li><a href="">Product life cycles - decline stage</a></li>
-						<li><a href="">Product life cycle checklist</a></li>
-						<li><a href="">Here's how an understanding of the product life cycle has helped my business (Flash video)</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle.php" title="Product life cycle">Introduction</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/what-is-a-product-life-cycle.php">What is a product life cycle?</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/development-stage-of-a-product-life-cycle.php">Development stage of a product life cycle</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/introduction-stage-of-a-product-life-cycle.php">Introduction stage of a product life cycle</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/product-life-cycles-growing-and-maturing-a-product.php">Product life cycles - growing and maturing a product</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/product-life-cycles-decline-stage.php">Product life cycles - decline stage</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/product-life-cycle-checklist.php">Product life cycle checklist</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/product-life-cycle/here-is-how-an-understanding-of-the-product-life-cycle-has-helped-my-business_flash-video.php">Here's how an understanding of the product life cycle has helped my business (Flash video)</a></li>
 					</ul>
 				</li>
 				<li>
@@ -79,17 +79,17 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Importance of knowledge management to a growing business</a>
+					<a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business.php">Importance of knowledge management to a growing business</a>
 					<ul>
-						<li><a href="" title="Importance of knowledge management to a growing business">Introduction</a></li>
-						<li><a href="">What is knowledge in a business?</a></li>
-						<li><a href="">Basic sources of knowledge</a></li>
-						<li><a href="">Exploiting your knowledge</a></li>
-						<li><a href="">Make knowledge central to your business</a></li>
-						<li><a href="">Sharing knowledge across your business</a></li>
-						<li><a href="">Create a knowledge strategy for your business</a></li>
-						<li><a href="">Using information technology to gain and manage knowledge</a></li>
-						<li><a href="">Here's how I used knowledge management to make my business better (Flash video)</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business.php" title="Importance of knowledge management to a growing business">Introduction</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/what-is-knowledge-in-a-business.php">What is knowledge in a business?</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/basic-sources-of-knowledge.php">Basic sources of knowledge</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/exploiting-your-knowledge.php">Exploiting your knowledge</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/make-knowledge-central-to-your-business.php">Make knowledge central to your business</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/sharing-knowledge-across-your-business.php">Sharing knowledge across your business</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/create-a-knowledge-strategy-for-your-business.php">Create a knowledge strategy for your business</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/using-information-technology-to-gain-and-manage-knowledge.php">Using information technology to gain and manage knowledge</a></li>
+						<li><a href="/create-innovate-and-protect/create-and-improve-products-and-services/importance-of-knowledge-management-to-a-growing-business/here-is-how-I-used-knowledge-management-to-make-my-business-better_flash-video.php">Here's how I used knowledge management to make my business better (Flash video)</a></li>
 					</ul>
 				</li>
 				<li>
@@ -127,9 +127,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Research and development</a>
+			<a href="/create-innovate-and-protect/research-and-development.php">Research and development</a>
 			<ul>
-				<li><a href="" title="Research and development">Introduction</a></li>
+				<li><a href="/create-innovate-and-protect/research-and-development.php" title="Research and development">Introduction</a></li>
 				<li>
 					<a href="">Research and develop your business ideas, new products and services</a>
 					<ul>
@@ -169,6 +169,21 @@
 					</ul>
 				</li>
 				<li>
+					<a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d.php">Support networks and facilities for innovation and R&amp;D</a>
+					<ul>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d.php" title="Support networks and facilities for innovation and R&D">Introduction</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/knowledge-transfer-support.php">Knowledge Transfer Support</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/virtual-support-networks.php">Virtual support networks</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/the-enterprise-europe-network.php">The Enterprise Europe Network</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/business-innovation-centres.php">Business innovation centres</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/science-parks.php">Science parks</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/chambers-of-commerce.php">Chambers of Commerce</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/assisted-areas.php">Assisted areas</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/business-clusters.php">Business clusters</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/support-networks-and-facilities-for-innovation-and-r-and-d/the-small-business-research-initiative.php">The Small Business Research Initiative</a></li>
+					</ul>
+				</li>
+				<li>
 					<a href="">Support networks and facilities for innovation and R&amp;D</a>
 					<ul>
 						<li><a href="" title="Support networks and facilities for innovation and R&amp;D">Introduction</a></li>
@@ -184,17 +199,17 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Work with UK universities and colleges</a>
+					<a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges.php">Work with UK universities and colleges</a>
 					<ul>
-						<li><a href="" title="Work with UK universities and colleges">Introduction</a></li>
-						<li><a href="">Delivering innovation through collaboration and networking</a></li>
-						<li><a href="">Research councils and government help</a></li>
-						<li><a href="">Knowledge Transfer Partnerships</a></li>
-						<li><a href="">Knowledge Transfer Networks</a></li>
-						<li><a href="">University Innovation Centres</a></li>
-						<li><a href="">Collaborative Research &amp; Development</a></li>
-						<li><a href="">The Step Programme</a></li>
-						<li><a href="">Here's how I used a Knowledge Transfer Partnership and worked with a university</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges.php" title="Work with UK universities and colleges">Introduction</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/delivering-innovation-through-collaboration-and-networking.php">Delivering innovation through collaboration and networking</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/research-councils-and-government-help.php">Research councils and government help</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/knowledge-transfer-partnerships.php">Knowledge Transfer Partnerships</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/knowledge-transfer-networks.php">Knowledge Transfer Networks</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/university-innovation-centres.php">University Innovation Centres</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/collaborative-research-and-development.php">Collaborative Research &amp; Development</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/the-step-programme.php">The Step Programme</a></li>
+						<li><a href="/create-innovate-and-protect/research-and-development/work-with-uk-universities-and-colleges/here-is-how-i-used-a-knowledge-transfer-partnership-and-worked-with-a-university.php">Here's how I used a Knowledge Transfer Partnership and worked with a university</a></li>
 					</ul>
 				</li>
 				<li>
@@ -288,18 +303,18 @@
 			</ul>
 		</li>
 		<li>
-			<a href="">Use innovation in your business</a>
+			<a href="/create-innovate-and-protect/use-innovation-in-your-business.php">Use innovation in your business</a>
 			<ul>
-				<li><a href="" title="Use innovation in your business">Introduction</a></li>
+				<li><a href="/create-innovate-and-protect/use-innovation-in-your-business.php" title="Use innovation in your business">Introduction</a></li>
 				<li>
-					<a href="">An innovation start-up</a>
+					<a href="/create-innovate-and-protect/use-innovation-in-your-business/an-innovation-start-up.php">An innovation start-up</a>
 					<ul>
-						<li><a href="" title="An innovation start-up">Introduction</a></li>
-						<li><a href="">Protecting the assets of a new company</a></li>
-						<li><a href="">Creating a business plan for your innovation start-up</a></li>
-						<li><a href="">Finance your innovation start-up</a></li>
-						<li><a href="">Equity investment for innovation start-ups</a></li>
-						<li><a href="">Exit routes for your innovation business</a></li>
+						<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/an-innovation-start-up.php" title="An innovation start-up">Introduction</a></li>
+						<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/an-innovation-start-up/protecting-the-assets-of-a-new-company.php">Protecting the assets of a new company</a></li>
+						<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/an-innovation-start-up/creating-a-business-plan-for-your-innovation-start-up.php">Creating a business plan for your innovation start-up</a></li>
+						<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/an-innovation-start-up/finance-your-innovation-start-up.php">Finance your innovation start-up</a></li>
+						<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/an-innovation-start-up/equity-investment-for-innovation-start-ups.php">Equity investment for innovation start-ups</a></li>
+						<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/an-innovation-start-up/exit-routes-for-your-innovation-business.php">Exit routes for your innovation business</a></li>
 					</ul>
 				</li>
 				<li>
@@ -330,9 +345,9 @@
 					</ul>
 				</li>
 				<li>
-					<a href="">Find support for inventors</a>
+					<a href="/create-innovate-and-protect/use-innovation-in-your-business/find-support-for-inventors.php">Find support for inventors</a>
 					<ul>
-						<li><a href="" title="Find support for inventors">Introduction</a></li>
+						<li><a href="/create-innovate-and-protect/use-innovation-in-your-business/find-support-for-inventors.php" title="Find support for inventors">Introduction</a></li>
 						<li><a href="">Help in establishing your invention's originality</a></li>
 						<li><a href="">Help to ensure products are safe</a></li>
 						<li><a href="">Get legal help on intellectual property</a></li>

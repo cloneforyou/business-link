@@ -379,15 +379,14 @@ class Reveal {
     }
     // jQuery method of hiding
     else {
-
-      this.$element.hide(this.options.hideDelay);
-
       if (this.options.overlay) {
         this.$overlay.hide(0, finishUp);
       }
       else {
         finishUp();
       }
+
+      this.$element.hide(this.options.hideDelay);
     }
 
     // Conditionals to remove extra event listeners added on open
@@ -403,18 +402,14 @@ class Reveal {
 
     function finishUp() {
       if (_this.isMobile) {
-        if ($('.reveal:visible').length === 0) {
-          $('html, body').removeClass('is-reveal-open');
-        }
+        $('html, body').removeClass('is-reveal-open');
         if(_this.originalScrollPos) {
           $('body').scrollTop(_this.originalScrollPos);
           _this.originalScrollPos = null;
         }
       }
       else {
-        if ($('.reveal:visible').length  === 0) {
-          $('body').removeClass('is-reveal-open');
-        }
+        $('body').removeClass('is-reveal-open');
       }
 
 
@@ -480,106 +475,91 @@ Reveal.defaults = {
   /**
    * Motion-UI class to use for animated elements. If none used, defaults to simple show/hide.
    * @option
-   * @type {string}
-   * @default ''
+   * @example 'slide-in-left'
    */
   animationIn: '',
   /**
    * Motion-UI class to use for animated elements. If none used, defaults to simple show/hide.
    * @option
-   * @type {string}
-   * @default ''
+   * @example 'slide-out-right'
    */
   animationOut: '',
   /**
    * Time, in ms, to delay the opening of a modal after a click if no animation used.
    * @option
-   * @type {number}
-   * @default 0
+   * @example 10
    */
   showDelay: 0,
   /**
    * Time, in ms, to delay the closing of a modal after a click if no animation used.
    * @option
-   * @type {number}
-   * @default 0
+   * @example 10
    */
   hideDelay: 0,
   /**
    * Allows a click on the body/overlay to close the modal.
    * @option
-   * @type {boolean}
-   * @default true
+   * @example true
    */
   closeOnClick: true,
   /**
    * Allows the modal to close if the user presses the `ESCAPE` key.
    * @option
-   * @type {boolean}
-   * @default true
+   * @example true
    */
   closeOnEsc: true,
   /**
    * If true, allows multiple modals to be displayed at once.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   multipleOpened: false,
   /**
    * Distance, in pixels, the modal should push down from the top of the screen.
    * @option
-   * @type {number|string}
-   * @default auto
+   * @example auto
    */
   vOffset: 'auto',
   /**
    * Distance, in pixels, the modal should push in from the side of the screen.
    * @option
-   * @type {number|string}
-   * @default auto
+   * @example auto
    */
   hOffset: 'auto',
   /**
    * Allows the modal to be fullscreen, completely blocking out the rest of the view. JS checks for this as well.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   fullScreen: false,
   /**
    * Percentage of screen height the modal should push up from the bottom of the view.
    * @option
-   * @type {number}
-   * @default 10
+   * @example 10
    */
   btmOffsetPct: 10,
   /**
    * Allows the modal to generate an overlay div, which will cover the view when modal opens.
    * @option
-   * @type {boolean}
-   * @default true
+   * @example true
    */
   overlay: true,
   /**
    * Allows the modal to remove and reinject markup on close. Should be true if using video elements w/o using provider's api, otherwise, videos will continue to play in the background.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   resetOnClose: false,
   /**
    * Allows the modal to alter the url on open/close, and allows the use of the `back` button to close modals. ALSO, allows a modal to auto-maniacally open on page load IF the hash === the modal's user-set id.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   deepLink: false,
     /**
    * Allows the modal to append to custom div.
    * @option
-   * @type {string}
-   * @default "body"
+   * @example false
    */
   appendTo: "body"
 

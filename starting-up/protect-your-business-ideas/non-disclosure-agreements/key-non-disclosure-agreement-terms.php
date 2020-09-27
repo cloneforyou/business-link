@@ -66,7 +66,7 @@
 
 			<p>Developed with:<br />
 				<a href="https://www.gov.uk/government/organisations/intellectual-property-office" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/IPO_LOGO.gif" width="150" height="26" alt="" /> Intellectual Property Office
+					<img src="..//_img/IPO_LOGO.gif" width="150" height="26" alt="" /> Intellectual Property Office
 				</a>
 			</p>
 

@@ -69,7 +69,7 @@
 		<ul>
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20120418184810/http://www.ukti.gov.uk/export/howwehelp.html" target="_blank" rel="noopener noreferrer">Guidance on growing your business internationally on the UK Trade &amp; Investment website</a></li>
 			<li><a href="https://www.contactus.trade.gov.uk/office-finder/" target="_blank" rel="noopener noreferrer">International trade team search on the UK Trade &amp; Investment website</a></li>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20120418175729/http://www.improve.businesslink.gov.uk/resources/tools/exporting-growth" target="_blank" rel="noopener noreferrer">Use the tool Exporting for growth on the Growth and Improvement Service</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20120418175729/http://webarchive.nationalarchives.gov.uk/20120823223804/http://www.improve.businesslink.gov.uk//resources//tools//exporting-growth" target="_blank" rel="noopener noreferrer">Use the tool Exporting for growth on the Growth and Improvement Service</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>

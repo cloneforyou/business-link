@@ -29,7 +29,7 @@
 
 			<p><a href="http://www.mentorsme.co.uk/" target="_blank" rel="noopener noreferrer">Business mentors on the Mentorsme.co.uk website</a>.</p>
 			<p>There are more than 10,000 mentors available on the network. Both face-to-face and online support is offered, and many mentors have particular expertise in areas such as finance, leadership and innovation.</p>
-			<p>Mentorsme.co.uk is funded by the British Bankers' Association and supported by the Better Business Finance Roundtable, which includes the key business groups in the UK. It is backed by the Department for Business, Innovation &amp; Skills.</p>
+			<p>Mentorsme.co.uk is funded by the British Bankers' Association and supported by the Better Business Finance Roundtable, which includes the key business groups in the UK. It is backed by the Department for Business, Energy &amp; Industrial Strategy.</p>
 			
 			<h3>Other main providers of business mentoring services</h3>
 			<p>You can also find business mentors through the networks listed below.</p>
@@ -78,7 +78,7 @@
 			<p>Developed with:<br />
 				<a href="https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy" target="_blank" rel="noopener noreferrer">
 					<img src="../../../_img/logo_primary_bis.gif" width="134" height="35"  alt="" /> Department for
-	Business, Energy &amp; Industrial Strategy <del datetime="2016-07-01">Department for Business, Innovation &amp; Skills</del>
+	Business, Energy &amp; Industrial Strategy <del datetime="2016-07-01">Department for Business, Energy &amp; Industrial Strategy</del>
 				</a>
 			</p>
 

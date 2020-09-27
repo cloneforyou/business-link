@@ -95,11 +95,11 @@
 		<p>To access text-only versions of e-learning content, click the 'Text-only version' links on Task pages and in the Start-up learning directory. The text-only version will open in a new window.</p>
 		<p><a href="#menu">Back to top</a></p>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<p><img src="../../_img/generic_help.jpg" width="181" height="121" border="0" alt="" /></p>
 

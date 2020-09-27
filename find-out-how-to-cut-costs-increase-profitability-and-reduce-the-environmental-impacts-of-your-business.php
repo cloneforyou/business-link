@@ -70,7 +70,7 @@
 		<h3>Where can you get more information on different types of support?</h3>
 		<p>Read our guide on <a href="/environment-and-efficiency/sources-of-environmental-advice/where-to-get-advice-on-environmental-issues.php">where to get advice on environmental issues</a>.</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

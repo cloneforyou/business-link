@@ -32,7 +32,7 @@
 		<p>An incomplete application will be deleted from the system three months from the date it was first registered. If you request another application, then the data from the original application will be lost.</p>
 		<p><a href="/do-it-online/incorporate-your-company-online.php">Incorporate your private limited company online</a> or see our guide on how to <a href="/starting-up/business-structures/set-up-and-register-a-limited-company-private-or-public.php.html">set up and register a limited company (private or public)</a>.</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

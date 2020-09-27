@@ -35,7 +35,7 @@
 			<li><a href="https://www.gov.uk/government/publications/the-home-business-guide" target="_blank" rel="noopener noreferrer">Download The Home Business Guide from the BIS website</a> (PDF, 780K)</li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

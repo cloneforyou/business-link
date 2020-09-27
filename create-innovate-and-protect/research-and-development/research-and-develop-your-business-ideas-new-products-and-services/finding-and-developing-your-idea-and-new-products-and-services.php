@@ -74,7 +74,7 @@
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-developing-a-new-product-benefited-my-business.php">Here's how developing a new product benefited my business</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -88,7 +88,7 @@
 			<li><a href="http://www.designingdemand.org.uk/" target="_blank" rel="noopener noreferrer">Business support for innovative businesses on the Designing Demand website</a></li>
 			<li><a href="http://www.designcouncil.org.uk/resources/search/idea%2520generation?retain-filters=1" target="_blank" rel="noopener noreferrer">Idea generation and creativity advice on the Design Council website</a></li>
 			<li><a href="#">Business viability assessment tool on the Venture Navigator website (registration required)</a></li>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20140827133341/http://www.innovateuk.org/(X(1)S(k1ivh255c5252u55vlyescrf))/default.aspx?AspxAutoDetectCookieSupport=1" target="_blank" rel="noopener noreferrer">Innovation assessment tool on the Department for Business, Innovation &amp; Skills website</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20140827133341/http://www.innovateuk.org/(X(1)S(k1ivh255c5252u55vlyescrf))/default.aspx?AspxAutoDetectCookieSupport=1" target="_blank" rel="noopener noreferrer">Innovation assessment tool on the Department for Business, Energy &amp; Industrial Strategy website</a></li>
 			<li><a href="http://www.designcouncil.org.uk/resources/search/product%2520design?retain-filters=1" target="_blank" rel="noopener noreferrer">Product design business directory on the Design Council website</a></li>
 			<li><a href="http://ethicsandtechnology.eu/?site_section=site-search&s=socially+responsible+innovation&submit=Search" target="_blank" rel="noopener noreferrer">Socially responsible innovation information on the 3TU.Centre for Ethics and Technology website</a></li>
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20140827133341/https://www.innovateuk.org/-/sbri" target="_blank" rel="noopener noreferrer">SBRI opportunities on the Technology Strategy Board website</a></li>
@@ -107,7 +107,7 @@
 			<li><a href="/create-innovate-and-protect/design-for-business-success/how-can-I-use-design-in-my-business.php">How can I use design in my business?</a></li>
 			<li><a href="/create-innovate-and-protect/research-and-development/manage-your-research-design-and-development.php">Manage your research, design and development</a></li>
 		</ul>
-		<img src="../../../_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -37,16 +37,16 @@
 			<li><a href="/workplace-health-and-safety/decide-who-will-help-with-your-health-and-safety-duties/getting-specialist-help.php">Getting specialist help</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.hse.gov.uk/business/competent-advice.htm" target="_blank" rel="noopener noreferrer">Competent advice guidance on the Health and Safety Executive website</a></li>
+			<li><a href="https://www.hse.gov.uk/business/competent-advice.htm" target="_blank" rel="noopener noreferrer">Competent advice guidance on the Health and Safety Executive website</a></li>
 		</ul>
 		
-		<img src="../../../_img/px_healthandenvironment.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_healthandenvironment.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

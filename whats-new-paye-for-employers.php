@@ -31,7 +31,7 @@
 		<h3>News for employers from HMRC</h3>
 		<p>You can <a href="https://www.gov.uk/topic/business-tax/paye/latest" target="_blank" rel="noopener noreferrer">find general news and HMRC messages on the HMRC website</a>.</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

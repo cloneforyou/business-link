@@ -23,7 +23,7 @@
 		<a href="https://www.gov.uk/government/policies/reducing-the-impact-of-regulation-on-business" title="Reducing the impact of regulation on business" target="_blank">Submit an idea to the BRE</a>
 		<dl>
 			<dt>In partnership with:</dt>
-			<dd><a href="#"><img src="/_img/logo_primary_bis.gif" width="160" height="32" alt="" />Department for Business, Innovation &amp; Skills</a></dd>
+			<dd><a href="#"><img src="/_img/logo_primary_bis.gif" width="160" height="32" alt="" />Department for Business, Energy &amp; Industrial Strategy</a></dd>
 		</dl>
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

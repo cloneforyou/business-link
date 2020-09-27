@@ -59,7 +59,7 @@
 			<li><a href="/finance-and-grants/introduction-to-insolvency/insolvency-the-basics.php">Insolvency: the basics</a></li>
 		</ul>
 
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="100" height="100" />
+		<img src="/_img/px_sellingabusiness.gif" alt="" width="100" height="100" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

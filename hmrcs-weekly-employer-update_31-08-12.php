@@ -32,7 +32,7 @@
 		<p><a href="http://webarchive.nationalarchives.gov.uk/20140109143644/http://www.hmrc.gov.uk/news/news290812.htm" target="_blank" rel="noopener noreferrer">Pay day by pay day tax relief models and dispensations</a> </p>
 		<p>HMRC has published a further statement on pay day by pay day tax relief models and dispensations.</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

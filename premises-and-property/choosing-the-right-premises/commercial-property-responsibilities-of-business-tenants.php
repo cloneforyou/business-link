@@ -50,11 +50,11 @@
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.leasingbusinesspremises.co.uk/downloads/occupier_guide.pdf" target="bgExternalonlinebusinesslinkgovuk" title="Guidance for occupiers of business rental property">Download the occupier guide from the Leasing Business Premises website (PDF, 806K)</a></li>
-			<li><a href="http://www.hse.gov.uk/simple-health-safety/index.htm" target="bgExternalonlinebusinesslinkgovuk" title="How to comply with the law and manage health and safety in your business">Health and safety made simple on the Health &amp; Safety Executive website</a></li>
+			<li><a href="https://www.hse.gov.uk/simple-health-safety/index.htm" target="bgExternalonlinebusinesslinkgovuk" title="How to comply with the law and manage health and safety in your business">Health and safety made simple on the Health &amp; Safety Executive website</a></li>
 		</ul>
 
 		<p>Developed with:<br />
-			<a href="http://www.hse.gov.uk/" title="Health and Safety Executive" target="_blank" rel="noopener noreferrer">
+			<a href="https://www.hse.gov.uk/" title="Health and Safety Executive" target="_blank" rel="noopener noreferrer">
 				<img src="/_img/HSE_logo.jpg" width="61" height="61" alt="" /> Health and Safety Executive
 			</a>
 			<br />

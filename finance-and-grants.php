@@ -102,7 +102,7 @@
 			
 			<h3>Directories</h3>
 			<ul>
-				<li><a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://www.businesslink.gov.uk/bdotg/action/event?topicId=1073858790" title="National and local events, seminars and workshops in your area to help you learn or network" target="_blank" rel="noopener noreferrer">Finance and grants events near you</a></li>
+				<li><a href="http://webarchive.nationalarchives.gov.uk/20120823131012/http://webarchive.nationalarchives.gov.uk/20120729143841/http://www.events.businesslink.gov.uk/eventsearch?ds_topic=108" title="National and local events, seminars and workshops in your area to help you learn or network" target="_blank" rel="noopener noreferrer">Finance and grants events near you</a></li>
 				<li><a href="/find-a-case-study/browse-by-theme-finance-and-grants.php">Finance and grants case studies</a></li>
 			</ul>
 

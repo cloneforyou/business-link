@@ -55,11 +55,11 @@
 			<p>
 				Developed with:<br />
 				<a href="https://www.gov.uk/government/organisations/intellectual-property-office" title="Intellectual Property Office" target="_blank" rel="noopener noreferrer">
-					<img src="../../../_img/IPO_LOGO.gif" width="60" height="35" alt="" /> Intellectual Property Office
+					<img src="..//_img/IPO_LOGO.gif" width="60" height="35" alt="" /> Intellectual Property Office
 				</a>
 			</p>
 			
-			<img src="../../../_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
+			<img src="/_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
 			
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

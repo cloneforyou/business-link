@@ -27,7 +27,7 @@
 		<p>Alternative support from the government may be available in your local area, including grants, funding, advice, guidance, information and training. Find out more in our guide on <a href="/finance-and-grants/finance-options/grants-and-government-support/government-support-for-businesses.php">government support for businesses</a>.</p>
 		<p><strong>Mentoring</strong> can help you develop business skills. Read more in our guide to the <a href="/starting-up/further-support-for-your-business/the-benefits-of-business-mentoring.php">benefits of business mentoring</a>. You can also benefit from online mentoring from one of the many mentoring organisations such as horsesmouth - <a href="http://www.horsesmouth.co.uk/publisha.content/spotlight/taxonomy.publisha" target="_blank" rel="noopener noreferrer">find out how mentoring could help your business on the horsesmouth website</a>.</p>
 		<p>Your local <strong>Chamber of Commerce</strong> offers support and advice and may organise networking meetings for businesses of a similar size and in similar business sectors. You can <a href="http://www.britishchambers.org.uk/find-your-chamber/" target="_blank" rel="noopener noreferrer">find contact details for your local Chamber of Commerce on the British Chambers of Commerce website</a>.</p>
-		<p>You might find it helpful to join the trade association for your business sector, where you will be able to interact with peer businesses for advice and information. <a href="http://www.taforum.org/Members" target="_blank" rel="noopener noreferrer">Find contact details for trade associations on the Trade Association Forum website</a>.</p>
+		<p>You might find it helpful to join the trade association for your business sector, where you will be able to interact with peer businesses for advice and information. <a href="https://www.taforum.org/Members" target="_blank" rel="noopener noreferrer">Find contact details for trade associations on the Trade Association Forum website</a>.</p>
 
 		<ul>
 			<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/advantages-and-disadvantages-of-starting-a-part-time-business.php" title="Advantages and disadvantages of starting a part-time business">Prev</a></li>
@@ -44,7 +44,7 @@
 		<li><a href="/starting-up/considering-starting-up/starting-a-part-time-business/here-is-how-I-decided-I-was-ready-to-start-up-my-business.php">Here's how I decided I was ready to start up my business</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -57,7 +57,7 @@
 		<ul>
 			<li><a href="http://www.horsesmouth.co.uk/publisha.content/spotlight/taxonomy.publisha" target="_blank" rel="noopener noreferrer">Online business mentoring on the horsesmouth website</a></li>
 			<li><a href="http://www.britishchambers.org.uk/find-your-chamber/" target="_blank" rel="noopener noreferrer">Chambers directory on the British Chambers of Commerce website</a></li>
-			<li><a href="http://www.taforum.org/Members" target="_blank" rel="noopener noreferrer">Trade association directory on the Trade Association Forum website</a></li>
+			<li><a href="https://www.taforum.org/Members" target="_blank" rel="noopener noreferrer">Trade association directory on the Trade Association Forum website</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>

@@ -62,7 +62,7 @@
 		<ul>
 			<li><a href="/_files/ootdpm_planning-permission-a-guide-for-business_jul-2005.pdf" target="_blank" rel="noopener noreferrer">Planning permission guidance on the Communities and Local Government website (PDF, 1.33MB)</a></li>
 			<li><a href="https://www.gov.uk/building-regulations-approval" target="_blank" rel="noopener noreferrer">Building regulation information on the Planning Portal website</a></li>
-			<li><a href="http://www.hse.gov.uk/simple-health-safety/index.htm" target="_blank" rel="noopener noreferrer">Health and safety law assistance on the Health and Safety Executive website</a></li>
+			<li><a href="https://www.hse.gov.uk/simple-health-safety/index.htm" target="_blank" rel="noopener noreferrer">Health and safety law assistance on the Health and Safety Executive website</a></li>
 			<li><a href="http://solicitors.lawsociety.org.uk/" target="_blank" rel="noopener noreferrer">Solicitor listings on the Law Society website</a></li>
 			<li><a href="/finance-and-grants/insurance/get-the-right-insurance-for-your-business.php">Use our interactive tool to work out which forms of insurance you should have for your business</a></li>
 		</ul>

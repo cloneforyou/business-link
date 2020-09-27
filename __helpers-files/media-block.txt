@@ -1,0 +1,19 @@
+<div class="media-object stack-for-small">
+	<div class="media-object-section">
+		<div class="thumbnail">
+			<img src="/_img/Copy_of_wow.jpg" width="181" height="121" border="0" alt="" />
+		</div>
+	</div>
+	<div class="media-object-section">
+		<h3>
+			Nadim Ednan-Laperouse<br />
+			<a href="http://www.wowtoys.com/" target="_blank" rel="noopener noreferrer">WOW Toys</a><br />
+			Nadim's top tips:
+		</h3>
+		<ul>
+			<li>"Never be afraid of the seemingly unknown. Dream the future and then reach out to grasp it with both hands!"</li>
+			<li>"You must have a plan and a clear timeline of the events/decisions that you need to make from beginning to end."</li>
+			<li>"New product development demands financing and not only is it necessary to have the cash, but also to understand the expected return on investment."</li>
+		</ul>
+	</div>
+</div>

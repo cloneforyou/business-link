@@ -59,14 +59,14 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://www.hse.gov.uk/pubns/manlinde.htm" target="_blank" rel="noopener noreferrer">Manual handling resources on the Health &amp; Safety Executive (HSE) website</a></li>
-			<li><a href="http://www.hse.gov.uk/chemicals/manufacture.htm" target="_blank" rel="noopener noreferrer">Chemicals storage guidance on the HSE website</a></li>
+			<li><a href="https://www.hse.gov.uk/pubns/manlinde.htm" target="_blank" rel="noopener noreferrer">Manual handling resources on the Health &amp; Safety Executive (HSE) website</a></li>
+			<li><a href="https://www.hse.gov.uk/chemicals/manufacture.htm" target="_blank" rel="noopener noreferrer">Chemicals storage guidance on the HSE website</a></li>
 			<li><a href="https://www.food.gov.uk/business-industry/" target="_blank" rel="noopener noreferrer">Food safety information for food industry businesses on the Food standards Agency website</a></li>
 			<li><a href="https://www.cips.org/en-au/training/training-courses1/inventory-management/" target="_blank" rel="noopener noreferrer">Inventory management course on the Chartered Institute of Purchasing and Supply website</a></li>
 		</ul>

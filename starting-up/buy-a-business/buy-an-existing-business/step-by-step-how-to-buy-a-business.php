@@ -106,7 +106,7 @@
 				<li><a href="/finance-and-grants/finance-options/borrowing/bank-finance.php">Bank finance</a></li>
 				<li><a href="/finance-and-grants/finance-options/borrowing/financing-from-friends-and-family.php">Financing from friends and family</a></li>
 				<li><a href="/finance-and-grants/finance-options/shares-and-equity-finance/equity-finance.php">Equity finance</a></li>
-				<li><a href="layer2852.html?topicId=1073958998">Use your business plan to get funding</a></li>
+				<li><a href="/finance-and-grants/prepare-to-raise-finance/how-to-attract-investment/use-your-business-plan-to-get-funding.php">Use your business plan to get funding</a></li>
 				<li><a href="https://www.gov.uk/set-up-business" target="_blank" rel="noopener noreferrer">Choose the right business model and legal structure </a></li>
 			</ul>
 

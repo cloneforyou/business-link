@@ -38,7 +38,7 @@
 			<li><a href="/workplace-health-and-safety/consult-your-employees-on-health-and-safety/how-to-consult-with-your-workers.php">How to consult with your workers</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -47,7 +47,7 @@
 			<li><a href="../../../_files/hse_consulting-employees-on-health-and-safety.pdf" target="_blank" rel="noopener noreferrer">Download employee consultation legal guidance from the Health and Safety Executive website (PDF, 137K)</a></li>
 		</ul>
 
-		<img src="../../../_img/px_healthandenvironment.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_healthandenvironment.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

@@ -30,6 +30,7 @@
     "progress_bar",
     "responsive_menu",
     "responsive_toggle",
+    "responsive_accordion_tabs",
     "reveal",
     "slider",
     "sticky",
@@ -42,7 +43,6 @@
     "tooltip",
     "top_bar",
     "visibility",
-    "responsive_accordion_tabs",
     "float"
   ]
 }

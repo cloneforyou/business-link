@@ -74,7 +74,7 @@
 			<li><a href="/tax-payroll-and-company-information/selling-or-closing-your-business/selling-or-closing-your-business-an-overview.php">Selling or closing your business - an overview</a></li>
 		</ul>
 
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

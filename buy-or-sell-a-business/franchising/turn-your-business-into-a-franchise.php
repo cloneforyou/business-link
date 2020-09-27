@@ -3,6 +3,10 @@
 <head>
 	<title>Turn your business into a franchise | Business Link</title>
 	<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/meta.php'; ?>
+
+	<!-- ref: layerd6a9.html || /layer?topicId=1077055924 -->
+    <meta name="description" lang="en" content="Growing your business by working with independent franchisees" />
+	<meta name="keywords" lang="en" content="Turn your business into a franchise;Franchising;franchisee;business format franchise;distribution agreement;selling a licence;franchise fee;royalties;business growth;BFA;british franchise association;franchise your business;franchising advisor;business format;brand;licence agreement;distributor;agent;intellectual property" />
 </head>
 
 <body>
@@ -49,7 +53,7 @@
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.thebfa.org/franchise-your-business" target="_blank" rel="noopener noreferrer">Franchising advice on the British Franchise Association (BFA) website</a></li>
-			<li><a href="http://www.thebfa.org/members/member-directory" target="_blank" rel="noopener noreferrer">Franchising adviser listings on the BFA website</a></li>
+			<li><a href="https://www.thebfa.org/members/" target="_blank" rel="noopener noreferrer">Franchising adviser listings on the BFA website</a></li>
 			<li><a href="/grow-your-business/setting-a-vision-for-growth/create-an-action-plan-to-successfully-grow-your-business.php">Use our interactive tool to find your strengths and identify the areas you need to work on if you want your business to grow</a></li>
 		</ul>
 		

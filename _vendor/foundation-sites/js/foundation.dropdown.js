@@ -260,7 +260,7 @@ class Dropdown {
   open() {
     // var _this = this;
     /**
-     * Fires to close other open dropdowns, typically when dropdown is opening
+     * Fires to close other open dropdowns
      * @event Dropdown#closeme
      */
     this.$element.trigger('closeme.zf.dropdown', this.$element.attr('id'));
@@ -317,10 +317,6 @@ class Dropdown {
       this.counter = 4;
       this.usedPositions.length = 0;
     }
-    /**
-     * Fires once the dropdown is no longer visible.
-     * @event Dropdown#hide
-     */
     this.$element.trigger('hide.zf.dropdown', [this.$element]);
 
     if (this.options.trapFocus) {
@@ -355,73 +351,63 @@ class Dropdown {
 
 Dropdown.defaults = {
   /**
-   * Class that designates bounding container of Dropdown (default: window)
+   * Class that designates bounding container of Dropdown (Default: window)
    * @option
-   * @type {?string}
-   * @default null
+   * @example 'dropdown-parent'
    */
   parentClass: null,
   /**
    * Amount of time to delay opening a submenu on hover event.
    * @option
-   * @type {number}
-   * @default 250
+   * @example 250
    */
   hoverDelay: 250,
   /**
    * Allow submenus to open on hover events
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   hover: false,
   /**
    * Don't close dropdown when hovering over dropdown pane
    * @option
-   * @type {boolean}
-   * @default false
+   * @example true
    */
   hoverPane: false,
   /**
    * Number of pixels between the dropdown pane and the triggering element on open.
    * @option
-   * @type {number}
-   * @default 1
+   * @example 1
    */
   vOffset: 1,
   /**
    * Number of pixels between the dropdown pane and the triggering element on open.
    * @option
-   * @type {number}
-   * @default 1
+   * @example 1
    */
   hOffset: 1,
   /**
    * Class applied to adjust open position. JS will test and fill this in.
    * @option
-   * @type {string}
-   * @default ''
+   * @example 'top'
    */
   positionClass: '',
   /**
    * Allow the plugin to trap focus to the dropdown pane if opened with keyboard commands.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   trapFocus: false,
   /**
    * Allow the plugin to set focus to the first focusable element within the pane, regardless of method of opening.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example true
    */
   autoFocus: false,
   /**
    * Allows a click on the body to close the dropdown.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   closeOnClick: false
 }

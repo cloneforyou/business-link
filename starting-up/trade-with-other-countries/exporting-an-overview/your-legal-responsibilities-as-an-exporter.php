@@ -32,7 +32,7 @@
 		
 		<h3>Export controls</h3>
 		<p>Certain goods may only be exported following the issue of an export licence. Examples of goods subject to licensing control include fine art, firearms and chemicals. See our <a href="/international-trade/export-control-organisation/beginners-guide-to-export-controls.php">beginners' guide to export controls</a>.</p>
-		<p><a href="http://webarchive.nationalarchives.gov.uk/20120729133119/http://webarchive.nationalarchives.gov.uk/20120729133119/http://www.bis.gov.uk/policies/export-control-organisation/eco-training-skills-academy/eco-films" target="_blank" rel="noopener noreferrer">Watch a video about your export control responsibilities and how you can ensure you have the correct licences on the Department for Business, Innovation &amp; Skills (BIS) website</a>.</p>
+		<p><a href="http://webarchive.nationalarchives.gov.uk/20120729133119/http://webarchive.nationalarchives.gov.uk/20120729133119/http://www.bis.gov.uk/policies/export-control-organisation/eco-training-skills-academy/eco-films" target="_blank" rel="noopener noreferrer">Watch a video about your export control responsibilities and how you can ensure you have the correct licences on the Department for Business, Energy &amp; Industrial Strategy (BIS) website</a>.</p>
 		
 		<h3>Understanding the law</h3>
 		<p>As soon as your goods enter another country they become subject to that country's laws.</p>
@@ -70,7 +70,7 @@
 		<ul>
 			<li><a href="/international-trade/tax-obligations/understand-your-tax-obligations-when-importing-or-exporting.php">Use our interactive tool to understand your tax obligations when importing and exporting</a></li>
 			<li><a href="https://www.contactus.trade.gov.uk/office-finder/" target="_blank" rel="noopener noreferrer">International trade team search on the UK Trade &amp; Investment website</a></li>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20120418175729/http://www.improve.businesslink.gov.uk/resources/tools/exporting-growth" target="_blank" rel="noopener noreferrer">Use the tool Exporting for growth on the Growth and Improvement Service</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20120418175729/http://webarchive.nationalarchives.gov.uk/20120823223804/http://www.improve.businesslink.gov.uk//resources//tools//exporting-growth" target="_blank" rel="noopener noreferrer">Use the tool Exporting for growth on the Growth and Improvement Service</a></li>
 		</ul>
 		
 		<h3>Also on this site</h3>

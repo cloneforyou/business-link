@@ -22,7 +22,7 @@
 		
 		<h2>Special rules for businesses that sell to customers in their home or workplace</h2>
 		<p>Since 1 October 2008, consumers have had the same rights to a cooling-off period for sales resulting from a solicited call by a trader as they do for sales resulting from an unsolicited visit by a trader to a consumer's home, workplace or at a location arranged by the trader away from their business premises. This means that consumers who agree to purchase goods or services with a total payment value of more than &pound;35 can cancel any agreement within a seven day cooling-off period. Businesses that have not yet done so should review their contracts and sales practices and make necessary adjustments.</p>
-		<p><a href="http://webarchive.nationalarchives.gov.uk/20090609003649/http://webarchive.nationalarchives.gov.uk/20090609003649/http://www.berr.gov.uk/whatwedo/consumers/buying-selling/Doorstep-selling/index.html" title="Explains the main requirements on businesses including providing a notice of the right to cancel" target="_blank" rel="noopener noreferrer">Check your responsibilities to consumers when they buy products or services from you in their home or workplace on the Department for Business, Innovation &amp; Skills (BIS) website</a>.</p>
+		<p><a href="http://webarchive.nationalarchives.gov.uk/20090609003649/http://webarchive.nationalarchives.gov.uk/20090609003649/https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategywhatwedo/consumers/buying-selling/Doorstep-selling/index.html" title="Explains the main requirements on businesses including providing a notice of the right to cancel" target="_blank" rel="noopener noreferrer">Check your responsibilities to consumers when they buy products or services from you in their home or workplace on the Department for Business, Energy &amp; Industrial Strategy (BIS) website</a>.</p>
 		<p>If you sell goods <strong>to consumers</strong> online - via the internet, email, digital TV or mobile-phone text messages - you must comply with the distance selling regulations. See the page in this guide on <a href="/starting-up/sales-and-marketing/comply-with-the-law-in-the-provision-of-goods-facilities-and-services/rules-for-businesses-that-dont-sell-to-customers-face-to-face.php">rules for businesses that don't sell to consumers face to face</a>.</p>
 		<p>Similar requirements apply if you sell goods online <strong>to businesses</strong>. However, business customers do not have an automatic right to cancel.</p>
 		<p>Whether you are selling to consumers or businesses, you must provide customers with additional information, including:</p>
@@ -34,7 +34,7 @@
 
 		<p>Information on how to place an order, and how to correct errors made while placing it, must be provided before the order is made. You must also acknowledge orders promptly.</p>
 		<p>
-			<p>Most other information can be made available on your website. <a href="http://webarchive.nationalarchives.gov.uk/20090609024734/http://www.berr.gov.uk/whatwedo/sectors/ecommerce/ecommsdirectivefaqs/page10148.html" title="Frequently asked questions on the electronic commerce regulations on the BIS website" target="_blank" rel="noopener noreferrer">Find information on the electronic commerce regulations on the BIS website</a>. </p>
+			<p>Most other information can be made available on your website. <a href="http://webarchive.nationalarchives.gov.uk/20090609024734/https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategywhatwedo/sectors/ecommerce/ecommsdirectivefaqs/page10148.html" title="Frequently asked questions on the electronic commerce regulations on the BIS website" target="_blank" rel="noopener noreferrer">Find information on the electronic commerce regulations on the BIS website</a>. </p>
 		</p>
 		<p>See our guide on <a href="/sales-and-marketing/online-marketing/distance-selling-and-online-trading.php">distance selling and online trading</a>.</p>
 		<p>There are also special rules concerning marketing by email that you need to be aware of. You can find out more about these in our guide on <a href="/sales-and-marketing/online-marketing/email-marketing.php">email marketing</a>.</p>
@@ -61,7 +61,7 @@
 		
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20090609024734/http://www.berr.gov.uk/whatwedo/sectors/ecommerce/ecommsdirectivefaqs/page10148.html" title="Frequently asked questions on the electronic commerce regulations on the BIS website" target="_blank" rel="noopener noreferrer">Electronic commerce rules on the BIS website</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20090609024734/https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategywhatwedo/sectors/ecommerce/ecommsdirectivefaqs/page10148.html" title="Frequently asked questions on the electronic commerce regulations on the BIS website" target="_blank" rel="noopener noreferrer">Electronic commerce rules on the BIS website</a></li>
 			<li><a href="https://www.gov.uk/licence-finder" title="Use our licence tool to find out which licences and permits could apply to your business" target="_blank" rel="noopener noreferrer">Use our licence and permit checklist to find out which licences and permits could apply to your business</a></li>
 		</ul>
 				

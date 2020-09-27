@@ -43,7 +43,7 @@
 				<li><a href="https://web.archive.org/web/20120401235244/http://www.knowledge.hsbc.co.uk:80/international+business/plan+your+imports/develop+an+import+strategy" target="_blank" rel="noopener noreferrer">Import strategy advice on the HSBC KnowledgeCentre website</a></li>
 			</ul>
 
-			<img src="../../../_img/px_internationaltrade.gif" alt="" width="181" height="5" />
+			<img src="/_img/px_internationaltrade.gif" alt="" width="181" height="5" />
 			
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

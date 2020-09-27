@@ -51,7 +51,7 @@
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20140110181512/http://ukba.homeoffice.gov.uk/business-sponsors/points/sponsoringmigrants/" target="_blank" rel="noopener noreferrer">Points-based system information on the UK Border Agency website</a></li>
 		</ul>
 		
-		<img src="../../../_img/px_employingpeople.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_employingpeople.gif" alt="" width="181" height="5" />
 		
 		<p>Developed with:<br />
 			<a href="https://www.gov.uk/government/organisations/uk-visas-and-immigration" target="_blank" rel="noopener noreferrer">

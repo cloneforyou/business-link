@@ -63,14 +63,14 @@
 			<li><a href="/starting-up/find-and-manage-the-money/stock-control-and-inventory/here-is-how-I-control-my-stock.php">Here's how I control my stock</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
 		<ul>
 			<li><a href="http://www.rfidc.com/docs/introductiontorfid.htm" target="_blank" rel="noopener noreferrer">RFID information on the RFID Centre website</a></li>
-			<li><a href="../../../_files/dti_how-rfid-can-improve-retail-and-supply-chain-efficiency.pdf" target="_blank" rel="noopener noreferrer">Download RFID guidance from the Department for Business, Innovation &amp; Skills website (PDF, 228K)</a></li>
+			<li><a href="../../../_files/dti_how-rfid-can-improve-retail-and-supply-chain-efficiency.pdf" target="_blank" rel="noopener noreferrer">Download RFID guidance from the Department for Business, Energy &amp; Industrial Strategy website (PDF, 228K)</a></li>
 			<li><a href="http://www.aimglobal.org/page/technologies" target="_blank" rel="noopener noreferrer">RFID frequently asked questions on the Association for Automatic Identification and Mobility website</a></li>
 			<li><a href="/it-and-ecommerce/introduction-to-it/setting-up-a-basic-it-system.php">Use our interactive tool to find out which computer equipment you should buy for your business</a></li>
 		</ul>

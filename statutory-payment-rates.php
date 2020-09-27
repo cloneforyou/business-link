@@ -69,7 +69,7 @@
 		<p>The change in the additional amount - from 4.5 per cent to 3 per cent - reflects this reduction on employers NICs payments.</p>
 		<p>For more information about calculating and recovering statutory payments, see our section: <a href="/tax-payroll-and-company-information/paye-for-employers/maternity-paternity-adoption-sickness.php">maternity, paternity, adoption, sickness</a>.</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

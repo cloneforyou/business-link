@@ -47,7 +47,7 @@
 			<li><a href="/create-innovate-and-protect/research-and-development/research-and-develop-your-business-ideas-new-products-and-services/here-is-how-developing-a-new-product-benefited-my-business.php">Here's how developing a new product benefited my business</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -72,7 +72,7 @@
 			<li><a href="/create-innovate-and-protect/protecting-your-intellectual-property/patent-protection-and-your-business/intellectual-property-the-basics.php">Intellectual property: the basics</a></li>
 		</ul>
 
-		<img src="../../../_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_growthandinnovation.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

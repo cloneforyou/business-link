@@ -74,7 +74,7 @@
 			<li><a href="/buy-or-sell-a-business/considering-selling-a-business/preparing-to-sell-your-business/complete-the-sale-of-your-business.php">Complete the sale of your business</a></li>
 		</ul>
 		
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_sellingabusiness.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

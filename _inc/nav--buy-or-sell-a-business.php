@@ -452,9 +452,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="layer910d.html?topicId=1074407303">Businesses in difficulty</a>
+			<a href="/buy-or-sell-a-business/businesses-in-difficulty.php">Businesses in difficulty</a>
 			<ul>
-				<li><a href="layer910d.html?topicId=1074407303" title="Businesses in difficulty">Introduction</a></li>
+				<li><a href="/buy-or-sell-a-business/businesses-in-difficulty.php" title="Businesses in difficulty">Introduction</a></li>
 				<li>
 					<a href="">Assess your business' performance</a>
 					<ul>
@@ -506,10 +506,10 @@
 					</ul>
 				</li>
 				<li>
-					<a href="layer2f3a.html?topicId=1084624281">Complain against an undischarged bankrupt or disqualified company director</a>
+					<a href="/buy-or-sell-a-business/businesses-in-difficulty/complain-against-an-undischarged-bankrupt-or-disqualified-company-director.php">Complain against an undischarged bankrupt or disqualified company director</a>
 					<ul>
 						<li>
-							<a href="layer2f3a.html?topicId=1084624281" title="Complain against an undischarged bankrupt or disqualified company director">Introduction</a>
+							<a href="/buy-or-sell-a-business/businesses-in-difficulty/complain-against-an-undischarged-bankrupt-or-disqualified-company-director.php" title="Complain against an undischarged bankrupt or disqualified company director">Introduction</a>
 						</li>
 						<li>
 							<a href="detail5885.html?itemId=1084681574&amp;type=RESOURCES">What undischarged bankrupts and persons subject to bankruptcy restrictions are not allowed to do</a>

@@ -17,7 +17,7 @@
 			<h1>Exporting - an overview</h1>
 			<h2>Introduction</h2>
 			
-			<img src="../../../_img/tradefile.jpg" width="94" height="62" alt="" "" />
+			<img src="../../../_img/tradefile.jpg" width="94" height="62" alt="" />
 			
 			<p>Although your business may have an established UK market, there's often no reason why it couldn't successfully compete overseas too, growing your revenue and profit.</p>
 			<p>But before you start, you need to have sound knowledge of your would-be markets. You also need to consider whether your products are right for each target market and whether you have the necessary resources to start exporting.</p>
@@ -49,7 +49,7 @@
 			 
 			<h3>Actions</h3>
 			<ul>
-				<li><a href="http://www.improve.businesslink.gov.uk/resources/tools/exporting-growth" target="_blank" rel="noopener noreferrer">Use the tool Exporting for growth on the Growth and Improvement Service</a></li>
+				<li><a href="http://webarchive.nationalarchives.gov.uk/20120823223804/http://www.improve.businesslink.gov.uk//resources//tools//exporting-growth" target="_blank" rel="noopener noreferrer">Use the tool Exporting for growth on the Growth and Improvement Service</a></li>
 			</ul>
 			
 			<p>
@@ -59,7 +59,7 @@
 				</a>
 			</p>
 
-			<img src="../../../_img/px_internationaltrade.gif" alt="" width="181" height="5" />
+			<img src="/_img/px_internationaltrade.gif" alt="" width="181" height="5" />
 			
 
 		</div><!-- // .small-12 large-8 large-push-4 columns -->

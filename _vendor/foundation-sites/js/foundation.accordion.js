@@ -57,48 +57,9 @@ class Accordion {
       $content.attr({'role': 'tabpanel', 'aria-labelledby': linkId, 'aria-hidden': true, 'id': id});
     });
     var $initActive = this.$element.find('.is-active').children('[data-tab-content]');
-    this.firstTimeInit = true;
     if($initActive.length){
-      this.down($initActive, this.firstTimeInit);
-      this.firstTimeInit = false;
+      this.down($initActive, true);
     }
-
-    this._checkDeepLink = () => {
-      var anchor = window.location.hash;
-      //need a hash and a relevant anchor in this tabset
-      if(anchor.length) {
-        var $link = this.$element.find('[href$="'+anchor+'"]'),
-        $anchor = $(anchor);
-
-        if ($link.length && $anchor) {
-          if (!$link.parent('[data-accordion-item]').hasClass('is-active')) {
-            this.down($anchor, this.firstTimeInit);
-            this.firstTimeInit = false;
-          };
-
-          //roll up a little to show the titles
-          if (this.options.deepLinkSmudge) {
-            var _this = this;
-            $(window).load(function() {
-              var offset = _this.$element.offset();
-              $('html, body').animate({ scrollTop: offset.top }, _this.options.deepLinkSmudgeDelay);
-            });
-          }
-
-          /**
-            * Fires when the zplugin has deeplinked at pageload
-            * @event Accordion#deeplink
-            */
-          this.$element.trigger('deeplink.zf.accordion', [$link, $anchor]);
-        }
-      }
-    }
-
-    //use browser to open a tab, if it exists in this tabset
-    if (this.options.deepLink) {
-      this._checkDeepLink();
-    }
-
     this._events();
   }
 
@@ -142,9 +103,6 @@ class Accordion {
         });
       }
     });
-    if(this.options.deepLink) {
-      $(window).on('popstate', this._checkDeepLink);
-    }
   }
 
   /**
@@ -157,16 +115,6 @@ class Accordion {
       this.up($target);
     } else {
       this.down($target);
-    }
-    //either replace or update browser history
-    if (this.options.deepLink) {
-      var anchor = $target.prev('a').attr('href');
-
-      if (this.options.updateHistory) {
-        history.pushState({}, '', anchor);
-      } else {
-        history.replaceState({}, '', anchor);
-      }
     }
   }
 
@@ -246,9 +194,6 @@ class Accordion {
   destroy() {
     this.$element.find('[data-tab-content]').stop(true).slideUp(0).css('display', '');
     this.$element.find('a').off('.zf.accordion');
-    if(this.options.deepLink) {
-      $(window).off('popstate', this._checkDeepLink);
-    }
 
     Foundation.unregisterPlugin(this);
   }
@@ -258,55 +203,21 @@ Accordion.defaults = {
   /**
    * Amount of time to animate the opening of an accordion pane.
    * @option
-   * @type {number}
-   * @default 250
+   * @example 250
    */
   slideSpeed: 250,
   /**
    * Allow the accordion to have multiple open panes.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
   multiExpand: false,
   /**
    * Allow the accordion to close all panes.
    * @option
-   * @type {boolean}
-   * @default false
+   * @example false
    */
-  allowAllClosed: false,
-  /**
-   * Allows the window to scroll to content of pane specified by hash anchor
-   * @option
-   * @type {boolean}
-   * @default false
-   */
-  deepLink: false,
-
-  /**
-   * Adjust the deep link scroll to make sure the top of the accordion panel is visible
-   * @option
-   * @type {boolean}
-   * @default false
-   */
-  deepLinkSmudge: false,
-
-  /**
-   * Animation time (ms) for the deep link adjustment
-   * @option
-   * @type {number}
-   * @default 300
-   */
-  deepLinkSmudgeDelay: 300,
-
-  /**
-   * Update the browser history with the open accordion
-   * @option
-   * @type {boolean}
-   * @default false
-   */
-  updateHistory: false
+  allowAllClosed: false
 };
 
 // Window exports

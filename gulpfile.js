@@ -2,7 +2,7 @@
 var gulp  = require('gulp'),
 	gutil = require('gulp-util'),
 	imagemin = require('gulp-imagemin'), 
-	pngquant = require('imagemin-pngquant'), 
+	// pngquant = require('imagemin-pngquant'), 
 	sass = require('gulp-sass'),
 	cssnano = require('gulp-cssnano'),
 	autoprefixer = require('gulp-autoprefixer'),
@@ -21,10 +21,7 @@ var gulp  = require('gulp'),
 // Added gulp-imagemin
 gulp.task('imagemin', function() {
   gulp.src('./_assets/images/*')
-	.pipe(imagemin({
-			progressive: true,
-			use: [pngquant()]
-		}))
+	.pipe(imagemin())
 	.pipe(gulp.dest('./_img/'))
 });
 
@@ -39,7 +36,7 @@ gulp.task('styles', function() {
 		.pipe(sourcemaps.init()) // Start Sourcemaps
 		.pipe(sass())
 		.pipe(autoprefixer({
-			browsers: ['last 2 versions'],
+			browsers: ['last 2 versions', 'ie >= 9', 'and_chr >= 2.3'],
 			cascade: false
 		}))
 		.pipe(gulp.dest('./assets/css/'))
@@ -53,10 +50,8 @@ gulp.task('styles', function() {
 // JSHint, concat, and minify JavaScript
 gulp.task('site-js', function() {
   return gulp.src([	
-
-		// Grab your custom scripts
-		'./_assets/js/scripts/*.js'
-
+	// Grab your custom scripts
+	'./_assets/js/scripts/*.js'
   ])
 	.pipe(plumber())
 	.pipe(sourcemaps.init())
@@ -101,7 +96,7 @@ gulp.task('foundation-js', function() {
 		// './_vendor/foundation-sites/js/foundation.tooltip.js',
   ])
 	.pipe(babel({
-		presets: ['es2015'],
+		presets: ['env'],
 		compact: true
 	}))
 	.pipe(sourcemaps.init())
@@ -113,35 +108,6 @@ gulp.task('foundation-js', function() {
 	.pipe(gulp.dest('./assets/js'))
 }); 
 
-
-// Update Foundation with Bower and save to /vendor
-// gulp.task('bower', function() {
-//   return bower({ cmd: 'update'})
-// 	.pipe(gulp.dest('_vendor/'))
-// });  
-
-
-// Browser-Sync watch files and inject changes
-// gulp.task('browsersync', function() {
-	// Watch files
-	// var files = [
-	// 	'./_assets/css/*.css', 
-	// 	'./_assets/js/*.js',
-	// 	'**/*.php',
-	// 	'_assets/images/*.{png,jpg,gif,svg,webp}',
-	// ];
-
-	// browserSync.init(files, {
-		// Replace with URL of your local site
-		// proxy: "http://localhost:1234/business-link/",
-	// 	port: 1234
-	// });
-	
-// 	gulp.watch('./_assets/scss/**/*.scss', ['styles']);
-// 	gulp.watch('./_assets/js/scripts/*.js', ['site-js']).on('change', browserSync.reload);
-
-// });
-// gulp.task('sync', ['browsersync']);
 
 gulp.task('connect-sync', function() {
   connect.server({}, function (){

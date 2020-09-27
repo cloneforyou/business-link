@@ -56,19 +56,19 @@
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-being-a-social-enterprise-works-for-our-business.php">Here's how being a social enterprise works for our business</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
 		<h3>Actions</h3>
 		<ul>
-			<li><a href="https://www.gov.uk/business-legal-structures" target="_blank" rel="noopener noreferrer">Legal forms and ownership models for business from the Department for Business, Innovation &amp; Skills</a></li>
+			<li><a href="https://www.gov.uk/business-legal-structures" target="_blank" rel="noopener noreferrer">Legal forms and ownership models for business from the Department for Business, Energy &amp; Industrial Strategy</a></li>
 			<li><a href="http://www.socialenterprise.org.uk/about/about-social-enterprise" target="_blank" rel="noopener noreferrer">Social enterprise information from the Social Enterprise Coalition</a></li>
 			<li><a href="http://web.archive.org/web/20130523003450/http://setas.co.uk/" target="_blank" rel="noopener noreferrer">Resources for social enterprises from Social Enterprise Training and Support</a></li>
 			<li><a href="http://investessex.co.uk/" target="_blank" rel="noopener noreferrer">Social enterprises guidance from EssexWorks</a></li>
 			<li><a href="../../_files/LegalStructures.doc" target="_blank" rel="noopener noreferrer">Download our at-a-glance guide to legal structures for social enterprises (DOC, 43K)</a></li>
 			<li><a href="http://web.archive.org/web/20111108221856/http://www.sel.org.uk/publications.aspx" target="_blank" rel="noopener noreferrer">Social enterprise resource materials from Social Enterprise London</a></li>
-			<li><a href="http://webarchive.nationalarchives.gov.uk/20090609003228/http://www.berr.gov.uk/whatwedo/businesslaw/co-act-2006/index.html" target="_blank" rel="noopener noreferrer">Companies Act 2006 guidance from the Department for Business, Innovation &amp; Skills</a></li>
+			<li><a href="http://webarchive.nationalarchives.gov.uk/20090609003228/https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategywhatwedo/businesslaw/co-act-2006/index.html" target="_blank" rel="noopener noreferrer">Companies Act 2006 guidance from the Department for Business, Energy &amp; Industrial Strategy</a></li>
 		</ul>
 
 		<img src="../../../_img/px_startingabusiness.gif" alt="" width="181" height="5" />

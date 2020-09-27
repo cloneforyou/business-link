@@ -65,7 +65,7 @@
 		<p><a href="http://www.hmrc.gov.uk/tools/progress-tool/index.htm" target="_blank" rel="noopener noreferrer">Where's my reply</a></p>
 		<p>Agents, employees and those paying tax on company pensions through Pay As You Earn can use a new tracker to find out when to expect to receive a reply to their enquiry from HM Revenue &amp; Customs.</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 		

@@ -14,7 +14,7 @@
 
 		<h1>Choose and work with an accountant</h1>
 		<h2>Introduction</h2>
-		<img src="../../_img/SU0630.gif" width="78" height="118" alt="" "" />
+		<img src="../../_img/SU0630.gif" width="78" height="118" alt="" />
 		<p>Accountants can offer your business a range of services, from basic bookkeeping to specialist business advice.</p>
 		<p>You may employ an accountant to prepare financial statements for your end-of-year tax return or for other services, such as auditing. By law, your business accounts must be audited each year, although some small companies are exempt - eg where annual turnover is &pound;6.5 million or lower and the business' financial year began on or after 6 April 2008.</p>
 		<p>This guide will help you understand what your business might need from an accountant and how to find an accountant that is right for you.</p>

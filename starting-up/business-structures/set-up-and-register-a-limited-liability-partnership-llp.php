@@ -41,7 +41,7 @@
 			<li><a href="/starting-up/business-structures/set-up-and-register-a-limited-liability-partnership-llp/checklist-setting-up-and-registering-an-llp.php">Checklist: setting up and registering an LLP</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

@@ -26,7 +26,7 @@
 			<li><a href="/international-trade/freight-forwarding/using-brokers-and-forwarders.php">Using brokers and forwarders</a></li>
 		</ul>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

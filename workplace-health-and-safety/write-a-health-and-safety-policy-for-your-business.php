@@ -37,7 +37,7 @@
 			<li><a href="/workplace-health-and-safety/write-a-health-and-safety-policy-for-your-business/implementing-your-health-and-safety-policy.php">Implementing your health and safety policy</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 
@@ -47,7 +47,7 @@
 			<li><a href="../../../_files/health-and-safety-policy-example.doc" target="_blank" rel="noopener noreferrer">Download an example health and safety policy from the HSE website (DOC, 215K)</a></li>
 		</ul>
 		
-		<img src="../../../_img/px_healthandenvironment.gif" alt="" width="181" height="5" />
+		<img src="/_img/px_healthandenvironment.gif" alt="" width="181" height="5" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

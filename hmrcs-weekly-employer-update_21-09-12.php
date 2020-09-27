@@ -20,7 +20,7 @@
 		<p>Dear Customers and Stakeholders,</p>
 		<p>We do not have a further update for you this week &ndash; so, although a 'nil' report, this email is being sent to reassure you that our commitment to a weekly update has not been overlooked!</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

@@ -47,7 +47,7 @@
 		<h3>Process after reporting a bankrupt or a director</h3>
 		<p>When you have submitted the questionnaire, The Insolvency Service will acknowledge your completed questionnaire and conduct enquiries into the allegations.</p>
 		<p>Initial enquiries into all complaints will be undertaken by the Enforcement Hotline Conduct and Complaints team.</p>
-		<p>If these enquiries indicate that an offence may have been committed, a report will be submitted to a prosecuting authority, in this instance the Department for Business, Innovation &amp; Skills (BIS). If a report is submitted to BIS, a solicitor will review the case and decide whether a criminal investigation should be carried out and after investigation, whether criminal proceedings should be started. If an investigation is carried out, you may be asked to give a formal written statement confirming the information you previously provided to The Insolvency Service.</p>
+		<p>If these enquiries indicate that an offence may have been committed, a report will be submitted to a prosecuting authority, in this instance the Department for Business, Energy &amp; Industrial Strategy (BIS). If a report is submitted to BIS, a solicitor will review the case and decide whether a criminal investigation should be carried out and after investigation, whether criminal proceedings should be started. If an investigation is carried out, you may be asked to give a formal written statement confirming the information you previously provided to The Insolvency Service.</p>
 		<p>If you wish to submit an anonymous complaint, The Insolvency Service may be able to pass the matter to the relevant prosecuting authority. However, you should note that they may not be able to proceed in the absence of suitable evidence and/or an appropriate witness.</p>
 		
 		<ul>
@@ -84,7 +84,7 @@
 			<li><a href="/finance-and-grants/introduction-to-insolvency/insolvency-the-basics.php">Insolvency: the basics</a></li>
 		</ul>
 
-		<img src="../../../_img/px_sellingabusiness.gif" alt="" width="1" height="1" />
+		<img src="/_img/px_sellingabusiness.gif" alt="" width="1" height="1" />
 
 
 	</div><!-- // .small-12 large-8 large-push-4 columns -->

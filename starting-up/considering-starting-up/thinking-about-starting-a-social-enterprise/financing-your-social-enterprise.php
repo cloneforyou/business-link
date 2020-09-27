@@ -29,7 +29,7 @@
 		<p>Another option is to approach a Community Development Finance Institution (CDFI). CDFIs have been created specifically to provide investment in businesses that operate in disadvantaged communities. <a href="http://responsiblefinance.org.uk/funding-innovation/" target="_blank" rel="noopener noreferrer">Find information on CDFIs and sources of finance on the Community Development Finance Association (CDFA) website</a>.</p>
 		<p>Government-backed funding includes the Adventure Capital Fund (ACF), which helps ambitious social enterprises to become financially sustainable through a mixture of loans and grants and the provision of expert mentoring and support services. <a href="#">Find out if you are eligible to apply for funding on the ACF website</a>.</p>
 		<p>Futurebuilders England may offer support if you are looking to set up your social enterprise to provide public services. <a href="http://www.futurebuilders-england.org.uk/are-you-eligible/" target="_blank" rel="noopener noreferrer">Check to see if you are eligible to apply for support on the Futurebuilders England website</a>.</p>
-		<p>You can also approach the Bridges Community Development Venture Fund (BCDVF), which has attracted matched funding from the Department for Business, Innovation &amp; Skills. <a href="http://bridgesventures.com/our-funds/" target="_blank" rel="noopener noreferrer">Read about the social criteria for investment for the BCDVF on the Bridges Ventures website</a>.</p>
+		<p>You can also approach the Bridges Community Development Venture Fund (BCDVF), which has attracted matched funding from the Department for Business, Energy &amp; Industrial Strategy. <a href="http://bridgesventures.com/our-funds/" target="_blank" rel="noopener noreferrer">Read about the social criteria for investment for the BCDVF on the Bridges Ventures website</a>.</p>
 		<p>In addition, third sector organisations can <a href="http://www.fundingcentral.org.uk/default.aspx" target="_blank" rel="noopener noreferrer">search for grants and loan financing on the Funding Central website</a>.</p>
 		
 		<ul>
@@ -53,7 +53,7 @@
 			<li><a href="/starting-up/considering-starting-up/thinking-about-starting-a-social-enterprise/here-is-how-I-started-a-successful-social-enterprise.php">Here's how I started a successful social enterprise</a></li>
 		</ul>
 
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

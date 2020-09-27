@@ -49,7 +49,7 @@
 			<li><a href="https://www.gov.uk/government/organisations/office-of-fair-trading" target="_blank" rel="noopener noreferrer">The Sale of Goods Act on the Office of Fair Trading website</a></li>
 			<!-- http://webarchive.nationalarchives.gov.uk/20130402200025tf_/http://www.oft.gov.uk/business-advice/treating-customers-fairly/saleofgoodsact/ -->
 			<li><a href="http://webarchive.nationalarchives.gov.uk/20111006195104/http://webarchive.nationalarchives.gov.uk/20111006195104/https://www.businesscompanion.info/advice/advice-business.cfm" title="Business guidance and Trading Standards office search on the Trading Standards Institute website" target="_blank" rel="noopener noreferrer">Business guidance and Trading Standards office search on the Trading Standards Institute website</a></li>
-			<li><a href="https://www.gov.uk/government/topics/consumer-rights-and-issues" title="Regulations covering sales to consumers without a face-to-face meeting and online sales to businesses or consumers" target="_blank" rel="noopener noreferrer">Distance selling and e-commerce rules on the Department for Business, Innovation &amp; Skills website</a></li>
+			<li><a href="https://www.gov.uk/government/topics/consumer-rights-and-issues" title="Regulations covering sales to consumers without a face-to-face meeting and online sales to businesses or consumers" target="_blank" rel="noopener noreferrer">Distance selling and e-commerce rules on the Department for Business, Energy &amp; Industrial Strategy website</a></li>
 		</ul>
 	
 		<p>

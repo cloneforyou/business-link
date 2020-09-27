@@ -22,7 +22,7 @@
 		<p>Universal Jobmatch is an important part of DWP's digitalisation agenda to make more of its services available on-line. The new service will replace Employer Direct and Employer Direct Online.</p>
 		<p>Please see the attached <a href="https://www.gov.uk/advertise-job" target="_blank" rel="noopener noreferrer">Frequently Asked Questions</a> for further detailed information.</p>
 		
-		<img src="../../../_img/hr_325px_global.gif" alt="" />
+		
 		
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/_inc/print-email.php'; ?>
 

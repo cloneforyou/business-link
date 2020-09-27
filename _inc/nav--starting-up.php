@@ -547,7 +547,7 @@
 				<li><a href="/starting-up/vat/when-to-register-for-vat.php">When to register for VAT</a>
 					<ul>
 						<li><a href="/starting-up/vat/when-to-register-for-vat.php" title="When to register for VAT">Introduction</a></li>
-						<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077722988&r.l1=1073858805&r.l2=1073859188&r.l3=1073863071&r.s=sc&type=BLTTOOL" target="_blank" rel="noopener noreferrer">Do I need to register for VAT?</a></li></li>
+						<li><a href="http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/logicToolStart?itemId=1077722988&r.l1=1073858805&r.l2=1073859188&r.l3=1073863071&r.s=sc&type=BLTTOOL" target="_blank" rel="noopener noreferrer">Do I need to register for VAT?</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -555,7 +555,7 @@
 		<li>
 			<a href="/starting-up/tax-and-payroll-for-employers.php">Tax and payroll for employers</a>
 			<ul>
-				<li><a href="/starting-up/tax-and-payroll-for-employers.php" title-"Tax and payroll for employers">Introduction</a></li>
+				<li><a href="/starting-up/tax-and-payroll-for-employers.php" title="Tax and payroll for employers">Introduction</a></li>
 				<li><a href="https://www.gov.uk/topic/business-tax/paye" target="_blank" rel="noopener noreferrer">Find out how PAYE works</a></li>
 				<!--//
 				http://webarchive.nationalarchives.gov.uk/20111206102847/http://online.businesslink.gov.uk/bdotg/action/hubChassis?itemId=1097101808&r.l1=1073858805&r.l2=1073859167&r.s=e&type=HUBCHASSIS
@@ -700,9 +700,9 @@
 			</ul>
 		</li>
 		<li>
-			<a href="/starting-up/trade-with-other-countries.php">Trade with other countries</a></a>
+			<a href="/starting-up/trade-with-other-countries.php">Trade with other countries</a>
 			<ul>
-				<li><a href="/starting-up/trade-with-other-countries.php" title="Trade with other countries">Introduction</a></a></li>
+				<li><a href="/starting-up/trade-with-other-countries.php" title="Trade with other countries">Introduction</a></li>
 				
 				<li><a href="https://www.gov.uk/browse/business" target="_blank" rel="noopener noreferrer">Trade with other European Union countries</a></li>
 				<!--//
